@@ -5,9 +5,11 @@
 *.swp
 .DS_Store
 .atom/
+.build/
 .buildlog/
 .history
 .svn/
+.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -15,6 +17,9 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+
+.env
+.wakatime-project
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -30,10 +35,6 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-*.config.dart
-*.freezed.dart
-*.g.dart
-*.lock
 
 # Symbolication related
 app.*.symbols
@@ -45,9 +46,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-
-# FVM Version Cache
-.fvm/
-.fvmrc
-.vscode/settings.json

@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Futuristick" "\0"
-            VALUE "FileDescription", "BibleLib" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "biblelib" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "BibleLib" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 Futuristick. All rights reserved." "\0"
-            VALUE "OriginalFilename", "BibleLib.exe" "\0"
-            VALUE "ProductName", "BibleLib" "\0"
+            VALUE "InternalName", "biblelib" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "biblelib.exe" "\0"
+            VALUE "ProductName", "biblelib" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
