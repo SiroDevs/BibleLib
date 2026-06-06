@@ -1,9 +1,9 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../../core/constants/app_constants.dart';
-import '../../core/errors/exceptions.dart';
-import '../local/daos/bible_dao.dart';
-import '../local/entities/bible_entity.dart';
+import '../../../core/constants/app_constants.dart';
+import '../../../core/errors/exceptions.dart';
+import '../../entities/bible_entity.dart';
+import 'daos/bible_dao.dart';
 
 abstract class SelectionLocalDataSource {
   Future<List<BibleEntity>> getCachedBibles();

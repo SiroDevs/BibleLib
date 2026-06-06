@@ -1,8 +1,8 @@
-import '../../core/errors/exceptions.dart';
-import '../local/daos/chapter_dao.dart';
-import '../local/daos/verse_dao.dart';
-import '../local/entities/chapter_entity.dart';
-import '../local/entities/verse_entity.dart';
+import '../../../core/errors/exceptions.dart';
+import '../../entities/chapter_entity.dart';
+import '../../entities/verse_entity.dart';
+import 'daos/chapter_dao.dart';
+import 'daos/verse_dao.dart';
 
 abstract class ReaderLocalDataSource {
   Future<List<VerseEntity>> getCachedVerses(String bibleId, String chapterId);

@@ -9,9 +9,9 @@ import 'package:workmanager/workmanager.dart';
 
 import '../constants/app_constants.dart';
 import '../network/api_client.dart';
-import '../../data/local/app_database.dart';
-import '../../data/local/entities/chapter_entity.dart';
-import '../../data/local/entities/verse_entity.dart';
+import '../../data/sources/local/database/app_database.dart';
+import '../../data/entities/chapter_entity.dart';
+import '../../data/entities/verse_entity.dart';
 
 const _kTaskName = 'com.biblelib.bible-download';
 const _kInputBibleIds = 'bibleIds';

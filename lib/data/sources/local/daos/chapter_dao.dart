@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../entities/chapter_entity.dart';
+import '../../../entities/chapter_entity.dart';
 
 @dao
 abstract class ChapterDao {

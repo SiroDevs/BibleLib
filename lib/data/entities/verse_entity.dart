@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../../../domain/models/verse_model.dart';
+import '../../domain/models/verse_model.dart';
 
 @Entity(
   tableName: 'verses',

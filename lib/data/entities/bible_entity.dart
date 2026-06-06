@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../../../domain/models/bible_model.dart';
+import '../../domain/models/bible_model.dart';
 
 @Entity(tableName: 'bibles')
 class BibleEntity {

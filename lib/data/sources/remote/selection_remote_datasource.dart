@@ -1,6 +1,6 @@
-import '../../core/errors/exceptions.dart';
-import '../../core/network/api_client.dart';
-import '../local/entities/bible_entity.dart';
+import '../../../core/errors/exceptions.dart';
+import '../../../core/network/api_client.dart';
+import '../../entities/bible_entity.dart';
 
 abstract class SelectionRemoteDataSource {
   Future<List<BibleEntity>> getAvailableBibles();

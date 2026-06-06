@@ -3,13 +3,13 @@ import 'dart:async';
 import 'package:froom/froom.dart';
 import 'package:sqflite/sqflite.dart' as sqflite;
 
-import '../../core/constants/app_constants.dart';
-import 'daos/bible_dao.dart';
-import 'daos/chapter_dao.dart';
-import 'daos/verse_dao.dart';
-import 'entities/bible_entity.dart';
-import 'entities/chapter_entity.dart';
-import 'entities/verse_entity.dart';
+import '../../../../core/constants/app_constants.dart';
+import '../../../entities/bible_entity.dart';
+import '../../../entities/chapter_entity.dart';
+import '../../../entities/verse_entity.dart';
+import '../daos/bible_dao.dart';
+import '../daos/chapter_dao.dart';
+import '../daos/verse_dao.dart';
 
 part 'app_database.g.dart';
 

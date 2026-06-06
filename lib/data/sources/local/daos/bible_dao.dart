@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../entities/bible_entity.dart';
+import '../../../entities/bible_entity.dart';
 
 @dao
 abstract class BibleDao {

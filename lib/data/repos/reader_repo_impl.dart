@@ -5,8 +5,8 @@ import '../../core/errors/failures.dart';
 import '../../domain/models/chapter_model.dart';
 import '../../domain/models/verse_model.dart';
 import '../../domain/repos/reader_repo.dart';
-import '../datasources/reader_local_datasource.dart';
-import '../datasources/reader_remote_datasource.dart';
+import '../sources/local/reader_local_datasource.dart';
+import '../sources/remote/reader_remote_datasource.dart';
 
 
 class ReaderRepoImpl implements ReaderRepo {

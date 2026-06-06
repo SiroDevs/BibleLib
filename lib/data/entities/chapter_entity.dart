@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../../../domain/models/chapter_model.dart';
+import '../../domain/models/chapter_model.dart';
 
 @Entity(
   tableName: 'chapters',

@@ -1,7 +1,7 @@
-import '../../core/errors/exceptions.dart';
-import '../../core/network/api_client.dart';
-import '../local/entities/chapter_entity.dart';
-import '../local/entities/verse_entity.dart';
+import '../../../core/errors/exceptions.dart';
+import '../../../core/network/api_client.dart';
+import '../../entities/chapter_entity.dart';
+import '../../entities/verse_entity.dart';
 
 abstract class ReaderRemoteDataSource {
   Future<List<VerseEntity>> getChapterVerses(

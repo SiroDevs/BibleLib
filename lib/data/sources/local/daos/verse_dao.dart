@@ -1,6 +1,6 @@
 import 'package:froom/froom.dart';
 
-import '../entities/verse_entity.dart';
+import '../../../entities/verse_entity.dart';
 
 @dao
 abstract class VerseDao {

@@ -4,8 +4,8 @@ import '../../core/errors/exceptions.dart';
 import '../../core/errors/failures.dart';
 import '../../domain/models/bible_model.dart';
 import '../../domain/repos/selection_repo.dart';
-import '../datasources/selection_local_datasource.dart';
-import '../datasources/selection_remote_datasource.dart';
+import '../sources/local/selection_local_datasource.dart';
+import '../sources/remote/selection_remote_datasource.dart';
 
 class SelectionRepoImpl implements SelectionRepo {
   final SelectionRemoteDataSource _remote;
