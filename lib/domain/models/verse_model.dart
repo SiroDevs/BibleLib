@@ -1,8 +1,6 @@
-// lib/features/reader/domain/entities/verse_entity.dart
-
 import 'package:equatable/equatable.dart';
 
-class VerseEntity extends Equatable {
+class VerseModel extends Equatable {
   final String id;
   final String bibleId;
   final String bookId;
@@ -11,7 +9,7 @@ class VerseEntity extends Equatable {
   final String content;
   final int verseNumber;
 
-  const VerseEntity({
+  const VerseModel({
     required this.id,
     required this.bibleId,
     required this.bookId,

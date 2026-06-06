@@ -1,13 +1,13 @@
 import 'package:froom/froom.dart';
 
-import '../../../../data/models/verse_model.dart';
+import '../entities/verse_entity.dart';
 
 @dao
 abstract class VerseDao {
   @Query(
     'SELECT * FROM verses WHERE bibleId = :bibleId AND chapterId = :chapterId ORDER BY verseNumber',
   )
-  Future<List<VerseModel>> getVersesByChapter(
+  Future<List<VerseEntity>> getVersesByChapter(
     String bibleId,
     String chapterId,
   );
@@ -18,7 +18,7 @@ abstract class VerseDao {
   Future<int?> countVersesInChapter(String bibleId, String chapterId);
 
   @Insert(onConflict: OnConflictStrategy.replace)
-  Future<void> insertVerses(List<VerseModel> verses);
+  Future<void> insertVerses(List<VerseEntity> verses);
 
   @Query('DELETE FROM verses WHERE bibleId = :bibleId')
   Future<void> deleteVersesByBible(String bibleId);

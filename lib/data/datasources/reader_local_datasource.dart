@@ -1,16 +1,14 @@
-// lib/features/reader/data/datasources/reader_local_datasource.dart
-
 import '../../core/errors/exceptions.dart';
-import '../../core/network/local/daos/chapter_dao.dart';
-import '../../core/network/local/daos/verse_dao.dart';
-import '../models/chapter_model.dart';
-import '../models/verse_model.dart';
+import '../local/daos/chapter_dao.dart';
+import '../local/daos/verse_dao.dart';
+import '../local/entities/chapter_entity.dart';
+import '../local/entities/verse_entity.dart';
 
 abstract class ReaderLocalDataSource {
-  Future<List<VerseModel>> getCachedVerses(String bibleId, String chapterId);
-  Future<ChapterModel?> getCachedChapter(String bibleId, String chapterId);
-  Future<void> cacheVerses(List<VerseModel> verses);
-  Future<void> cacheChapter(ChapterModel chapter);
+  Future<List<VerseEntity>> getCachedVerses(String bibleId, String chapterId);
+  Future<ChapterEntity?> getCachedChapter(String bibleId, String chapterId);
+  Future<void> cacheVerses(List<VerseEntity> verses);
+  Future<void> cacheChapter(ChapterEntity chapter);
   Future<bool> hasChapterCached(String bibleId, String chapterId);
 }
 
@@ -21,7 +19,7 @@ class ReaderLocalDataSourceImpl implements ReaderLocalDataSource {
   const ReaderLocalDataSourceImpl(this._verseDao, this._chapterDao);
 
   @override
-  Future<List<VerseModel>> getCachedVerses(
+  Future<List<VerseEntity>> getCachedVerses(
     String bibleId,
     String chapterId,
   ) async {
@@ -33,7 +31,7 @@ class ReaderLocalDataSourceImpl implements ReaderLocalDataSource {
   }
 
   @override
-  Future<ChapterModel?> getCachedChapter(
+  Future<ChapterEntity?> getCachedChapter(
     String bibleId,
     String chapterId,
   ) async {
@@ -45,7 +43,7 @@ class ReaderLocalDataSourceImpl implements ReaderLocalDataSource {
   }
 
   @override
-  Future<void> cacheVerses(List<VerseModel> verses) async {
+  Future<void> cacheVerses(List<VerseEntity> verses) async {
     try {
       await _verseDao.insertVerses(verses);
     } catch (e) {
@@ -54,7 +52,7 @@ class ReaderLocalDataSourceImpl implements ReaderLocalDataSource {
   }
 
   @override
-  Future<void> cacheChapter(ChapterModel chapter) async {
+  Future<void> cacheChapter(ChapterEntity chapter) async {
     try {
       await _chapterDao.insertChapters([chapter]);
     } catch (e) {

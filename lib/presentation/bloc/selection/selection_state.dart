@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 
-import '../../../domain/entities/bible_entity.dart';
+import '../../../domain/models/bible_model.dart';
 
 abstract class SelectionState extends Equatable {
   const SelectionState();
@@ -17,7 +17,7 @@ class SelectionLoading extends SelectionState {
 }
 
 class SelectionLoaded extends SelectionState {
-  final List<BibleEntity> bibles;
+  final List<BibleModel> bibles;
   final Set<String> selectedIds;
 
   const SelectionLoaded({
@@ -26,7 +26,7 @@ class SelectionLoaded extends SelectionState {
   });
 
   SelectionLoaded copyWith({
-    List<BibleEntity>? bibles,
+    List<BibleModel>? bibles,
     Set<String>? selectedIds,
   }) =>
       SelectionLoaded(

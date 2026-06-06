@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 
-import '../../../domain/entities/chapter_entity.dart';
-import '../../../domain/entities/verse_entity.dart';
+import '../../../domain/models/chapter_model.dart';
+import '../../../domain/models/verse_model.dart';
 
 abstract class ReaderState extends Equatable {
   const ReaderState();
@@ -22,8 +22,8 @@ class ReaderLoading extends ReaderState {
 
 class ReaderLoaded extends ReaderState {
   final String bibleId;
-  final ChapterEntity chapter;
-  final List<VerseEntity> verses;
+  final ChapterModel chapter;
+  final List<VerseModel> verses;
   final double fontSize;
 
   const ReaderLoaded({
@@ -34,8 +34,8 @@ class ReaderLoaded extends ReaderState {
   });
 
   ReaderLoaded copyWith({
-    ChapterEntity? chapter,
-    List<VerseEntity>? verses,
+    ChapterModel? chapter,
+    List<VerseModel>? verses,
     double? fontSize,
   }) =>
       ReaderLoaded(

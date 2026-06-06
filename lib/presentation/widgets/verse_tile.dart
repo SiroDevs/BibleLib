@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../../core/theme/app_colors.dart';
-import '../../domain/entities/verse_entity.dart';
+import '../../domain/models/verse_model.dart';
 
 class VerseTile extends StatelessWidget {
-  final VerseEntity verse;
+  final VerseModel verse;
   final double fontSize;
 
   const VerseTile({

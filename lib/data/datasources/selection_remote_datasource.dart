@@ -1,11 +1,9 @@
-// lib/features/selection/data/datasources/selection_remote_datasource.dart
-
 import '../../core/errors/exceptions.dart';
 import '../../core/network/api_client.dart';
-import '../models/bible_model.dart';
+import '../local/entities/bible_entity.dart';
 
 abstract class SelectionRemoteDataSource {
-  Future<List<BibleModel>> getAvailableBibles();
+  Future<List<BibleEntity>> getAvailableBibles();
 }
 
 class SelectionRemoteDataSourceImpl implements SelectionRemoteDataSource {
@@ -14,7 +12,7 @@ class SelectionRemoteDataSourceImpl implements SelectionRemoteDataSource {
   const SelectionRemoteDataSourceImpl(this._client);
 
   @override
-  Future<List<BibleModel>> getAvailableBibles() async {
+  Future<List<BibleEntity>> getAvailableBibles() async {
     try {
       final response = await _client.get(
         '/bibles',
@@ -23,7 +21,7 @@ class SelectionRemoteDataSourceImpl implements SelectionRemoteDataSource {
       final data = response['data'] as List<dynamic>? ?? [];
       return data
           .cast<Map<String, dynamic>>()
-          .map(BibleModel.fromJson)
+          .map(BibleEntity.fromJson)
           .toList();
     } catch (e) {
       if (e is ServerException || e is NetworkException) rethrow;

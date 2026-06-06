@@ -3,18 +3,18 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../presentation/bloc/selection/selection_bloc.dart';
 import '../network/api_client.dart';
-import '../network/local/app_database.dart';
+import '../../data/local/app_database.dart';
 import '../../data/datasources/reader_local_datasource.dart';
 import '../../data/datasources/reader_remote_datasource.dart';
 import '../../data/repositories/reader_repository_impl.dart';
-import '../../domain/repositories/reader_repository.dart';
+import '../../domain/repos/reader_repo.dart';
 import '../../domain/usecases/get_chapter_verses_usecase.dart';
 import '../../domain/usecases/get_next_chapter_usecase.dart';
 import '../../presentation/bloc/reader/reader_bloc.dart';
 import '../../data/datasources/selection_local_datasource.dart';
 import '../../data/datasources/selection_remote_datasource.dart';
 import '../../data/repositories/selection_repository_impl.dart';
-import '../../domain/repositories/selection_repository.dart';
+import '../../domain/repos/selection_repo.dart';
 import '../../domain/usecases/download_bible_usecase.dart';
 import '../../domain/usecases/get_available_bibles_usecase.dart';
 import '../../presentation/bloc/settings/settings_bloc.dart';
@@ -50,11 +50,11 @@ Future<void> initDependencies() async {
   );
 
   // Repositories
-  sl.registerLazySingleton<SelectionRepository>(
-    () => SelectionRepositoryImpl(sl(), sl()),
+  sl.registerLazySingleton<SelectionRepo>(
+    () => SelectionRepoImpl(sl(), sl()),
   );
-  sl.registerLazySingleton<ReaderRepository>(
-    () => ReaderRepositoryImpl(sl(), sl()),
+  sl.registerLazySingleton<ReaderRepo>(
+    () => ReaderRepoImpl(sl(), sl()),
   );
 
   // Use Cases

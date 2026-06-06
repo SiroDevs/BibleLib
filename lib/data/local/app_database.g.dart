@@ -106,7 +106,7 @@ class _$BibleDao extends BibleDao {
         _bibleModelInsertionAdapter = InsertionAdapter(
             database,
             'bibles',
-            (BibleModel item) => <String, Object?>{
+            (BibleEntity item) => <String, Object?>{
                   'id': item.id,
                   'name': item.name,
                   'nameLocal': item.nameLocal,
@@ -126,12 +126,12 @@ class _$BibleDao extends BibleDao {
   final sqflite.DatabaseExecutor database;
   final StreamController<String> changeListener;
   final QueryAdapter _queryAdapter;
-  final InsertionAdapter<BibleModel> _bibleModelInsertionAdapter;
+  final InsertionAdapter<BibleEntity> _bibleModelInsertionAdapter;
 
   @override
-  Future<List<BibleModel>> getAllBibles() async {
+  Future<List<BibleEntity>> getAllBibles() async {
     return _queryAdapter.queryList('SELECT * FROM bibles',
-        mapper: (Map<String, Object?> row) => BibleModel(
+        mapper: (Map<String, Object?> row) => BibleEntity(
               id: row['id'] as String,
               name: row['name'] as String,
               nameLocal: row['nameLocal'] as String,
@@ -150,10 +150,10 @@ class _$BibleDao extends BibleDao {
   }
 
   @override
-  Future<List<BibleModel>> getDownloadedBibles() async {
+  Future<List<BibleEntity>> getDownloadedBibles() async {
     return _queryAdapter.queryList(
         'SELECT * FROM bibles WHERE isDownloaded = 1',
-        mapper: (Map<String, Object?> row) => BibleModel(
+        mapper: (Map<String, Object?> row) => BibleEntity(
               id: row['id'] as String,
               name: row['name'] as String,
               nameLocal: row['nameLocal'] as String,
@@ -172,10 +172,10 @@ class _$BibleDao extends BibleDao {
   }
 
   @override
-  Future<List<BibleModel>> getSelectedBibles() async {
+  Future<List<BibleEntity>> getSelectedBibles() async {
     return _queryAdapter.queryList(
         'SELECT * FROM bibles WHERE isSelected = 1',
-        mapper: (Map<String, Object?> row) => BibleModel(
+        mapper: (Map<String, Object?> row) => BibleEntity(
               id: row['id'] as String,
               name: row['name'] as String,
               nameLocal: row['nameLocal'] as String,
@@ -194,9 +194,9 @@ class _$BibleDao extends BibleDao {
   }
 
   @override
-  Future<BibleModel?> getBibleById(String id) async {
+  Future<BibleEntity?> getBibleById(String id) async {
     return _queryAdapter.query('SELECT * FROM bibles WHERE id = ?1',
-        mapper: (Map<String, Object?> row) => BibleModel(
+        mapper: (Map<String, Object?> row) => BibleEntity(
               id: row['id'] as String,
               name: row['name'] as String,
               nameLocal: row['nameLocal'] as String,
@@ -216,13 +216,13 @@ class _$BibleDao extends BibleDao {
   }
 
   @override
-  Future<void> insertBible(BibleModel bible) async {
+  Future<void> insertBible(BibleEntity bible) async {
     await _bibleModelInsertionAdapter.insert(
         bible, OnConflictStrategy.replace);
   }
 
   @override
-  Future<void> insertBibles(List<BibleModel> bibles) async {
+  Future<void> insertBibles(List<BibleEntity> bibles) async {
     await _bibleModelInsertionAdapter.insertList(
         bibles, OnConflictStrategy.replace);
   }
@@ -263,7 +263,7 @@ class _$VerseDao extends VerseDao {
         _verseModelInsertionAdapter = InsertionAdapter(
             database,
             'verses',
-            (VerseModel item) => <String, Object?>{
+            (VerseEntity item) => <String, Object?>{
                   'id': item.id,
                   'bibleId': item.bibleId,
                   'bookId': item.bookId,
@@ -276,16 +276,16 @@ class _$VerseDao extends VerseDao {
   final sqflite.DatabaseExecutor database;
   final StreamController<String> changeListener;
   final QueryAdapter _queryAdapter;
-  final InsertionAdapter<VerseModel> _verseModelInsertionAdapter;
+  final InsertionAdapter<VerseEntity> _verseModelInsertionAdapter;
 
   @override
-  Future<List<VerseModel>> getVersesByChapter(
+  Future<List<VerseEntity>> getVersesByChapter(
     String bibleId,
     String chapterId,
   ) async {
     return _queryAdapter.queryList(
         'SELECT * FROM verses WHERE bibleId = ?1 AND chapterId = ?2 ORDER BY verseNumber',
-        mapper: (Map<String, Object?> row) => VerseModel(
+        mapper: (Map<String, Object?> row) => VerseEntity(
               id: row['id'] as String,
               bibleId: row['bibleId'] as String,
               bookId: row['bookId'] as String,
@@ -309,7 +309,7 @@ class _$VerseDao extends VerseDao {
   }
 
   @override
-  Future<void> insertVerses(List<VerseModel> verses) async {
+  Future<void> insertVerses(List<VerseEntity> verses) async {
     await _verseModelInsertionAdapter.insertList(
         verses, OnConflictStrategy.replace);
   }
@@ -338,7 +338,7 @@ class _$ChapterDao extends ChapterDao {
         _chapterModelInsertionAdapter = InsertionAdapter(
             database,
             'chapters',
-            (ChapterModel item) => <String, Object?>{
+            (ChapterEntity item) => <String, Object?>{
                   'id': item.id,
                   'bibleId': item.bibleId,
                   'bookId': item.bookId,
@@ -351,16 +351,16 @@ class _$ChapterDao extends ChapterDao {
   final sqflite.DatabaseExecutor database;
   final StreamController<String> changeListener;
   final QueryAdapter _queryAdapter;
-  final InsertionAdapter<ChapterModel> _chapterModelInsertionAdapter;
+  final InsertionAdapter<ChapterEntity> _chapterModelInsertionAdapter;
 
   @override
-  Future<List<ChapterModel>> getChaptersByBook(
+  Future<List<ChapterEntity>> getChaptersByBook(
     String bibleId,
     String bookId,
   ) async {
     return _queryAdapter.queryList(
         'SELECT * FROM chapters WHERE bibleId = ?1 AND bookId = ?2 ORDER BY CAST(number AS INTEGER)',
-        mapper: (Map<String, Object?> row) => ChapterModel(
+        mapper: (Map<String, Object?> row) => ChapterEntity(
               id: row['id'] as String,
               bibleId: row['bibleId'] as String,
               bookId: row['bookId'] as String,
@@ -373,10 +373,10 @@ class _$ChapterDao extends ChapterDao {
   }
 
   @override
-  Future<ChapterModel?> getChapter(String chapterId, String bibleId) async {
+  Future<ChapterEntity?> getChapter(String chapterId, String bibleId) async {
     return _queryAdapter.query(
         'SELECT * FROM chapters WHERE id = ?1 AND bibleId = ?2',
-        mapper: (Map<String, Object?> row) => ChapterModel(
+        mapper: (Map<String, Object?> row) => ChapterEntity(
               id: row['id'] as String,
               bibleId: row['bibleId'] as String,
               bookId: row['bookId'] as String,
@@ -389,7 +389,7 @@ class _$ChapterDao extends ChapterDao {
   }
 
   @override
-  Future<void> insertChapters(List<ChapterModel> chapters) async {
+  Future<void> insertChapters(List<ChapterEntity> chapters) async {
     await _chapterModelInsertionAdapter.insertList(
         chapters, OnConflictStrategy.replace);
   }

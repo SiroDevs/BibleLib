@@ -1,14 +1,12 @@
-// lib/features/reader/data/models/chapter_model.dart
-
 import 'package:froom/froom.dart';
 
-import '../../domain/entities/chapter_entity.dart';
+import '../../../domain/models/chapter_model.dart';
 
 @Entity(
   tableName: 'chapters',
   indices: [Index(value: ['bibleId', 'bookId'])],
 )
-class ChapterModel {
+class ChapterEntity {
   @PrimaryKey()
   final String id;
   final String bibleId;
@@ -18,7 +16,7 @@ class ChapterModel {
   final String? nextId;
   final String? previousId;
 
-  const ChapterModel({
+  const ChapterEntity({
     required this.id,
     required this.bibleId,
     required this.bookId,
@@ -28,13 +26,13 @@ class ChapterModel {
     this.previousId,
   });
 
-  factory ChapterModel.fromJson(
+  factory ChapterEntity.fromJson(
     Map<String, dynamic> json, {
     required String bibleId,
   }) {
     final next = json['next'] as Map<String, dynamic>?;
     final previous = json['previous'] as Map<String, dynamic>?;
-    return ChapterModel(
+    return ChapterEntity(
       id: json['id'] as String? ?? '',
       bibleId: bibleId,
       bookId: json['bookId'] as String? ?? '',
@@ -45,7 +43,7 @@ class ChapterModel {
     );
   }
 
-  ChapterEntity toEntity() => ChapterEntity(
+  ChapterModel toModel() => ChapterModel(
         id: id,
         bibleId: bibleId,
         bookId: bookId,

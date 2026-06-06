@@ -1,8 +1,6 @@
-// lib/features/reader/data/models/verse_model.dart
-
 import 'package:froom/froom.dart';
 
-import '../../domain/entities/verse_entity.dart';
+import '../../../domain/models/verse_model.dart';
 
 @Entity(
   tableName: 'verses',
@@ -11,7 +9,7 @@ import '../../domain/entities/verse_entity.dart';
     Index(value: ['bibleId', 'bookId']),
   ],
 )
-class VerseModel {
+class VerseEntity {
   @PrimaryKey()
   final String id;
   final String bibleId;
@@ -21,7 +19,7 @@ class VerseModel {
   final String content;
   final int verseNumber;
 
-  const VerseModel({
+  const VerseEntity({
     required this.id,
     required this.bibleId,
     required this.bookId,
@@ -31,7 +29,7 @@ class VerseModel {
     required this.verseNumber,
   });
 
-  factory VerseModel.fromJson(
+  factory VerseEntity.fromJson(
     Map<String, dynamic> json, {
     required String bibleId,
     required String bookId,
@@ -39,7 +37,7 @@ class VerseModel {
   }) {
     final id = json['id'] as String? ?? '';
     final numStr = id.split('.').lastOrNull ?? '0';
-    return VerseModel(
+    return VerseEntity(
       id: id,
       bibleId: bibleId,
       bookId: bookId,
@@ -50,7 +48,7 @@ class VerseModel {
     );
   }
 
-  VerseEntity toEntity() => VerseEntity(
+  VerseModel toModel() => VerseModel(
         id: id,
         bibleId: bibleId,
         bookId: bookId,

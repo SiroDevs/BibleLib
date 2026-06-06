@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 import '../../core/extensions/string_extensions.dart';
 import '../../core/theme/app_colors.dart';
-import '../../domain/entities/chapter_entity.dart';
+import '../../domain/models/chapter_model.dart';
 
 class ReaderAppBar extends StatelessWidget implements PreferredSizeWidget {
-  final ChapterEntity chapter;
+  final ChapterModel chapter;
   final VoidCallback onSearchTap;
   final VoidCallback onBookmarkTap;
   final VoidCallback onSettingsTap;

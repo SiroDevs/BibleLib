@@ -1,15 +1,13 @@
-// lib/features/selection/domain/usecases/get_available_bibles_usecase.dart
-
 import 'package:dartz/dartz.dart';
 
 import '../../core/errors/failures.dart';
-import '../entities/bible_entity.dart';
-import '../repositories/selection_repository.dart';
+import '../models/bible_model.dart';
+import '../repos/selection_repo.dart';
 
 class GetAvailableBiblesUseCase {
-  final SelectionRepository _repository;
+  final SelectionRepo _repository;
   const GetAvailableBiblesUseCase(this._repository);
 
-  Future<Either<Failure, List<BibleEntity>>> call() =>
+  Future<Either<Failure, List<BibleModel>>> call() =>
       _repository.getAvailableBibles();
 }

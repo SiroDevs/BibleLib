@@ -1,26 +1,26 @@
 import 'package:froom/froom.dart';
 
-import '../../../../data/models/bible_model.dart';
+import '../entities/bible_entity.dart';
 
 @dao
 abstract class BibleDao {
   @Query('SELECT * FROM bibles')
-  Future<List<BibleModel>> getAllBibles();
+  Future<List<BibleEntity>> getAllBibles();
 
   @Query('SELECT * FROM bibles WHERE isDownloaded = 1')
-  Future<List<BibleModel>> getDownloadedBibles();
+  Future<List<BibleEntity>> getDownloadedBibles();
 
   @Query('SELECT * FROM bibles WHERE isSelected = 1')
-  Future<List<BibleModel>> getSelectedBibles();
+  Future<List<BibleEntity>> getSelectedBibles();
 
   @Query('SELECT * FROM bibles WHERE id = :id')
-  Future<BibleModel?> getBibleById(String id);
+  Future<BibleEntity?> getBibleById(String id);
 
   @Insert(onConflict: OnConflictStrategy.replace)
-  Future<void> insertBible(BibleModel bible);
+  Future<void> insertBible(BibleEntity bible);
 
   @Insert(onConflict: OnConflictStrategy.replace)
-  Future<void> insertBibles(List<BibleModel> bibles);
+  Future<void> insertBibles(List<BibleEntity> bibles);
 
   @Query('UPDATE bibles SET isDownloaded = 1 WHERE id = :id')
   Future<void> markAsDownloaded(String id);

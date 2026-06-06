@@ -1,16 +1,14 @@
-// lib/features/reader/domain/usecases/get_next_chapter_usecase.dart
-
 import 'package:dartz/dartz.dart';
 
 import '../../core/errors/failures.dart';
-import '../entities/chapter_entity.dart';
-import '../repositories/reader_repository.dart';
+import '../models/chapter_model.dart';
+import '../repos/reader_repo.dart';
 
 class GetNextChapterUseCase {
-  final ReaderRepository _repository;
+  final ReaderRepo _repository;
   const GetNextChapterUseCase(this._repository);
 
-  Future<Either<Failure, ChapterEntity>> call(
+  Future<Either<Failure, ChapterModel>> call(
     String bibleId,
     String chapterId,
   ) =>

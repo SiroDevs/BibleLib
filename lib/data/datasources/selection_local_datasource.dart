@@ -1,17 +1,15 @@
-// lib/features/selection/data/datasources/selection_local_datasource.dart
-
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../core/constants/app_constants.dart';
 import '../../core/errors/exceptions.dart';
-import '../../core/network/local/daos/bible_dao.dart';
-import '../models/bible_model.dart';
+import '../local/daos/bible_dao.dart';
+import '../local/entities/bible_entity.dart';
 
 abstract class SelectionLocalDataSource {
-  Future<List<BibleModel>> getCachedBibles();
-  Future<List<BibleModel>> getDownloadedBibles();
-  Future<List<BibleModel>> getSelectedBibles();
-  Future<void> cacheBibles(List<BibleModel> bibles);
+  Future<List<BibleEntity>> getCachedBibles();
+  Future<List<BibleEntity>> getDownloadedBibles();
+  Future<List<BibleEntity>> getSelectedBibles();
+  Future<void> cacheBibles(List<BibleEntity> bibles);
   Future<void> markBibleAsDownloaded(String bibleId);
   Future<void> markBibleAsSelected(String bibleId);
   Future<void> markBibleAsUnselected(String bibleId);
@@ -30,7 +28,7 @@ class SelectionLocalDataSourceImpl implements SelectionLocalDataSource {
   const SelectionLocalDataSourceImpl(this._bibleDao, this._prefs);
 
   @override
-  Future<List<BibleModel>> getCachedBibles() async {
+  Future<List<BibleEntity>> getCachedBibles() async {
     try {
       return await _bibleDao.getAllBibles();
     } catch (e) {
@@ -39,7 +37,7 @@ class SelectionLocalDataSourceImpl implements SelectionLocalDataSource {
   }
 
   @override
-  Future<List<BibleModel>> getDownloadedBibles() async {
+  Future<List<BibleEntity>> getDownloadedBibles() async {
     try {
       return await _bibleDao.getDownloadedBibles();
     } catch (e) {
@@ -48,7 +46,7 @@ class SelectionLocalDataSourceImpl implements SelectionLocalDataSource {
   }
 
   @override
-  Future<List<BibleModel>> getSelectedBibles() async {
+  Future<List<BibleEntity>> getSelectedBibles() async {
     try {
       return await _bibleDao.getSelectedBibles();
     } catch (e) {
@@ -57,7 +55,7 @@ class SelectionLocalDataSourceImpl implements SelectionLocalDataSource {
   }
 
   @override
-  Future<void> cacheBibles(List<BibleModel> bibles) async {
+  Future<void> cacheBibles(List<BibleEntity> bibles) async {
     try {
       await _bibleDao.insertBibles(bibles);
     } catch (e) {

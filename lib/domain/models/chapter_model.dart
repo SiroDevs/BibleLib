@@ -1,8 +1,6 @@
-// lib/features/reader/domain/entities/chapter_entity.dart
-
 import 'package:equatable/equatable.dart';
 
-class ChapterEntity extends Equatable {
+class ChapterModel extends Equatable {
   final String id;
   final String bibleId;
   final String bookId;
@@ -11,7 +9,7 @@ class ChapterEntity extends Equatable {
   final String? nextId;
   final String? previousId;
 
-  const ChapterEntity({
+  const ChapterModel({
     required this.id,
     required this.bibleId,
     required this.bookId,

@@ -1,8 +1,6 @@
-// lib/features/selection/domain/entities/bible_entity.dart
-
 import 'package:equatable/equatable.dart';
 
-class BibleEntity extends Equatable {
+class BibleModel extends Equatable {
   final String id;
   final String name;
   final String nameLocal;
@@ -18,7 +16,7 @@ class BibleEntity extends Equatable {
   final bool isDownloaded;
   final bool isSelected;
 
-  const BibleEntity({
+  const BibleModel({
     required this.id,
     required this.name,
     required this.nameLocal,
@@ -35,7 +33,7 @@ class BibleEntity extends Equatable {
     this.isSelected = false,
   });
 
-  BibleEntity copyWith({bool? isDownloaded, bool? isSelected}) => BibleEntity(
+  BibleModel copyWith({bool? isDownloaded, bool? isSelected}) => BibleModel(
         id: id,
         name: name,
         nameLocal: nameLocal,

@@ -1,30 +1,28 @@
-// lib/features/selection/data/repositories/selection_repository_impl.dart
-
 import 'package:dartz/dartz.dart';
 
 import '../../core/errors/exceptions.dart';
 import '../../core/errors/failures.dart';
+import '../../domain/models/bible_model.dart';
+import '../../domain/repos/selection_repo.dart';
 import '../datasources/selection_local_datasource.dart';
 import '../datasources/selection_remote_datasource.dart';
-import '../../domain/entities/bible_entity.dart';
-import '../../domain/repositories/selection_repository.dart';
 
-class SelectionRepositoryImpl implements SelectionRepository {
+class SelectionRepoImpl implements SelectionRepo {
   final SelectionRemoteDataSource _remote;
   final SelectionLocalDataSource _local;
 
-  const SelectionRepositoryImpl(this._remote, this._local);
+  const SelectionRepoImpl(this._remote, this._local);
 
   @override
-  Future<Either<Failure, List<BibleEntity>>> getAvailableBibles() async {
+  Future<Either<Failure, List<BibleModel>>> getAvailableBibles() async {
     try {
       final cached = await _local.getCachedBibles();
       if (cached.isNotEmpty) {
-        return Right(cached.map((m) => m.toEntity()).toList());
+        return Right(cached.map((m) => m.toModel()).toList());
       }
       final remote = await _remote.getAvailableBibles();
       await _local.cacheBibles(remote);
-      return Right(remote.map((m) => m.toEntity()).toList());
+      return Right(remote.map((m) => m.toModel()).toList());
     } on NetworkException catch (e) {
       return Left(NetworkFailure(e.message));
     } on ServerException catch (e) {
@@ -37,20 +35,20 @@ class SelectionRepositoryImpl implements SelectionRepository {
   }
 
   @override
-  Future<Either<Failure, List<BibleEntity>>> getDownloadedBibles() async {
+  Future<Either<Failure, List<BibleModel>>> getDownloadedBibles() async {
     try {
       final models = await _local.getDownloadedBibles();
-      return Right(models.map((m) => m.toEntity()).toList());
+      return Right(models.map((m) => m.toModel()).toList());
     } on CacheException catch (e) {
       return Left(CacheFailure(e.message));
     }
   }
 
   @override
-  Future<Either<Failure, List<BibleEntity>>> getSelectedBibles() async {
+  Future<Either<Failure, List<BibleModel>>> getSelectedBibles() async {
     try {
       final models = await _local.getSelectedBibles();
-      return Right(models.map((m) => m.toEntity()).toList());
+      return Right(models.map((m) => m.toModel()).toList());
     } on CacheException catch (e) {
       return Left(CacheFailure(e.message));
     }

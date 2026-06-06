@@ -3,19 +3,19 @@ import 'dart:async';
 import 'package:froom/froom.dart';
 import 'package:sqflite/sqflite.dart' as sqflite;
 
-import '../../../core/constants/app_constants.dart';
+import '../../core/constants/app_constants.dart';
 import 'daos/bible_dao.dart';
 import 'daos/chapter_dao.dart';
 import 'daos/verse_dao.dart';
-import '../../../data/models/chapter_model.dart';
-import '../../../data/models/verse_model.dart';
-import '../../../data/models/bible_model.dart';
+import 'entities/bible_entity.dart';
+import 'entities/chapter_entity.dart';
+import 'entities/verse_entity.dart';
 
 part 'app_database.g.dart';
 
 @Database(
   version: kDatabaseVersion,
-  entities: [BibleModel, VerseModel, ChapterModel],
+  entities: [BibleEntity, VerseEntity, ChapterEntity],
 )
 abstract class AppDatabase extends FroomDatabase {
   BibleDao get bibleDao;

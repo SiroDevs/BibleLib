@@ -1,14 +1,12 @@
-// lib/features/selection/domain/repositories/selection_repository.dart
-
 import 'package:dartz/dartz.dart';
 
 import '../../core/errors/failures.dart';
-import '../entities/bible_entity.dart';
+import '../models/bible_model.dart';
 
-abstract class SelectionRepository {
-  Future<Either<Failure, List<BibleEntity>>> getAvailableBibles();
-  Future<Either<Failure, List<BibleEntity>>> getDownloadedBibles();
-  Future<Either<Failure, List<BibleEntity>>> getSelectedBibles();
+abstract class SelectionRepo {
+  Future<Either<Failure, List<BibleModel>>> getAvailableBibles();
+  Future<Either<Failure, List<BibleModel>>> getDownloadedBibles();
+  Future<Either<Failure, List<BibleModel>>> getSelectedBibles();
   Future<Either<Failure, void>> downloadBible(String bibleId);
   Future<Either<Failure, void>> selectBible(String bibleId);
   Future<Either<Failure, void>> unselectBible(String bibleId);

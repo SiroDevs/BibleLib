@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../../../../core/theme/app_colors.dart';
-import '../../../../domain/entities/bible_entity.dart';
+import '../../../../domain/models/bible_model.dart';
 
 class BibleListItem extends StatelessWidget {
-  final BibleEntity bible;
+  final BibleModel bible;
   final bool isSelected;
   final VoidCallback onTap;
 

@@ -9,9 +9,9 @@ import 'package:workmanager/workmanager.dart';
 
 import '../constants/app_constants.dart';
 import '../network/api_client.dart';
-import '../network/local/app_database.dart';
-import '../../data/models/chapter_model.dart';
-import '../../data/models/verse_model.dart';
+import '../../data/local/app_database.dart';
+import '../../data/local/entities/chapter_entity.dart';
+import '../../data/local/entities/verse_entity.dart';
 
 const _kTaskName = 'com.biblelib.bible-download';
 const _kInputBibleIds = 'bibleIds';
@@ -117,7 +117,7 @@ Future<void> _downloadBook(
 
   final chapterModels = chaptersData
       .where((c) => (c['id'] as String? ?? '').isNotEmpty && c['id'] != 'intro')
-      .map((c) => ChapterModel.fromJson(c, bibleId: bibleId))
+      .map((c) => ChapterEntity.fromJson(c, bibleId: bibleId))
       .toList();
 
   if (chapterModels.isEmpty) return;
@@ -153,7 +153,7 @@ Future<void> _downloadChapterVerses(
 
   final models = data
       .map(
-        (json) => VerseModel.fromJson(
+        (json) => VerseEntity.fromJson(
           json,
           bibleId: bibleId,
           bookId: bookId,

@@ -1,17 +1,15 @@
-// lib/features/reader/data/datasources/reader_remote_datasource.dart
-
 import '../../core/errors/exceptions.dart';
 import '../../core/network/api_client.dart';
-import '../models/chapter_model.dart';
-import '../models/verse_model.dart';
+import '../local/entities/chapter_entity.dart';
+import '../local/entities/verse_entity.dart';
 
 abstract class ReaderRemoteDataSource {
-  Future<List<VerseModel>> getChapterVerses(
+  Future<List<VerseEntity>> getChapterVerses(
     String bibleId,
     String chapterId,
   );
 
-  Future<ChapterModel> getChapter(String bibleId, String chapterId);
+  Future<ChapterEntity> getChapter(String bibleId, String chapterId);
 }
 
 class ReaderRemoteDataSourceImpl implements ReaderRemoteDataSource {
@@ -19,7 +17,7 @@ class ReaderRemoteDataSourceImpl implements ReaderRemoteDataSource {
   const ReaderRemoteDataSourceImpl(this._client);
 
   @override
-  Future<List<VerseModel>> getChapterVerses(
+  Future<List<VerseEntity>> getChapterVerses(
     String bibleId,
     String chapterId,
   ) async {
@@ -31,7 +29,7 @@ class ReaderRemoteDataSourceImpl implements ReaderRemoteDataSource {
       final data = response['data'] as List<dynamic>? ?? [];
       final bookId = chapterId.split('.').first;
       return data.cast<Map<String, dynamic>>().map(
-            (json) => VerseModel.fromJson(
+            (json) => VerseEntity.fromJson(
               json,
               bibleId: bibleId,
               bookId: bookId,
@@ -45,13 +43,13 @@ class ReaderRemoteDataSourceImpl implements ReaderRemoteDataSource {
   }
 
   @override
-  Future<ChapterModel> getChapter(String bibleId, String chapterId) async {
+  Future<ChapterEntity> getChapter(String bibleId, String chapterId) async {
     try {
       final response = await _client.get(
         '/bibles/$bibleId/chapters/$chapterId',
       );
       final data = response['data'] as Map<String, dynamic>? ?? {};
-      return ChapterModel.fromJson(data, bibleId: bibleId);
+      return ChapterEntity.fromJson(data, bibleId: bibleId);
     } catch (e) {
       if (e is ServerException || e is NetworkException) rethrow;
       throw ServerException(e.toString());
