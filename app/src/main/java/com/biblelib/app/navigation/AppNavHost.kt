@@ -27,7 +27,7 @@ import com.biblelib.feature.history.view.HistoryScreen
 import com.biblelib.feature.reader.ReaderViewModel
 import com.biblelib.feature.reader.view.screen.ReaderScreen
 import com.biblelib.feature.search.SearchViewModel
-import com.biblelib.feature.search.view.SearchScreen
+import com.biblelib.feature.search.view.screen.SearchScreen
 import com.biblelib.feature.selection.SelectionViewModel
 import com.biblelib.feature.selection.view.SelectionScreen
 import com.biblelib.feature.settings.SettingsViewModel

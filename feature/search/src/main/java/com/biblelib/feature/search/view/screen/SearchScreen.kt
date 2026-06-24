@@ -1,24 +1,37 @@
-package com.biblelib.feature.search.view
+package com.biblelib.feature.search.view.screen
 
-import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material.icons.filled.*
-import androidx.compose.material3.*
-import androidx.compose.runtime.*
-import androidx.compose.ui.*
-import androidx.compose.ui.text.*
-import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.material.icons.filled.Close
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.HorizontalDivider
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextField
+import androidx.compose.material3.TextFieldDefaults
+import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.biblelib.core.common.entity.VerseDisplay
-import com.biblelib.core.database.model.SearchEntity
 import com.biblelib.feature.search.SearchViewModel
+import com.biblelib.feature.search.view.components.HistorySection
+import com.biblelib.feature.search.view.components.SearchResultItem
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -111,8 +124,8 @@ private fun SearchField(
         colors = TextFieldDefaults.colors(
             unfocusedContainerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),
             focusedContainerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),
-            unfocusedIndicatorColor = androidx.compose.ui.graphics.Color.Transparent,
-            focusedIndicatorColor = androidx.compose.ui.graphics.Color.Transparent,
+            unfocusedIndicatorColor = Color.Transparent,
+            focusedIndicatorColor = Color.Transparent,
         ),
         trailingIcon = {
             if (query.isNotEmpty()) {
@@ -123,96 +136,4 @@ private fun SearchField(
         },
         modifier = Modifier.fillMaxWidth(),
     )
-}
-
-@Composable
-private fun SearchResultItem(verse: VerseDisplay, query: String) {
-    Column(
-        modifier = Modifier
-            .fillMaxWidth()
-            .clickable {}
-            .padding(horizontal = 16.dp, vertical = 10.dp)
-    ) {
-        Text(
-            text = "${verse.bookId} ${verse.chapterId.substringAfter(".")}:${verse.number}",
-            style = MaterialTheme.typography.labelSmall,
-            color = MaterialTheme.colorScheme.secondary,
-            fontWeight = FontWeight.Bold,
-        )
-        Spacer(Modifier.height(2.dp))
-        // Highlight the matching query text
-        val annotated = buildAnnotatedString {
-            val lower = verse.text.lowercase()
-            val qLow = query.lowercase()
-            var start = 0
-            var idx = lower.indexOf(qLow)
-            while (idx >= 0) {
-                append(verse.text.substring(start, idx))
-                withStyle(
-                    SpanStyle(
-                        fontWeight = FontWeight.Bold,
-                        background = MaterialTheme.colorScheme.secondaryContainer,
-                    )
-                ) {
-                    append(verse.text.substring(idx, idx + query.length))
-                }
-                start = idx + query.length
-                idx = lower.indexOf(qLow, start)
-            }
-            append(verse.text.substring(start))
-        }
-        Text(
-            text = annotated,
-            style = MaterialTheme.typography.bodyMedium,
-            maxLines = 3,
-            overflow = TextOverflow.Ellipsis,
-        )
-    }
-}
-
-@Composable
-private fun HistorySection(
-    history: List<SearchEntity>,
-    onSelect: (String) -> Unit,
-    onClear: () -> Unit,
-) {
-    LazyColumn {
-        if (history.isEmpty()) {
-            item {
-                Box(Modifier
-                    .fillMaxWidth()
-                    .padding(48.dp), contentAlignment = Alignment.Center) {
-                    Text(
-                        "Search the scriptures…",
-                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
-                    )
-                }
-            }
-        } else {
-            item {
-                Row(
-                    Modifier
-                        .fillMaxWidth()
-                        .padding(horizontal = 16.dp, vertical = 8.dp),
-                    horizontalArrangement = Arrangement.SpaceBetween,
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text("Recent searches", style = MaterialTheme.typography.labelMedium)
-                    TextButton(onClick = onClear) { Text("Clear") }
-                }
-            }
-            items(history, key = { it.id }) { item ->
-                ListItem(
-                    headlineContent = { Text(item.query) },
-                    leadingContent = {
-                        Icon(
-                            Icons.Default.History, null,
-                            tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
-                        )
-                    },
-                    modifier = Modifier.clickable { onSelect(item.query) }
-                )
-            }
-        }
-    }
 }
