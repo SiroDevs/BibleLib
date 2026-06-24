@@ -12,5 +12,5 @@ import javax.inject.Named
 object AppConfigModule {
     @Provides
     @Named("paystack_secret_key")
-    fun providePaystackSecretKey(): String = BuildConfig.PaystackSecretKey
+    fun providePaystackSecretKey(): String = BuildConfig.PaystackSecret
 }

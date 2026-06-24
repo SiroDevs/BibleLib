@@ -19,7 +19,6 @@ import com.biblelib.feature.history.HistoryGroup
 import com.biblelib.feature.history.HistoryViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
-import java.util.Locale
 import androidx.compose.ui.platform.LocalLocale
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
