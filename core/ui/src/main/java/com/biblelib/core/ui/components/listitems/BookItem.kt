@@ -14,7 +14,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun BookItem(
+fun BibleItem(
     text: String,
     isSelected: Boolean = false,
     onPressed: (() -> Unit)? = null
@@ -42,8 +42,8 @@ fun BookItem(
 
 @Preview(showBackground = true)
 @Composable
-fun PreviewBookItem() {
-    BookItem(
+fun PreviewBibleItem() {
+    BibleItem(
         text = "Songs of Worship",
         isSelected = false,
         onPressed = {}

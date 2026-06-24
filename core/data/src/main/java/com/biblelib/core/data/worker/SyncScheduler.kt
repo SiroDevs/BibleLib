@@ -17,19 +17,19 @@ object SyncScheduler {
 
     /**
      * Schedules the post-selection sync (first install or re-selection).
-     * Uses [ExistingWorkPolicy.REPLACE] so that if the user re-selects books the
+     * Uses [ExistingWorkPolicy.REPLACE] so that if the user re-selects Bibles the
      * old sync is cancelled and a fresh one starts with the updated selection.
      */
     fun scheduleInstallSync(context: Context) {
-        val request = OneTimeWorkRequestBuilder<SyncWorker>()
+        val request = OneTimeWorkRequestBuilder<SyncWorkerFactory>()
             .setConstraints(networkConstraints)
-            .addTag(SyncWorker.TAG)
+            .addTag(SyncWorkerFactory.TAG)
             .setBackoffCriteria(BackoffPolicy.EXPONENTIAL, 30, TimeUnit.SECONDS)
             .build()
 
         WorkManager.getInstance(context).enqueueUniqueWork(
-            SyncWorker.INSTALL_SYNC_WORK_NAME,
-            ExistingWorkPolicy.REPLACE,   // replace on re-selection so new books are picked up
+            SyncWorkerFactory.INSTALL_SYNC_WORK_NAME,
+            ExistingWorkPolicy.REPLACE,   // replace on re-selection so new Bibles are picked up
             request,
         )
     }
@@ -40,14 +40,14 @@ object SyncScheduler {
      * a short window the second call does nothing.
      */
     fun scheduleDailySync(context: Context) {
-        val request = OneTimeWorkRequestBuilder<SyncWorker>()
+        val request = OneTimeWorkRequestBuilder<SyncWorkerFactory>()
             .setConstraints(networkConstraints)
-            .addTag(SyncWorker.TAG)
+            .addTag(SyncWorkerFactory.TAG)
             .setBackoffCriteria(BackoffPolicy.EXPONENTIAL, 30, TimeUnit.SECONDS)
             .build()
 
         WorkManager.getInstance(context).enqueueUniqueWork(
-            SyncWorker.DAILY_SYNC_WORK_NAME,
+            SyncWorkerFactory.DAILY_SYNC_WORK_NAME,
             ExistingWorkPolicy.KEEP,
             request,
         )

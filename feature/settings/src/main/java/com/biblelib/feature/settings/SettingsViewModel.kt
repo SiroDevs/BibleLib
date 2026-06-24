@@ -7,7 +7,7 @@ import androidx.lifecycle.viewModelScope
 import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.data.repos.ListingRepo
 import com.biblelib.core.data.repos.PrefsRepo
-import com.biblelib.core.data.repos.SongBookRepo
+import com.biblelib.core.data.repos.SongBibleRepo
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -17,7 +17,7 @@ import javax.inject.Inject
 @HiltViewModel
 class SettingsViewModel @Inject constructor(
     private val prefsRepo: PrefsRepo,
-    private val songbkRepo: SongBookRepo,
+    private val songbkRepo: SongBibleRepo,
     private val listRepo: ListingRepo,
 ) : ViewModel() {
 
@@ -38,7 +38,7 @@ class SettingsViewModel @Inject constructor(
     }
 
     fun updateSelection(enabled: Boolean) {
-        prefsRepo.initialBooks = prefsRepo.selectedBooks
+        prefsRepo.initialBibles = prefsRepo.selectedBibles
         prefsRepo.selectAfresh = enabled
     }
 

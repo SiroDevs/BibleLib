@@ -2,112 +2,94 @@ package com.biblelib.feature.history
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.SearchEntity
-import com.biblelib.core.data.repos.SongBookRepo
-import com.biblelib.core.data.repos.TrackingRepo
-import com.biblelib.feature.history.utils.SongView
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
+import com.biblelib.core.data.repos.TrackingRepo
+import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.core.database.model.SearchEntity
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+import java.util.concurrent.TimeUnit
 import javax.inject.Inject
+
+data class HistoryUiState(
+    val readingHistory: List<HistoryGroup> = emptyList(),
+    val searchHistory: List<SearchEntity>  = emptyList(),
+    val isLoading: Boolean = true,
+)
+
+data class HistoryGroup(
+    val dateLabel: String,
+    val entries: List<HistoryEntity>,
+)
 
 @HiltViewModel
 class HistoryViewModel @Inject constructor(
     private val trackingRepo: TrackingRepo,
-    private val songbkRepo: SongBookRepo,
 ) : ViewModel() {
-    private val _views = MutableStateFlow<List<SongView>>(emptyList())
-    val views: StateFlow<List<SongView>> = _views.asStateFlow()
 
-    private val _searches = MutableStateFlow<List<SearchEntity>>(emptyList())
-    val searches: StateFlow<List<SearchEntity>> = _searches.asStateFlow()
+    private val _uiState = MutableStateFlow(HistoryUiState())
+    val uiState: StateFlow<HistoryUiState> = _uiState.asStateFlow()
 
-    private val _bookMap = MutableStateFlow<Map<Int, BookEntity>>(emptyMap())
-    val bookMap: StateFlow<Map<Int, BookEntity>> = _bookMap.asStateFlow()
-    private val historyIdToSongId = mutableMapOf<Int, Int>()
+    init { loadHistory() }
 
-    private val _selectedViewIds = MutableStateFlow<Set<Int>>(emptySet())
-    val selectedViewIds: StateFlow<Set<Int>> = _selectedViewIds.asStateFlow()
-
-    private val _selectedSearchIds = MutableStateFlow<Set<Int>>(emptySet())
-    val selectedSearchIds: StateFlow<Set<Int>> = _selectedSearchIds.asStateFlow()
-
-    private val _showOlderViews = MutableStateFlow(false)
-    val showOlderViews: StateFlow<Boolean> = _showOlderViews.asStateFlow()
-
-    private val _showOlderSearches = MutableStateFlow(false)
-    val showOlderSearches: StateFlow<Boolean> = _showOlderSearches.asStateFlow()
-
-    fun toggleOlderViews()   { _showOlderViews.value   = !_showOlderViews.value }
-    fun toggleOlderSearches() { _showOlderSearches.value = !_showOlderSearches.value }
-
-    fun load() {
+    fun loadHistory() {
         viewModelScope.launch {
-            val histories = trackingRepo.fetchHistories()
-            val allSongs  = songbkRepo.fetchLocalSongs()
-            val allBooks  = songbkRepo.fetchLocalBooks()
-            val songMap   = allSongs.associateBy { it.songId }
-            val bookById  = allBooks.associateBy { it.bookId }
+            val reading = trackingRepo.getReadingHistory()
+            val searches = trackingRepo.getSearchHistory()
+            val grouped = groupByDate(reading)
+            _uiState.value = HistoryUiState(
+                readingHistory = grouped,
+                searchHistory  = searches,
+                isLoading      = false,
+            )
+        }
+    }
 
-            historyIdToSongId.clear()
-            histories.forEach { h -> historyIdToSongId[h.id] = h.song }
+    fun clearReadingHistory() {
+        viewModelScope.launch {
+            trackingRepo.clearHistory()
+            loadHistory()
+        }
+    }
 
-            // Each HistoryEntity row becomes a SongView; keep all rows (don't dedupe)
-            // so that re-views show up with their individual timestamps.
-            _views.value    = histories.mapNotNull { h ->
-                songMap[h.song]?.let { SongView(song = h, entity = it) }
+    fun clearSearchHistory() {
+        viewModelScope.launch {
+            trackingRepo.clearSearchHistory()
+            loadHistory()
+        }
+    }
+
+    private fun groupByDate(entries: List<HistoryEntity>): List<HistoryGroup> {
+        val now = System.currentTimeMillis()
+        val groups = mutableMapOf<String, MutableList<HistoryEntity>>()
+        val fmt = SimpleDateFormat("MMMM d, yyyy", Locale.getDefault())
+
+        entries.forEach { entry ->
+            val label = when {
+                isToday(entry.readAt, now)     -> "Today"
+                isYesterday(entry.readAt, now) -> "Yesterday"
+                else -> fmt.format(Date(entry.readAt))
             }
-            _bookMap.value  = bookById
-            _searches.value = trackingRepo.fetchSearches()
+            groups.getOrPut(label) { mutableListOf() }.add(entry)
         }
+
+        // Preserve insertion order (already sorted by readAt DESC from DB)
+        return groups.map { (label, items) -> HistoryGroup(label, items) }
     }
 
-    fun toggleViewSelection(historyId: Int) {
-        _selectedViewIds.value = if (historyId in _selectedViewIds.value)
-            _selectedViewIds.value - historyId else _selectedViewIds.value + historyId
+    private fun isToday(ts: Long, now: Long): Boolean {
+        val dayMs = TimeUnit.DAYS.toMillis(1)
+        return (now - ts) < dayMs && Date(now).date == Date(ts).date
     }
 
-    fun clearViewSelection() { _selectedViewIds.value = emptySet() }
-
-    fun deleteSelectedViews() {
-        viewModelScope.launch {
-            _selectedViewIds.value.forEach { trackingRepo.deleteHistoryById(it) }
-            clearViewSelection()
-            load()
-        }
-    }
-
-    fun toggleSearchSelection(searchId: Int) {
-        _selectedSearchIds.value = if (searchId in _selectedSearchIds.value)
-            _selectedSearchIds.value - searchId else _selectedSearchIds.value + searchId
-    }
-
-    fun clearSearchSelection() { _selectedSearchIds.value = emptySet() }
-
-    fun deleteSelectedSearches() {
-        viewModelScope.launch {
-            _selectedSearchIds.value.forEach { trackingRepo.deleteSearchById(it) }
-            clearSearchSelection()
-            load()
-        }
-    }
-
-    fun clearViews() {
-        viewModelScope.launch {
-            clearViewSelection()
-            trackingRepo.deleteAllHistories()
-            load()
-        }
-    }
-
-    fun clearSearches() {
-        viewModelScope.launch {
-            clearSearchSelection()
-            trackingRepo.deleteAllSearches()
-            load()
-        }
+    private fun isYesterday(ts: Long, now: Long): Boolean {
+        val dayMs = TimeUnit.DAYS.toMillis(1)
+        val twoDayMs = TimeUnit.DAYS.toMillis(2)
+        return (now - ts) in dayMs until twoDayMs
     }
 }

@@ -1,20 +1,9 @@
 package com.biblelib.core.common.entity
 
-sealed class UiState {
-    object Idle : UiState()
-    object Loading : UiState()
-    object Loaded : UiState()
-    object RcChecking : UiState()
-    object RcChecked : UiState()
-    object Filtered : UiState()
-    object Saving : UiState()
-    object Saved : UiState()
-    class Error(val message: String) : UiState()
-}
-
-sealed interface ViewerState {
-    object Loading : ViewerState
-    object Loaded : ViewerState
-    data class Liked(val liked: Boolean) : ViewerState
-    data class Error(val message: String) : ViewerState
+sealed interface UiState {
+    data object Loading : UiState
+    data object Loaded  : UiState
+    data object Saving  : UiState
+    data object Saved   : UiState
+    data class  Error(val message: String) : UiState
 }

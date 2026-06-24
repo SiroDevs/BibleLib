@@ -37,18 +37,18 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.biblelib.core.common.entity.Selectable
 import com.biblelib.core.common.utils.refineTitle
-import com.biblelib.core.database.model.BookEntity
+import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.ui.components.indicators.ShimmerBrush
-import com.biblelib.core.ui.sample.SampleSelectableBooks
+import com.biblelib.core.ui.sample.SampleSelectableBibles
 
 @Composable
-fun SongBook(
-    item: Selectable<BookEntity>,
-    onClick: (Selectable<BookEntity>) -> Unit,
+fun SongBible(
+    item: Selectable<BibleEntity>,
+    onClick: (Selectable<BibleEntity>) -> Unit,
     modifier: Modifier = Modifier,
 ) {
     val selected = item.isSelected
-    val book = item.data
+    val Bible = item.data
 
     val containerColor by animateColorAsState(
         targetValue = if (selected) MaterialTheme.colorScheme.primary
@@ -102,7 +102,7 @@ fun SongBook(
         ) {
             Column(modifier = Modifier.weight(1f)) {
                 Text(
-                    text       = refineTitle(book.title),
+                    text       = refineTitle(Bible.title),
                     fontSize   = 15.sp,
                     fontWeight = FontWeight.SemiBold,
                     color      = if (selected) onContainerColor
@@ -112,7 +112,7 @@ fun SongBook(
                 )
                 Spacer(Modifier.height(4.dp))
                 SongCountChip(
-                    count    = book.songs,
+                    count    = Bible.songs,
                     selected = selected,
                     textColor = onContainerColor,
                 )
@@ -150,11 +150,11 @@ private fun SongCountChip(count: Int, selected: Boolean, textColor: Color) {
 
 @Preview(showBackground = true, backgroundColor = 0xFFFFFBFF)
 @Composable
-fun PreviewSongBook() {
+fun PreviewSongBible() {
     MaterialTheme {
         Column {
-            SampleSelectableBooks.forEach { book ->
-                SongBook(item = book, onClick = {})
+            SampleSelectableBibles.forEach { Bible ->
+                SongBible(item = Bible, onClick = {})
             }
         }
     }

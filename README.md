@@ -1,6 +1,6 @@
 # BibleLib — Android
 
-BibleLib is an open-source church songbook app for Android. It gives congregations offline access to multiple songbooks, a full-screen verse presenter, personal drafts, song listings, search history, and user song editing with admin review.
+BibleLib is an open-source church songBible app for Android. It gives congregations offline access to multiple songBibles, a full-screen verse presenter, personal drafts, song listings, search history, and user song editing with admin review.
 
 > iOS version: [@SiroDaves/BibleLib-iOS](https://github.com/SiroDaves/BibleLib-iOS)
 
@@ -12,7 +12,7 @@ This guide covers everything you need to get the Android app built and running.
 
 ## Features
 
-- **20+ songbooks included** — choose from a wide selection of hymnals across multiple languages
+- **20+ songBibles included** — choose from a wide selection of hymnals across multiple languages
 - **10,000+ songs** — full lyrics, song numbers, and aliases all searchable
 - **Real-time search** — search by title, number, or lyrics instantly
 - **Verse presenter** — full-screen swipeable verse view with adjustable font size and a page-curl effect
@@ -115,7 +115,7 @@ BibleLib/
 │   └── ui/                     # Shared Compose components (SongItem, TopBar, shimmer…)
 │
 └── feature/
-    ├── selection/              # First-launch songbook selection
+    ├── selection/              # First-launch songBible selection
     ├── home/                   # Search, Likes, Listings tabs
     ├── song/                   # Song presenter + editor
     ├── drafts/                 # Drafts list, draft presenter, draft editor
@@ -151,28 +151,28 @@ app
 
 **`core:data`** — all data-access logic sitting above the DB and network layers:
 
-- `PrefsRepo` — a strongly typed `SharedPreferences` wrapper covering the user session, theme, sync timestamps, demo mode, donation state, book selection, and `resetAppData()` for clearing all app state atomically.
-- `SongBookRepo` — fetches books and songs from the remote API, persists them to Room, and handles paginated delta sync via the `?since=` query parameter so subsequent syncs only transfer new or updated songs.
+- `PrefsRepo` — a strongly typed `SharedPreferences` wrapper covering the user session, theme, sync timestamps, demo mode, donation state, Bible selection, and `resetAppData()` for clearing all app state atomically.
+- `SongBibleRepo` — fetches Bibles and songs from the remote API, persists them to Room, and handles paginated delta sync via the `?since=` query parameter so subsequent syncs only transfer new or updated songs.
 - `TrackingRepo` — records song view history and search query history to Room.
 - `EditorRepo` — manages user-submitted song edits locally and syncs them to the backend.
 - `DraftRepo` — manages personal drafts locally and pushes them to the backend when a user is signed in.
 - `ListingRepo` — manages song listing (playlist) creation and item membership.
-- `UserRepo` — user creation, profile updates, and book-selection sync.
+- `UserRepo` — user creation, profile updates, and Bible-selection sync.
 - `SyncWorker` — a Hilt-injected `CoroutineWorker` that runs the full sync pipeline on a background thread. Scheduled via `SyncScheduler` using WorkManager.
 
-**`core:database`** — Room database (`AppDatabase`, version 4) with seven entities: `BookEntity`, `SongEntity`, `HistoryEntity`, `SearchEntity`, `DraftEntity`, `EditEntity`, `ListingEntity`, and their DAOs.
+**`core:database`** — Room database (`AppDatabase`, version 4) with seven entities: `BibleEntity`, `SongEntity`, `HistoryEntity`, `SearchEntity`, `DraftEntity`, `EditEntity`, `ListingEntity`, and their DAOs.
 
 **`core:network`** — `NetworkModule` (Hilt) wires up two Retrofit instances: one for the BibleLib API (with an `x-api-key` OkHttp interceptor that attaches the key to every request) and one for PesaPal. `BibleLibService` is the Retrofit interface covering all v2 endpoints.
 
 **`core:designsystem`** — Material 3 theme, colour palette, typography scale, and `ThemeSelectorDialog`.
 
-**`core:ui`** — shared Compose components: `AppTopBar`, `SearchTopBar`, `SongItem`, `SongSkeletonItem`, `BookItem`, `ListingItem`, `DonationBanner`, `EmptyState`, `ErrorState`, `LoadingState`, `PageCurlEffect`, `CornerNavZone`, and auto-sizing text utilities.
+**`core:ui`** — shared Compose components: `AppTopBar`, `SearchTopBar`, `SongItem`, `SongSkeletonItem`, `BibleItem`, `ListingItem`, `DonationBanner`, `EmptyState`, `ErrorState`, `LoadingState`, `PageCurlEffect`, `CornerNavZone`, and auto-sizing text utilities.
 
 ### Feature modules
 
 | Module | Screens | ViewModels |
 |---|---|---|
-| `feature:selection` | Songbook selection (step 1 and 2) | `SelectionViewModel` |
+| `feature:selection` | SongBible selection (step 1 and 2) | `SelectionViewModel` |
 | `feature:home` | Home — Search / Likes / Listings tabs | `HomeViewModel` |
 | `feature:song` | Song presenter, song editor | `PresenterViewModel`, `EditorViewModel` |
 | `feature:drafts` | Drafts list, draft presenter, draft editor | `DraftsViewModel`, `DraftPresenterViewModel`, `EditorViewModel` |
@@ -192,7 +192,7 @@ Navigation is handled by a single `NavHostController` in `AppNavHost.kt` at the 
 
 Arguments between screens are passed via `savedStateHandle` — the **caller** sets the value on `navController.currentBackStackEntry?.savedStateHandle` before calling `navigate()`, and the **destination** reads it from its own `currentBackStackEntry?.savedStateHandle`.
 
-`MainViewModel` determines the start destination at launch by reading `PrefsRepo`: if the user hasn't completed book selection it routes to `SELECTION`, otherwise to `HOME`.
+`MainViewModel` determines the start destination at launch by reading `PrefsRepo`: if the user hasn't completed Bible selection it routes to `SELECTION`, otherwise to `HOME`.
 
 ```
 SELECTION ──► HOME ──► PRESENT
@@ -211,13 +211,13 @@ SELECTION ──► HOME ──► PRESENT
 
 ### Sync and data flow
 
-On the very first launch (or after re-selecting books), `MainViewModel` calls `SyncScheduler.scheduleInstallSync()`, which enqueues a one-time `SyncWorker` via WorkManager. The worker:
+On the very first launch (or after re-selecting Bibles), `MainViewModel` calls `SyncScheduler.scheduleInstallSync()`, which enqueues a one-time `SyncWorker` via WorkManager. The worker:
 
-1. Reads selected book IDs from `PrefsRepo.selectedBooks`.
-2. Fetches all books from `/api/v2/books` and saves them to Room.
-3. Fetches songs page by page (`limit=500`) from `/api/v2/songs/books/{bookIds}`. On subsequent syncs the `?since=` parameter carries the ISO timestamp of the last successful run, so only new or updated songs are transferred — this is the delta sync mechanism.
+1. Reads selected Bible IDs from `PrefsRepo.selectedBibles`.
+2. Fetches all Bibles from `/api/v2/Bibles` and saves them to Room.
+3. Fetches songs page by page (`limit=500`) from `/api/v2/songs/Bibles/{BibleIds}`. On subsequent syncs the `?since=` parameter carries the ISO timestamp of the last successful run, so only new or updated songs are transferred — this is the delta sync mechanism.
 4. Writes the new `since` timestamp back to `PrefsRepo.lastSinceDateIso` and marks `isDataLoaded = true`.
-5. If a user is signed in, pushes local drafts, edits, and book-selection data to the backend.
+5. If a user is signed in, pushes local drafts, edits, and Bible-selection data to the backend.
 
 `HomeViewModel.fetchData()` is guarded by a `dataFetched` boolean so it only runs once per ViewModel lifetime. It reads from Room immediately to show cached data, while observing `WorkInfo` state via `getWorkInfosByTagFlow` — when the worker reports `SUCCEEDED` it calls `loadFromDb()` again to pick up the freshly synced songs.
 
@@ -291,7 +291,7 @@ Open the project in Android Studio. Gradle sync will run automatically. Once it 
 
 The `debug` build variant uses the application ID `com.biblelib.dev`, so it installs alongside the production Play Store build without conflict.
 
-On first launch the app will go through the songbook selection flow, then trigger a background sync via WorkManager to fetch books and songs from the live API. You need a network connection for this initial sync — after that the app works fully offline.
+On first launch the app will go through the songBible selection flow, then trigger a background sync via WorkManager to fetch Bibles and songs from the live API. You need a network connection for this initial sync — after that the app works fully offline.
 
 ### 5. Release builds (optional)
 

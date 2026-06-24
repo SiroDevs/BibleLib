@@ -1,9 +1,9 @@
 package com.biblelib.core.data.repos
 
 import android.content.Context
-import com.biblelib.core.common.utils.PrefConstants
-import dagger.hilt.android.qualifiers.ApplicationContext
 import androidx.core.content.edit
+import dagger.hilt.android.qualifiers.ApplicationContext
+import com.biblelib.core.common.utils.PrefConstants
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -11,55 +11,64 @@ import javax.inject.Singleton
 class PrefsRepo @Inject constructor(
     @ApplicationContext context: Context
 ) {
-    private val prefs =
-        context.getSharedPreferences(PrefConstants.PREFERENCE_FILE, Context.MODE_PRIVATE)
+    private val prefs = context.getSharedPreferences(PrefConstants.PREFERENCE_FILE, Context.MODE_PRIVATE)
 
     var installDate: Long
         get() = prefs.getLong(PrefConstants.INSTALL_DATE, 0L)
-        set(value) = prefs.edit { putLong(PrefConstants.INSTALL_DATE, value) }
+        set(v) = prefs.edit { putLong(PrefConstants.INSTALL_DATE, v) }
 
-    var initialBooks: String
-        get() = prefs.getString(PrefConstants.INITIAL_BOOKS, "") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.INITIAL_BOOKS, value) }
+    var selectedBibles: String
+        get() = prefs.getString(PrefConstants.SELECTED_BIBLES, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.SELECTED_BIBLES, v) }
 
-    var selectedBooks: String
-        get() = prefs.getString(PrefConstants.SELECTED_BOOKS, "1,2") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.SELECTED_BOOKS, value) }
+    var primaryBible: String
+        get() = prefs.getString(PrefConstants.PRIMARY_BIBLE, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.PRIMARY_BIBLE, v) }
 
     var isDataSelected: Boolean
         get() = prefs.getBoolean(PrefConstants.IS_DATA_SELECTED, false)
-        set(value) = prefs.edit { putBoolean(PrefConstants.IS_DATA_SELECTED, value) }
+        set(v) = prefs.edit { putBoolean(PrefConstants.IS_DATA_SELECTED, v) }
+
+    var isPrimaryLoaded: Boolean
+        get() = prefs.getBoolean(PrefConstants.IS_PRIMARY_LOADED, false)
+        set(v) = prefs.edit { putBoolean(PrefConstants.IS_PRIMARY_LOADED, v) }
 
     var selectAfresh: Boolean
         get() = prefs.getBoolean(PrefConstants.SELECT_A_FRESH, false)
-        set(value) = prefs.edit { putBoolean(PrefConstants.SELECT_A_FRESH, value) }
+        set(v) = prefs.edit { putBoolean(PrefConstants.SELECT_A_FRESH, v) }
 
-    var isDataLoaded: Boolean
-        get() = prefs.getBoolean(PrefConstants.IS_DATA_LOADED, false)
-        set(value) = prefs.edit { putBoolean(PrefConstants.IS_DATA_LOADED, value) }
+    var lastBibleAbbr: String
+        get() = prefs.getString(PrefConstants.LAST_BIBLE_ABBR, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.LAST_BIBLE_ABBR, v) }
+
+    var lastBookId: String
+        get() = prefs.getString(PrefConstants.LAST_BOOK_ID, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.LAST_BOOK_ID, v) }
+
+    var lastChapterId: String
+        get() = prefs.getString(PrefConstants.LAST_CHAPTER_ID, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.LAST_CHAPTER_ID, v) }
 
     var appThemeMode: ThemeMode
         get() = ThemeMode.valueOf(
-            prefs.getString(PrefConstants.THEME_MODE, ThemeMode.SYSTEM.name)
-                ?: ThemeMode.SYSTEM.name
+            prefs.getString(PrefConstants.THEME_MODE, ThemeMode.SYSTEM.name) ?: ThemeMode.SYSTEM.name
         )
-        set(value) = prefs.edit { putString(PrefConstants.THEME_MODE, value.name) }
+        set(v) = prefs.edit { putString(PrefConstants.THEME_MODE, v.name) }
 
-    var horizontalSlides: Boolean
-        get() = prefs.getBoolean(PrefConstants.HORIZONTAL_SLIDES, false)
-        set(value) = prefs.edit { putBoolean(PrefConstants.HORIZONTAL_SLIDES, value) }
-
-    var demoMode: Boolean
-        get() = prefs.getBoolean(PrefConstants.DEMO_MODE, true)
-        set(value) = prefs.edit { putBoolean(PrefConstants.DEMO_MODE, value) }
+    var fontSizeSp: Float
+        get() = prefs.getFloat(PrefConstants.FONT_SIZE_SP, 18f)
+        set(v) = prefs.edit { putFloat(PrefConstants.FONT_SIZE_SP, v) }
 
     var donationDoneAt: Long
         get() = prefs.getLong(PrefConstants.DONATION_DONE_AT, 0L)
-        set(value) = prefs.edit { putLong(PrefConstants.DONATION_DONE_AT, value) }
+        set(v) = prefs.edit { putLong(PrefConstants.DONATION_DONE_AT, v) }
 
-    var donationRemindNextOpen: Boolean
-        get() = prefs.getBoolean(PrefConstants.DONATION_REMIND_NEXT_OPEN, false)
-        set(value) = prefs.edit { putBoolean(PrefConstants.DONATION_REMIND_NEXT_OPEN, value) }
+    var lastSyncedAt: Long
+        get() = prefs.getLong(PrefConstants.LAST_SYNCED_AT, 0L)
+        set(v) = prefs.edit { putLong(PrefConstants.LAST_SYNCED_AT, v) }
+
+    fun getSelectedBibleList(): List<String> =
+        selectedBibles.split(",").map { it.trim() }.filter { it.isNotEmpty() }
 
     fun shouldShowDonation(): Boolean {
         val now = System.currentTimeMillis()
@@ -72,63 +81,22 @@ class PrefsRepo @Inject constructor(
 
     fun recordDonation() {
         donationDoneAt = System.currentTimeMillis()
-        donationRemindNextOpen = false
     }
-
-    var lastSyncedAt: Long
-        get() = prefs.getLong(PrefConstants.LAST_SYNCED_AT, 0L)
-        set(value) = prefs.edit { putLong(PrefConstants.LAST_SYNCED_AT, value) }
 
     fun needsDailySync(): Boolean {
         val last = lastSyncedAt
         if (last == 0L) return false
-        val elapsed = System.currentTimeMillis() - last
-        val oneDayMs = 24 * 60 * 60 * 1000L
-        return elapsed >= oneDayMs
+        return System.currentTimeMillis() - last >= 24 * 60 * 60 * 1000L
     }
-
-    var loggedInUserId: Int
-        get() = prefs.getInt(PrefConstants.LOGGED_IN_USER_ID, 0)
-        set(value) = prefs.edit { putInt(PrefConstants.LOGGED_IN_USER_ID, value) }
-
-    var loggedInEmail: String
-        get() = prefs.getString(PrefConstants.LOGGED_IN_EMAIL, "") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.LOGGED_IN_EMAIL, value) }
-
-    var loggedInName: String
-        get() = prefs.getString(PrefConstants.LOGGED_IN_NAME, "") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.LOGGED_IN_NAME, value) }
-
-    var loggedInPhotoUrl: String
-        get() = prefs.getString(PrefConstants.LOGGED_IN_PHOTO_URL, "") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.LOGGED_IN_PHOTO_URL, value) }
-
-    var loggedInRole: String
-        get() = prefs.getString(PrefConstants.LOGGED_IN_ROLE, "user") ?: "user"
-        set(value) = prefs.edit { putString(PrefConstants.LOGGED_IN_ROLE, value) }
-
-    val isLoggedIn: Boolean get() = loggedInUserId > 0
-
-    val isAdmin: Boolean get() = loggedInRole == "admin"
-
-    fun clearUser() {
-        loggedInUserId = 0
-        loggedInEmail = ""
-        loggedInName = ""
-        loggedInPhotoUrl = ""
-        loggedInRole = "user"
-    }
-
-    var lastSinceDateIso: String
-        get() = prefs.getString(PrefConstants.LAST_SINCE_DATE, "") ?: ""
-        set(value) = prefs.edit { putString(PrefConstants.LAST_SINCE_DATE, value) }
 
     fun resetAppData() {
-        isDataLoaded = false
         isDataSelected = false
+        isPrimaryLoaded = false
         selectAfresh = false
-        initialBooks = ""
-        selectedBooks = ""
-        clearUser()
+        selectedBibles = ""
+        primaryBible = ""
+        lastBibleAbbr = ""
+        lastBookId = ""
+        lastChapterId = ""
     }
 }

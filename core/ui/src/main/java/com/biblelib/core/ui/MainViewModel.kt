@@ -3,14 +3,13 @@ package com.biblelib.core.ui
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.biblelib.core.data.repos.PrefsRepo
-import com.biblelib.core.data.worker.SyncScheduler
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
+import com.biblelib.core.data.repos.PrefsRepo
 import javax.inject.Inject
 
 @HiltViewModel
@@ -18,10 +17,11 @@ class MainViewModel @Inject constructor(
     private val prefsRepo: PrefsRepo,
     @ApplicationContext private val context: Context,
 ) : ViewModel() {
+
     private val _isReady = MutableStateFlow(false)
     val isReady: StateFlow<Boolean> = _isReady.asStateFlow()
 
-    private val _destination = MutableStateFlow<Destination>(Destination.Home)
+    private val _destination = MutableStateFlow<Destination>(Destination.Reader)
     val destination: StateFlow<Destination> = _destination.asStateFlow()
 
     init {
@@ -34,36 +34,22 @@ class MainViewModel @Inject constructor(
                 prefsRepo.installDate = System.currentTimeMillis()
             }
 
-            when {
-                !prefsRepo.isDataSelected || prefsRepo.selectAfresh -> {
-                    _destination.value = Destination.Selection
-                }
-                !prefsRepo.isDataLoaded -> {
-                    SyncScheduler.scheduleInstallSync(context)
-                    _destination.value = Destination.Home
-                }
-                prefsRepo.needsDailySync() -> {
-                    SyncScheduler.scheduleDailySync(context)
-                    _destination.value = Destination.Home
-                }
-                else -> {
-                    _destination.value = Destination.Home
-                }
+            _destination.value = when {
+                !prefsRepo.isDataSelected || prefsRepo.selectAfresh -> Destination.Selection
+                else -> Destination.Reader
             }
 
             _isReady.value = true
         }
-
     }
 
     fun reset() {
         _isReady.value = false
-        _destination.value = Destination.Home
         initializeApp()
     }
 
     sealed interface Destination {
-        data object Home : Destination
+        data object Reader    : Destination
         data object Selection : Destination
     }
 }

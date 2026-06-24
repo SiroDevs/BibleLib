@@ -1,32 +1,23 @@
 package com.biblelib.core.database.daos
 
 import androidx.room.Dao
-import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.Update
 import com.biblelib.core.database.model.BookEntity
+import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface BookDao {
-    @Query("SELECT * FROM books")
-    fun getAll(): List<BookEntity>
+    @Query("SELECT * FROM books WHERE bibleAbbr = :abbr ORDER BY sortOrder ASC")
+    suspend fun getByBible(abbr: String): List<BookEntity>
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
-    suspend fun insert(book: BookEntity)
+    suspend fun insertAll(records: List<BookEntity>)
 
-    @Insert(onConflict = OnConflictStrategy.Companion.REPLACE)
-    suspend fun insertAll(books: List<BookEntity>)
-
-    @Update()
-    fun update(book: BookEntity)
-
-    @Delete()
-    fun delete(book: BookEntity)
-
-    @Query("DELETE FROM books WHERE bookId = :id")
-    suspend fun deleteById(id: Int)
+    @Query("DELETE FROM books WHERE bibleAbbr = :abbr")
+    suspend fun deleteByBible(abbr: String)
 
     @Query("DELETE FROM books")
     suspend fun deleteAll()

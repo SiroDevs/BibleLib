@@ -28,7 +28,7 @@ fun songCopyString(title: String, content: String): String {
     return "$title\n\n$content"
 }
 
-fun bookCountString(title: String, count: Int): String {
+fun BibleCountString(title: String, count: Int): String {
     return "$title ($count)"
 }
 

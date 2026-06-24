@@ -54,8 +54,8 @@ private val sections = listOf(
     HowItWorksSection(
         icon = Icons.Default.CheckCircle,
         title = "Selection",
-        description = "When you first open BibleLib, you'll be presented with a list of available songbooks. " +
-                "Tap on any songbook to select or deselect it. You can choose one or more songbooks to include " +
+        description = "When you first open BibleLib, you'll be presented with a list of available songBibles. " +
+                "Tap on any songBible to select or deselect it. You can choose one or more songBibles to include " +
                 "in your library. Once you're happy with your selection, tap the confirm button to load the songs. " +
                 "You can always modify your collection later from the Settings screen."
     ),

@@ -1,24 +1,18 @@
 package com.biblelib.core.database.model
 
-import android.os.Parcelable
-import androidx.annotation.Keep
-import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.Index
-import androidx.room.PrimaryKey
-import kotlinx.parcelize.Parcelize
 
-@Keep
-@Parcelize
-@Entity(tableName = "books", indices = [Index(value = ["bookId"], unique = true)])
+@Entity(
+    tableName = "books",
+    indices = [Index("bibleAbbr")],
+    primaryKeys = ["id", "bibleAbbr"]
+)
 data class BookEntity(
-    @PrimaryKey() val bookId: Int,
-    @ColumnInfo(name = "bookNo") val bookNo: Int,
-    @ColumnInfo(name = "created") val created: String,
-    @ColumnInfo(name = "enabled") val enabled: Boolean,
-    @ColumnInfo(name = "position") val position: Int,
-    @ColumnInfo(name = "songs") val songs: Int,
-    @ColumnInfo(name = "subTitle") val subTitle: String,
-    @ColumnInfo(name = "title") val title: String,
-    @ColumnInfo(name = "user") val user: Int
-) : Parcelable
+    val id: String,
+    val bibleAbbr: String,
+    val abbreviation: String,
+    val name: String,
+    val nameLong: String,
+    val sortOrder: Int = 0,
+)

@@ -1,96 +1,70 @@
 package com.biblelib.core.network.dtos
 
-data class PaginationMeta(
-    val page: Int,
-    val limit: Int,
-    val total: Int,
-    val totalPages: Int,
-    val hasMore: Boolean
+data class BibleInfoDto(
+    val name: String = "",
+    val description: String = "",
+    val abbreviation: String = "",
+    val tagline: String = "",
+    val language: BibleLanguageDto = BibleLanguageDto(),
+    val countries: List<BibleCountryDto> = emptyList(),
+    val copyright: String = "",
+    val info: String = "",
 )
 
-data class PagedSongsResponse(
-    val data: List<com.biblelib.core.database.model.SongEntity>,
-    val pagination: PaginationMeta
+data class BibleLanguageDto(
+    val id: String = "",
+    val name: String = "",
+    val script: String = "",
+    val scriptDirection: String = "LTR",
 )
 
-data class UserDto(
-    val userId: Int = 0,
-    val username: String,
-    val email: String,
+data class BibleCountryDto(
+    val id: String = "",
+    val name: String = "",
+)
+
+data class BooksResponse(
+    val data: List<BookDto> = emptyList()
+)
+
+data class BookDto(
+    val id: String = "",
+    val bibleId: String = "",
+    val abbreviation: String = "",
+    val name: String = "",
+    val nameLong: String = "",
+)
+
+// chapters.json is a map of bookId -> List<ChapterDto>
+// e.g. { "GEN": [ { "id": "GEN.1", ... }, ... ], "EXO": [...] }
+typealias ChaptersResponse = Map<String, List<ChapterDto>>
+
+data class ChapterDto(
+    val id: String = "",
+    val bibleId: String = "",
+    val bookId: String = "",
+    val number: String = "",
+    val reference: String = "",
+)
+
+// verses.json is:  { "GEN": { "GEN.1": { ChapterContentDto }, ... } }
+typealias VersesResponse = Map<String, Map<String, ChapterContentDto>>
+
+data class ChapterContentDto(
+    val id: String = "",
+    val bibleId: String = "",
+    val number: String = "",
+    val bookId: String = "",
+    val reference: String = "",
+    val copyright: String = "",
+    val verseCount: Int = 0,
+    val content: List<ContentItemDto> = emptyList(),
+)
+
+data class ContentItemDto(
     val name: String? = null,
-    val photoUrl: String? = null,
-    val googleId: String? = null,
-    val selectedBooks: String? = null,
-    val role: String = "user",
-    val created: String? = null,
-    val updated: String? = null
-)
-
-data class DraftDto(
-    val draftId: Int = 0,
-    val title: String,
-    val content: String? = null,
-    val songNo: Int? = null,
-    val book: Int? = null,
-    val userId: Int = 0,
-    val created: String? = null,
-    val updated: String? = null
-)
-
-data class EditDto(
-    val editId: Int = 0,
-    val songId: Int,
-    val book: Int = 0,
-    val songNo: Int = 0,
-    val title: String,
-    val alias: String? = null,
-    val content: String? = null,
-    val userId: Int = 0,
-    val status: String = "pending",
-    val created: String? = null,
-    val updated: String? = null
-)
-
-/** Body for admin approve/reject — reject carries an optional reason. */
-data class EditRejectRequest(val reason: String? = null)
-
-/** Thin wrapper the approve/reject endpoints return. */
-data class EditActionResponse(
-    val message: String,
-    val edit: EditDto
-)
-
-data class SongReportRequest(
-    val songId: Int,
-    val bookId: Int,
-    val songNo: Int,
-    val songTitle: String,
-    val reportType: String,
-    val description: String,
-    val reportedBy: String? = null
-)
-
-data class SongReportResponse(
-    val message: String,
-    val reportId: Int
-)
-
-data class LikeToggleRequest(val userId: Int, val songId: Int)
-data class LikeToggleResponse(val userId: Int, val songId: Int, val liked: Boolean)
-data class LikedSongsResponse(val userId: Int, val likedSongIds: List<Int>)
-
-data class OrganisationDto(
-    val orgId: Int = 0,
-    val title: String,
-    val description: String? = null,
-    val userId: Int = 0,
-    val created: String? = null
-)
-
-data class ListingDto(
-    val listingId: Int = 0,
-    val title: String,
-    val songs: List<Int> = emptyList(),
-    val userId: Int = 0,
-    val created: String? = null
+    val type: String = "",
+    val text: String? = null,
+    val attrs: Map<String, String>? = null,
+    val items: List<ContentItemDto>? = null,
 )

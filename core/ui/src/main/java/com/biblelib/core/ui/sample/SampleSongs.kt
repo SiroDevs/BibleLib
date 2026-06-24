@@ -4,7 +4,7 @@ import com.biblelib.core.database.model.SongEntity
 
 val SampleSongs = listOf(
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 1,
         songNo = 1,
         title = "Only Believe",
@@ -16,7 +16,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 2,
         songNo = 2,
         title = "Amazing Grace",
@@ -28,7 +28,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 3,
         songNo = 3,
         title = "They Come",
@@ -40,7 +40,7 @@ val SampleSongs = listOf(
         created = "2023-08-23T09:36:48.560Z"
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 4,
         songNo = 4,
         title = "I Love Him",
@@ -52,7 +52,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 5,
         songNo = 5,
         title = "Sweet Hour Of Prayer",
@@ -64,7 +64,7 @@ val SampleSongs = listOf(
         created = "2023-08-23T09:36:48.561Z"
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 6,
         songNo = 6,
         title = "Oh, How I Love Jesus",
@@ -76,7 +76,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 7,
         songNo = 7,
         title = "When The Redeemed Gather",
@@ -88,7 +88,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 8,
         songNo = 8,
         title = "Oh, I Want To See Him",
@@ -100,7 +100,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 9,
         songNo = 9,
         title = "Feeling So Much Better",
@@ -112,7 +112,7 @@ val SampleSongs = listOf(
         created = ""
     ),
     SongEntity(
-        book = 1,
+        Bible = 1,
         songId = 10,
         songNo = 10,
         title = "Teach Me Lord, To Wait",

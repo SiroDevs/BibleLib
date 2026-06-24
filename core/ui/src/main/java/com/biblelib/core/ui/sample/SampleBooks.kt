@@ -1,49 +1,49 @@
 package com.biblelib.core.ui.sample
 
-import com.biblelib.core.database.model.BookEntity
+import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.common.entity.Selectable
 
-val SampleBooks = listOf(
-    BookEntity(
-        bookId = 1,
+val SampleBibles = listOf(
+    BibleEntity(
+        BibleId = 1,
         user = 1,
         title = "Songs of Worship",
         subTitle = "worship",
         songs = 750,
         position = 1,
-        bookNo = 1,
+        BibleNo = 1,
         enabled = true,
         created = ""
     ),
-    BookEntity(
-        bookId = 2,
+    BibleEntity(
+        BibleId = 2,
         user = 1,
         title = "Nyimbo za Injili",
         subTitle = "injili",
         songs = 213,
         position = 2,
-        bookNo = 2,
+        BibleNo = 2,
         enabled = true,
         created = ""
     ),
-    BookEntity(
-        bookId = 3,
+    BibleEntity(
+        BibleId = 3,
         user = 1,
         title = "Redemption Songs",
         subTitle = "redemption",
         songs = 712,
         position = 3,
-        bookNo = 3,
+        BibleNo = 3,
         enabled = true,
         created = ""
     )
 )
 
-val SampleSelectableBooks = listOf(
+val SampleSelectableBibles = listOf(
     Selectable(
-        BookEntity(
-            bookId = 1,
-            bookNo = 1,
+        BibleEntity(
+            BibleId = 1,
+            BibleNo = 1,
             created = "",
             enabled = true,
             position = 1,
@@ -54,9 +54,9 @@ val SampleSelectableBooks = listOf(
         ),
     ),
     Selectable(
-        BookEntity(
-            bookId = 2,
-            bookNo = 2,
+        BibleEntity(
+            BibleId = 2,
+            BibleNo = 2,
             created = "",
             enabled = true,
             position = 2,
@@ -68,9 +68,9 @@ val SampleSelectableBooks = listOf(
         isSelected = true
     ),
     Selectable(
-        BookEntity(
-            bookId = 3,
-            bookNo = 3,
+        BibleEntity(
+            BibleId = 3,
+            BibleNo = 3,
             created = "",
             enabled = true,
             position = 2,
@@ -82,9 +82,9 @@ val SampleSelectableBooks = listOf(
         isSelected = true
     ),
     Selectable(
-        BookEntity(
-            bookId = 4,
-            bookNo = 4,
+        BibleEntity(
+            BibleId = 4,
+            BibleNo = 4,
             created = "",
             enabled = true,
             position = 4,

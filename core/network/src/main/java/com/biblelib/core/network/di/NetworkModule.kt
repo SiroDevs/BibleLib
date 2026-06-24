@@ -19,45 +19,16 @@ import javax.inject.Named
 @Module
 @Suppress("unused")
 object NetworkModule {
-
     @Provides
     @Reusable
-    fun provideOkHttpClient(
-        @Named("biblelib_api_key") apiKey: String
-    ): OkHttpClient {
-        val apiKeyInterceptor = Interceptor { chain ->
-            val request = chain.request().newBuilder()
-                .addHeader("x-api-key", apiKey)
-                .build()
-            chain.proceed(request)
-        }
-
-        return OkHttpClient.Builder()
-            .addInterceptor(apiKeyInterceptor)
+    fun provideOkHttpClient(): OkHttpClient =
+        OkHttpClient.Builder()
             .addInterceptor(
                 HttpLoggingInterceptor().apply {
-                    level = HttpLoggingInterceptor.Level.BODY
+                    level = HttpLoggingInterceptor.Level.BASIC
                 }
             )
             .build()
-    }
-
-    @Provides
-    @Reusable
-    fun provideSonglibApiService(@Named("biblelibApi") retrofit: Retrofit): BibleLibService {
-        return retrofit.create(BibleLibService::class.java)
-    }
-
-    @Provides
-    @Named("biblelibApi")
-    @Reusable
-    fun provideSonglibApi(okHttpClient: OkHttpClient): Retrofit {
-        return Retrofit.Builder()
-            .baseUrl(ApiConstants.SONGLIB_BASE)
-            .addConverterFactory(GsonConverterFactory.create())
-            .client(okHttpClient)
-            .build()
-    }
 
     @Provides
     @Reusable
@@ -75,4 +46,19 @@ object NetworkModule {
             .client(okHttpClient)
             .build()
     }
+
+    @Provides
+    @Reusable
+    @Named("bibleLibApi")
+    fun provideBibleLibRetrofit(okHttpClient: OkHttpClient): Retrofit =
+        Retrofit.Builder()
+            .baseUrl(ApiConstants.BIBLELIB_BASE)
+            .addConverterFactory(GsonConverterFactory.create())
+            .client(okHttpClient)
+            .build()
+
+    @Provides
+    @Reusable
+    fun provideBibleLibService(@Named("bibleLibApi") retrofit: Retrofit): BibleLibService =
+        retrofit.create(BibleLibService::class.java)
 }

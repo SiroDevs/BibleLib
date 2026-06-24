@@ -2,7 +2,7 @@ package com.biblelib.feature.settings
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.biblelib.core.data.repos.DraftRepo
+import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.EditorRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.UserRepo
@@ -17,7 +17,7 @@ import javax.inject.Inject
 class UserProfileViewModel @Inject constructor(
     private val userRepo: UserRepo,
     private val prefsRepo: PrefsRepo,
-    private val draftRepo: DraftRepo,
+    private val draftRepo: BibleRepo,
     private val editorRepo: EditorRepo,
 ) : ViewModel() {
 
@@ -45,7 +45,7 @@ class UserProfileViewModel @Inject constructor(
                 draftRepo.syncDraftsToRemote(userId)
                 editorRepo.syncEditsToRemote(userId)
                 editorRepo.syncEditStatuses(userId)
-                userRepo.syncBookSelection(userId)
+                userRepo.syncBibleSelection(userId)
                 _authState.value = AuthState.Success(userId)
             } catch (e: Exception) {
                 _authState.value = AuthState.Error(e.message ?: "Login failed")

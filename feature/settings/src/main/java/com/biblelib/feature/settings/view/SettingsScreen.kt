@@ -135,7 +135,7 @@ fun SettingsScreen(
             ListItem(
                 leadingContent = { Icon(Icons.Default.EditNote, "Reset") },
                 headlineContent = { Text("Modify Collection") },
-                supportingContent = { Text("Add or Remove Songbooks") },
+                supportingContent = { Text("Add or Remove SongBibles") },
                 modifier = Modifier.clickable {
                     settViewModel.updateSelection(true)
                     navController.navigate(Routes.SELECTION) {

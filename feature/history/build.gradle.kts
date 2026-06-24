@@ -1,6 +1,6 @@
 plugins {
     alias(libs.plugins.biblelib.android.feature)
-    alias(libs.plugins.biblelib.android.library.compose)
+    alias(libs.plugins.biblelib.hilt)
 }
 
 android {
@@ -8,7 +8,7 @@ android {
 }
 
 dependencies {
-    implementation(project(":core:common"))
     implementation(project(":core:data"))
-    implementation(libs.androidx.foundation)
+    implementation(project(":core:database"))
+    implementation(project(":core:network"))
 }

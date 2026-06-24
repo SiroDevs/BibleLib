@@ -1,156 +1,172 @@
 package com.biblelib.feature.history.view
 
 import androidx.compose.foundation.ExperimentalFoundationApi
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.pager.HorizontalPager
-import androidx.compose.foundation.pager.rememberPagerState
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Delete
-import androidx.compose.material.icons.filled.DeleteSweep
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.Tab
-import androidx.compose.material3.PrimaryTabRow
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.LaunchedEffect
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.rememberCoroutineScope
-import androidx.compose.ui.Alignment
-import androidx.compose.ui.Modifier
-import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.navigation.NavHostController
-import com.biblelib.core.common.utils.Routes
-import com.biblelib.core.ui.components.action.AppTopBar
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.*
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.ui.*
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
+import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.feature.history.HistoryGroup
 import com.biblelib.feature.history.HistoryViewModel
-import com.biblelib.feature.history.view.tabs.SearchesTab
-import com.biblelib.feature.history.view.tabs.ViewsTab
-import kotlinx.coroutines.launch
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+import androidx.compose.ui.platform.LocalLocale
 
-@OptIn(ExperimentalFoundationApi::class, ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
 @Composable
 fun HistoryScreen(
-    navController: NavHostController,
-    viewModel: HistoryViewModel = hiltViewModel(),
+    navController: NavController,
+    viewModel: HistoryViewModel,
 ) {
-    val tabs = listOf("Views", "Searches")
-    val pagerState = rememberPagerState(pageCount = { tabs.size })
-    val scope = rememberCoroutineScope()
-
-    val views by viewModel.views.collectAsState()
-    val searches by viewModel.searches.collectAsState()
-    val bookMap by viewModel.bookMap.collectAsState()
-    val selectedViews by viewModel.selectedViewIds.collectAsState()
-    val selectedSearchIds by viewModel.selectedSearchIds.collectAsState()
-    val showOlderViews by viewModel.showOlderViews.collectAsState()
-    val showOlderSearches by viewModel.showOlderSearches.collectAsState()
-
-    LaunchedEffect(Unit) { viewModel.load() }
-
-    val currentPage = pagerState.currentPage
-    val hasViewSelection = currentPage == 0 && selectedViews.isNotEmpty()
-    val hasSearchSelection = currentPage == 1 && selectedSearchIds.isNotEmpty()
-
-    val topBarTitle = when {
-        hasViewSelection -> "${selectedViews.size} selected"
-        hasSearchSelection -> "${selectedSearchIds.size} selected"
-        else -> "History"
-    }
+    val state   by viewModel.uiState.collectAsState()
+    var activeTab by remember { mutableIntStateOf(0) }
 
     Scaffold(
         topBar = {
-            AppTopBar(
-                title = topBarTitle,
-                showGoBack = true,
-                onNavIconClick = {
-                    when {
-                        hasViewSelection -> viewModel.clearViewSelection()
-                        hasSearchSelection -> viewModel.clearSearchSelection()
-                        else -> navController.popBackStack()
+            TopAppBar(
+                title = { Text("History") },
+                navigationIcon = {
+                    IconButton(onClick = { navController.popBackStack() }) {
+                        Icon(Icons.AutoMirrored.Filled.ArrowBack, "Back",
+                            tint = MaterialTheme.colorScheme.onPrimary)
                     }
                 },
                 actions = {
-                    if (hasViewSelection) {
-                        IconButton(onClick = { viewModel.deleteSelectedViews() }) {
-                            Icon(Icons.Default.Delete, contentDescription = "Delete selected")
-                        }
-                    } else if (hasSearchSelection) {
-                        IconButton(onClick = { viewModel.deleteSelectedSearches() }) {
-                            Icon(Icons.Default.Delete, contentDescription = "Delete selected")
-                        }
-                    }
                     IconButton(onClick = {
-                        if (currentPage == 0) viewModel.clearViews()
-                        else viewModel.clearSearches()
+                        if (activeTab == 0) viewModel.clearReadingHistory()
+                        else viewModel.clearSearchHistory()
                     }) {
-                        Icon(Icons.Default.DeleteSweep, contentDescription = "Clear all")
+                        Icon(Icons.Default.DeleteSweep, "Clear",
+                            tint = MaterialTheme.colorScheme.onPrimary)
                     }
-                }
+                },
+                colors = TopAppBarDefaults.topAppBarColors(
+                    containerColor    = MaterialTheme.colorScheme.primary,
+                    titleContentColor = MaterialTheme.colorScheme.onPrimary,
+                )
             )
         }
     ) { padding ->
-        Column(Modifier.padding(padding)) {
-            PrimaryTabRow(
-                selectedTabIndex = pagerState.currentPage,
-                containerColor = androidx.compose.material3.MaterialTheme.colorScheme.onPrimary,
-                contentColor = androidx.compose.material3.MaterialTheme.colorScheme.onPrimaryContainer,
-            ) {
-                tabs.forEachIndexed { i, title ->
-                    Tab(
-                        selected = pagerState.currentPage == i,
-                        onClick = {
-                            if (i == 0) viewModel.clearSearchSelection()
-                            else viewModel.clearViewSelection()
-                            scope.launch { pagerState.animateScrollToPage(i) }
-                        },
-                        text = { Text(title) }
+        Column(Modifier.fillMaxSize().padding(padding)) {
+            TabRow(selectedTabIndex = activeTab) {
+                Tab(selected = activeTab == 0, onClick = { activeTab = 0 },
+                    text = { Text("Reading") })
+                Tab(selected = activeTab == 1, onClick = { activeTab = 1 },
+                    text = { Text("Searches") })
+            }
+
+            when (activeTab) {
+                0 -> ReadingHistoryTab(
+                    groups    = state.readingHistory,
+                    isLoading = state.isLoading,
+                )
+                1 -> SearchHistoryTab(
+                    history   = state.searchHistory,
+                    isLoading = state.isLoading,
+                )
+            }
+        }
+    }
+}
+
+@OptIn(ExperimentalFoundationApi::class)
+@Composable
+private fun ReadingHistoryTab(groups: List<HistoryGroup>, isLoading: Boolean) {
+    if (isLoading) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            CircularProgressIndicator()
+        }
+        return
+    }
+    if (groups.isEmpty()) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text("No reading history yet.", color = MaterialTheme.colorScheme.onSurface.copy(0.4f))
+        }
+        return
+    }
+
+    LazyColumn {
+        groups.forEach { group ->
+            stickyHeader(key = group.dateLabel) {
+                Surface(color = MaterialTheme.colorScheme.surfaceVariant) {
+                    Text(
+                        text = group.dateLabel,
+                        style = MaterialTheme.typography.labelMedium,
+                        fontWeight = FontWeight.SemiBold,
+                        modifier = Modifier.fillMaxWidth()
+                            .padding(horizontal = 16.dp, vertical = 6.dp),
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
                     )
                 }
             }
-
-            HorizontalPager(
-                state = pagerState,
-                modifier = Modifier.fillMaxSize(),
-                verticalAlignment = Alignment.Top,
-            ) { page ->
-                when (page) {
-                    0 -> ViewsTab(
-                        views = views,
-                        bookMap = bookMap,
-                        selectedIds = selectedViews,
-                        showOlder = showOlderViews,
-                        onToggleOlder = { viewModel.toggleOlderViews() },
-                        onItemClick = { songView ->
-                            if (selectedViews.isNotEmpty()) {
-                                viewModel.toggleViewSelection(songView.song.id)
-                            } else {
-                                navController.currentBackStackEntry
-                                    ?.savedStateHandle?.set("song", songView.entity)
-                                navController.navigate(Routes.PRESENT)
-                            }
-                        },
-                        onItemLongClick = { songView -> viewModel.toggleViewSelection(songView.song.id) }
-                    )
-
-                    1 -> SearchesTab(
-                        searches = searches,
-                        selectedIds = selectedSearchIds,
-                        showOlder = showOlderSearches,
-                        onToggleOlder = { viewModel.toggleOlderSearches() },
-                        onItemClick = { search ->
-                            if (selectedSearchIds.isNotEmpty()) {
-                                viewModel.toggleSearchSelection(search.id)
-                            }
-                        },
-                        onItemLongClick = { search -> viewModel.toggleSearchSelection(search.id) }
-                    )
-                }
+            items(group.entries, key = { it.id }) { entry ->
+                HistoryEntryItem(entry = entry)
+                HorizontalDivider(thickness = 0.5.dp)
             }
+        }
+    }
+}
+
+@Composable
+private fun HistoryEntryItem(entry: HistoryEntity) {
+    val fmt = SimpleDateFormat("h:mm a", LocalLocale.current.platformLocale)
+    ListItem(
+        headlineContent = { Text("${entry.bookName} — ${entry.chapterRef}") },
+        supportingContent = {
+            Text(
+                "${entry.bibleAbbr.uppercase()} · ${fmt.format(Date(entry.readAt))}",
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.secondary,
+            )
+        },
+        leadingContent = {
+            Icon(Icons.Default.MenuBook, null,
+                tint = MaterialTheme.colorScheme.primary.copy(alpha = 0.6f))
+        },
+        modifier = Modifier.clickable {},
+    )
+}
+
+@Composable
+private fun SearchHistoryTab(history: List<com.biblelib.core.database.model.SearchEntity>, isLoading: Boolean) {
+    if (isLoading) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
+        return
+    }
+    if (history.isEmpty()) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text("No searches yet.", color = MaterialTheme.colorScheme.onSurface.copy(0.4f))
+        }
+        return
+    }
+    LazyColumn {
+        items(history, key = { it.id }) { search ->
+            val fmt = SimpleDateFormat("MMM d, h:mm a", LocalLocale.current.platformLocale)
+            ListItem(
+                headlineContent = { Text(search.query) },
+                supportingContent = {
+                    Text(
+                        fmt.format(Date(search.searchedAt)),
+                        style = MaterialTheme.typography.labelSmall,
+                    )
+                },
+                leadingContent = {
+                    Icon(Icons.Default.Search, null,
+                        tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f))
+                },
+                modifier = Modifier.clickable {}
+            )
+            HorizontalDivider(thickness = 0.5.dp)
         }
     }
 }
