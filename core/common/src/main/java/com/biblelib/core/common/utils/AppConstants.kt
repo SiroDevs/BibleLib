@@ -1,5 +1,9 @@
 package com.biblelib.core.common.utils
 
+import java.net.URLDecoder
+import java.net.URLEncoder
+import java.nio.charset.StandardCharsets
+
 object ApiConstants {
     const val PAYSTACK_BASE_URL = "https://api.paystack.co/"
     const val PAYSTACK_INITIALIZE = "transaction/initialize"
@@ -37,6 +41,16 @@ object Routes {
 
     fun reader(bibleAbbr: String = "", bookId: String = "", chapterId: String = "") =
         "reader?bibleAbbr=$bibleAbbr&bookId=$bookId&chapterId=$chapterId"
+
+    const val PAYMENT_WEBVIEW = "payment_webview/{redirectUrl}"
+
+    fun paymentWebView(redirectUrl: String): String {
+        val encoded = URLEncoder.encode(redirectUrl, StandardCharsets.UTF_8.toString())
+        return "payment_webview/$encoded"
+    }
+
+    fun decodeRedirectUrl(encoded: String): String =
+        URLDecoder.decode(encoded, StandardCharsets.UTF_8.toString())
 }
 
 object AppFonts {

@@ -102,7 +102,7 @@ fun EmptyState(
 fun EmptyStatePreview() {
     MaterialTheme {
         EmptyState(
-            message = "No songs were found.",
+            message = "Nothing was found.",
             onAction = { println("Retry tapped") }
         )
     }

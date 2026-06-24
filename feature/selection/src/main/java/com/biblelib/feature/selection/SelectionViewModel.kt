@@ -10,13 +10,12 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
-import com.biblelib.core.common.entity.BibleInfo
 import com.biblelib.core.common.entity.Selectable
 import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.worker.SyncScheduler
-import com.biblelib.core.database.model.SavedBibleEntity
+import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
 import javax.inject.Inject
 
@@ -48,14 +47,15 @@ class SelectionViewModel @Inject constructor(
                 _uiState.value = UiState.Loaded
             } catch (e: Exception) {
                 Log.e(TAG, "fetchBibles error: ${e.message}", e)
-                _uiState.value = UiState.Error("Could not load Bible versions. Please check your connection and try again.")
+                _uiState.value =
+                    UiState.Error("Could not load Bible versions. Please check your connection and try again.")
             }
         }
     }
 
     fun toggleSelection(abbr: String) {
         val current = _bibles.value
-        val target  = current.find { it.data.abbreviation == abbr } ?: return
+        val target = current.find { it.data.abbreviation == abbr } ?: return
         val isNowSelected = !target.isSelected
 
         // Enforce max 3
@@ -79,26 +79,26 @@ class SelectionViewModel @Inject constructor(
 
                 // Persist to prefs
                 prefsRepo.selectedBibles = selected.joinToString(",") { it.abbreviation }
-                prefsRepo.primaryBible   = primary.abbreviation
+                prefsRepo.primaryBible = primary.abbreviation
                 prefsRepo.isDataSelected = true
-                prefsRepo.selectAfresh   = false
+                prefsRepo.selectAfresh = false
 
                 // Reset last position so reader opens at genesis
-                prefsRepo.lastBibleAbbr  = primary.abbreviation
-                prefsRepo.lastBookId     = ""
-                prefsRepo.lastChapterId  = ""
+                prefsRepo.lastBibleAbbr = primary.abbreviation
+                prefsRepo.lastBookId = ""
+                prefsRepo.lastChapterId = ""
 
-                // Save SavedBibleEntity records
+                // Save BibleEntity records
                 val entities = selected.mapIndexed { i, dto ->
-                    SavedBibleEntity(
-                        abbreviation    = dto.abbreviation,
-                        name            = dto.name,
-                        description     = dto.description,
-                        languageName    = dto.language.name,
+                    BibleEntity(
+                        abbreviation = dto.abbreviation,
+                        name = dto.name,
+                        description = dto.description,
+                        languageName = dto.language.name,
                         scriptDirection = dto.language.scriptDirection,
-                        copyright       = dto.copyright,
-                        sortOrder       = i,
-                        isDownloaded    = false,
+                        copyright = dto.copyright,
+                        sortOrder = i,
+                        isDownloaded = false,
                     )
                 }
                 bibleRepo.saveBibles(entities)

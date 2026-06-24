@@ -7,19 +7,19 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 import com.biblelib.core.common.entity.*
-import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.TrackingRepo
 import com.biblelib.core.database.model.BookEntity
 import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.SavedBibleEntity
+import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.model.HistoryEntity
 import javax.inject.Inject
 
 data class ReaderUiState(
     val isLoading: Boolean = true,
     val error: String? = null,
-    val savedBibles: List<SavedBibleEntity> = emptyList(),
+    val savedBibles: List<BibleEntity> = emptyList(),
     val activeBibleAbbr: String = "",
     val books: List<BookEntity> = emptyList(),
     val activeBook: BookEntity? = null,
@@ -43,8 +43,8 @@ class ReaderViewModel @Inject constructor(
     fun initialize(initialBibleAbbr: String, initialBookId: String, initialChapterId: String) {
         viewModelScope.launch {
             try {
-                val savedBibles = bibleRepo.getSavedBibles()
-                if (savedBibles.isEmpty()) {
+                val bibles = bibleRepo.getbibles()
+                if (bibles.isEmpty()) {
                     _uiState.update {
                         it.copy(
                             isLoading = false,
@@ -56,12 +56,12 @@ class ReaderViewModel @Inject constructor(
 
                 // Resolve which bible / book / chapter to open
                 val bibleAbbr = initialBibleAbbr.ifEmpty {
-                    prefsRepo.lastBibleAbbr.ifEmpty { savedBibles.first().abbreviation }
+                    prefsRepo.lastBibleAbbr.ifEmpty { bibles.first().abbreviation }
                 }
 
                 _uiState.update {
                     it.copy(
-                        savedBibles = savedBibles,
+                        savedBibles = bibles,
                         activeBibleAbbr = bibleAbbr,
                         fontSizeSp = prefsRepo.fontSizeSp,
                     )
@@ -152,7 +152,7 @@ class ReaderViewModel @Inject constructor(
         val book = _uiState.value.activeBook
         if (book != null) {
             trackingRepo.recordReading(
-                ReadingHistory(
+                HistoryEntity(
                     bibleAbbr = abbr,
                     bookId = book.id,
                     bookName = book.name,

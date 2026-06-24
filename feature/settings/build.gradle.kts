@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.biblelib.android.feature)
+    alias(libs.plugins.biblelib.hilt)
 }
 
 android {
@@ -8,7 +9,6 @@ android {
 
 dependencies {
     implementation(project(":core:data"))
-
-    // Profile photo loading
-    implementation(libs.coil.compose)
+    implementation(project(":core:database"))
+    implementation(project(":core:network"))
 }

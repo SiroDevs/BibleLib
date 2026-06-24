@@ -26,9 +26,9 @@ fun SearchScreen(
     navController: NavController,
     viewModel: SearchViewModel,
 ) {
-    val query         by viewModel.query.collectAsState()
-    val results       by viewModel.results.collectAsState()
-    val isSearching   by viewModel.isSearching.collectAsState()
+    val query by viewModel.query.collectAsState()
+    val results by viewModel.results.collectAsState()
+    val isSearching by viewModel.isSearching.collectAsState()
     val searchHistory by viewModel.searchHistory.collectAsState()
 
     Scaffold(
@@ -36,15 +36,17 @@ fun SearchScreen(
             TopAppBar(
                 navigationIcon = {
                     IconButton(onClick = { navController.popBackStack() }) {
-                        Icon(Icons.AutoMirrored.Filled.ArrowBack, "Back",
-                            tint = MaterialTheme.colorScheme.onPrimary)
+                        Icon(
+                            Icons.AutoMirrored.Filled.ArrowBack, "Back",
+                            tint = MaterialTheme.colorScheme.onPrimary
+                        )
                     }
                 },
                 title = {
                     SearchField(
-                        query     = query,
-                        onChange  = viewModel::onQueryChange,
-                        onClear   = viewModel::clearQuery,
+                        query = query,
+                        onChange = viewModel::onQueryChange,
+                        onClear = viewModel::clearQuery,
                     )
                 },
                 colors = TopAppBarDefaults.topAppBarColors(
@@ -53,16 +55,23 @@ fun SearchScreen(
             )
         }
     ) { padding ->
-        Box(Modifier.fillMaxSize().padding(padding)) {
+        Box(Modifier
+            .fillMaxSize()
+            .padding(padding)) {
             when {
                 isSearching -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     CircularProgressIndicator()
                 }
+
                 query.length >= 3 && results.isEmpty() && !isSearching -> Box(
                     Modifier.fillMaxSize(), contentAlignment = Alignment.Center
                 ) {
-                    Text("No results for "$query"", color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f))
+                    Text(
+                        "No results for $query",
+                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
+                    )
                 }
+
                 query.length >= 3 -> LazyColumn {
                     item {
                         Text(
@@ -77,10 +86,11 @@ fun SearchScreen(
                         HorizontalDivider(thickness = 0.5.dp)
                     }
                 }
+
                 else -> HistorySection(
                     history = searchHistory,
                     onSelect = viewModel::searchFromHistory,
-                    onClear  = viewModel::clearSearchHistory,
+                    onClear = viewModel::clearSearchHistory,
                 )
             }
         }
@@ -100,9 +110,9 @@ private fun SearchField(
         singleLine = true,
         colors = TextFieldDefaults.colors(
             unfocusedContainerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),
-            focusedContainerColor   = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),
+            focusedContainerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),
             unfocusedIndicatorColor = androidx.compose.ui.graphics.Color.Transparent,
-            focusedIndicatorColor   = androidx.compose.ui.graphics.Color.Transparent,
+            focusedIndicatorColor = androidx.compose.ui.graphics.Color.Transparent,
         ),
         trailingIcon = {
             if (query.isNotEmpty()) {
@@ -133,19 +143,21 @@ private fun SearchResultItem(verse: VerseDisplay, query: String) {
         // Highlight the matching query text
         val annotated = buildAnnotatedString {
             val lower = verse.text.lowercase()
-            val qLow  = query.lowercase()
+            val qLow = query.lowercase()
             var start = 0
-            var idx   = lower.indexOf(qLow)
+            var idx = lower.indexOf(qLow)
             while (idx >= 0) {
                 append(verse.text.substring(start, idx))
-                withStyle(SpanStyle(
-                    fontWeight = FontWeight.Bold,
-                    background = MaterialTheme.colorScheme.secondaryContainer,
-                )) {
+                withStyle(
+                    SpanStyle(
+                        fontWeight = FontWeight.Bold,
+                        background = MaterialTheme.colorScheme.secondaryContainer,
+                    )
+                ) {
                     append(verse.text.substring(idx, idx + query.length))
                 }
                 start = idx + query.length
-                idx   = lower.indexOf(qLow, start)
+                idx = lower.indexOf(qLow, start)
             }
             append(verse.text.substring(start))
         }
@@ -167,15 +179,21 @@ private fun HistorySection(
     LazyColumn {
         if (history.isEmpty()) {
             item {
-                Box(Modifier.fillMaxWidth().padding(48.dp), contentAlignment = Alignment.Center) {
-                    Text("Search the scriptures…",
-                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f))
+                Box(Modifier
+                    .fillMaxWidth()
+                    .padding(48.dp), contentAlignment = Alignment.Center) {
+                    Text(
+                        "Search the scriptures…",
+                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
+                    )
                 }
             }
         } else {
             item {
                 Row(
-                    Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp),
+                    Modifier
+                        .fillMaxWidth()
+                        .padding(horizontal = 16.dp, vertical = 8.dp),
                     horizontalArrangement = Arrangement.SpaceBetween,
                     verticalAlignment = Alignment.CenterVertically
                 ) {
@@ -186,8 +204,12 @@ private fun HistorySection(
             items(history, key = { it.id }) { item ->
                 ListItem(
                     headlineContent = { Text(item.query) },
-                    leadingContent  = { Icon(Icons.Default.History, null,
-                        tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)) },
+                    leadingContent = {
+                        Icon(
+                            Icons.Default.History, null,
+                            tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
+                        )
+                    },
                     modifier = Modifier.clickable { onSelect(item.query) }
                 )
             }

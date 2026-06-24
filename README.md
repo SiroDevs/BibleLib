@@ -244,7 +244,7 @@ This file is gitignored. Create it at the project root (alongside `build-logic/`
 sdk.dir=/Users/yourname/Library/Android/sdk
 
 # Required — API key for the BibleLib backend (contact the maintainer)
-SONGLIB_API_KEY=your_api_key_here
+BIBLELIB_API_KEY=your_api_key_here
 
 # Required — Google OAuth 2.0 web client ID for Sign-In
 # Get this from console.cloud.google.com → APIs & Services → Credentials

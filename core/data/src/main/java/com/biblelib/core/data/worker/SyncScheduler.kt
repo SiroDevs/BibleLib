@@ -1,55 +1,51 @@
 package com.biblelib.core.data.worker
 
 import android.content.Context
-import androidx.work.BackoffPolicy
 import androidx.work.Constraints
-import androidx.work.ExistingWorkPolicy
 import androidx.work.NetworkType
 import androidx.work.OneTimeWorkRequestBuilder
+import androidx.work.BackoffPolicy
+import androidx.work.ExistingWorkPolicy
+import androidx.work.OutOfQuotaPolicy
 import androidx.work.WorkManager
+import androidx.work.workDataOf
 import java.util.concurrent.TimeUnit
 
 object SyncScheduler {
-    /** Constraints: needs any network connection. Battery / charging agnostic. */
+
     private val networkConstraints = Constraints.Builder()
         .setRequiredNetworkType(NetworkType.CONNECTED)
         .build()
 
     /**
-     * Schedules the post-selection sync (first install or re-selection).
-     * Uses [ExistingWorkPolicy.REPLACE] so that if the user re-selects Bibles the
-     * old sync is cancelled and a fresh one starts with the updated selection.
+     * Schedule download for a secondary bible (runs in foreground with notification).
+     * Uses REPLACE so a re-selection always restarts cleanly.
      */
-    fun scheduleInstallSync(context: Context) {
-        val request = OneTimeWorkRequestBuilder<SyncWorkerFactory>()
+    fun scheduleSecondaryDownload(context: Context, abbr: String) {
+        val request = OneTimeWorkRequestBuilder<SyncWorker>()
             .setConstraints(networkConstraints)
-            .addTag(SyncWorkerFactory.TAG)
+            .setInputData(workDataOf(SyncWorker.KEY_BIBLE_ABBR to abbr))
+            .addTag(SyncWorker.TAG)
+            .addTag(abbr)
             .setBackoffCriteria(BackoffPolicy.EXPONENTIAL, 30, TimeUnit.SECONDS)
+            .setExpedited(OutOfQuotaPolicy.RUN_AS_NON_EXPEDITED_WORK_REQUEST)
             .build()
 
         WorkManager.getInstance(context).enqueueUniqueWork(
-            SyncWorkerFactory.INSTALL_SYNC_WORK_NAME,
-            ExistingWorkPolicy.REPLACE,   // replace on re-selection so new Bibles are picked up
+            "${SyncWorker.WORK_NAME_PREFIX}$abbr",
+            ExistingWorkPolicy.REPLACE,
             request,
         )
     }
 
-    /**
-     * Schedules the daily background re-sync.
-     * Uses [ExistingWorkPolicy.KEEP] so if the user opens the app twice within
-     * a short window the second call does nothing.
-     */
-    fun scheduleDailySync(context: Context) {
-        val request = OneTimeWorkRequestBuilder<SyncWorkerFactory>()
-            .setConstraints(networkConstraints)
-            .addTag(SyncWorkerFactory.TAG)
-            .setBackoffCriteria(BackoffPolicy.EXPONENTIAL, 30, TimeUnit.SECONDS)
-            .build()
+    /** Cancel a specific bible download. */
+    fun cancelDownload(context: Context, abbr: String) {
+        WorkManager.getInstance(context)
+            .cancelUniqueWork("${SyncWorker.WORK_NAME_PREFIX}$abbr")
+    }
 
-        WorkManager.getInstance(context).enqueueUniqueWork(
-            SyncWorkerFactory.DAILY_SYNC_WORK_NAME,
-            ExistingWorkPolicy.KEEP,
-            request,
-        )
+    /** Cancel all pending bible downloads. */
+    fun cancelAll(context: Context) {
+        WorkManager.getInstance(context).cancelAllWorkByTag(SyncWorker.TAG)
     }
 }

@@ -26,7 +26,7 @@ class DonationRepo @Inject constructor(
     ): Result<String> {
         return try {
             val amountInCents = (amountUsd * 100).roundToLong()
-            val reference = "SONGLIB-${UUID.randomUUID().toString().take(8).uppercase()}"
+            val reference = "BIBLELIB-${UUID.randomUUID().toString().take(8).uppercase()}"
 
             val email = donorEmail?.takeIf { it.isNotBlank() } ?: ApiConstants.DONOR_EMAIL
 

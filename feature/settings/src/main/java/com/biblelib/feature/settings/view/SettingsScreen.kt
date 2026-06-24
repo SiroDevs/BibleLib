@@ -2,155 +2,211 @@ package com.biblelib.feature.settings.view
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
-import androidx.compose.material3.HorizontalDivider
 import androidx.compose.runtime.*
-import androidx.compose.ui.Modifier
-import androidx.navigation.NavHostController
+import androidx.compose.ui.*
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
+import com.biblelib.core.common.utils.AppFonts
 import com.biblelib.core.common.utils.Routes
+import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.core.data.repos.appThemeName
-import com.biblelib.core.designsystem.theme.ThemeSelectorDialog
 import com.biblelib.core.ui.MainViewModel
-import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.feature.settings.SettingsViewModel
-import com.biblelib.feature.settings.components.ConfirmResetDialog
-import com.biblelib.feature.settings.components.SettingsSectionTitle
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SettingsScreen(
-    navController: NavHostController,
+    navController: NavController,
     mainViewModel: MainViewModel,
     settViewModel: SettingsViewModel,
     themeRepo: ThemeRepo,
 ) {
-    val theme = themeRepo.selectedTheme
-    var showThemeDialog by remember { mutableStateOf(false) }
-    var showResetDialog by remember { mutableStateOf(false) }
-
-    if (showResetDialog) {
-        ConfirmResetDialog(
-            onDismiss = { showResetDialog = false },
-            onConfirm = {
-                showResetDialog = false
-                settViewModel.clearData { success ->
-                    if (success) {
-                        mainViewModel.reset()
-                    }
-                }
-            }
-        )
-    }
-
-    if (showThemeDialog) {
-        ThemeSelectorDialog(
-            current = theme,
-            onDismiss = { showThemeDialog = false },
-            onThemeSelected = {
-                themeRepo.setTheme(it)
-                showThemeDialog = false
-            }
-        )
-    }
+    val savedBibles by settViewModel.savedBibles.collectAsState()
+    val fontSizeSp by settViewModel.fontSizeSp.collectAsState()
+    val currentTheme = themeRepo.selectedTheme
 
     Scaffold(
         topBar = {
-            AppTopBar(
-                title = "App Settings",
-                showGoBack = true,
-                onNavIconClick = { navController.popBackStack() }
+            TopAppBar(
+                title = { Text("Settings") },
+                navigationIcon = {
+                    IconButton(onClick = { navController.popBackStack() }) {
+                        Icon(
+                            Icons.AutoMirrored.Filled.ArrowBack, "Back",
+                            tint = MaterialTheme.colorScheme.onPrimary
+                        )
+                    }
+                },
+                colors = TopAppBarDefaults.topAppBarColors(
+                    containerColor = MaterialTheme.colorScheme.primary,
+                    titleContentColor = MaterialTheme.colorScheme.onPrimary,
+                )
             )
         }
     ) { padding ->
-        Column(
+        LazyColumn(
             modifier = Modifier
-                .padding(padding)
                 .fillMaxSize()
+                .padding(padding),
+            contentPadding = PaddingValues(16.dp),
+            verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
-            SettingsSectionTitle("Account")
-            ListItem(
-                leadingContent = { Icon(Icons.Default.AccountCircle, "Profile") },
-                headlineContent = { Text("Your Profile") },
-                supportingContent = { Text("Manage your Profile") },
-                modifier = Modifier.clickable {
-                    navController.navigate(Routes.USER_PROFILE)
-                }
-            )
-            HorizontalDivider()
-
-            SettingsSectionTitle("Slides")
-            ListItem(
-                leadingContent = { Icon(Icons.Default.Swipe, "slides") },
-                headlineContent = { Text("Song Slides") },
-                supportingContent = { Text("Swipe verses horizontally") },
-                trailingContent = {
-                    Switch(
-                        checked = settViewModel.horizontalSlides,
-                        onCheckedChange = { settViewModel.updateHorizontalSlides(it) }
+            // ── Theme ────────────────────────────────────────────────────────
+            item {
+                SettingsSection(title = "Appearance") {
+                    Text(
+                        "Theme", style = MaterialTheme.typography.labelMedium,
+                        modifier = Modifier.padding(bottom = 8.dp)
                     )
-                }
-            )
-            HorizontalDivider()
-
-            SettingsSectionTitle("Demo")
-            ListItem(
-                leadingContent = { Icon(Icons.Default.PlayCircleOutline, "Demo Mode") },
-                headlineContent = { Text("Demo Mode") },
-                supportingContent = { Text("Show guided tour on home screen") },
-                trailingContent = {
-                    Switch(
-                        checked = settViewModel.demoMode,
-                        onCheckedChange = { settViewModel.updateDemoMode(it) }
-                    )
-                }
-            )
-            HorizontalDivider()
-
-            SettingsSectionTitle("Display")
-            ListItem(
-                leadingContent = { Icon(Icons.Default.Brightness6, "Theme") },
-                headlineContent = { Text("App Theme") },
-                supportingContent = { Text(appThemeName(theme)) },
-                modifier = Modifier.clickable { showThemeDialog = true }
-            )
-            HorizontalDivider()
-
-            SettingsSectionTitle("Donate to BibleLib")
-            ListItem(
-                leadingContent = {
-                    Icon(
-                        Icons.Default.VolunteerActivism,
-                        contentDescription = null
-                    )
-                },
-                headlineContent = { Text("Donate Now") },
-                supportingContent = { Text("We need your support to continue serving you") },
-                modifier = Modifier.clickable { navController.navigate(Routes.DONATION) },
-            )
-            HorizontalDivider()
-
-            SettingsSectionTitle("Selection")
-            ListItem(
-                leadingContent = { Icon(Icons.Default.EditNote, "Reset") },
-                headlineContent = { Text("Modify Collection") },
-                supportingContent = { Text("Add or Remove SongBibles") },
-                modifier = Modifier.clickable {
-                    settViewModel.updateSelection(true)
-                    navController.navigate(Routes.SELECTION) {
-                        popUpTo(0) { inclusive = true }
-                        launchSingleTop = true
+                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        ThemeMode.entries.forEach { mode ->
+                            FilterChip(
+                                selected = currentTheme == mode,
+                                onClick = { themeRepo.setTheme(mode) },
+                                label = {
+                                    Text(
+                                        mode.name.lowercase().replaceFirstChar { it.uppercase() })
+                                }
+                            )
+                        }
                     }
                 }
+            }
+
+            // ── Font size ─────────────────────────────────────────────────────
+            item {
+                SettingsSection(title = "Reading") {
+                    Text(
+                        "Font size: ${fontSizeSp.toInt()}sp",
+                        style = MaterialTheme.typography.labelMedium,
+                        modifier = Modifier.padding(bottom = 4.dp)
+                    )
+                    Slider(
+                        value = fontSizeSp,
+                        onValueChange = settViewModel::setFontSize,
+                        valueRange = AppFonts.MIN_FONT_SP..AppFonts.MAX_FONT_SP,
+                        steps = ((AppFonts.MAX_FONT_SP - AppFonts.MIN_FONT_SP) / 2).toInt() - 1,
+                    )
+                    Text(
+                        "In the beginning God created the heavens and the earth.",
+                        fontSize = androidx.compose.ui.unit.TextUnit(
+                            fontSizeSp,
+                            androidx.compose.ui.unit.TextUnitType.Sp
+                        ),
+                        lineHeight = androidx.compose.ui.unit.TextUnit(
+                            fontSizeSp * 1.6f,
+                            androidx.compose.ui.unit.TextUnitType.Sp
+                        ),
+                        modifier = Modifier.padding(top = 4.dp),
+                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f),
+                    )
+                }
+            }
+
+            // ── Your bibles ───────────────────────────────────────────────────
+            item {
+                SettingsSection(title = "Your Bibles") {
+                    savedBibles.forEach { bible ->
+                        ListItem(
+                            headlineContent = { Text(bible.name, fontWeight = FontWeight.Medium) },
+                            supportingContent = {
+                                Text(
+                                    if (bible.isDownloaded) "Downloaded" else "Downloading…",
+                                    color = if (bible.isDownloaded) MaterialTheme.colorScheme.primary
+                                    else MaterialTheme.colorScheme.secondary,
+                                )
+                            },
+                            leadingContent = {
+                                Text(
+                                    bible.abbreviation.uppercase().take(3),
+                                    style = MaterialTheme.typography.labelLarge,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.primary
+                                )
+                            },
+                            trailingContent = {
+                                if (savedBibles.size > 1) {
+                                    IconButton(onClick = { settViewModel.removeBible(bible.abbreviation) }) {
+                                        Icon(
+                                            Icons.Default.Delete, "Remove",
+                                            tint = MaterialTheme.colorScheme.error.copy(alpha = 0.6f)
+                                        )
+                                    }
+                                }
+                            }
+                        )
+                        HorizontalDivider(thickness = 0.5.dp)
+                    }
+                    Spacer(Modifier.height(8.dp))
+                    OutlinedButton(
+                        onClick = { settViewModel.requestReselection(mainViewModel) },
+                        modifier = Modifier.fillMaxWidth(),
+                    ) {
+                        Icon(Icons.Default.SwapHoriz, null)
+                        Spacer(Modifier.width(8.dp))
+                        Text("Change Bible Selection")
+                    }
+                }
+            }
+
+            // ── More ──────────────────────────────────────────────────────────
+            item {
+                SettingsSection(title = "More") {
+                    ListItem(
+                        headlineContent = { Text("Help & Support") },
+                        leadingContent = {
+                            Icon(
+                                Icons.Default.HelpOutline,
+                                null,
+                                tint = MaterialTheme.colorScheme.primary
+                            )
+                        },
+                        trailingContent = { Icon(Icons.Default.ChevronRight, null) },
+                        modifier = Modifier.clickable { navController.navigate(Routes.HELP) }
+                    )
+                    ListItem(
+                        headlineContent = { Text("Support BibleLib") },
+                        leadingContent = {
+                            Icon(
+                                Icons.Default.Favorite,
+                                null,
+                                tint = MaterialTheme.colorScheme.primary
+                            )
+                        },
+                        trailingContent = { Icon(Icons.Default.ChevronRight, null) },
+                        modifier = Modifier.clickable { navController.navigate(Routes.DONATION) }
+                    )
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun SettingsSection(title: String, content: @Composable ColumnScope.() -> Unit) {
+    Card(
+        shape = RoundedCornerShape(12.dp),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+        elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
+    ) {
+        Column(Modifier
+            .fillMaxWidth()
+            .padding(16.dp)) {
+            Text(
+                title,
+                style = MaterialTheme.typography.titleSmall,
+                fontWeight = FontWeight.SemiBold,
+                color = MaterialTheme.colorScheme.primary,
+                modifier = Modifier.padding(bottom = 12.dp)
             )
-            ListItem(
-                leadingContent = { Icon(Icons.Default.Refresh, "Reset") },
-                headlineContent = { Text("Select Afresh") },
-                supportingContent = { Text("Reset everything and start over") },
-                modifier = Modifier.clickable { showResetDialog = true }
-            )
-            HorizontalDivider()
+            content()
         }
     }
 }
