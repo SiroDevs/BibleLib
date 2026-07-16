@@ -34,7 +34,7 @@ fun HistorySection(
                     .fillMaxWidth()
                     .padding(48.dp), contentAlignment = Alignment.Center) {
                     Text(
-                        "Search the scriptures…",
+                        "Search the scriptures...",
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
                     )
                 }

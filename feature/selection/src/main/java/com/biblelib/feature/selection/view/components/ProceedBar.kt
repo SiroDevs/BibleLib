@@ -35,7 +35,6 @@ fun ProceedBar(
             modifier = Modifier.fillMaxWidth().padding(16.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            // Slot indicators
             Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 repeat(maxSelections) { i ->
                     val filled = i < selectedCount
@@ -70,7 +69,7 @@ fun ProceedBar(
                     )
                     Spacer(Modifier.width(8.dp))
                 }
-                Text(if (isSaving) "Downloading…" else "Continue")
+                Text(if (isSaving) "Downloading..." else "Continue")
             }
         }
     }

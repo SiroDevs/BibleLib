@@ -43,6 +43,7 @@ import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.ui.MainViewModel
+import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.feature.settings.SettingsViewModel
 import com.biblelib.feature.settings.view.components.SettingsSection
 
@@ -60,20 +61,10 @@ fun SettingsScreen(
 
     Scaffold(
         topBar = {
-            TopAppBar(
-                title = { Text("Settings") },
-                navigationIcon = {
-                    IconButton(onClick = { navController.popBackStack() }) {
-                        Icon(
-                            Icons.AutoMirrored.Filled.ArrowBack, "Back",
-                            tint = MaterialTheme.colorScheme.onPrimary
-                        )
-                    }
-                },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.primary,
-                    titleContentColor = MaterialTheme.colorScheme.onPrimary,
-                )
+            AppTopBar(
+                title = "Settings",
+                showGoBack = true,
+                onNavIconClick = { navController.popBackStack() }
             )
         }
     ) { padding ->
@@ -84,7 +75,6 @@ fun SettingsScreen(
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
-            // ── Theme ────────────────────────────────────────────────────────
             item {
                 SettingsSection(title = "Appearance") {
                     Text(
@@ -142,7 +132,7 @@ fun SettingsScreen(
                             headlineContent = { Text(bible.name, fontWeight = FontWeight.Medium) },
                             supportingContent = {
                                 Text(
-                                    if (bible.isDownloaded) "Downloaded" else "Downloading…",
+                                    if (bible.isDownloaded) "Downloaded" else "Downloading...",
                                     color = if (bible.isDownloaded) MaterialTheme.colorScheme.primary
                                     else MaterialTheme.colorScheme.secondary,
                                 )

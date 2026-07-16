@@ -119,7 +119,7 @@ private fun SearchField(
     TextField(
         value = query,
         onValueChange = onChange,
-        placeholder = { Text("Search scriptures…") },
+        placeholder = { Text("Search scriptures...") },
         singleLine = true,
         colors = TextFieldDefaults.colors(
             unfocusedContainerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.3f),

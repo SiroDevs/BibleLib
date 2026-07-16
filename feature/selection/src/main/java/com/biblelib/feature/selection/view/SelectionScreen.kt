@@ -13,13 +13,15 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Brightness6
+import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
-import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -34,6 +36,8 @@ import androidx.navigation.NavController
 import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
+import com.biblelib.core.designsystem.theme.ThemeSelectorDialog
+import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.indicators.BibleCardShimmer
 import com.biblelib.core.ui.components.indicators.ErrorState
 import com.biblelib.feature.selection.SelectionViewModel
@@ -47,95 +51,179 @@ fun SelectionScreen(
     viewModel: SelectionViewModel,
     themeRepo: ThemeRepo,
 ) {
+
     val uiState by viewModel.uiState.collectAsState()
     val bibles by viewModel.bibles.collectAsState()
+    val selectedCount by viewModel.selectedCount.collectAsState()
+    val canProceed by viewModel.canProceed.collectAsState()
 
-    LaunchedEffect(Unit) { viewModel.fetchBibles() }
+    var showThemeDialog by remember {
+        mutableStateOf(false)
+    }
 
-    // Navigate to reader when saving is done
+    LaunchedEffect(Unit) {
+        viewModel.fetchBibles()
+    }
+
     LaunchedEffect(uiState) {
         if (uiState is UiState.Saved) {
             navController.navigate(Routes.reader()) {
-                popUpTo(Routes.SELECTION) { inclusive = true }
+                popUpTo(Routes.SELECTION) {
+                    inclusive = true
+                }
             }
         }
     }
 
+    if (showThemeDialog) {
+        ThemeSelectorDialog(
+            current = themeRepo.selectedTheme,
+            onDismiss = {
+                showThemeDialog = false
+            },
+            onThemeSelected = {
+                themeRepo.setTheme(it)
+                showThemeDialog = false
+            }
+        )
+    }
+
     Scaffold(
+
         topBar = {
-            TopAppBar(
-                title = {
-                    Column {
-                        Text("Choose Your Bibles", style = MaterialTheme.typography.titleLarge)
-                        Text(
-                            "Select 1–3 versions",
-                            style = MaterialTheme.typography.labelSmall,
-                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+
+            AppTopBar(
+
+                title = "Choose Your Bibles",
+                tagline = "Select 1 – 3 Bibles",
+
+                actions = {
+
+                    if (uiState !is UiState.Loading &&
+                        uiState !is UiState.Saving
+                    ) {
+                        IconButton(
+                            onClick = viewModel::fetchBibles
+                        ) {
+                            Icon(
+                                Icons.Default.Refresh,
+                                null
+                            )
+                        }
+                    }
+
+                    IconButton(
+                        onClick = {
+                            showThemeDialog = true
+                        }
+                    ) {
+                        Icon(
+                            Icons.Default.Brightness6,
+                            null
                         )
                     }
-                },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.primary,
-                    titleContentColor = MaterialTheme.colorScheme.onPrimary,
-                )
+                }
             )
         },
+
         bottomBar = {
+
             ProceedBar(
-                selectedCount = viewModel.selectedCount,
-                maxSelections = viewModel.maxSelections,
-                canProceed = viewModel.canProceed(),
+                selectedCount = selectedCount,
+                maxSelections = SelectionViewModel.MAX_SELECTIONS,
+                canProceed = canProceed,
                 isSaving = uiState is UiState.Saving,
-                onProceed = viewModel::saveSelectionAndDownload,
+                onProceed = viewModel::saveSelectionAndDownload
             )
         }
+
     ) { padding ->
-        Box(modifier = Modifier.fillMaxSize().padding(padding)) {
+
+        Box(
+            Modifier
+                .fillMaxSize()
+                .padding(padding)
+        ) {
+
             when (uiState) {
-                is UiState.Loading -> BibleCardShimmer()
+
+                UiState.Loading -> BibleCardShimmer()
 
                 is UiState.Error -> ErrorState(
                     message = (uiState as UiState.Error).message,
                     onRetry = viewModel::fetchBibles
                 )
 
-                is UiState.Saving -> Column(
-                    modifier = Modifier.fillMaxSize(),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.Center,
-                ) {
-                    CircularProgressIndicator(color = MaterialTheme.colorScheme.primary)
-                    Spacer(modifier = Modifier.height(16.dp))
-                    Text("Downloading primary Bible…", style = MaterialTheme.typography.bodyMedium)
+                UiState.Saving -> {
+
+                    Column(
+                        modifier = Modifier.fillMaxSize(),
+                        horizontalAlignment = Alignment.CenterHorizontally,
+                        verticalArrangement = Arrangement.Center
+                    ) {
+
+                        CircularProgressIndicator()
+
+                        Spacer(
+                            Modifier.height(16.dp)
+                        )
+
+                        Text(
+                            "Downloading primary Bible..."
+                        )
+                    }
                 }
 
-                else -> LazyColumn(
-                    contentPadding = PaddingValues(vertical = 8.dp),
-                ) {
-                    itemsIndexed(bibles, key = { _, b -> b.data.abbreviation }) { index, item ->
-                        val isSelected = item.isSelected
-                        val isDisabled =
-                            !isSelected && viewModel.selectedCount >= viewModel.maxSelections
+                else -> {
 
-                        var visible by remember { mutableStateOf(false) }
-                        LaunchedEffect(Unit) {
-                            kotlinx.coroutines.delay(index * 40L)
-                            visible = true
-                        }
+                    LazyColumn(
+                        contentPadding = PaddingValues(vertical = 8.dp)
+                    ) {
 
-                        AnimatedVisibility(
-                            visible = visible,
-                            enter = fadeIn() + slideInVertically(initialOffsetY = { it / 3 }),
-                        ) {
-                            BibleListItem(
-                                name = item.data.name,
-                                description = item.data.description,
-                                abbreviation = item.data.abbreviation,
-                                language = item.data.language.name,
-                                isSelected = isSelected,
-                                isDisabled = isDisabled,
-                                onClick = { viewModel.toggleSelection(item.data.abbreviation) }
-                            )
+                        itemsIndexed(
+                            bibles,
+                            key = { _, it ->
+                                it.data.abbreviation
+                            }
+                        ) { index, item ->
+
+                            var visible by remember {
+                                mutableStateOf(false)
+                            }
+
+                            LaunchedEffect(Unit) {
+                                kotlinx.coroutines.delay(index * 40L)
+                                visible = true
+                            }
+
+                            AnimatedVisibility(
+                                visible = visible,
+                                enter = fadeIn() +
+                                        slideInVertically {
+                                            it / 3
+                                        }
+                            ) {
+
+                                BibleListItem(
+
+                                    name = item.data.name,
+                                    description = item.data.description,
+                                    abbreviation = item.data.abbreviation,
+                                    language = item.data.language.name,
+
+                                    isSelected = item.isSelected,
+
+                                    isDisabled =
+                                        !item.isSelected &&
+                                                selectedCount >= SelectionViewModel.MAX_SELECTIONS,
+
+                                    onClick = {
+                                        viewModel.toggleSelection(
+                                            item.data.abbreviation
+                                        )
+                                    }
+                                )
+                            }
                         }
                     }
                 }

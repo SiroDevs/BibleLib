@@ -77,7 +77,7 @@ fun BibleCardShimmer() {
         modifier = Modifier.fillMaxWidth().padding(8.dp),
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
-        repeat(6) {
+        repeat(10) {
             Row(
                 modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
                 horizontalArrangement = Arrangement.spacedBy(12.dp)

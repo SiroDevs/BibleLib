@@ -54,15 +54,15 @@ fun BibleListItem(
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 12.dp, vertical = 5.dp)
+            .padding(horizontal = 10.dp, vertical = 5.dp)
             .scale(scale)
             .clickable(enabled = !isDisabled) { onClick() },
         shape = RoundedCornerShape(12.dp),
         colors = CardDefaults.cardColors(
             containerColor = when {
-                isSelected  -> MaterialTheme.colorScheme.primaryContainer
-                isDisabled  -> MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f)
-                else        -> MaterialTheme.colorScheme.surface
+                isSelected -> MaterialTheme.colorScheme.primaryContainer
+                isDisabled -> MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f)
+                else -> MaterialTheme.colorScheme.surface
             }
         ),
         elevation = CardDefaults.cardElevation(
@@ -71,7 +71,7 @@ fun BibleListItem(
         border = if (isSelected) BorderStroke(2.dp, MaterialTheme.colorScheme.primary) else null,
     ) {
         Row(
-            modifier = Modifier.padding(12.dp),
+            modifier = Modifier.padding(5.dp),
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(12.dp)
         ) {
@@ -79,7 +79,7 @@ fun BibleListItem(
             Box(
                 modifier = Modifier
                     .size(52.dp)
-                    .clip(CircleShape)
+                    .clip(RoundedCornerShape(10.dp))
                     .background(
                         if (isSelected) MaterialTheme.colorScheme.primary
                         else MaterialTheme.colorScheme.surfaceVariant

@@ -57,7 +57,7 @@ class SyncWorker @AssistedInject constructor(
     private fun createForegroundInfo(
         abbr: String,
         progress: Float,
-        step: String = "Downloading…"
+        step: String = "Downloading..."
     ): ForegroundInfo {
         val nm = context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
         if (nm.getNotificationChannel(CHANNEL_ID) == null) {

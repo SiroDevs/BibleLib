@@ -42,7 +42,7 @@ class BibleRepo @Inject constructor(
     ) = withContext(Dispatchers.IO) {
         Log.d(TAG, "▶ Downloading bible: $abbr")
 
-        onProgress("Fetching books…", 0.1f)
+        onProgress("Fetching books ...", 0.1f)
         val booksResp = service.getBooks(abbr)
         val bookEntities = booksResp.data.mapIndexed { i, dto ->
             BookEntity(
@@ -57,7 +57,7 @@ class BibleRepo @Inject constructor(
         bookDao.insertAll(bookEntities)
         Log.d(TAG, "✅ ${bookEntities.size} books saved for $abbr")
 
-        onProgress("Fetching chapters…", 0.3f)
+        onProgress("Fetching chapters...", 0.3f)
         val chaptersResp = service.getChapters(abbr)
         val chapterEntities = mutableListOf<ChapterEntity>()
         chaptersResp.forEach { (_, chapters) ->
@@ -76,7 +76,7 @@ class BibleRepo @Inject constructor(
         chapterDao.insertAll(chapterEntities)
         Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
 
-        onProgress("Fetching verses…", 0.6f)
+        onProgress("Fetching verses...", 0.6f)
         val versesResp = service.getVerses(abbr)
         val verseEntities = mutableListOf<VerseEntity>()
         versesResp.forEach { (bookId, chapters) ->
