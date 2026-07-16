@@ -1,9 +1,9 @@
-package com.biblelib.feature.donation.view
+package com.biblelib.feature.donation.view.screen
 
+import android.util.Patterns
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -13,7 +13,6 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material3.Checkbox
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
@@ -29,10 +28,8 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.input.KeyboardCapitalization
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -40,8 +37,13 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.ui.components.action.AppTopBar
-import com.biblelib.feature.donation.DonationState
-import com.biblelib.feature.donation.DonationViewModel
+import com.biblelib.feature.donation.viewmodel.DonationState
+import com.biblelib.feature.donation.viewmodel.DonationViewModel
+import com.biblelib.feature.donation.view.components.ConfirmDonationDialog
+import com.biblelib.feature.donation.view.components.DonateNowButton
+import com.biblelib.feature.donation.view.components.DonationHeaderCard
+import com.biblelib.feature.donation.view.components.DonorIdentitySection
+import com.biblelib.feature.donation.view.components.PresetAmountGrid
 import kotlinx.coroutines.launch
 
 private const val DEFAULT_PRESET = 1000
@@ -102,8 +104,10 @@ fun DonationScreen(
                 showConfirmDialog = false
                 viewModel.submitDonation(
                     amountUsd = activeAmount,
-                    donorName = if (isDonatingAnonymously) null else donorName.trim().takeIf { it.isNotBlank() },
-                    donorEmail = if (isDonatingAnonymously) null else donorEmail.trim().takeIf { it.isNotBlank() },
+                    donorName = if (isDonatingAnonymously) null else donorName.trim()
+                        .takeIf { it.isNotBlank() },
+                    donorEmail = if (isDonatingAnonymously) null else donorEmail.trim()
+                        .takeIf { it.isNotBlank() },
                 )
             },
             onDismiss = {
@@ -229,15 +233,20 @@ fun DonationScreen(
                                     snackbarHostState.showSnackbar("Please enter a donation amount")
                                 }
                             }
+
                             activeAmount < MINIMUM_DONATION -> {
                                 showMinimumAmountError = true
                             }
-                            !isDonatingAnonymously && donorEmail.isNotBlank() && !isValidEmail(donorEmail) -> {
+
+                            !isDonatingAnonymously && donorEmail.isNotBlank() && !isValidEmail(
+                                donorEmail
+                            ) -> {
                                 isDonorEmailError = true
                                 scope.launch {
                                     snackbarHostState.showSnackbar("Please enter a valid email address")
                                 }
                             }
+
                             else -> {
                                 showConfirmDialog = true
                             }
@@ -260,4 +269,4 @@ fun DonationScreen(
 }
 
 private fun isValidEmail(email: String): Boolean =
-    android.util.Patterns.EMAIL_ADDRESS.matcher(email).matches()
+    Patterns.EMAIL_ADDRESS.matcher(email).matches()

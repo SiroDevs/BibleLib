@@ -35,8 +35,6 @@ data class BookDto(
     val nameLong: String = "",
 )
 
-// chapters.json is a map of bookId -> List<ChapterDto>
-// e.g. { "GEN": [ { "id": "GEN.1", ... }, ... ], "EXO": [...] }
 typealias ChaptersResponse = Map<String, List<ChapterDto>>
 
 data class ChapterDto(
@@ -47,8 +45,7 @@ data class ChapterDto(
     val reference: String = "",
 )
 
-// verses.json is:  { "GEN": { "GEN.1": { ChapterContentDto }, ... } }
-typealias VersesResponse = Map<String, Map<String, ChapterContentDto>>
+typealias VersesResponse = Map<String, ChapterContentDto>
 
 data class ChapterContentDto(
     val id: String = "",

@@ -18,7 +18,7 @@ import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.ui.components.indicators.ErrorState
 import com.biblelib.core.ui.components.indicators.VerseShimmer
-import com.biblelib.feature.reader.ReaderViewModel
+import com.biblelib.feature.reader.viewmodel.ReaderViewModel
 import com.biblelib.feature.reader.view.components.BibleSelectorSheet
 import com.biblelib.feature.reader.view.components.BookDrawer
 import com.biblelib.feature.reader.view.components.ChapterNavBar

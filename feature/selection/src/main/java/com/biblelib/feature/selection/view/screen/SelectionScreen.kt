@@ -1,4 +1,4 @@
-package com.biblelib.feature.selection.view
+package com.biblelib.feature.selection.view.screen
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
@@ -40,9 +40,10 @@ import com.biblelib.core.designsystem.theme.ThemeSelectorDialog
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.indicators.BibleCardShimmer
 import com.biblelib.core.ui.components.indicators.ErrorState
-import com.biblelib.feature.selection.SelectionViewModel
+import com.biblelib.feature.selection.viewmodel.SelectionViewModel
 import com.biblelib.feature.selection.view.components.BibleListItem
 import com.biblelib.feature.selection.view.components.ProceedBar
+import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -192,7 +193,7 @@ fun SelectionScreen(
                             }
 
                             LaunchedEffect(Unit) {
-                                kotlinx.coroutines.delay(index * 40L)
+                                delay(index * 40L)
                                 visible = true
                             }
 

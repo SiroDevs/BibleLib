@@ -77,10 +77,12 @@ class BibleRepo @Inject constructor(
         Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
 
         onProgress("Fetching verses...", 0.6f)
-        val versesResp = service.getVerses(abbr)
+        val bookIds = booksResp.data.map { it.id }
         val verseEntities = mutableListOf<VerseEntity>()
-        versesResp.forEach { (bookId, chapters) ->
-            chapters.forEach { (chapterId, content) ->
+
+        bookIds.forEachIndexed { index, bookId ->
+            val versesResp = service.getVersesForBook(abbr, bookId)
+            versesResp.forEach { (chapterId, content) ->
                 val verses = extractVerses(content)
                 val json = gson.toJson(verses)
                 verseEntities.add(
@@ -94,7 +96,14 @@ class BibleRepo @Inject constructor(
                     )
                 )
             }
+
+            val fraction = (index + 1).toFloat() / bookIds.size
+            onProgress(
+                "Fetching verses ($bookId, ${index + 1}/${bookIds.size})...",
+                0.6f + fraction * 0.35f
+            )
         }
+
         verseDao.insertAll(verseEntities)
         Log.d(TAG, "✅ ${verseEntities.size} chapter verse sets saved for $abbr")
 
@@ -102,8 +111,6 @@ class BibleRepo @Inject constructor(
         onProgress("Done!", 1.0f)
         Log.d(TAG, "✅ Download complete for $abbr")
     }
-
-    // ─── Local reads ─────────────────────────────────────────────────────────
 
     suspend fun getLocalBooks(abbr: String): List<BookEntity> =
         withContext(Dispatchers.IO) { bookDao.getByBible(abbr) }
@@ -151,13 +158,6 @@ class BibleRepo @Inject constructor(
         verseDao.deleteAll()
     }
 
-    // ─── Helpers ─────────────────────────────────────────────────────────────
-
-    /**
-     * Walk the nested content tree from the API and extract flat verse objects.
-     * The API returns content as:
-     *   para > [verse-tag + text-node, verse-tag + text-node, ...]
-     */
     private fun extractVerses(content: ChapterContentDto): List<VerseDisplay> {
         val verses = mutableListOf<VerseDisplay>()
         var currentVerseNumber = 0

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.biblelib.feature.donation.view
+package com.biblelib.feature.donation.view.components
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons

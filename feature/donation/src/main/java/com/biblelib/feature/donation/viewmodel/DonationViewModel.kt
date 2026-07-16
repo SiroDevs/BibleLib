@@ -1,4 +1,4 @@
-package com.biblelib.feature.donation
+package com.biblelib.feature.donation.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

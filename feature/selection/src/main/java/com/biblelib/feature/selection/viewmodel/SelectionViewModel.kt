@@ -1,4 +1,4 @@
-package com.biblelib.feature.selection
+package com.biblelib.feature.selection.viewmodel
 
 import android.content.Context
 import android.util.Log
@@ -45,7 +45,7 @@ class SelectionViewModel @Inject constructor(
             .map { list -> list.count { it.isSelected } }
             .stateIn(
                 viewModelScope,
-                SharingStarted.Eagerly,
+                SharingStarted.Companion.Eagerly,
                 0
             )
 
@@ -54,7 +54,7 @@ class SelectionViewModel @Inject constructor(
             .map { it > 0 }
             .stateIn(
                 viewModelScope,
-                SharingStarted.Eagerly,
+                SharingStarted.Companion.Eagerly,
                 false
             )
 

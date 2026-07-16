@@ -1,4 +1,4 @@
-package com.biblelib.feature.settings.view
+package com.biblelib.feature.settings.view.screen
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -12,7 +12,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.ChevronRight
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Favorite
@@ -29,13 +28,13 @@ import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
-import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.TextUnit
+import androidx.compose.ui.unit.TextUnitType
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.AppFonts
@@ -44,7 +43,7 @@ import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.ui.MainViewModel
 import com.biblelib.core.ui.components.action.AppTopBar
-import com.biblelib.feature.settings.SettingsViewModel
+import com.biblelib.feature.settings.viewmodel.SettingsViewModel
 import com.biblelib.feature.settings.view.components.SettingsSection
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -111,13 +110,13 @@ fun SettingsScreen(
                     )
                     Text(
                         "In the beginning God created the heavens and the earth.",
-                        fontSize = androidx.compose.ui.unit.TextUnit(
+                        fontSize = TextUnit(
                             fontSizeSp,
-                            androidx.compose.ui.unit.TextUnitType.Sp
+                            TextUnitType.Sp
                         ),
-                        lineHeight = androidx.compose.ui.unit.TextUnit(
+                        lineHeight = TextUnit(
                             fontSizeSp * 1.6f,
-                            androidx.compose.ui.unit.TextUnitType.Sp
+                            TextUnitType.Sp
                         ),
                         modifier = Modifier.padding(top = 4.dp),
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f),

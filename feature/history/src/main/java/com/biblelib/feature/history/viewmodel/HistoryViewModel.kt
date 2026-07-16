@@ -1,4 +1,4 @@
-package com.biblelib.feature.history
+package com.biblelib.feature.history.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

@@ -1,4 +1,4 @@
-package com.biblelib.feature.donation.view
+package com.biblelib.feature.donation.view.screen
 
 import android.annotation.SuppressLint
 import android.graphics.Bitmap
@@ -28,7 +28,7 @@ import androidx.compose.ui.viewinterop.AndroidView
 import androidx.navigation.NavHostController
 import com.biblelib.core.common.utils.ApiConstants
 import com.biblelib.core.ui.components.action.AppTopBar
-import com.biblelib.feature.donation.DonationViewModel
+import com.biblelib.feature.donation.viewmodel.DonationViewModel
 
 @SuppressLint("SetJavaScriptEnabled")
 @Composable

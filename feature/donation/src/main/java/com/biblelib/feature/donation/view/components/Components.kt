@@ -1,4 +1,4 @@
-package com.biblelib.feature.donation.view
+package com.biblelib.feature.donation.view.components
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Arrangement

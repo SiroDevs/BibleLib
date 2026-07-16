@@ -15,8 +15,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.database.model.HistoryEntity
-import com.biblelib.feature.history.HistoryGroup
-import com.biblelib.feature.history.HistoryViewModel
+import com.biblelib.feature.history.viewmodel.HistoryGroup
+import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
 import androidx.compose.ui.platform.LocalLocale

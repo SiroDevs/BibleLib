@@ -1,4 +1,4 @@
-package com.biblelib.feature.reader
+package com.biblelib.feature.reader.viewmodel
 
 import android.util.Log
 import androidx.lifecycle.ViewModel

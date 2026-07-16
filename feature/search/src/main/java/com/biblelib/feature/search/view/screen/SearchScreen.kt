@@ -29,7 +29,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.biblelib.feature.search.SearchViewModel
+import com.biblelib.feature.search.viewmodel.SearchViewModel
 import com.biblelib.feature.search.view.components.HistorySection
 import com.biblelib.feature.search.view.components.SearchResultItem
 
