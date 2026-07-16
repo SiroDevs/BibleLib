@@ -31,32 +31,31 @@ import com.biblelib.feature.reader.view.components.VerseList
 fun ReaderScreen(
     navController: NavController,
     viewModel: ReaderViewModel,
+    initialBible: String,
     initialBibleAbbr: String,
     initialBookId: String,
     initialChapterId: String,
     prefsRepo: PrefsRepo,
 ) {
     LaunchedEffect(Unit) {
-        viewModel.initialize(initialBibleAbbr, initialBookId, initialChapterId)
+        viewModel.initialize(initialBible, initialBibleAbbr, initialBookId, initialChapterId)
     }
 
     val state by viewModel.uiState.collectAsState()
-    var showBookDrawer    by remember { mutableStateOf(false) }
-    var showChapterSheet  by remember { mutableStateOf(false) }
+    var showBookDrawer by remember { mutableStateOf(false) }
+    var showChapterSheet by remember { mutableStateOf(false) }
     var showBibleSelector by remember { mutableStateOf(false) }
 
     Scaffold(
         topBar = {
             ReaderTopBar(
-                bibleAbbr    = state.activeBibleAbbr,
-                bookName     = state.activeBook?.name ?: "",
-                chapterRef   = state.activeChapter?.reference ?: "",
-                savedBibles  = state.savedBibles,
+                bibleName = state.activeBible,
+                bookName = state.activeBook?.name ?: "",
                 onBibleClick = { showBibleSelector = true },
-                onBookClick  = { showBookDrawer = true },
-                onSearchClick= { navController.navigate(Routes.SEARCH) },
-                onHistoryClick={ navController.navigate(Routes.HISTORY) },
-                onSettingsClick={ navController.navigate(Routes.SETTINGS) },
+                onBookClick = { showBookDrawer = true },
+                onSearchClick = { navController.navigate(Routes.SEARCH) },
+                onHistoryClick = { navController.navigate(Routes.HISTORY) },
+                onSettingsClick = { navController.navigate(Routes.SETTINGS) },
             )
         },
         bottomBar = {
@@ -71,24 +70,34 @@ fun ReaderScreen(
                     val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
                     idx < chapters.size - 1
                 },
-                chapterRef   = state.activeChapter?.reference ?: "",
-                onPrev       = { viewModel.navigateChapter(-1) },
-                onNext       = { viewModel.navigateChapter(1) },
-                onChapterList= { showChapterSheet = true },
+                chapterRef = state.activeChapter?.reference ?: "",
+                onPrev = { viewModel.navigateChapter(-1) },
+                onNext = { viewModel.navigateChapter(1) },
+                onChapterList = { showChapterSheet = true },
             )
         }
     ) { padding ->
-        Box(Modifier.fillMaxSize().padding(padding)) {
+        Box(Modifier
+            .fillMaxSize()
+            .padding(padding)) {
             when {
                 state.isLoading -> VerseShimmer()
                 state.error != null -> ErrorState(
                     message = state.error!!,
-                    onRetry = { viewModel.initialize(initialBibleAbbr, initialBookId, initialChapterId) }
+                    onRetry = {
+                        viewModel.initialize(
+                            initialBible,
+                            initialBibleAbbr,
+                            initialBookId,
+                            initialChapterId
+                        )
+                    }
                 )
+
                 else -> VerseList(
-                    verses         = state.verses,
+                    verses = state.verses,
                     parallelVerses = state.parallelVerses,
-                    fontSizeSp     = state.fontSizeSp,
+                    fontSizeSp = state.fontSizeSp,
                 )
             }
         }
@@ -96,21 +105,21 @@ fun ReaderScreen(
 
     if (showBookDrawer) {
         BookDrawer(
-            books       = state.books,
-            activeBookId= state.activeBook?.id ?: "",
-            onSelect    = { book ->
+            books = state.books,
+            activeBookId = state.activeBook?.id ?: "",
+            onSelect = { book ->
                 viewModel.selectBook(book)
                 showBookDrawer = false
             },
-            onDismiss   = { showBookDrawer = false },
+            onDismiss = { showBookDrawer = false },
         )
     }
 
     if (showChapterSheet) {
         ChapterSheet(
-            chapters       = state.chapters,
-            activeChapterId= state.activeChapter?.id ?: "",
-            onSelect       = { ch ->
+            chapters = state.chapters,
+            activeChapterId = state.activeChapter?.id ?: "",
+            onSelect = { ch ->
                 viewModel.selectChapter(ch)
                 showChapterSheet = false
             },
@@ -120,9 +129,9 @@ fun ReaderScreen(
 
     if (showBibleSelector) {
         BibleSelectorSheet(
-            savedBibles    = state.savedBibles,
-            activeBibleAbbr= state.activeBibleAbbr,
-            onSelect       = { abbr ->
+            savedBibles = state.savedBibles,
+            activeBibleAbbr = state.activeBibleAbbr,
+            onSelect = { abbr ->
                 viewModel.selectBible(abbr)
                 showBibleSelector = false
             },

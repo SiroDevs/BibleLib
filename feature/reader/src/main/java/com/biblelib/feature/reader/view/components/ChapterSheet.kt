@@ -47,7 +47,7 @@ fun ChapterSheet(
                         .padding(4.dp)
                         .clip(RoundedCornerShape(8.dp))
                         .clickable { onSelect(chapter) },
-                    color = if (isActive) MaterialTheme.colorScheme.primary
+                    color = if (isActive) MaterialTheme.colorScheme.onPrimary
                     else MaterialTheme.colorScheme.surfaceVariant,
                 ) {
                     Box(contentAlignment = Alignment.Center, modifier = Modifier.padding(10.dp)) {

@@ -22,7 +22,7 @@ fun ChapterNavBar(
     onNext: () -> Unit,
     onChapterList: () -> Unit,
 ) {
-    NavigationBar(containerColor = MaterialTheme.colorScheme.surface, tonalElevation = 4.dp) {
+    NavigationBar(containerColor = MaterialTheme.colorScheme.onPrimary, tonalElevation = 4.dp) {
         NavigationBarItem(
             selected = false,
             onClick  = onPrev,

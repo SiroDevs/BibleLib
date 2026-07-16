@@ -20,6 +20,7 @@ data class ReaderUiState(
     val isLoading: Boolean = true,
     val error: String? = null,
     val savedBibles: List<BibleEntity> = emptyList(),
+    val activeBible: String = "",
     val activeBibleAbbr: String = "",
     val books: List<BookEntity> = emptyList(),
     val activeBook: BookEntity? = null,
@@ -40,7 +41,7 @@ class ReaderViewModel @Inject constructor(
     private val _uiState = MutableStateFlow(ReaderUiState())
     val uiState: StateFlow<ReaderUiState> = _uiState.asStateFlow()
 
-    fun initialize(initialBibleAbbr: String, initialBookId: String, initialChapterId: String) {
+    fun initialize(initialBible: String, initialBibleAbbr: String, initialBookId: String, initialChapterId: String) {
         viewModelScope.launch {
             try {
                 val bibles = bibleRepo.getbibles()
@@ -54,7 +55,10 @@ class ReaderViewModel @Inject constructor(
                     return@launch
                 }
 
-                // Resolve which bible / book / chapter to open
+                val bibleName = initialBible.ifEmpty {
+                    prefsRepo.lastBible.ifEmpty { bibles.first().name }
+                }
+
                 val bibleAbbr = initialBibleAbbr.ifEmpty {
                     prefsRepo.lastBibleAbbr.ifEmpty { bibles.first().abbreviation }
                 }
@@ -62,6 +66,7 @@ class ReaderViewModel @Inject constructor(
                 _uiState.update {
                     it.copy(
                         savedBibles = bibles,
+                        activeBible = bibleName,
                         activeBibleAbbr = bibleAbbr,
                         fontSizeSp = prefsRepo.fontSizeSp,
                     )

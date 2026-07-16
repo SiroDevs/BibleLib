@@ -174,8 +174,7 @@ Navigation is handled by a single `NavHostController` in `AppNavHost.kt` at the 
 SELECTION ──► READER ──┬──► SEARCH
                         ├──► HISTORY
                         ├──► SETTINGS
-                        ├──► HELP
-                        └──► DONATION ──► PAYMENT_WEBVIEW ──► READER
+                        └──► HELP
 ```
 
 ### Data flow and downloads

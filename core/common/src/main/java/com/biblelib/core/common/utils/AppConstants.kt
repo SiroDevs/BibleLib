@@ -24,6 +24,7 @@ object PrefConstants {
     const val THEME_MODE = "themeMode"
     const val LAST_BOOK_ID = "lastBookId"
     const val LAST_CHAPTER_ID = "lastChapterId"
+    const val LAST_BIBLE = "lastBible"
     const val LAST_BIBLE_ABBR = "lastBibleAbbr"
     const val DONATION_DONE_AT = "donation_done_at"
     const val LAST_SYNCED_AT = "last_synced_at"

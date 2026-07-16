@@ -67,15 +67,16 @@ fun AppNavHost(
             )
         }
 
-        // ─── Reader (main reading screen) ─────────────────────────────────
         composable(
             route = Routes.READER,
             arguments = listOf(
+                navArgument("bibleName") { type = NavType.StringType; defaultValue = "" },
                 navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
                 navArgument("bookId") { type = NavType.StringType; defaultValue = "" },
                 navArgument("chapterId") { type = NavType.StringType; defaultValue = "" },
             )
         ) { backStackEntry ->
+            val bibleName = backStackEntry.arguments?.getString("bibleName") ?: ""
             val bibleAbbr = backStackEntry.arguments?.getString("bibleAbbr") ?: ""
             val bookId = backStackEntry.arguments?.getString("bookId") ?: ""
             val chapterId = backStackEntry.arguments?.getString("chapterId") ?: ""
@@ -83,6 +84,7 @@ fun AppNavHost(
             ReaderScreen(
                 navController = navController,
                 viewModel = viewModel,
+                initialBible = bibleName,
                 initialBibleAbbr = bibleAbbr,
                 initialBookId = bookId,
                 initialChapterId = chapterId,

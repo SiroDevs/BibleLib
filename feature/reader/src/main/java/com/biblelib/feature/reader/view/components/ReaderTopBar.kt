@@ -1,11 +1,19 @@
 package com.biblelib.feature.reader.view.components
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.History
+import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -13,22 +21,21 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalLocale
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.feature.reader.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ReaderTopBar(
-    bibleAbbr: String,
+    bibleName: String,
     bookName: String,
-    chapterRef: String,
-    savedBibles: List<BibleEntity>,
     onBibleClick: () -> Unit,
     onBookClick: () -> Unit,
     onSearchClick: () -> Unit,
@@ -37,37 +44,55 @@ fun ReaderTopBar(
 ) {
     TopAppBar(
         title = {
-            Column(
-                modifier = Modifier
-                    .clickable { onBookClick() }
-                    .padding(vertical = 4.dp)
-            ) {
-                Text(bookName.ifEmpty { "BibleLib" }, style = MaterialTheme.typography.titleMedium, maxLines = 1)
-                Text(chapterRef, style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onPrimary.copy(alpha = 0.75f))
-            }
-        },
-        navigationIcon = {
-            TextButton(onClick = onBibleClick) {
-                Text(
-                    text = bibleAbbr.uppercase().take(3),
-                    style = MaterialTheme.typography.labelLarge,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.onPrimary,
-                )
-                Icon(Icons.Default.ArrowDropDown, null, tint = MaterialTheme.colorScheme.onPrimary)
+            Column() {
+                Row(
+                    horizontalArrangement = Arrangement.Center,
+                    modifier = Modifier
+                        .clickable { onBibleClick() }
+                        .padding(horizontal = 5.dp)
+                ) {
+                    Text(
+                        text = bibleName.take(30),
+                        style = MaterialTheme.typography.titleMedium,
+                    )
+                    Spacer(Modifier.width(5.dp))
+                    Icon(Icons.Default.ArrowDropDown, null)
+                }
+                Row(
+                    horizontalArrangement = Arrangement.Center,
+                    modifier = Modifier
+                        .clickable { onBookClick() }
+                        .padding(horizontal = 5.dp)
+                ) {
+                    Icon(Icons.Default.MenuBook, null, modifier = Modifier.size(25.dp))
+                    Spacer(Modifier.width(10.dp))
+                    Text(
+                        text = bookName.uppercase(LocalLocale.current.platformLocale),
+                        style = MaterialTheme.typography.titleLarge,
+                        fontWeight = FontWeight.Bold,
+                    )
+                    Spacer(Modifier.width(5.dp))
+                    Icon(Icons.Default.ArrowDropDown, null, modifier = Modifier.size(22.dp))
+                }
             }
         },
         actions = {
             IconButton(onClick = onSearchClick) {
-                Icon(Icons.Default.Search, "Search", tint = MaterialTheme.colorScheme.onPrimary)
+                Icon(Icons.Default.Search, "Search")
             }
             IconButton(onClick = onHistoryClick) {
-                Icon(Icons.Default.History, "History", tint = MaterialTheme.colorScheme.onPrimary)
+                Icon(Icons.Default.History, "History")
             }
             IconButton(onClick = onSettingsClick) {
-                Icon(Icons.Default.Settings, "Settings", tint = MaterialTheme.colorScheme.onPrimary)
+                Icon(Icons.Default.Settings, "Settings")
             }
+        },
+        navigationIcon = {
+            Image(
+                painter = painterResource(id = R.drawable.app_icon),
+                contentDescription = "AppIcon",
+                modifier = Modifier.size(50.dp),
+            )
         },
         colors = TopAppBarDefaults.topAppBarColors(
             containerColor = MaterialTheme.colorScheme.onPrimary,

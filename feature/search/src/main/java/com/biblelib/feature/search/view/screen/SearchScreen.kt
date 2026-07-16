@@ -51,7 +51,6 @@ fun SearchScreen(
                     IconButton(onClick = { navController.popBackStack() }) {
                         Icon(
                             Icons.AutoMirrored.Filled.ArrowBack, "Back",
-                            tint = MaterialTheme.colorScheme.onPrimary
                         )
                     }
                 },
