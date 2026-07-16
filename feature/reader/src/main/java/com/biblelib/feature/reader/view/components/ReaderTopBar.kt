@@ -48,7 +48,6 @@ fun ReaderTopBar(
             }
         },
         navigationIcon = {
-            // Bible version button
             TextButton(onClick = onBibleClick) {
                 Text(
                     text = bibleAbbr.uppercase().take(3),
@@ -71,8 +70,10 @@ fun ReaderTopBar(
             }
         },
         colors = TopAppBarDefaults.topAppBarColors(
-            containerColor    = MaterialTheme.colorScheme.primary,
-            titleContentColor = MaterialTheme.colorScheme.onPrimary,
-        )
+            containerColor = MaterialTheme.colorScheme.onPrimary,
+            titleContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+            navigationIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+            actionIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+        ),
     )
 }

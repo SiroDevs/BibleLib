@@ -10,6 +10,7 @@ import retrofit2.http.Path
 
 @Keep
 interface BibleLibService {
+
     @GET("info.json")
     suspend fun getBiblesInfo(): List<BibleInfoDto>
 
