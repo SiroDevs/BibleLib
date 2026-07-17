@@ -18,6 +18,10 @@ import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.ui.MainViewModel
+import com.biblelib.feature.bibles.view.screen.BiblesScreen
+import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
+import com.biblelib.feature.bookmarknotes.view.BookmarkNotesScreen
+import com.biblelib.feature.bookmarknotes.viewmodel.BookmarkNotesViewModel
 import com.biblelib.feature.donation.viewmodel.DonationViewModel
 import com.biblelib.feature.donation.view.screen.DonationScreen
 import com.biblelib.feature.donation.view.screen.PaymentWebViewScreen
@@ -26,6 +30,8 @@ import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import com.biblelib.feature.history.view.HistoryScreen
 import com.biblelib.feature.reader.viewmodel.ReaderViewModel
 import com.biblelib.feature.reader.view.screen.ReaderScreen
+import com.biblelib.feature.reader.viewmodel.NotesViewModel
+import com.biblelib.feature.reader.view.screen.NotesScreen
 import com.biblelib.feature.search.viewmodel.SearchViewModel
 import com.biblelib.feature.search.view.screen.SearchScreen
 import com.biblelib.feature.selection.viewmodel.SelectionViewModel
@@ -89,6 +95,38 @@ fun AppNavHost(
                 initialBookId = bookId,
                 initialChapterId = chapterId,
                 prefsRepo = prefsRepo,
+                themeRepo = themeRepo,
+            )
+        }
+
+        composable(
+            route = Routes.NOTES,
+            arguments = listOf(
+                navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
+                navArgument("verseId") { type = NavType.StringType; defaultValue = "" },
+                navArgument("bookId") { type = NavType.StringType; defaultValue = "" },
+                navArgument("chapterId") { type = NavType.StringType; defaultValue = "" },
+                navArgument("title") { type = NavType.StringType; defaultValue = "" },
+                navArgument("verseText") { type = NavType.StringType; defaultValue = "" },
+            )
+        ) { backStackEntry ->
+            val args = backStackEntry.arguments
+            val bibleAbbr = args?.getString("bibleAbbr") ?: ""
+            val verseId = Routes.decode(args?.getString("verseId") ?: "")
+            val bookId = Routes.decode(args?.getString("bookId") ?: "")
+            val chapterId = Routes.decode(args?.getString("chapterId") ?: "")
+            val title = Routes.decode(args?.getString("title") ?: "")
+            val verseText = Routes.decode(args?.getString("verseText") ?: "")
+            val viewModel: NotesViewModel = hiltViewModel()
+            NotesScreen(
+                navController = navController,
+                viewModel = viewModel,
+                bibleAbbr = bibleAbbr,
+                verseId = verseId,
+                bookId = bookId,
+                chapterId = chapterId,
+                title = title,
+                verseText = verseText,
             )
         }
 
@@ -109,13 +147,29 @@ fun AppNavHost(
         }
 
         composable(Routes.SETTINGS) {
-            val mainVm: MainViewModel = hiltViewModel()
             val settingsVm: SettingsViewModel = hiltViewModel()
             SettingsScreen(
                 navController = navController,
-                mainViewModel = mainVm,
                 settViewModel = settingsVm,
                 themeRepo = themeRepo,
+            )
+        }
+
+        composable(Routes.BOOKMARKS_NOTES) {
+            val viewModel: BookmarkNotesViewModel = hiltViewModel()
+            BookmarkNotesScreen(
+                navController = navController,
+                viewModel = viewModel,
+            )
+        }
+
+        composable(Routes.BIBLES) {
+            val mainVm: MainViewModel = hiltViewModel()
+            val biblesVm: BiblesViewModel = hiltViewModel()
+            BiblesScreen(
+                navController = navController,
+                mainViewModel = mainVm,
+                viewModel = biblesVm,
             )
         }
 
@@ -126,11 +180,6 @@ fun AppNavHost(
         composable(Routes.DONATION) {
             val donationVm: DonationViewModel = hiltViewModel()
             DonationScreen(navController = navController, viewModel = donationVm)
-        }
-
-        composable(Routes.DONATION) {
-            val viewModel: DonationViewModel = hiltViewModel()
-            DonationScreen(navController = navController, viewModel = viewModel)
         }
 
         composable(

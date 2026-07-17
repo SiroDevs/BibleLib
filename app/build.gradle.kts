@@ -23,8 +23,8 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 1
-        versionName = "1.0.1"
+        versionCode = 3
+        versionName = "1.0.3"
         minSdk = 26
         targetSdk = 37
 
@@ -93,9 +93,11 @@ dependencies {
     // Feature modules
     implementation(project(":feature:selection"))
     implementation(project(":feature:reader"))
+    implementation(project(":feature:bookmarknotes"))
     implementation(project(":feature:search"))
     implementation(project(":feature:history"))
     implementation(project(":feature:settings"))
+    implementation(project(":feature:bibles"))
     implementation(project(":feature:help"))
     implementation(project(":feature:donation"))
 

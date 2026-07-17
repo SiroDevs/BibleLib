@@ -3,6 +3,7 @@ package com.biblelib.feature.reader.view.components
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
@@ -18,6 +19,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.ChapterEntity
 
@@ -31,9 +33,12 @@ fun ChapterSheet(
 ) {
     ModalBottomSheet(onDismissRequest = onDismiss) {
         Text(
-            "Chapters",
+            text = "Jump to a Chapter",
             style = MaterialTheme.typography.titleMedium,
-            modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp)
+            textAlign = TextAlign.Center,
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(vertical = 8.dp)
         )
         LazyVerticalGrid(
             columns = GridCells.Adaptive(minSize = 56.dp),
@@ -47,7 +52,7 @@ fun ChapterSheet(
                         .padding(4.dp)
                         .clip(RoundedCornerShape(8.dp))
                         .clickable { onSelect(chapter) },
-                    color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                    color = if (isActive) MaterialTheme.colorScheme.primaryContainer
                     else MaterialTheme.colorScheme.surfaceVariant,
                 ) {
                     Box(contentAlignment = Alignment.Center, modifier = Modifier.padding(10.dp)) {

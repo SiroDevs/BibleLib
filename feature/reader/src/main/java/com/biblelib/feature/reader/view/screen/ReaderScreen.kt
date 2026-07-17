@@ -1,28 +1,56 @@
 package com.biblelib.feature.reader.view.screen
 
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Tune
+import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilterChip
+import androidx.compose.material3.FloatingActionButton
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Slider
+import androidx.compose.material3.Switch
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.compose.ui.unit.dp
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
+import com.biblelib.core.common.utils.AppFonts
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.PrefsRepo
+import com.biblelib.core.data.repos.ThemeMode
+import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.ui.components.indicators.ErrorState
 import com.biblelib.core.ui.components.indicators.VerseShimmer
 import com.biblelib.feature.reader.viewmodel.ReaderViewModel
 import com.biblelib.feature.reader.view.components.BibleSelectorSheet
 import com.biblelib.feature.reader.view.components.BookDrawer
+import com.biblelib.feature.reader.view.components.BookmarkOptionsDialog
 import com.biblelib.feature.reader.view.components.ChapterNavBar
 import com.biblelib.feature.reader.view.components.ChapterSheet
+import com.biblelib.feature.reader.view.components.HighlightColorPickerDialog
+import com.biblelib.feature.reader.view.components.ReaderSelectionTopBar
 import com.biblelib.feature.reader.view.components.ReaderTopBar
 import com.biblelib.feature.reader.view.components.VerseList
 
@@ -36,6 +64,7 @@ fun ReaderScreen(
     initialBookId: String,
     initialChapterId: String,
     prefsRepo: PrefsRepo,
+    themeRepo: ThemeRepo,
 ) {
     LaunchedEffect(Unit) {
         viewModel.initialize(initialBible, initialBibleAbbr, initialBookId, initialChapterId)
@@ -45,18 +74,61 @@ fun ReaderScreen(
     var showBookDrawer by remember { mutableStateOf(false) }
     var showChapterSheet by remember { mutableStateOf(false) }
     var showBibleSelector by remember { mutableStateOf(false) }
+    var showQuickSettings by remember { mutableStateOf(false) }
+
+    // Refresh the "has note" indicator whenever we return to this screen (e.g. from Notes).
+    val lifecycleOwner = LocalLifecycleOwner.current
+    val currentViewModel = rememberUpdatedState(viewModel)
+    DisposableEffect(lifecycleOwner) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) {
+                currentViewModel.value.refreshNotedVerses()
+            }
+        }
+        lifecycleOwner.lifecycle.addObserver(observer)
+        onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
+    }
+
+    // Navigate to the Notes screen whenever the ViewModel asks for it.
+    LaunchedEffect(state.notesNavRequest) {
+        val request = state.notesNavRequest ?: return@LaunchedEffect
+        navController.navigate(
+            Routes.notes(
+                bibleAbbr = request.bibleAbbr,
+                verseId = request.verseId,
+                bookId = request.bookId,
+                chapterId = request.chapterId,
+                title = request.title,
+                verseText = request.verseText,
+            )
+        )
+        viewModel.consumeNotesNavRequest()
+    }
 
     Scaffold(
         topBar = {
-            ReaderTopBar(
-                bibleName = state.activeBible,
-                bookName = state.activeBook?.name ?: "",
-                onBibleClick = { showBibleSelector = true },
-                onBookClick = { showBookDrawer = true },
-                onSearchClick = { navController.navigate(Routes.SEARCH) },
-                onHistoryClick = { navController.navigate(Routes.HISTORY) },
-                onSettingsClick = { navController.navigate(Routes.SETTINGS) },
-            )
+            if (state.isSelectionMode) {
+                ReaderSelectionTopBar(
+                    selectedCount = state.selectedVerseIds.size,
+                    onClose = viewModel::clearSelection,
+                    onBookmarkClick = viewModel::openColorPicker,
+                    onNotesClick = { viewModel.openNotesForSelection() },
+                )
+            } else {
+                ReaderTopBar(
+                    bibleName = state.activeBible,
+                    bookName = state.activeBook?.name ?: "",
+                    onBibleClick = { showBibleSelector = true },
+                    onBookClick = { showBookDrawer = true },
+                    onSearchClick = { navController.navigate(Routes.SEARCH) },
+                    onBookmarksNotesClick = { navController.navigate(Routes.BOOKMARKS_NOTES) },
+                    onHistoryClick = { navController.navigate(Routes.HISTORY) },
+                    onManageBiblesClick = { navController.navigate(Routes.BIBLES) },
+                    onSettingsClick = { navController.navigate(Routes.SETTINGS) },
+                    onSupportClick = { navController.navigate(Routes.DONATION) },
+                    onHelpClick = { navController.navigate(Routes.HELP) },
+                )
+            }
         },
         bottomBar = {
             ChapterNavBar(
@@ -75,6 +147,13 @@ fun ReaderScreen(
                 onNext = { viewModel.navigateChapter(1) },
                 onChapterList = { showChapterSheet = true },
             )
+        },
+        floatingActionButton = {
+            if (!state.isSelectionMode) {
+                FloatingActionButton(onClick = { showQuickSettings = true }) {
+                    Icon(Icons.Default.Tune, "Quick Settings")
+                }
+            }
         }
     ) { padding ->
         Box(Modifier
@@ -98,6 +177,14 @@ fun ReaderScreen(
                     verses = state.verses,
                     parallelVerses = state.parallelVerses,
                     fontSizeSp = state.fontSizeSp,
+                    bookmarks = state.bookmarks,
+                    notedVerseIds = state.notedVerseIds,
+                    selectedVerseIds = state.selectedVerseIds,
+                    isSelectionMode = state.isSelectionMode,
+                    onLongPress = viewModel::toggleVerseSelected,
+                    onTap = viewModel::toggleVerseSelected,
+                    onSwipeBookmark = viewModel::quickToggleBookmark,
+                    onSwipeNotes = { verseId -> viewModel.requestNotesForVerse(verseId) },
                 )
             }
         }
@@ -136,6 +223,77 @@ fun ReaderScreen(
                 showBibleSelector = false
             },
             onDismiss = { showBibleSelector = false },
+        )
+    }
+
+    if (state.showColorPicker) {
+        HighlightColorPickerDialog(
+            colors = ReaderViewModel.HIGHLIGHT_COLORS,
+            onColorChosen = viewModel::chooseHighlightColor,
+            onDismiss = viewModel::dismissColorPicker,
+        )
+    }
+
+    if (state.pendingHighlightColor != null) {
+        BookmarkOptionsDialog(
+            onBookmarkOnly = viewModel::confirmBookmarkOnly,
+            onBookmarkWithNotes = { viewModel.confirmBookmarkWithNotes() },
+            onDismiss = viewModel::cancelPendingHighlight,
+        )
+    }
+
+    if (showQuickSettings) {
+        AlertDialog(
+            onDismissRequest = { showQuickSettings = false },
+            title = { Text("Quick Settings") },
+            text = {
+                Column {
+                    Text(
+                        "Theme",
+                        style = MaterialTheme.typography.labelMedium,
+                        modifier = Modifier.padding(bottom = 8.dp),
+                    )
+                    Row(horizontalArrangement = androidx.compose.foundation.layout.Arrangement.spacedBy(8.dp)) {
+                        ThemeMode.entries.forEach { mode ->
+                            FilterChip(
+                                selected = themeRepo.selectedTheme == mode,
+                                onClick = { themeRepo.setTheme(mode) },
+                                label = { Text(mode.name.lowercase().replaceFirstChar { it.uppercase() }) },
+                            )
+                        }
+                    }
+
+                    Spacer(Modifier.height(20.dp))
+
+                    Text(
+                        "Font size: ${state.fontSizeSp.toInt()}sp",
+                        style = MaterialTheme.typography.labelMedium,
+                    )
+                    Slider(
+                        value = state.fontSizeSp,
+                        onValueChange = viewModel::setFontSize,
+                        valueRange = AppFonts.MIN_FONT_SP..AppFonts.MAX_FONT_SP,
+                        steps = ((AppFonts.MAX_FONT_SP - AppFonts.MIN_FONT_SP) / 2).toInt() - 1,
+                    )
+
+                    Spacer(Modifier.height(12.dp))
+
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = androidx.compose.foundation.layout.Arrangement.SpaceBetween,
+                        verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+                    ) {
+                        Text("Multi-Bible Reader", style = MaterialTheme.typography.labelMedium)
+                        Switch(
+                            checked = state.multiBibleReaderEnabled,
+                            onCheckedChange = viewModel::setMultiBibleReaderEnabled,
+                        )
+                    }
+                }
+            },
+            confirmButton = {
+                TextButton(onClick = { showQuickSettings = false }) { Text("Done") }
+            },
         )
     }
 }

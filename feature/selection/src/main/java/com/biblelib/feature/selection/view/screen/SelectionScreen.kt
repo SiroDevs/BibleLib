@@ -1,6 +1,7 @@
 package com.biblelib.feature.selection.view.screen
 
 import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.slideInVertically
 import androidx.compose.foundation.layout.Arrangement
@@ -9,10 +10,13 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Brightness6
 import androidx.compose.material.icons.filled.Refresh
@@ -20,9 +24,12 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
+import androidx.compose.material3.LinearProgressIndicator
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.draw.clip
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -57,6 +64,8 @@ fun SelectionScreen(
     val bibles by viewModel.bibles.collectAsState()
     val selectedCount by viewModel.selectedCount.collectAsState()
     val canProceed by viewModel.canProceed.collectAsState()
+    val downloadProgress by viewModel.downloadProgress.collectAsState()
+    val downloadStep by viewModel.downloadStep.collectAsState()
 
     var showThemeDialog by remember {
         mutableStateOf(false)
@@ -96,7 +105,7 @@ fun SelectionScreen(
             AppTopBar(
 
                 title = "Choose Your Bibles",
-                tagline = "Select 1 – 3 Bibles",
+                tagline = "Select 1 – ${SelectionViewModel.MAX_SELECTIONS} Bibles",
 
                 actions = {
 
@@ -157,20 +166,66 @@ fun SelectionScreen(
 
                 UiState.Saving -> {
 
+                    val animatedProgress by animateFloatAsState(
+                        targetValue = downloadProgress,
+                        label = "download_progress",
+                    )
+
                     Column(
-                        modifier = Modifier.fillMaxSize(),
+                        modifier = Modifier
+                            .fillMaxSize()
+                            .padding(horizontal = 32.dp),
                         horizontalAlignment = Alignment.CenterHorizontally,
                         verticalArrangement = Arrangement.Center
                     ) {
 
-                        CircularProgressIndicator()
+                        Box(contentAlignment = Alignment.Center) {
+                            CircularProgressIndicator(
+                                progress = { animatedProgress },
+                                modifier = Modifier.size(96.dp),
+                                strokeWidth = 6.dp,
+                                trackColor = MaterialTheme.colorScheme.surfaceVariant,
+                            )
+                            Text(
+                                text = "${(animatedProgress * 100).toInt()}%",
+                                style = MaterialTheme.typography.titleMedium,
+                            )
+                        }
 
-                        Spacer(
-                            Modifier.height(16.dp)
-                        )
+                        Spacer(Modifier.height(24.dp))
 
                         Text(
-                            "Downloading primary Bible..."
+                            text = "Downloading your primary Bible",
+                            style = MaterialTheme.typography.titleMedium,
+                        )
+
+                        Spacer(Modifier.height(8.dp))
+
+                        Text(
+                            text = downloadStep,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
+                            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+                        )
+
+                        Spacer(Modifier.height(24.dp))
+
+                        LinearProgressIndicator(
+                            progress = { animatedProgress },
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(6.dp)
+                                .clip(RoundedCornerShape(3.dp)),
+                            trackColor = MaterialTheme.colorScheme.surfaceVariant,
+                        )
+
+                        Spacer(Modifier.height(12.dp))
+
+                        Text(
+                            text = "The rest of your Bibles will keep downloading in the background once you reach the reader.",
+                            style = MaterialTheme.typography.labelSmall,
+                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
+                            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
                         )
                     }
                 }

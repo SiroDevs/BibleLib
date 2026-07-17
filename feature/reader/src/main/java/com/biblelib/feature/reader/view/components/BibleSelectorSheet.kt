@@ -34,14 +34,14 @@ fun BibleSelectorSheet(
 ) {
     ModalBottomSheet(onDismissRequest = onDismiss) {
         Text(
-            "Switch Bible",
+            "Switch Your Primary Bible",
             style = MaterialTheme.typography.titleMedium,
             modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp)
         )
         savedBibles.forEach { bible ->
             ListItem(
                 headlineContent = { Text(bible.name) },
-                supportingContent = { Text(bible.abbreviation.uppercase()) },
+                supportingContent = { Text("${bible.abbreviation.uppercase()} BIBLE") },
                 trailingContent = {
                     if (!bible.isDownloaded) {
                         Row(verticalAlignment = Alignment.CenterVertically) {

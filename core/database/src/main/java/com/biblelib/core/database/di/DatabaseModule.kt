@@ -5,7 +5,9 @@ import androidx.room.Room
 import com.biblelib.core.database.AppDatabase
 import com.biblelib.core.database.daos.BibleDao
 import com.biblelib.core.database.daos.BookDao
+import com.biblelib.core.database.daos.BookmarkDao
 import com.biblelib.core.database.daos.ChapterDao
+import com.biblelib.core.database.daos.NoteDao
 import com.biblelib.core.database.daos.VerseDao
 import com.biblelib.core.database.daos.HistoryDao
 import com.biblelib.core.database.daos.SearchDao
@@ -32,4 +34,6 @@ object DatabaseModule {
     @Provides fun provideVerseDao(db: AppDatabase): VerseDao = db.versesDao()
     @Provides fun provideHistoryDao(db: AppDatabase): HistoryDao = db.historiesDao()
     @Provides fun provideSearchDao(db: AppDatabase): SearchDao = db.searchesDao()
+    @Provides fun provideBookmarkDao(db: AppDatabase): BookmarkDao = db.bookmarksDao()
+    @Provides fun provideNoteDao(db: AppDatabase): NoteDao = db.notesDao()
 }

@@ -51,8 +51,6 @@ data class ChapterDto(
     val reference: String = "",
 )
 
-typealias VersesResponse = Map<String, ChapterContentDto>
-
 data class ChapterContentDto(
     val id: String = "",
     val bibleId: String = "",

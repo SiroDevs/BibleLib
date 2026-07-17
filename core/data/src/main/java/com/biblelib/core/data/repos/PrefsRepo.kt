@@ -71,6 +71,23 @@ class PrefsRepo @Inject constructor(
         get() = prefs.getLong(PrefConstants.LAST_SYNCED_AT, 0L)
         set(v) = prefs.edit { putLong(PrefConstants.LAST_SYNCED_AT, v) }
 
+    /** Whether parallel/secondary Bibles are shown alongside the primary text. Default ON. */
+    var multiBibleReaderEnabled: Boolean
+        get() = prefs.getBoolean(PrefConstants.MULTI_BIBLE_ENABLED, true)
+        set(v) = prefs.edit { putBoolean(PrefConstants.MULTI_BIBLE_ENABLED, v) }
+
+    /** Ordered, comma-separated list of secondary Bible abbreviations (stack order). */
+    var secondaryBibles: String
+        get() = prefs.getString(PrefConstants.SECONDARY_BIBLES, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.SECONDARY_BIBLES, v) }
+
+    fun getSecondaryBibleList(): List<String> =
+        secondaryBibles.split(",").map { it.trim() }.filter { it.isNotEmpty() }
+
+    fun setSecondaryBibleList(list: List<String>) {
+        secondaryBibles = list.joinToString(",")
+    }
+
     fun getSelectedBibleList(): List<String> =
         selectedBibles.split(",").map { it.trim() }.filter { it.isNotEmpty() }
 
@@ -102,5 +119,11 @@ class PrefsRepo @Inject constructor(
         lastBibleAbbr = ""
         lastBookId = ""
         lastChapterId = ""
+        secondaryBibles = ""
+    }
+
+    companion object {
+        const val DEFAULT_SECONDARY_BIBLES = 2
+        const val MAX_SECONDARY_BIBLES = 5
     }
 }

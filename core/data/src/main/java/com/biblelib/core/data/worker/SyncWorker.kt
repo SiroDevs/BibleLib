@@ -3,6 +3,8 @@ package com.biblelib.core.data.worker
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.content.Context
+import android.content.pm.ServiceInfo
+import android.os.Build
 import android.util.Log
 import androidx.core.app.NotificationCompat
 import androidx.hilt.work.HiltWorker
@@ -62,7 +64,11 @@ class SyncWorker @AssistedInject constructor(
         val nm = context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
         if (nm.getNotificationChannel(CHANNEL_ID) == null) {
             nm.createNotificationChannel(
-                NotificationChannel(CHANNEL_ID, "Bible Downloads", NotificationManager.IMPORTANCE_LOW)
+                NotificationChannel(
+                    CHANNEL_ID,
+                    "Bible Downloads",
+                    NotificationManager.IMPORTANCE_LOW
+                )
                     .apply { description = "Background bible download progress" }
             )
         }
@@ -76,16 +82,24 @@ class SyncWorker @AssistedInject constructor(
             .setSilent(true)
             .build()
 
-        return ForegroundInfo(NOTIFICATION_ID, notification)
+        return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.UPSIDE_DOWN_CAKE) {
+            ForegroundInfo(
+                NOTIFICATION_ID,
+                notification,
+                ServiceInfo.FOREGROUND_SERVICE_TYPE_DATA_SYNC
+            )
+        } else {
+            ForegroundInfo(NOTIFICATION_ID, notification)
+        }
     }
 
     companion object {
-        const val TAG                  = "SyncWorker"
-        const val WORK_NAME_PREFIX     = "bible_download_"
-        const val KEY_BIBLE_ABBR       = "bible_abbr"
-        const val KEY_PROGRESS         = "progress"
-        const val KEY_STEP             = "step"
-        private const val CHANNEL_ID   = "bible_downloads"
+        const val TAG = "SyncWorker"
+        const val WORK_NAME_PREFIX = "bible_download_"
+        const val KEY_BIBLE_ABBR = "bible_abbr"
+        const val KEY_PROGRESS = "progress"
+        const val KEY_STEP = "step"
+        private const val CHANNEL_ID = "bible_downloads"
         private const val NOTIFICATION_ID = 8001
     }
 }

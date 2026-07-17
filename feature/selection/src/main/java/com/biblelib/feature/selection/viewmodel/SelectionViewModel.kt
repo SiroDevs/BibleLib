@@ -31,11 +31,19 @@ class SelectionViewModel @Inject constructor(
 
     companion object {
         private const val TAG = "SelectionViewModel"
-        const val MAX_SELECTIONS = 3
+
+        /** 1 primary + up to [PrefsRepo.MAX_SECONDARY_BIBLES] secondary Bibles for Multi-Bible Reader. */
+        const val MAX_SELECTIONS = 1 + 5
     }
 
     private val _uiState = MutableStateFlow<UiState>(UiState.Loading)
     val uiState = _uiState.asStateFlow()
+
+    private val _downloadProgress = MutableStateFlow(0f)
+    val downloadProgress: StateFlow<Float> = _downloadProgress.asStateFlow()
+
+    private val _downloadStep = MutableStateFlow("Preparing...")
+    val downloadStep: StateFlow<String> = _downloadStep.asStateFlow()
 
     private val _bibles = MutableStateFlow<List<Selectable<BibleInfoDto>>>(emptyList())
     val bibles = _bibles.asStateFlow()
@@ -113,11 +121,23 @@ class SelectionViewModel @Inject constructor(
         if (selected.isEmpty()) return
 
         _uiState.value = UiState.Saving
+        _downloadProgress.value = 0f
+        _downloadStep.value = "Preparing..."
 
         viewModelScope.launch {
             try {
 
                 val primary = selected.first()
+                val newAbbrs = selected.map { it.abbreviation }.toSet()
+
+                // Any Bible that was previously owned but is no longer part of the
+                // selection was explicitly unchecked by the user — remove it fully.
+                val previouslyOwned = prefsRepo.getSelectedBibleList()
+                val removed = previouslyOwned.filter { it !in newAbbrs }
+                removed.forEach { abbr ->
+                    SyncScheduler.cancelDownload(context, abbr)
+                    bibleRepo.deleteBible(abbr)
+                }
 
                 prefsRepo.selectedBibles =
                     selected.joinToString(",") { it.abbreviation }
@@ -129,6 +149,17 @@ class SelectionViewModel @Inject constructor(
                 prefsRepo.lastBibleAbbr = primary.abbreviation
                 prefsRepo.lastBookId = ""
                 prefsRepo.lastChapterId = ""
+
+                // Keep the secondary-Bible stack limited to Bibles still owned; seed a
+                // sensible default (first couple of secondaries) the first time round.
+                val prunedSecondary = prefsRepo.getSecondaryBibleList()
+                    .filter { it in newAbbrs && it != primary.abbreviation }
+                val secondary = prunedSecondary.ifEmpty {
+                    selected.drop(1)
+                        .take(PrefsRepo.DEFAULT_SECONDARY_BIBLES)
+                        .map { it.abbreviation }
+                }
+                prefsRepo.setSecondaryBibleList(secondary)
 
                 bibleRepo.saveBibles(
                     selected.mapIndexed { index, dto ->
@@ -145,7 +176,10 @@ class SelectionViewModel @Inject constructor(
                     }
                 )
 
-                bibleRepo.downloadBible(primary.abbreviation)
+                bibleRepo.downloadBible(primary.abbreviation) { step, progress ->
+                    _downloadStep.value = step
+                    _downloadProgress.value = progress
+                }
 
                 prefsRepo.isPrimaryLoaded = true
 

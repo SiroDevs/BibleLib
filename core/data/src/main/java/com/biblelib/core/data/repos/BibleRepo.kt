@@ -16,6 +16,13 @@ import com.biblelib.core.network.dtos.ContentItemDto
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.async
+import kotlinx.coroutines.awaitAll
+import kotlinx.coroutines.coroutineScope
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.Semaphore
+import kotlinx.coroutines.sync.withLock
+import kotlinx.coroutines.sync.withPermit
 import kotlinx.coroutines.withContext
 import com.biblelib.core.network.services.BibleLibService
 import javax.inject.Inject
@@ -36,13 +43,22 @@ class BibleRepo @Inject constructor(
             service.getBiblesInfo()
         }
 
+    /**
+     * Downloads books, chapters, and verses for [abbr].
+     *
+     * Verses are fetched book-by-book (one "batch" per book, since the API now
+     * serves a single chapter per request). Up to [MAX_CONCURRENT_BOOK_BATCHES]
+     * books are fetched and saved concurrently at a time for a big speed-up over
+     * fetching everything serially, while still bounding how many requests are
+     * in flight at once.
+     */
     suspend fun downloadBible(
         abbr: String,
         onProgress: suspend (step: String, progress: Float) -> Unit = { _, _ -> }
     ) = withContext(Dispatchers.IO) {
         Log.d(TAG, "▶ Downloading bible: $abbr")
 
-        onProgress("Fetching books ...", 0.1f)
+        onProgress("Fetching books...", 0.05f)
         val booksResp = service.getBooks(abbr)
         val bookEntities = booksResp.data.mapIndexed { i, dto ->
             BookEntity(
@@ -57,7 +73,7 @@ class BibleRepo @Inject constructor(
         bookDao.insertAll(bookEntities)
         Log.d(TAG, "✅ ${bookEntities.size} books saved for $abbr")
 
-        onProgress("Fetching chapters...", 0.3f)
+        onProgress("Fetching chapters...", 0.15f)
         val chaptersResp = service.getChapters(abbr)
         val chapterEntities = mutableListOf<ChapterEntity>()
         chaptersResp.forEach { (_, chapters) ->
@@ -76,40 +92,67 @@ class BibleRepo @Inject constructor(
         chapterDao.insertAll(chapterEntities)
         Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
 
-        onProgress("Fetching verses...", 0.6f)
-        val bookIds = booksResp.data.map { it.id }
-        val verseEntities = mutableListOf<VerseEntity>()
+        val chaptersByBook = chapterEntities.groupBy { it.bookId }
+        val bookIds = booksResp.data.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
 
-        bookIds.forEachIndexed { index, bookId ->
-            val versesResp = service.getVersesForBook(abbr, bookId)
-            versesResp.forEach { (chapterId, content) ->
-                val verses = extractVerses(content)
-                val json = gson.toJson(verses)
-                verseEntities.add(
-                    VerseEntity(
-                        chapterId = chapterId,
-                        bibleAbbr = abbr,
-                        bookId = bookId,
-                        verseCount = content.verseCount,
-                        copyright = content.copyright,
-                        contentJson = json,
-                    )
-                )
-            }
+        onProgress("Fetching verses...", 0.25f)
 
-            val fraction = (index + 1).toFloat() / bookIds.size
-            onProgress(
-                "Fetching verses ($bookId, ${index + 1}/${bookIds.size})...",
-                0.6f + fraction * 0.35f
-            )
+        val semaphore = Semaphore(MAX_CONCURRENT_BOOK_BATCHES)
+        val progressMutex = Mutex()
+        var completedBooks = 0
+
+        coroutineScope {
+            bookIds.map { bookId ->
+                async {
+                    semaphore.withPermit {
+                        val chaptersForBook = chaptersByBook[bookId].orEmpty()
+                        val verseEntities = fetchVersesForBook(abbr, bookId, chaptersForBook)
+                        if (verseEntities.isNotEmpty()) {
+                            verseDao.insertAll(verseEntities)
+                        }
+
+                        progressMutex.withLock {
+                            completedBooks++
+                            val fraction = completedBooks.toFloat() / bookIds.size
+                            onProgress(
+                                "Fetching verses ($bookId, $completedBooks/${bookIds.size})...",
+                                0.25f + fraction * 0.7f
+                            )
+                        }
+                    }
+                }
+            }.awaitAll()
         }
 
-        verseDao.insertAll(verseEntities)
-        Log.d(TAG, "✅ ${verseEntities.size} chapter verse sets saved for $abbr")
+        Log.d(TAG, "✅ Verses saved in ${bookIds.size} book batches for $abbr")
 
         bibleDao.markDownloaded(abbr)
         onProgress("Done!", 1.0f)
         Log.d(TAG, "✅ Download complete for $abbr")
+    }
+
+    /** Fetches every chapter's verses for a single book — this is one "batch". */
+    private suspend fun fetchVersesForBook(
+        abbr: String,
+        bookId: String,
+        chapters: List<ChapterEntity>,
+    ): List<VerseEntity> {
+        val verseEntities = mutableListOf<VerseEntity>()
+        for (chapter in chapters) {
+            val content = service.getVersesForChapter(abbr, bookId, chapter.number)
+            val verses = extractVerses(content)
+            verseEntities.add(
+                VerseEntity(
+                    chapterId = chapter.id,
+                    bibleAbbr = abbr,
+                    bookId = bookId,
+                    verseCount = content.verseCount,
+                    copyright = content.copyright,
+                    contentJson = gson.toJson(verses),
+                )
+            )
+        }
+        return verseEntities
     }
 
     suspend fun getLocalBooks(abbr: String): List<BookEntity> =
@@ -201,5 +244,8 @@ class BibleRepo @Inject constructor(
 
     companion object {
         private const val TAG = "BibleRepo"
+
+        /** How many books' worth of verses may be fetched & saved concurrently. */
+        private const val MAX_CONCURRENT_BOOK_BATCHES = 10
     }
 }

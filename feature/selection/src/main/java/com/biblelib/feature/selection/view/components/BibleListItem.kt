@@ -75,7 +75,6 @@ fun BibleListItem(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(12.dp)
         ) {
-            // Abbreviation badge
             Box(
                 modifier = Modifier
                     .size(52.dp)

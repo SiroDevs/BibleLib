@@ -3,8 +3,8 @@ package com.biblelib.core.network.services
 import androidx.annotation.Keep
 import com.biblelib.core.network.dtos.BibleInfoDto
 import com.biblelib.core.network.dtos.BooksResponse
+import com.biblelib.core.network.dtos.ChapterContentDto
 import com.biblelib.core.network.dtos.ChaptersResponse
-import com.biblelib.core.network.dtos.VersesResponse
 import retrofit2.http.GET
 import retrofit2.http.Path
 
@@ -20,9 +20,11 @@ interface BibleLibService {
     @GET("{abbr}/chapters.json")
     suspend fun getChapters(@Path("abbr") abbr: String): ChaptersResponse
 
-    @GET("{abbr}/verses/{bookId}.json")
-    suspend fun getVersesForBook(
+    // e.g. GET {abbr}/verses/RUT/1.json — book and chapter are now separate path segments.
+    @GET("{abbr}/verses/{bookId}/{chapter}.json")
+    suspend fun getVersesForChapter(
         @Path("abbr") abbr: String,
         @Path("bookId") bookId: String,
-    ): VersesResponse
+        @Path("chapter") chapter: String,
+    ): ChapterContentDto
 }
