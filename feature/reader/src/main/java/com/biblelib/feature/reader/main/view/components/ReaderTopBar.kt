@@ -1,4 +1,4 @@
-package com.biblelib.feature.reader.view.components
+package com.biblelib.feature.reader.main.view.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -19,7 +19,6 @@ import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.filled.SwapHoriz
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -51,7 +50,6 @@ fun ReaderTopBar(
     onSearchClick: () -> Unit,
     onBookmarksNotesClick: () -> Unit,
     onHistoryClick: () -> Unit,
-    onManageBiblesClick: () -> Unit,
     onSettingsClick: () -> Unit,
     onSupportClick: () -> Unit,
     onHelpClick: () -> Unit,
@@ -109,11 +107,6 @@ fun ReaderTopBar(
                     text = { Text("Your History") },
                     leadingIcon = { Icon(Icons.Default.History, null) },
                     onClick = { showMoreMenu = false; onHistoryClick() },
-                )
-                DropdownMenuItem(
-                    text = { Text("Manage Bibles") },
-                    leadingIcon = { Icon(Icons.Default.SwapHoriz, null) },
-                    onClick = { showMoreMenu = false; onManageBiblesClick() },
                 )
                 DropdownMenuItem(
                     text = { Text("Manage Settings") },

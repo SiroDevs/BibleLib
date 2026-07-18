@@ -1,4 +1,4 @@
-package com.biblelib.feature.reader.view.components
+package com.biblelib.feature.reader.main.view.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.combinedClickable

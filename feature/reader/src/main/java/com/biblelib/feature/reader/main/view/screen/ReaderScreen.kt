@@ -43,7 +43,6 @@ import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.AppFonts
 import com.biblelib.core.common.utils.Routes
-import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.designsystem.customization.AppFontFamilies
@@ -58,8 +57,8 @@ import com.biblelib.feature.reader.main.view.components.ChapterSheet
 import com.biblelib.feature.reader.main.view.components.HighlightColorPickerDialog
 import com.biblelib.feature.reader.main.view.components.ReaderSelectionTopBar
 import com.biblelib.feature.reader.viewmodel.ReaderViewModel
-import com.biblelib.feature.reader.view.components.ReaderTopBar
-import com.biblelib.feature.reader.view.components.VerseList
+import com.biblelib.feature.reader.main.view.components.ReaderTopBar
+import com.biblelib.feature.reader.main.view.components.VerseList
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.distinctUntilChanged
 
@@ -152,7 +151,6 @@ fun ReaderScreen(
                     onSearchClick = { navController.navigate(Routes.SEARCH) },
                     onBookmarksNotesClick = { navController.navigate(Routes.BOOKMARKS_NOTES) },
                     onHistoryClick = { navController.navigate(Routes.HISTORY) },
-                    onManageBiblesClick = { navController.navigate(Routes.BIBLES) },
                     onSettingsClick = { navController.navigate(Routes.SETTINGS) },
                     onSupportClick = { navController.navigate(Routes.DONATION) },
                     onHelpClick = { navController.navigate(Routes.HELP) },

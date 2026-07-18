@@ -56,7 +56,16 @@ fun SettingsScreen(navController: NavController) {
                     onClick = { navController.navigate(Routes.READING_SETTINGS) },
                 )
             }
-            item { SettingsGroupLabel("RESET") }
+            item { SettingsGroupLabel("BIBLES") }
+            item {
+                SettingsNavRow(
+                    icon = Icons.Default.Palette,
+                    title = "Manage Bibles",
+                    subtitle = "Primary and Secondary Bibles",
+                    onClick = { navController.navigate(Routes.BIBLES) },
+                )
+            }
+            item { SettingsGroupLabel("APP RESET") }
             item {
                 SettingsNavRow(
                     icon = Icons.Default.DataUsage,

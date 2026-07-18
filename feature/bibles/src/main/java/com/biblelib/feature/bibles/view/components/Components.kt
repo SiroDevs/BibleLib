@@ -2,24 +2,21 @@ package com.biblelib.feature.bibles.view.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AddCircleOutline
 import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material.icons.filled.RemoveCircleOutline
 import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
+import androidx.compose.material3.ListItem
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.RadioButton
 import androidx.compose.material3.SwipeToDismissBox
@@ -30,68 +27,29 @@ import androidx.compose.material3.rememberSwipeToDismissBoxState
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.BibleEntity
 import kotlin.collections.forEach
-
-@Composable
-fun BibleRow(
-    bible: BibleEntity,
-    progress: Float?,
-    onDelete: () -> Unit,
-) {
-    Card(modifier = Modifier.fillMaxWidth()) {
-        Column(Modifier.padding(16.dp)) {
-            Row(
-                modifier = Modifier.fillMaxWidth(),
-                verticalAlignment = Alignment.CenterVertically,
-                horizontalArrangement = Arrangement.SpaceBetween,
-            ) {
-                Column {
-                    Text(bible.name, fontWeight = FontWeight.Medium)
-                    Text(
-                        "${bible.abbreviation.uppercase()} BIBLE",
-                        style = MaterialTheme.typography.labelSmall,
-                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
-                    )
-                }
-                IconButton(onClick = onDelete) {
-                    Icon(
-                        Icons.Default.Delete, "Remove",
-                        tint = MaterialTheme.colorScheme.error.copy(alpha = 0.7f),
-                    )
-                }
-            }
-            if (!bible.isDownloaded) {
-                Spacer(Modifier.height(8.dp))
-                Text(
-                    "Downloading ... ${((progress ?: 0f) * 100).toInt()}%",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.secondary,
-                )
-                LinearProgressIndicator(
-                    progress = { progress ?: 0f },
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(top = 4.dp),
-                )
-            }
-        }
-    }
-}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SwipeableBibleRow(
     bible: BibleEntity,
     progress: Float?,
+    isSecondary: Boolean,
     onDelete: () -> Unit,
+    onToggleSecondary: (() -> Unit)? = null,
+    leadingContent: (@Composable () -> Unit)? = null,
 ) {
     val dismissState = rememberSwipeToDismissBoxState(
         confirmValueChange = { value ->
-            if (value == SwipeToDismissBoxValue.EndToStart) {
-                onDelete()
+            when (value) {
+                SwipeToDismissBoxValue.EndToStart -> onDelete()
+                SwipeToDismissBoxValue.StartToEnd -> onToggleSecondary?.invoke()
+                SwipeToDismissBoxValue.Settled -> Unit
             }
             false
         },
@@ -99,28 +57,71 @@ fun SwipeableBibleRow(
 
     SwipeToDismissBox(
         state = dismissState,
-        enableDismissFromStartToEnd = false,
+        enableDismissFromStartToEnd = onToggleSecondary != null,
         enableDismissFromEndToStart = true,
         backgroundContent = {
-            Box(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .background(MaterialTheme.colorScheme.errorContainer, RoundedCornerShape(12.dp))
-                    .padding(horizontal = 24.dp),
-                contentAlignment = Alignment.CenterEnd,
-            ) {
-                Icon(
-                    Icons.Default.Delete,
-                    "Delete",
-                    tint = MaterialTheme.colorScheme.onErrorContainer,
+            when (dismissState.dismissDirection) {
+                SwipeToDismissBoxValue.EndToStart -> SwipeActionBackground(
+                    color = MaterialTheme.colorScheme.errorContainer,
+                    contentColor = MaterialTheme.colorScheme.onErrorContainer,
+                    icon = Icons.Default.Delete,
+                    contentDescription = "Delete",
+                    alignment = Alignment.CenterEnd,
                 )
+                SwipeToDismissBoxValue.StartToEnd -> SwipeActionBackground(
+                    color = MaterialTheme.colorScheme.primaryContainer,
+                    contentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                    icon = if (isSecondary) Icons.Default.RemoveCircleOutline else Icons.Default.AddCircleOutline,
+                    contentDescription = if (isSecondary) "Remove from secondary" else "Add to secondary",
+                    alignment = Alignment.CenterStart,
+                )
+                SwipeToDismissBoxValue.Settled -> {}
             }
         },
     ) {
-        BibleRow(bible = bible, progress = progress, onDelete = onDelete)
+        Column(Modifier.background(MaterialTheme.colorScheme.surface)) {
+            ListItem(
+                leadingContent = leadingContent,
+                headlineContent = { Text(bible.name, fontWeight = FontWeight.Medium) },
+                supportingContent = { Text("${bible.abbreviation.uppercase()} BIBLE") },
+            )
+            if (!bible.isDownloaded) {
+                Column(Modifier.padding(horizontal = 16.dp).padding(bottom = 12.dp)) {
+                    Text(
+                        "Downloading ... ${((progress ?: 0f) * 100).toInt()}%",
+                        style = MaterialTheme.typography.labelSmall,
+                        color = MaterialTheme.colorScheme.secondary,
+                    )
+                    LinearProgressIndicator(
+                        progress = { progress ?: 0f },
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(top = 4.dp),
+                    )
+                }
+            }
+        }
     }
 }
 
+@Composable
+private fun SwipeActionBackground(
+    color: Color,
+    contentColor: Color,
+    icon: ImageVector,
+    contentDescription: String,
+    alignment: Alignment,
+) {
+    Box(
+        modifier = Modifier
+            .fillMaxSize()
+            .background(color)
+            .padding(horizontal = 24.dp),
+        contentAlignment = alignment,
+    ) {
+        Icon(icon, contentDescription, tint = contentColor)
+    }
+}
 
 @Composable
 fun PrimaryBiblePickerDialog(

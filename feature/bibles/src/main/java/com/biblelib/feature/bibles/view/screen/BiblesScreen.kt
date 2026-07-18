@@ -12,7 +12,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.SwapHoriz
 import androidx.compose.material3.Card
@@ -35,11 +34,10 @@ import androidx.navigation.NavController
 import com.biblelib.core.ui.MainViewModel
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.general.ConfirmDialog
-import com.biblelib.feature.bibles.view.components.AddSecondaryBiblesCard
 import com.biblelib.feature.bibles.view.components.MultiBibleToggleCard
+import com.biblelib.feature.bibles.view.components.OtherBiblesCard
 import com.biblelib.feature.bibles.view.components.PrimaryBiblePickerDialog
 import com.biblelib.feature.bibles.view.components.SecondaryBiblesCard
-import com.biblelib.feature.bibles.view.components.SwipeableBibleRow
 import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -51,7 +49,12 @@ fun BiblesScreen(
 ) {
     val state by viewModel.uiState.collectAsState()
     val primary = state.bibles.find { it.abbreviation == state.primaryAbbr }
-    val others = state.bibles.filter { it.abbreviation != state.primaryAbbr }
+
+    val otherBibles = if (state.multiBibleEnabled) {
+        state.bibles.filter { it.abbreviation != state.primaryAbbr && it.abbreviation !in state.secondaryBibles }
+    } else {
+        state.bibles.filter { it.abbreviation != state.primaryAbbr }
+    }
 
     Scaffold(
         topBar = {
@@ -106,7 +109,7 @@ fun BiblesScreen(
                                     fontWeight = FontWeight.Bold,
                                 )
                                 Text(
-                                    "${primary.abbreviation.uppercase()} • PRIMARY",
+                                    "${primary.abbreviation.uppercase()} BIBLE • PRIMARY",
                                     style = MaterialTheme.typography.labelSmall,
                                     color = MaterialTheme.colorScheme.primary,
                                 )
@@ -132,35 +135,17 @@ fun BiblesScreen(
             if (state.multiBibleEnabled) {
                 item {
                     SecondaryBiblesCard(
-                        bibles = state.bibles,
                         secondaryBibles = state.secondaryBibles,
+                        bibles = state.bibles,
+                        downloadProgress = state.downloadProgress,
                         onMove = viewModel::moveSecondaryBible,
-                        onToggle = viewModel::toggleSecondaryBible,
+                        onRemove = viewModel::toggleSecondaryBible,
+                        onDelete = viewModel::requestDelete,
                     )
-                }
-
-                val addable = state.bibles.filter {
-                    it.isDownloaded && it.abbreviation != state.primaryAbbr && it.abbreviation !in state.secondaryBibles
-                }
-                if (addable.isNotEmpty()) {
-                    item {
-                        Text(
-                            "Other Bibles",
-                            style = MaterialTheme.typography.labelMedium,
-                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
-                        )
-                    }
-                    item {
-                        AddSecondaryBiblesCard(
-                            bibles = addable,
-                            secondaryCount = state.secondaryBibles.size,
-                            onToggle = viewModel::toggleSecondaryBible,
-                        )
-                    }
                 }
             }
 
-            if (others.isNotEmpty()) {
+            if (otherBibles.isNotEmpty()) {
                 item {
                     Spacer(Modifier.height(4.dp))
                     Text(
@@ -169,16 +154,19 @@ fun BiblesScreen(
                         color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                     )
                 }
-                items(others, key = { it.abbreviation }) { bible ->
-                    SwipeableBibleRow(
-                        bible = bible,
-                        progress = state.downloadProgress[bible.abbreviation],
-                        onDelete = { viewModel.requestDelete(bible) },
+                item {
+                    OtherBiblesCard(
+                        bibles = otherBibles,
+                        downloadProgress = state.downloadProgress,
+                        canAddToSecondary = state.multiBibleEnabled,
+                        secondaryCount = state.secondaryBibles.size,
+                        onAddToSecondary = viewModel::toggleSecondaryBible,
+                        onDelete = viewModel::requestDelete,
                     )
                 }
             }
 
-            item { Spacer(Modifier.height(72.dp)) } // clear the FAB
+            item { Spacer(Modifier.height(72.dp)) }
         }
     }
 
