@@ -29,6 +29,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import com.biblelib.core.common.utils.Routes
 import com.biblelib.feature.search.viewmodel.SearchViewModel
 import com.biblelib.feature.search.view.components.HistorySection
 import com.biblelib.feature.search.view.components.SearchResultItem
@@ -97,7 +98,22 @@ fun SearchScreen(
                         )
                     }
                     items(results, key = { it.verseId }) { verse ->
-                        SearchResultItem(verse = verse, query = query)
+                        SearchResultItem(
+                            verse = verse,
+                            query = query,
+                            onClick = { tapped ->
+                                navController.navigate(
+                                    Routes.reader(
+                                        bibleAbbr = viewModel.primaryBibleAbbr,
+                                        bookId = tapped.bookId,
+                                        chapterId = tapped.chapterId,
+                                    )
+                                ) {
+                                    popUpTo(Routes.READER) { inclusive = true }
+                                    launchSingleTop = true
+                                }
+                            },
+                        )
                         HorizontalDivider(thickness = 0.5.dp)
                     }
                 }

@@ -31,6 +31,9 @@ object PrefConstants {
     const val FONT_SIZE_SP = "fontSizeSp"
     const val MULTI_BIBLE_ENABLED = "multiBibleReaderEnabled"
     const val SECONDARY_BIBLES = "secondaryBibles"
+    const val LAST_VERSE_ID = "lastVerseId"
+    const val READER_FONT_FAMILY = "readerFontFamily"
+    const val READER_BACKGROUND = "readerBackground"
 }
 
 object Routes {
@@ -43,6 +46,9 @@ object Routes {
     const val DONATION = "donation"
     const val BOOKMARKS_NOTES = "bookmarks_notes"
     const val BIBLES = "bibles"
+    const val APPEARANCE_SETTINGS = "appearance_settings"
+    const val READING_SETTINGS = "reading_settings"
+    const val DATA_SETTINGS = "data_settings"
 
     fun reader(bibleAbbr: String = "", bookId: String = "", chapterId: String = "") =
         "reader?bibleAbbr=$bibleAbbr&bookId=$bookId&chapterId=$chapterId"

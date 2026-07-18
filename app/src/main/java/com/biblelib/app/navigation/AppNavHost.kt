@@ -28,16 +28,19 @@ import com.biblelib.feature.donation.view.screen.PaymentWebViewScreen
 import com.biblelib.feature.help.view.HelpScreen
 import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import com.biblelib.feature.history.view.HistoryScreen
+import com.biblelib.feature.reader.main.view.screen.ReaderScreen
+import com.biblelib.feature.reader.notes.viewmodel.NotesViewModel
+import com.biblelib.feature.reader.notes.view.NotesScreen
 import com.biblelib.feature.reader.viewmodel.ReaderViewModel
-import com.biblelib.feature.reader.view.screen.ReaderScreen
-import com.biblelib.feature.reader.viewmodel.NotesViewModel
-import com.biblelib.feature.reader.view.screen.NotesScreen
 import com.biblelib.feature.search.viewmodel.SearchViewModel
 import com.biblelib.feature.search.view.screen.SearchScreen
 import com.biblelib.feature.selection.viewmodel.SelectionViewModel
 import com.biblelib.feature.selection.view.screen.SelectionScreen
 import com.biblelib.feature.settings.viewmodel.SettingsViewModel
 import com.biblelib.feature.settings.view.screen.SettingsScreen
+import com.biblelib.feature.settings.view.screen.AppearanceSettingsScreen
+import com.biblelib.feature.settings.view.screen.ReadingSettingsScreen
+import com.biblelib.feature.settings.view.screen.DataSettingsScreen
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalComposeUiApi::class, ExperimentalFoundationApi::class)
@@ -63,7 +66,6 @@ fun AppNavHost(
         startDestination = startDestination
     ) {
 
-        // ─── Bible Selection ──────────────────────────────────────────────
         composable(Routes.SELECTION) {
             val viewModel: SelectionViewModel = hiltViewModel()
             SelectionScreen(
@@ -94,7 +96,6 @@ fun AppNavHost(
                 initialBibleAbbr = bibleAbbr,
                 initialBookId = bookId,
                 initialChapterId = chapterId,
-                prefsRepo = prefsRepo,
                 themeRepo = themeRepo,
             )
         }
@@ -147,12 +148,7 @@ fun AppNavHost(
         }
 
         composable(Routes.SETTINGS) {
-            val settingsVm: SettingsViewModel = hiltViewModel()
-            SettingsScreen(
-                navController = navController,
-                settViewModel = settingsVm,
-                themeRepo = themeRepo,
-            )
+            SettingsScreen( navController = navController)
         }
 
         composable(Routes.BOOKMARKS_NOTES) {
@@ -170,6 +166,33 @@ fun AppNavHost(
                 navController = navController,
                 mainViewModel = mainVm,
                 viewModel = biblesVm,
+            )
+        }
+
+        composable(Routes.APPEARANCE_SETTINGS) {
+            val settingsVm: SettingsViewModel = hiltViewModel()
+            AppearanceSettingsScreen(
+                navController = navController,
+                settViewModel = settingsVm,
+                themeRepo = themeRepo,
+            )
+        }
+
+        composable(Routes.READING_SETTINGS) {
+            val settingsVm: SettingsViewModel = hiltViewModel()
+            ReadingSettingsScreen(
+                navController = navController,
+                settViewModel = settingsVm,
+            )
+        }
+
+        composable(Routes.DATA_SETTINGS) {
+            val mainVm: MainViewModel = hiltViewModel()
+            val settingsVm: SettingsViewModel = hiltViewModel()
+            DataSettingsScreen(
+                navController = navController,
+                mainViewModel = mainVm,
+                settViewModel = settingsVm,
             )
         }
 

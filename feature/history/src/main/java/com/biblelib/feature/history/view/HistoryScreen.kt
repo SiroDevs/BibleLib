@@ -42,6 +42,7 @@ import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
 import androidx.compose.ui.platform.LocalLocale
+import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.ui.components.action.AppTopBar
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
@@ -83,6 +84,7 @@ fun HistoryScreen(
                 0 -> ReadingHistoryTab(
                     groups    = state.readingHistory,
                     isLoading = state.isLoading,
+                    navController = navController,
                 )
                 1 -> SearchHistoryTab(
                     history   = state.searchHistory,
@@ -95,7 +97,7 @@ fun HistoryScreen(
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
-private fun ReadingHistoryTab(groups: List<HistoryGroup>, isLoading: Boolean) {
+private fun ReadingHistoryTab(groups: List<HistoryGroup>, isLoading: Boolean, navController: NavController) {
     if (isLoading) {
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
             CircularProgressIndicator()
@@ -124,7 +126,17 @@ private fun ReadingHistoryTab(groups: List<HistoryGroup>, isLoading: Boolean) {
                 }
             }
             items(group.entries, key = { it.id }) { entry ->
-                HistoryEntryItem(entry = entry)
+                HistoryEntryItem(
+                    entry = entry,
+                    onClick = {
+                        navController.navigate(
+                            Routes.reader(bibleAbbr = entry.bibleAbbr, bookId = entry.bookId, chapterId = entry.chapterId)
+                        ) {
+                            popUpTo(Routes.READER) { inclusive = true }
+                            launchSingleTop = true
+                        }
+                    },
+                )
                 HorizontalDivider(thickness = 0.5.dp)
             }
         }
@@ -132,13 +144,14 @@ private fun ReadingHistoryTab(groups: List<HistoryGroup>, isLoading: Boolean) {
 }
 
 @Composable
-private fun HistoryEntryItem(entry: HistoryEntity) {
+private fun HistoryEntryItem(entry: HistoryEntity, onClick: () -> Unit) {
     val fmt = SimpleDateFormat("h:mm a", LocalLocale.current.platformLocale)
+    val verseLabel = entry.verseNumber?.let { ":$it" } ?: ""
     ListItem(
-        headlineContent = { Text("${entry.bookName} — ${entry.chapterRef}") },
+        headlineContent = { Text("${entry.chapterRef}$verseLabel") },
         supportingContent = {
             Text(
-                "${entry.bibleAbbr.uppercase()} · ${fmt.format(Date(entry.readAt))}",
+                "${entry.bibleName.ifBlank { entry.bibleAbbr.uppercase() }} · ${fmt.format(Date(entry.readAt))}",
                 style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.secondary,
             )
@@ -147,7 +160,7 @@ private fun HistoryEntryItem(entry: HistoryEntity) {
             Icon(Icons.Default.MenuBook, null,
                 tint = MaterialTheme.colorScheme.primary.copy(alpha = 0.6f))
         },
-        modifier = Modifier.clickable {},
+        modifier = Modifier.clickable(onClick = onClick),
     )
 }
 

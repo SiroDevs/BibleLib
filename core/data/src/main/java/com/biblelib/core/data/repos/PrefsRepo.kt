@@ -53,6 +53,21 @@ class PrefsRepo @Inject constructor(
         get() = prefs.getString(PrefConstants.LAST_CHAPTER_ID, "") ?: ""
         set(v) = prefs.edit { putString(PrefConstants.LAST_CHAPTER_ID, v) }
 
+    /** The verse that was at the top of the screen when the user last left the reader. */
+    var lastVerseId: String
+        get() = prefs.getString(PrefConstants.LAST_VERSE_ID, "") ?: ""
+        set(v) = prefs.edit { putString(PrefConstants.LAST_VERSE_ID, v) }
+
+    /** Selected reader text font — see [PrefConstants.READER_FONT_FAMILY]. */
+    var readerFontFamily: String
+        get() = prefs.getString(PrefConstants.READER_FONT_FAMILY, "default") ?: "default"
+        set(v) = prefs.edit { putString(PrefConstants.READER_FONT_FAMILY, v) }
+
+    /** Selected reader background preset id — see AppReaderBackgrounds. */
+    var readerBackground: String
+        get() = prefs.getString(PrefConstants.READER_BACKGROUND, "default") ?: "default"
+        set(v) = prefs.edit { putString(PrefConstants.READER_BACKGROUND, v) }
+
     var appThemeMode: ThemeMode
         get() = ThemeMode.valueOf(
             prefs.getString(PrefConstants.THEME_MODE, ThemeMode.SYSTEM.name) ?: ThemeMode.SYSTEM.name
@@ -119,7 +134,13 @@ class PrefsRepo @Inject constructor(
         lastBibleAbbr = ""
         lastBookId = ""
         lastChapterId = ""
+        lastVerseId = ""
         secondaryBibles = ""
+        readerFontFamily = "default"
+        readerBackground = "default"
+        appThemeMode = ThemeMode.SYSTEM
+        fontSizeSp = 18f
+        multiBibleReaderEnabled = true
     }
 
     companion object {

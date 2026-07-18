@@ -24,10 +24,10 @@ class SearchViewModel @Inject constructor(
     private val trackingRepo: TrackingRepo,
 ) : ViewModel() {
 
-    private val _query   = MutableStateFlow("")
+    private val _query = MutableStateFlow("")
     val query: StateFlow<String> = _query.asStateFlow()
 
-    private val _results  = MutableStateFlow<List<VerseDisplay>>(emptyList())
+    private val _results = MutableStateFlow<List<VerseDisplay>>(emptyList())
     val results: StateFlow<List<VerseDisplay>> = _results.asStateFlow()
 
     private val _isSearching = MutableStateFlow(false)
@@ -45,11 +45,18 @@ class SearchViewModel @Inject constructor(
             _query
                 .debounce(400)
                 .distinctUntilChanged()
-                .collect { q -> if (q.length >= 3) performSearch(q) else _results.value = emptyList() }
+                .collect { q ->
+                    if (q.length >= 3) performSearch(q) else _results.value = emptyList()
+                }
         }
     }
 
-    fun onQueryChange(q: String) { _query.value = q }
+    /** Bible whose local text was searched — needed to open a result in the reader. */
+    val primaryBibleAbbr: String get() = prefsRepo.primaryBible
+
+    fun onQueryChange(q: String) {
+        _query.value = q
+    }
 
     fun clearQuery() {
         _query.value = ""
@@ -61,7 +68,7 @@ class SearchViewModel @Inject constructor(
         searchJob = viewModelScope.launch {
             _isSearching.value = true
             try {
-                val abbr    = prefsRepo.primaryBible
+                val abbr = prefsRepo.primaryBible
                 val results = bibleRepo.searchVerses(abbr, q)
                 _results.value = results
                 if (results.isNotEmpty()) {

@@ -19,11 +19,11 @@ import androidx.compose.ui.unit.dp
 import com.biblelib.core.common.entity.VerseDisplay
 
 @Composable
-fun SearchResultItem(verse: VerseDisplay, query: String) {
+fun SearchResultItem(verse: VerseDisplay, query: String, onClick: (VerseDisplay) -> Unit = {}) {
     Column(
         modifier = Modifier
             .fillMaxWidth()
-            .clickable {}
+            .clickable { onClick(verse) }
             .padding(horizontal = 16.dp, vertical = 10.dp)
     ) {
         Text(
@@ -33,7 +33,7 @@ fun SearchResultItem(verse: VerseDisplay, query: String) {
             fontWeight = FontWeight.Bold,
         )
         Spacer(Modifier.height(2.dp))
-        // Highlight the matching query text
+
         val annotated = buildAnnotatedString {
             val lower = verse.text.lowercase()
             val qLow = query.lowercase()

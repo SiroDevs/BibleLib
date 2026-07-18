@@ -6,6 +6,9 @@ import com.biblelib.core.database.daos.HistoryDao
 import com.biblelib.core.database.daos.SearchDao
 import com.biblelib.core.database.model.HistoryEntity
 import com.biblelib.core.database.model.SearchEntity
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -14,18 +17,29 @@ class TrackingRepo @Inject constructor(
     private val historyDao: HistoryDao,
     private val searchDao: SearchDao,
 ) {
+    private val dayFormat = SimpleDateFormat("yyyyMMdd", Locale.US)
+
+    /**
+     * Records that [entry]'s chapter is being read. If this chapter was already opened today,
+     * only the top-visible verse (and any refreshed labels) are updated — the original "first
+     * opened" timestamp is preserved. Otherwise a new history row is created.
+     */
     suspend fun recordReading(entry: HistoryEntity) = withContext(Dispatchers.IO) {
-        historyDao.insert(
-            HistoryEntity(
-                bibleAbbr = entry.bibleAbbr,
-                bookId = entry.bookId,
-                bookName = entry.bookName,
-                chapterId = entry.chapterId,
-                chapterRef = entry.chapterRef,
-                readAt = entry.readAt,
+        val dayKey = dayFormat.format(Date(entry.readAt))
+        val existing = historyDao.findForDay(entry.bibleAbbr, entry.chapterId, dayKey)
+        if (existing != null) {
+            historyDao.update(
+                existing.copy(
+                    bibleName = entry.bibleName,
+                    bookName = entry.bookName,
+                    chapterRef = entry.chapterRef,
+                    verseNumber = entry.verseNumber ?: existing.verseNumber,
+                )
             )
-        )
-        historyDao.pruneOld()
+        } else {
+            historyDao.insert(entry.copy(dayKey = dayKey))
+            historyDao.pruneOld()
+        }
     }
 
     suspend fun getReadingHistory(): List<HistoryEntity> =
