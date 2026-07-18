@@ -52,14 +52,15 @@ fun SettingsScreen(navController: NavController) {
                 SettingsNavRow(
                     icon = Icons.Default.MenuBook,
                     title = "Reading",
-                    subtitle = "Font, size, Multi-Bible Reader",
+                    subtitle = "Font, size",
                     onClick = { navController.navigate(Routes.READING_SETTINGS) },
                 )
             }
+            item { SettingsGroupLabel("RESET") }
             item {
                 SettingsNavRow(
                     icon = Icons.Default.DataUsage,
-                    title = "Data",
+                    title = "App Data",
                     subtitle = "Bookmarks, notes, history & storage",
                     onClick = { navController.navigate(Routes.DATA_SETTINGS) },
                 )

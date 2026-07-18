@@ -26,6 +26,9 @@ data class BiblesUiState(
     val pendingDelete: BibleEntity? = null,
     val showPrimaryPicker: Boolean = false,
     val isLoading: Boolean = true,
+    val multiBibleEnabled: Boolean = false,
+    /** Ordered stack of secondary Bibles (excludes the primary Bible). */
+    val secondaryBibles: List<String> = emptyList(),
 )
 
 @HiltViewModel
@@ -46,8 +49,26 @@ class BiblesViewModel @Inject constructor(
     fun load() {
         viewModelScope.launch {
             val bibles = bibleRepo.getbibles().sortedBy { it.sortOrder }
+            val primary = prefsRepo.primaryBible
+            val owned = bibles.map { it.abbreviation }.toSet()
+
+            var secondary = prefsRepo.getSecondaryBibleList().filter { it in owned && it != primary }
+            if (secondary.isEmpty()) {
+                secondary = bibles
+                    .filter { it.abbreviation != primary }
+                    .take(PrefsRepo.DEFAULT_SECONDARY_BIBLES)
+                    .map { it.abbreviation }
+            }
+            prefsRepo.setSecondaryBibleList(secondary)
+
             _uiState.update {
-                it.copy(bibles = bibles, primaryAbbr = prefsRepo.primaryBible, isLoading = false)
+                it.copy(
+                    bibles = bibles,
+                    primaryAbbr = primary,
+                    isLoading = false,
+                    multiBibleEnabled = prefsRepo.multiBibleReaderEnabled,
+                    secondaryBibles = secondary,
+                )
             }
             observeDownloads(bibles)
         }
@@ -88,9 +109,12 @@ class BiblesViewModel @Inject constructor(
         prefsRepo.lastBookId = ""
         prefsRepo.lastChapterId = ""
         // A Bible can't be both primary and a secondary at the same time.
-        prefsRepo.setSecondaryBibleList(prefsRepo.getSecondaryBibleList() - abbr)
+        val updatedSecondary = prefsRepo.getSecondaryBibleList() - abbr
+        prefsRepo.setSecondaryBibleList(updatedSecondary)
 
-        _uiState.update { it.copy(primaryAbbr = abbr, showPrimaryPicker = false) }
+        _uiState.update {
+            it.copy(primaryAbbr = abbr, showPrimaryPicker = false, secondaryBibles = updatedSecondary)
+        }
     }
 
     fun requestDelete(bible: BibleEntity) = _uiState.update { it.copy(pendingDelete = bible) }
@@ -121,5 +145,37 @@ class BiblesViewModel @Inject constructor(
             prefsRepo.selectAfresh = true
             mainViewModel.reset()
         }
+    }
+
+    // ───────────────────────── Multi-Bible Reader ─────────────────────────
+
+    fun setMultiBibleEnabled(enabled: Boolean) {
+        prefsRepo.multiBibleReaderEnabled = enabled
+        _uiState.update { it.copy(multiBibleEnabled = enabled) }
+    }
+
+    /** Toggles [abbr] in/out of the secondary stack, respecting the 1–5 secondary cap. */
+    fun toggleSecondaryBible(abbr: String) {
+        val current = _uiState.value.secondaryBibles
+        val updated = if (abbr in current) {
+            current - abbr
+        } else {
+            if (current.size >= PrefsRepo.MAX_SECONDARY_BIBLES) return
+            current + abbr
+        }
+        _uiState.update { it.copy(secondaryBibles = updated) }
+        prefsRepo.setSecondaryBibleList(updated)
+    }
+
+    /** Moves [abbr] up (-1) or down (+1) in the secondary stack order. */
+    fun moveSecondaryBible(abbr: String, direction: Int) {
+        val list = _uiState.value.secondaryBibles.toMutableList()
+        val idx = list.indexOf(abbr)
+        val newIdx = idx + direction
+        if (idx < 0 || newIdx !in list.indices) return
+        val item = list.removeAt(idx)
+        list.add(newIdx, item)
+        _uiState.update { it.copy(secondaryBibles = list) }
+        prefsRepo.setSecondaryBibleList(list)
     }
 }

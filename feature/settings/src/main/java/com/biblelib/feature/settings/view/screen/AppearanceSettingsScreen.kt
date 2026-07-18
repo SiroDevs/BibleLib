@@ -43,9 +43,9 @@ import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.data.repos.appThemeName
 import com.biblelib.core.designsystem.customization.AppReaderBackgrounds
 import com.biblelib.core.ui.components.action.AppTopBar
-import com.biblelib.feature.settings.viewmodel.SettingsViewModel
 import com.biblelib.feature.settings.view.components.SettingsDropdownRow
 import com.biblelib.feature.settings.view.components.SettingsGroupLabel
+import com.biblelib.feature.settings.viewmodel.SettingsViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -73,11 +73,11 @@ fun AppearanceSettingsScreen(
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(10.dp),
         ) {
-            item { SettingsGroupLabel("Theme") }
+            item { SettingsGroupLabel("Display") }
             item {
                 SettingsDropdownRow(
                     icon = Icons.Default.Palette,
-                    title = "Appearance",
+                    title = "Theme",
                     currentLabel = appThemeName(themeRepo.selectedTheme),
                     expanded = themeExpanded,
                     onToggle = { themeExpanded = !themeExpanded },
@@ -126,7 +126,7 @@ fun AppearanceSettingsScreen(
                                         .border(
                                             width = if (isSelected) 2.5.dp else 1.dp,
                                             color = if (isSelected) MaterialTheme.colorScheme.primary
-                                            else MaterialTheme.colorScheme.outlineVariant,
+                                                    else MaterialTheme.colorScheme.outlineVariant,
                                             shape = CircleShape,
                                         ),
                                     contentAlignment = Alignment.Center,

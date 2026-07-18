@@ -49,7 +49,7 @@ fun DataSettingsScreen(
     Scaffold(
         topBar = {
             AppTopBar(
-                title = "Data",
+                title = "App Data",
                 showGoBack = true,
                 onNavIconClick = { navController.popBackStack() },
             )
@@ -110,8 +110,8 @@ fun DataSettingsScreen(
                         }
                         Text(
                             "Deletes every downloaded Bible, bookmark, note, history entry, search, and " +
-                                    "preference — including your theme and reading settings — and restarts the app " +
-                                    "at Bible selection. This can't be undone.",
+                                "preference — including your theme and reading settings — and restarts the app " +
+                                "at Bible selection. This can't be undone.",
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.75f),
                             modifier = Modifier.padding(top = 8.dp, bottom = 12.dp),
@@ -137,15 +137,15 @@ fun DataSettingsScreen(
         val target = pendingClear!!
         val (title, message) = when (target) {
             ClearTarget.BOOKMARKS -> "Clear all bookmarks?" to
-                    "This permanently deletes every bookmark across all your Bibles. This can't be undone."
+                "This permanently deletes every bookmark across all your Bibles. This can't be undone."
             ClearTarget.NOTES -> "Clear all notes?" to
-                    "This permanently deletes every note across all your Bibles. This can't be undone."
+                "This permanently deletes every note across all your Bibles. This can't be undone."
             ClearTarget.HISTORY -> "Clear all history?" to
-                    "This permanently deletes your reading history. This can't be undone."
+                "This permanently deletes your reading history. This can't be undone."
             ClearTarget.SEARCHES -> "Clear search history?" to
-                    "This permanently deletes your recent searches. This can't be undone."
+                "This permanently deletes your recent searches. This can't be undone."
             ClearTarget.ALL_DATA -> "Clear ALL app data?" to
-                    "This deletes everything — downloaded Bibles, bookmarks, notes, history, searches, and " +
+                "This deletes everything — downloaded Bibles, bookmarks, notes, history, searches, and " +
                     "preferences — and restarts the app at Bible selection. This cannot be undone."
         }
         ConfirmDialog(

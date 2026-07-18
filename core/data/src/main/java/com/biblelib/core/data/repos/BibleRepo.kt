@@ -60,7 +60,7 @@ class BibleRepo @Inject constructor(
 
         onProgress("Fetching books...", 0.05f)
         val booksResp = service.getBooks(abbr)
-        val bookEntities = booksResp.data.mapIndexed { i, dto ->
+        val bookEntities = booksResp.mapIndexed { i, dto ->
             BookEntity(
                 id = dto.id,
                 bibleAbbr = abbr,
@@ -93,7 +93,7 @@ class BibleRepo @Inject constructor(
         Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
 
         val chaptersByBook = chapterEntities.groupBy { it.bookId }
-        val bookIds = booksResp.data.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
+        val bookIds = booksResp.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
 
         onProgress("Fetching verses...", 0.25f)
 
@@ -131,7 +131,6 @@ class BibleRepo @Inject constructor(
         Log.d(TAG, "✅ Download complete for $abbr")
     }
 
-    /** Fetches every chapter's verses for a single book — this is one "batch". */
     private suspend fun fetchVersesForBook(
         abbr: String,
         bookId: String,

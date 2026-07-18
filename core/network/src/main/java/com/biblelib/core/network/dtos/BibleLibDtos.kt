@@ -29,9 +29,7 @@ data class BibleCountryDto(
     val name: String = "",
 )
 
-data class BooksResponse(
-    val data: List<BookDto> = emptyList()
-)
+typealias BooksResponse = List<BookDto>
 
 data class BookDto(
     val id: String = "",
