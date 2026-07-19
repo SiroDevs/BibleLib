@@ -31,8 +31,6 @@ class SelectionViewModel @Inject constructor(
 
     companion object {
         private const val TAG = "SelectionViewModel"
-
-        /** 1 primary + up to [PrefsRepo.MAX_SECONDARY_BIBLES] secondary Bibles for Multi-Bible Reader. */
         const val MAX_SELECTIONS = 1 + 5
     }
 
@@ -42,7 +40,7 @@ class SelectionViewModel @Inject constructor(
     private val _downloadProgress = MutableStateFlow(0f)
     val downloadProgress: StateFlow<Float> = _downloadProgress.asStateFlow()
 
-    private val _downloadStep = MutableStateFlow("Preparing...")
+    private val _downloadStep = MutableStateFlow("Preparing ...")
     val downloadStep: StateFlow<String> = _downloadStep.asStateFlow()
 
     private val _bibles = MutableStateFlow<List<Selectable<BibleInfoDto>>>(emptyList())
@@ -79,7 +77,6 @@ class SelectionViewModel @Inject constructor(
                         isSelected = it.abbreviation in selected
                     )
                 }
-
                 _uiState.value = UiState.Loaded
             } catch (e: Exception) {
                 Log.e(TAG, "fetchBibles", e)

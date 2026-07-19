@@ -112,13 +112,12 @@ fun BibleListItem(
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.55f),
                 )
                 Text(
-                    text = language,
+                    text = "The Bible in $language",
                     style = MaterialTheme.typography.labelSmall,
                     color = MaterialTheme.colorScheme.secondary,
                 )
             }
 
-            // Checkmark
             AnimatedVisibility(visible = isSelected, enter = scaleIn(), exit = scaleOut()) {
                 Icon(
                     imageVector = Icons.Default.CheckCircle,
