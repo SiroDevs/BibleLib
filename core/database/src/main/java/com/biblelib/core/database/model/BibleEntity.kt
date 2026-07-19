@@ -22,4 +22,7 @@ data class BibleEntity(
     val sortOrder: Int = 0,
     val isDownloaded: Boolean = false,
     val addedAt: Long = System.currentTimeMillis(),
+    val countryName: String = "",
+    val downloadProgress: Float = 0f,
+    val downloadFailed: Boolean = false,
 ) : Parcelable

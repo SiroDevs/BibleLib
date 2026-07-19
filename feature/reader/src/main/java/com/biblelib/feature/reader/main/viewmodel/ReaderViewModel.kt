@@ -1,9 +1,12 @@
-package com.biblelib.feature.reader.viewmodel
+package com.biblelib.feature.reader.main.viewmodel
 
+import android.content.Context
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import androidx.work.WorkManager
 import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 import com.biblelib.core.common.entity.*
@@ -11,53 +14,15 @@ import com.biblelib.core.data.repos.AnnotationRepo
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.TrackingRepo
+import com.biblelib.core.data.worker.SyncScheduler
+import com.biblelib.core.data.worker.SyncWorker
 import com.biblelib.core.database.model.BookEntity
 import com.biblelib.core.database.model.ChapterEntity
 import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.feature.reader.main.utils.NotesNavRequest
+import com.biblelib.feature.reader.main.utils.ReaderUiState
 import javax.inject.Inject
-
-/** A pending navigation request to the Notes screen, consumed once by the UI. */
-data class NotesNavRequest(
-    val bibleAbbr: String,
-    val verseId: String,
-    val bookId: String,
-    val chapterId: String,
-    val title: String,
-    val verseText: String,
-)
-
-data class ReaderUiState(
-    val isLoading: Boolean = true,
-    val error: String? = null,
-    val savedBibles: List<BibleEntity> = emptyList(),
-    val activeBible: String = "",
-    val activeBibleAbbr: String = "",
-    val books: List<BookEntity> = emptyList(),
-    val activeBook: BookEntity? = null,
-    val chapters: List<ChapterEntity> = emptyList(),
-    val activeChapter: ChapterEntity? = null,
-    val verses: List<VerseDisplay> = emptyList(),
-    val parallelVerses: Map<String, List<VerseDisplay>> = emptyMap(),
-    val fontSizeSp: Float = 18f,
-    val fontFamilyId: String = "default",
-    val readerBackgroundId: String = "default",
-    val multiBibleReaderEnabled: Boolean = true,
-    val restoreVerseId: String? = null, // one-shot: scroll target when a chapter is (re)opened
-
-    // Bookmarks/notes for the currently displayed chapter.
-    val bookmarks: Map<String, String?> = emptyMap(), // verseId -> colorHex (null = quick bookmark)
-    val notedVerseIds: Set<String> = emptySet(),
-
-    // Multi-select (long-press) state.
-    val selectedVerseIds: Set<String> = emptySet(),
-    val showColorPicker: Boolean = false,
-    val pendingHighlightColor: String? = null, // set once a color has been chosen, awaiting bookmark-only/with-notes choice
-
-    val notesNavRequest: NotesNavRequest? = null,
-) {
-    val isSelectionMode: Boolean get() = selectedVerseIds.isNotEmpty()
-}
 
 @HiltViewModel
 class ReaderViewModel @Inject constructor(
@@ -65,13 +30,14 @@ class ReaderViewModel @Inject constructor(
     private val trackingRepo: TrackingRepo,
     private val prefsRepo: PrefsRepo,
     private val annotationRepo: AnnotationRepo,
+    @ApplicationContext private val context: Context,
 ) : ViewModel() {
-
     private val _uiState = MutableStateFlow(ReaderUiState())
     val uiState: StateFlow<ReaderUiState> = _uiState.asStateFlow()
 
-    /** True only for the very first chapter load of this screen instance — used to decide
-     *  whether to restore the user's last scroll position within the chapter. */
+    private val workManager = WorkManager.getInstance(context)
+    private val observedAbbrs = mutableSetOf<String>()
+
     private var isFirstLoad = false
 
     fun initialize(initialBible: String, initialBibleAbbr: String, initialBookId: String, initialChapterId: String) {
@@ -111,10 +77,65 @@ class ReaderViewModel @Inject constructor(
                 }
 
                 loadBooks(bibleAbbr, initialBookId, initialChapterId)
+                observeDownloads(bibles)
             } catch (e: Exception) {
                 Log.e(TAG, "initialize error", e)
                 _uiState.update { it.copy(isLoading = false, error = e.message) }
             }
+        }
+    }
+
+    private fun observeDownloads(bibles: List<BibleEntity>) {
+        bibles
+            .filter { !it.isDownloaded && it.abbreviation !in observedAbbrs }
+            .forEach { bible ->
+                observedAbbrs += bible.abbreviation
+                viewModelScope.launch {
+                    workManager
+                        .getWorkInfosByTagFlow(bible.abbreviation)
+                        .collect { infos ->
+                            val info = infos
+                                .filterNot { it.state.isFinished }
+                                .maxByOrNull { it.id.hashCode() }
+                                ?: infos.maxByOrNull { it.id.hashCode() }
+                            val progress = info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
+                            if (progress > 0f) {
+                                _uiState.update {
+                                    it.copy(downloadProgress = it.downloadProgress + (bible.abbreviation to progress))
+                                }
+                            }
+                            if (info != null && info.state.isFinished) {
+                                observedAbbrs -= bible.abbreviation
+                                _uiState.update {
+                                    it.copy(savedBibles = bibleRepo.getbibles())
+                                }
+                            }
+                        }
+                }
+            }
+    }
+
+    fun retryBibleDownload(abbr: String) {
+        observedAbbrs -= abbr
+        SyncScheduler.scheduleSecondaryDownload(context, abbr)
+        viewModelScope.launch {
+            observeDownloads(listOf(BibleEntity(
+                abbreviation = abbr, name = "", description = "", languageName = "",
+                scriptDirection = "LTR", copyright = "",
+            )))
+        }
+    }
+
+    fun restartBibleDownload(abbr: String) {
+        observedAbbrs -= abbr
+        SyncScheduler.cancelDownload(context, abbr)
+        viewModelScope.launch {
+            bibleRepo.clearBibleContent(abbr)
+            SyncScheduler.scheduleSecondaryDownload(context, abbr)
+            observeDownloads(listOf(BibleEntity(
+                abbreviation = abbr, name = "", description = "", languageName = "",
+                scriptDirection = "LTR", copyright = "",
+            )))
         }
     }
 
@@ -167,8 +188,6 @@ class ReaderViewModel @Inject constructor(
             return
         }
 
-        // Load parallel (secondary) bibles — respecting the Multi-Bible Reader toggle
-        // and the user's chosen/ordered secondary-bible stack.
         val parallelMap = mutableMapOf<String, List<VerseDisplay>>()
         val multiBibleEnabled = prefsRepo.multiBibleReaderEnabled
         if (multiBibleEnabled) {
@@ -215,13 +234,10 @@ class ReaderViewModel @Inject constructor(
             )
         }
 
-        // Save prefs
         prefsRepo.lastBibleAbbr = abbr
         prefsRepo.lastBookId = chapter.bookId
         prefsRepo.lastChapterId = chapter.id
 
-        // Record history — the chapter was (re)opened; verse 1 is the top until the
-        // user scrolls, at which point onVerseScrollPositionChanged() will update it.
         val book = _uiState.value.activeBook
         if (book != null) {
             trackingRepo.recordReading(
@@ -238,8 +254,6 @@ class ReaderViewModel @Inject constructor(
         }
     }
 
-    /** Called by the reader UI (debounced) as the user scrolls, to remember exactly where
-     *  they left off and to keep today's history entry showing the right top verse. */
     fun onVerseScrollPositionChanged(verseId: String, verseNumber: Int) {
         val chapter = _uiState.value.activeChapter ?: return
         val book = _uiState.value.activeBook ?: return
@@ -262,16 +276,23 @@ class ReaderViewModel @Inject constructor(
         }
     }
 
-    /** Consumes the one-shot scroll-restore target once the UI has acted on it. */
     fun consumeRestoreVerseTarget() {
         _uiState.update { it.copy(restoreVerseId = null) }
     }
 
     fun selectBible(abbr: String) {
         val chapter = _uiState.value.activeChapter ?: return
+        val newName = _uiState.value.savedBibles.find { it.abbreviation == abbr }?.name
+            ?: _uiState.value.activeBible
+
+        prefsRepo.primaryBible = abbr
+        prefsRepo.lastBible = newName
+        prefsRepo.setSecondaryBibleList(prefsRepo.getSecondaryBibleList() - abbr)
+
+        _uiState.update { it.copy(activeBible = newName, activeBibleAbbr = abbr) }
+
         viewModelScope.launch {
             loadVerses(abbr, chapter)
-            // Also reload books/chapters for the new bible
             loadBooks(abbr, _uiState.value.activeBook?.id ?: "", chapter.id)
         }
     }
@@ -312,7 +333,6 @@ class ReaderViewModel @Inject constructor(
         _uiState.update { it.copy(readerBackgroundId = id) }
     }
 
-    /** Toggled from the reader's Quick Settings dialog; reloads verses so the parallel column updates immediately. */
     fun setMultiBibleReaderEnabled(enabled: Boolean) {
         prefsRepo.multiBibleReaderEnabled = enabled
         _uiState.update { it.copy(multiBibleReaderEnabled = enabled) }
@@ -320,9 +340,6 @@ class ReaderViewModel @Inject constructor(
         viewModelScope.launch { loadVerses(_uiState.value.activeBibleAbbr, chapter) }
     }
 
-    // ───────────────────────────── Bookmarks & Notes ─────────────────────────────
-
-    /** Long-press (or continued tap while in selection mode) toggles a verse's selection. */
     fun toggleVerseSelected(verseId: String) {
         _uiState.update {
             val newSelection = if (verseId in it.selectedVerseIds) {
@@ -344,7 +361,6 @@ class ReaderViewModel @Inject constructor(
         }
     }
 
-    /** A quick, single-verse bookmark toggle — triggered by swiping a verse right. */
     fun quickToggleBookmark(verseId: String) {
         val state = _uiState.value
         val abbr = state.activeBibleAbbr
@@ -362,7 +378,6 @@ class ReaderViewModel @Inject constructor(
         }
     }
 
-    /** Swiping a verse left opens its notes screen directly. */
     fun requestNotesForVerse(verseId: String): NotesNavRequest? {
         val state = _uiState.value
         val verse = state.verses.find { it.verseId == verseId } ?: return null
@@ -391,7 +406,6 @@ class ReaderViewModel @Inject constructor(
         _uiState.update { it.copy(pendingHighlightColor = null) }
     }
 
-    /** Opens notes directly for the single selected verse (top-bar "Notes" action). */
     fun openNotesForSelection(): NotesNavRequest? {
         val state = _uiState.value
         val verseId = state.selectedVerseIds.singleOrNull() ?: return null
@@ -401,7 +415,6 @@ class ReaderViewModel @Inject constructor(
         return request
     }
 
-    /** Applies the chosen highlight color to all selected verses, then exits selection mode. */
     fun confirmBookmarkOnly() {
         val state = _uiState.value
         val color = state.pendingHighlightColor ?: return
@@ -424,7 +437,6 @@ class ReaderViewModel @Inject constructor(
         }
     }
 
-    /** Applies the highlight, then returns a nav request for the first selected verse's notes. */
     fun confirmBookmarkWithNotes(): NotesNavRequest? {
         val state = _uiState.value
         val color = state.pendingHighlightColor ?: return null
@@ -454,7 +466,6 @@ class ReaderViewModel @Inject constructor(
         return request
     }
 
-    /** Called when returning from the Notes screen, to refresh the "has note" indicator. */
     fun refreshNotedVerses() {
         val abbr = _uiState.value.activeBibleAbbr
         val chapterId = _uiState.value.activeChapter?.id ?: return
@@ -482,7 +493,6 @@ class ReaderViewModel @Inject constructor(
     companion object {
         private const val TAG = "ReaderViewModel"
 
-        /** A small, friendly palette offered when bulk-highlighting verses. */
         val HIGHLIGHT_COLORS = listOf(
             "#FFF59D", // yellow
             "#A5D6A7", // green

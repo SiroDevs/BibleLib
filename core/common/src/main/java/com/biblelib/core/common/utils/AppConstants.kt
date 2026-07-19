@@ -79,6 +79,19 @@ object Routes {
         return "payment_webview/$encoded"
     }
 
+    const val SCRIPTURE_OPENER = "scripture_opener?bibleAbbr={bibleAbbr}&bibleName={bibleName}"
+
+    fun scriptureOpener(bibleAbbr: String, bibleName: String): String {
+        val encodedName = URLEncoder.encode(bibleName, StandardCharsets.UTF_8.toString())
+        return "scripture_opener?bibleAbbr=$bibleAbbr&bibleName=$encodedName"
+    }
+
+    const val SCRIPTURE_LISTS = "scripture_lists"
+
+    const val SCRIPTURE_LIST_DETAIL = "scripture_list_detail/{listId}"
+
+    fun scriptureListDetail(listId: Long) = "scripture_list_detail/$listId"
+
     fun decodeRedirectUrl(encoded: String): String =
         URLDecoder.decode(encoded, StandardCharsets.UTF_8.toString())
 

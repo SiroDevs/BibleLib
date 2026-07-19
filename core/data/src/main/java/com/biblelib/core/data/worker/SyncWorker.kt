@@ -52,7 +52,12 @@ class SyncWorker @AssistedInject constructor(
             Result.success()
         } catch (e: Exception) {
             Log.e(TAG, "❌ Failed to download $abbr: ${e.message}", e)
-            Result.retry()
+            if (runAttemptCount < MAX_RETRIES) {
+                Result.retry()
+            } else {
+                bibleRepo.markDownloadFailed(abbr)
+                Result.failure()
+            }
         }
     }
 
@@ -101,5 +106,7 @@ class SyncWorker @AssistedInject constructor(
         const val KEY_STEP = "step"
         private const val CHANNEL_ID = "bible_downloads"
         private const val NOTIFICATION_ID = 8001
+
+        private const val MAX_RETRIES = 3
     }
 }

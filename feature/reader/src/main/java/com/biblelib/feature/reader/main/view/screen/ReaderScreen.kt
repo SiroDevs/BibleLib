@@ -56,9 +56,9 @@ import com.biblelib.feature.reader.main.view.components.ChapterNavBar
 import com.biblelib.feature.reader.main.view.components.ChapterSheet
 import com.biblelib.feature.reader.main.view.components.HighlightColorPickerDialog
 import com.biblelib.feature.reader.main.view.components.ReaderSelectionTopBar
-import com.biblelib.feature.reader.viewmodel.ReaderViewModel
 import com.biblelib.feature.reader.main.view.components.ReaderTopBar
 import com.biblelib.feature.reader.main.view.components.VerseList
+import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.distinctUntilChanged
 
@@ -248,9 +248,16 @@ fun ReaderScreen(
         BibleSelectorSheet(
             savedBibles = state.savedBibles,
             activeBibleAbbr = state.activeBibleAbbr,
+            downloadProgress = state.downloadProgress,
             onSelect = { abbr ->
                 viewModel.selectBible(abbr)
                 showBibleSelector = false
+            },
+            onRetryDownload = viewModel::retryBibleDownload,
+            onRestartDownload = viewModel::restartBibleDownload,
+            onOpenBibles = {
+                showBibleSelector = false
+                navController.navigate(Routes.BIBLES)
             },
             onDismiss = { showBibleSelector = false },
         )

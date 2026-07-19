@@ -31,7 +31,13 @@ import com.biblelib.feature.history.view.HistoryScreen
 import com.biblelib.feature.reader.main.view.screen.ReaderScreen
 import com.biblelib.feature.reader.notes.viewmodel.NotesViewModel
 import com.biblelib.feature.reader.notes.view.NotesScreen
-import com.biblelib.feature.reader.viewmodel.ReaderViewModel
+import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
+import com.biblelib.feature.scriptureopener.opener.view.screen.ScriptureOpenerScreen
+import com.biblelib.feature.scriptureopener.opener.viewmodel.ScriptureOpenerViewModel
+import com.biblelib.feature.scriptureopener.lists.view.screen.ScriptureListScreen
+import com.biblelib.feature.scriptureopener.lists.view.screen.ScriptureListDetailScreen
+import com.biblelib.feature.scriptureopener.lists.viewmodel.ScriptureListsViewModel
+import com.biblelib.feature.scriptureopener.lists.viewmodel.ScriptureListDetailViewModel
 import com.biblelib.feature.search.viewmodel.SearchViewModel
 import com.biblelib.feature.search.view.screen.SearchScreen
 import com.biblelib.feature.selection.viewmodel.SelectionViewModel
@@ -198,6 +204,47 @@ fun AppNavHost(
 
         composable(Routes.HELP) {
             HelpScreen(navController = navController)
+        }
+
+        composable(
+            route = Routes.SCRIPTURE_OPENER,
+            arguments = listOf(
+                navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
+                navArgument("bibleName") { type = NavType.StringType; defaultValue = "" },
+            ),
+        ) { backStackEntry ->
+            val bibleAbbr = backStackEntry.arguments?.getString("bibleAbbr") ?: ""
+            val bibleName = Routes.decode(backStackEntry.arguments?.getString("bibleName") ?: "")
+            val viewModel: ScriptureOpenerViewModel = hiltViewModel()
+            ScriptureOpenerScreen(
+                navController = navController,
+                viewModel = viewModel,
+                bibleAbbr = bibleAbbr,
+                bibleName = bibleName,
+            )
+        }
+
+        composable(Routes.SCRIPTURE_LISTS) {
+            val viewModel: ScriptureListsViewModel = hiltViewModel()
+            ScriptureListScreen(
+                navController = navController,
+                viewModel = viewModel,
+            )
+        }
+
+        composable(
+            route = Routes.SCRIPTURE_LIST_DETAIL,
+            arguments = listOf(
+                navArgument("listId") { type = NavType.LongType },
+            ),
+        ) { backStackEntry ->
+            val listId = backStackEntry.arguments?.getLong("listId") ?: 0L
+            val viewModel: ScriptureListDetailViewModel = hiltViewModel()
+            ScriptureListDetailScreen(
+                navController = navController,
+                viewModel = viewModel,
+                listId = listId,
+            )
         }
 
         composable(Routes.DONATION) {

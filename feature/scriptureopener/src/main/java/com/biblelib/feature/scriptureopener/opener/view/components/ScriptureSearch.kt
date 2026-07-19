@@ -1,0 +1,224 @@
+package com.biblelib.feature.scriptureopener.opener.view.components
+
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.expandVertically
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.shrinkVertically
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.matchParentSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Close
+import androidx.compose.material.icons.filled.Done
+import androidx.compose.material.icons.filled.MenuBook
+import androidx.compose.material.icons.filled.PlaylistAdd
+import androidx.compose.material3.Button
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.unit.dp
+import com.biblelib.core.database.model.BookEntity
+import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.feature.scriptureopener.opener.viewmodel.ExpandedField
+import com.biblelib.feature.scriptureopener.opener.viewmodel.ScriptureSearchRowState
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun ScriptureSearch(
+    row: ScriptureSearchRowState,
+    isActive: Boolean,
+    onToggleField: (ExpandedField) -> Unit,
+    onSelectBook: (BookEntity) -> Unit,
+    onSelectChapter: (ChapterEntity) -> Unit,
+    onSelectVerse: (Int) -> Unit,
+    onOpenScripture: () -> Unit,
+    onAddToQueue: () -> Unit,
+    onAddToQueueAndClose: () -> Unit,
+    onAddToQueueAndFinish: () -> Unit,
+    modifier: Modifier = Modifier,
+) {
+    if (row.locked) {
+        LockedScriptureRow(row = row)
+        return
+    }
+
+    Column(modifier = modifier.fillMaxWidth().padding(vertical = 6.dp)) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.spacedBy(8.dp),
+        ) {
+            ScriptureField(
+                label = "Book",
+                value = row.bookLabel,
+                enabled = true,
+                modifier = Modifier.weight(1.3f),
+                onClick = { onToggleField(ExpandedField.BOOK) },
+            )
+            ScriptureField(
+                label = "Ch",
+                value = row.chapterLabel,
+                enabled = row.canExpandChapter,
+                modifier = Modifier.weight(1f),
+                onClick = { onToggleField(ExpandedField.CHAPTER) },
+            )
+            ScriptureField(
+                label = "Vs",
+                value = row.verseLabel,
+                enabled = row.canExpandVerse,
+                modifier = Modifier.weight(1f),
+                onClick = { onToggleField(ExpandedField.VERSE) },
+            )
+        }
+
+        AnimatedVisibility(visible = row.expanded == ExpandedField.BOOK, enter = fadeIn() + expandVertically(), exit = fadeOut() + shrinkVertically()) {
+            BookResultsGrid(
+                books = row.books,
+                selectedBookId = row.selectedBook?.id,
+                onSelect = onSelectBook,
+                modifier = Modifier.padding(top = 6.dp),
+            )
+        }
+
+        AnimatedVisibility(visible = row.expanded == ExpandedField.CHAPTER, enter = fadeIn() + expandVertically(), exit = fadeOut() + shrinkVertically()) {
+            if (row.isLoadingChapters) {
+                LoadingRow()
+            } else {
+                ChapterResultsGrid(
+                    chapters = row.chapters,
+                    selectedChapterId = row.selectedChapter?.id,
+                    onSelect = onSelectChapter,
+                    modifier = Modifier.padding(top = 6.dp),
+                )
+            }
+        }
+
+        AnimatedVisibility(visible = row.expanded == ExpandedField.VERSE, enter = fadeIn() + expandVertically(), exit = fadeOut() + shrinkVertically()) {
+            if (row.isLoadingVerses) {
+                LoadingRow()
+            } else {
+                VerseResultsGrid(
+                    verseCount = row.verses.size,
+                    selectedVerseNumber = row.selectedVerseNumber,
+                    onSelect = onSelectVerse,
+                    modifier = Modifier.padding(top = 6.dp),
+                )
+            }
+        }
+
+        AnimatedVisibility(
+            visible = isActive && row.isComplete && row.expanded == ExpandedField.NONE,
+            enter = fadeIn() + expandVertically(),
+            exit = fadeOut() + shrinkVertically(),
+        ) {
+            ScriptureActionButtons(
+                reference = row.reference,
+                onOpenScripture = onOpenScripture,
+                onAddToQueue = onAddToQueue,
+                onAddToQueueAndClose = onAddToQueueAndClose,
+                onAddToQueueAndFinish = onAddToQueueAndFinish,
+            )
+        }
+    }
+}
+
+@Composable
+private fun ScriptureField(
+    label: String,
+    value: String,
+    enabled: Boolean,
+    onClick: () -> Unit,
+    modifier: Modifier = Modifier,
+) {
+    Box(modifier = modifier) {
+        OutlinedTextField(
+            value = value,
+            onValueChange = {},
+            readOnly = true,
+            enabled = enabled,
+            singleLine = true,
+            label = { Text(label) },
+            modifier = Modifier.fillMaxWidth(),
+        )
+        if (enabled) {
+            Box(
+                modifier = Modifier
+                    .matchParentSize()
+                    .clip(RoundedCornerShape(4.dp))
+                    .clickable(onClick = onClick)
+            )
+        }
+    }
+}
+
+@Composable
+private fun LoadingRow() {
+    Box(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(top = 6.dp)
+            .height(100.dp),
+        contentAlignment = Alignment.Center,
+    ) {
+        CircularProgressIndicator()
+    }
+}
+
+@Composable
+private fun ScriptureActionButtons(
+    reference: String,
+    onOpenScripture: () -> Unit,
+    onAddToQueue: () -> Unit,
+    onAddToQueueAndClose: () -> Unit,
+    onAddToQueueAndFinish: () -> Unit,
+) {
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(top = 10.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp),
+    ) {
+        Button(onClick = onOpenScripture, modifier = Modifier.fillMaxWidth()) {
+            Icon(Icons.Default.MenuBook, null)
+            Spacer(Modifier.width(8.dp))
+            Text("Open Scripture · $reference", maxLines = 1, overflow = TextOverflow.Ellipsis)
+        }
+        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            OutlinedButton(onClick = onAddToQueue, modifier = Modifier.weight(1f)) {
+                Icon(Icons.Default.PlaylistAdd, null)
+                Spacer(Modifier.width(4.dp))
+                Text("Add to Queue")
+            }
+        }
+        Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            OutlinedButton(onClick = onAddToQueueAndClose, modifier = Modifier.weight(1f)) {
+                Icon(Icons.Default.Close, null)
+                Spacer(Modifier.width(4.dp))
+                Text("Queue & Close", maxLines = 1, overflow = TextOverflow.Ellipsis)
+            }
+            OutlinedButton(onClick = onAddToQueueAndFinish, modifier = Modifier.weight(1f)) {
+                Icon(Icons.Default.Done, null)
+                Spacer(Modifier.width(4.dp))
+                Text("Queue & Finish", maxLines = 1, overflow = TextOverflow.Ellipsis)
+            }
+        }
+    }
+}

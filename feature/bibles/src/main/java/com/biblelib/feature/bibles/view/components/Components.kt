@@ -2,6 +2,7 @@ package com.biblelib.feature.bibles.view.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -43,6 +44,8 @@ fun SwipeableBibleRow(
     onDelete: () -> Unit,
     onToggleSecondary: (() -> Unit)? = null,
     leadingContent: (@Composable () -> Unit)? = null,
+    onContinueDownload: (() -> Unit)? = null,
+    onRestartDownload: (() -> Unit)? = null,
 ) {
     val dismissState = rememberSwipeToDismissBoxState(
         confirmValueChange = { value ->
@@ -85,15 +88,31 @@ fun SwipeableBibleRow(
                 headlineContent = { Text(bible.name, fontWeight = FontWeight.Medium) },
                 supportingContent = { Text("${bible.abbreviation.uppercase()} BIBLE") },
             )
-            if (!bible.isDownloaded) {
+            if (bible.downloadFailed) {
                 Column(Modifier.padding(horizontal = 16.dp).padding(bottom = 12.dp)) {
                     Text(
-                        "Downloading ... ${((progress ?: 0f) * 100).toInt()}%",
+                        "DOWNLOAD FAILED · ${(bible.downloadProgress * 100).toInt()}% done",
+                        style = MaterialTheme.typography.labelSmall,
+                        color = MaterialTheme.colorScheme.error,
+                        fontWeight = FontWeight.Bold,
+                    )
+                    Row(
+                        modifier = Modifier.padding(top = 8.dp),
+                        horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    ) {
+                        TextButton(onClick = { onRestartDownload?.invoke() }) { Text("Restart") }
+                        TextButton(onClick = { onContinueDownload?.invoke() }) { Text("Continue") }
+                    }
+                }
+            } else if (!bible.isDownloaded) {
+                Column(Modifier.padding(horizontal = 16.dp).padding(bottom = 12.dp)) {
+                    Text(
+                        "Downloading ... ${((progress ?: bible.downloadProgress) * 100).toInt()}%",
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.secondary,
                     )
                     LinearProgressIndicator(
-                        progress = { progress ?: 0f },
+                        progress = { progress ?: bible.downloadProgress },
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(top = 4.dp),

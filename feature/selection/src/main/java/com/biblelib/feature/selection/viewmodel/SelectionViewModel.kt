@@ -11,6 +11,7 @@ import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.worker.SyncScheduler
 import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
+import com.biblelib.core.network.dtos.primaryCountryName
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -45,6 +46,8 @@ class SelectionViewModel @Inject constructor(
 
     private val _bibles = MutableStateFlow<List<Selectable<BibleInfoDto>>>(emptyList())
     val bibles = _bibles.asStateFlow()
+
+    private var pendingSelection: List<BibleInfoDto> = emptyList()
 
     val selectedCount: StateFlow<Int> =
         _bibles
@@ -116,6 +119,7 @@ class SelectionViewModel @Inject constructor(
             .map { it.data }
 
         if (selected.isEmpty()) return
+        pendingSelection = selected
 
         _uiState.value = UiState.Saving
         _downloadProgress.value = 0f
@@ -123,80 +127,135 @@ class SelectionViewModel @Inject constructor(
 
         viewModelScope.launch {
             try {
-
-                val primary = selected.first()
-                val newAbbrs = selected.map { it.abbreviation }.toSet()
-
-                // Any Bible that was previously owned but is no longer part of the
-                // selection was explicitly unchecked by the user — remove it fully.
-                val previouslyOwned = prefsRepo.getSelectedBibleList()
-                val removed = previouslyOwned.filter { it !in newAbbrs }
-                removed.forEach { abbr ->
-                    SyncScheduler.cancelDownload(context, abbr)
-                    bibleRepo.deleteBible(abbr)
-                }
-
-                prefsRepo.selectedBibles =
-                    selected.joinToString(",") { it.abbreviation }
-
-                prefsRepo.primaryBible = primary.abbreviation
-                prefsRepo.isDataSelected = true
-                prefsRepo.selectAfresh = false
-
-                prefsRepo.lastBibleAbbr = primary.abbreviation
-                prefsRepo.lastBookId = ""
-                prefsRepo.lastChapterId = ""
-
-                // Keep the secondary-Bible stack limited to Bibles still owned; seed a
-                // sensible default (first couple of secondaries) the first time round.
-                val prunedSecondary = prefsRepo.getSecondaryBibleList()
-                    .filter { it in newAbbrs && it != primary.abbreviation }
-                val secondary = prunedSecondary.ifEmpty {
-                    selected.drop(1)
-                        .take(PrefsRepo.DEFAULT_SECONDARY_BIBLES)
-                        .map { it.abbreviation }
-                }
-                prefsRepo.setSecondaryBibleList(secondary)
-
-                bibleRepo.saveBibles(
-                    selected.mapIndexed { index, dto ->
-                        BibleEntity(
-                            abbreviation = dto.abbreviation,
-                            name = dto.name,
-                            description = dto.description,
-                            languageName = dto.language.name,
-                            scriptDirection = dto.language.scriptDirection,
-                            copyright = dto.copyright,
-                            sortOrder = index,
-                            isDownloaded = false
-                        )
-                    }
-                )
-
-                bibleRepo.downloadBible(primary.abbreviation) { step, progress ->
-                    _downloadStep.value = step
-                    _downloadProgress.value = progress
-                }
-
-                prefsRepo.isPrimaryLoaded = true
-
-                selected.drop(1).forEach {
-                    SyncScheduler.scheduleSecondaryDownload(
-                        context,
-                        it.abbreviation
-                    )
-                }
-
+                persistSelectionBookkeeping(selected)
+                downloadPrimaryAndQueueSecondaries(selected)
                 _uiState.value = UiState.Saved
-
             } catch (e: Exception) {
-
                 Log.e(TAG, "saveSelection", e)
-
-                _uiState.value = UiState.Error(
-                    "Failed to download the Bible. Please try again."
+                _uiState.value = UiState.SaveFailed(
+                    message = "Failed to download the Bible. You can continue where it left off or restart.",
+                    progress = _downloadProgress.value,
                 )
             }
         }
+    }
+
+    fun continuePrimaryDownload() {
+        val selected = pendingSelection
+        if (selected.isEmpty()) return
+
+        _uiState.value = UiState.Saving
+        _downloadStep.value = "Resuming download..."
+
+        viewModelScope.launch {
+            try {
+                _downloadProgress.value = bibleRepo.getbibles()
+                    .find { it.abbreviation == selected.first().abbreviation }
+                    ?.downloadProgress ?: 0f
+
+                downloadPrimaryAndQueueSecondaries(selected)
+                _uiState.value = UiState.Saved
+            } catch (e: Exception) {
+                Log.e(TAG, "continuePrimaryDownload", e)
+                _uiState.value = UiState.SaveFailed(
+                    message = "Still couldn't finish the download. You can continue or restart.",
+                    progress = _downloadProgress.value,
+                )
+            }
+        }
+    }
+
+    fun restartPrimaryDownload() {
+        val selected = pendingSelection
+        if (selected.isEmpty()) return
+
+        _uiState.value = UiState.Saving
+        _downloadProgress.value = 0f
+        _downloadStep.value = "Restarting download..."
+
+        viewModelScope.launch {
+            try {
+                bibleRepo.clearBibleContent(selected.first().abbreviation)
+                downloadPrimaryAndQueueSecondaries(selected)
+                _uiState.value = UiState.Saved
+            } catch (e: Exception) {
+                Log.e(TAG, "restartPrimaryDownload", e)
+                _uiState.value = UiState.SaveFailed(
+                    message = "Failed to download the Bible. You can continue where it left off or restart.",
+                    progress = _downloadProgress.value,
+                )
+            }
+        }
+    }
+
+    private suspend fun persistSelectionBookkeeping(selected: List<BibleInfoDto>) {
+        val primary = selected.first()
+        val newAbbrs = selected.map { it.abbreviation }.toSet()
+
+        val previouslyOwned = prefsRepo.getSelectedBibleList()
+        val removed = previouslyOwned.filter { it !in newAbbrs }
+        removed.forEach { abbr ->
+            SyncScheduler.cancelDownload(context, abbr)
+            bibleRepo.deleteBible(abbr)
+        }
+
+        prefsRepo.selectedBibles = selected.joinToString(",") { it.abbreviation }
+
+        prefsRepo.primaryBible = primary.abbreviation
+        prefsRepo.isDataSelected = true
+        prefsRepo.selectAfresh = false
+
+        prefsRepo.lastBible = primary.name
+        prefsRepo.lastBibleAbbr = primary.abbreviation
+        prefsRepo.lastBookId = ""
+        prefsRepo.lastChapterId = ""
+
+        val prunedSecondary = prefsRepo.getSecondaryBibleList()
+            .filter { it in newAbbrs && it != primary.abbreviation }
+        val secondary = prunedSecondary.ifEmpty {
+            selected.drop(1)
+                .take(PrefsRepo.DEFAULT_SECONDARY_BIBLES)
+                .map { it.abbreviation }
+        }
+        prefsRepo.setSecondaryBibleList(secondary)
+
+        bibleRepo.saveBibles(
+            selected.mapIndexed { index, dto ->
+                BibleEntity(
+                    abbreviation = dto.abbreviation,
+                    name = dto.name,
+                    description = dto.description,
+                    languageName = dto.language.name,
+                    scriptDirection = dto.language.scriptDirection,
+                    copyright = dto.copyright,
+                    sortOrder = index,
+                    isDownloaded = false,
+                    countryName = dto.primaryCountryName(),
+                )
+            }
+        )
+    }
+
+    /** Downloads the primary Bible (resumable), then queues the rest 2-at-a-time in the background. */
+    private suspend fun downloadPrimaryAndQueueSecondaries(selected: List<BibleInfoDto>) {
+        val primary = selected.first()
+
+        // saveBibles() may not have run yet if this is a raw retry entry point — make sure the
+        // row exists so download progress has somewhere to persist to.
+        if (bibleRepo.getbibles().none { it.abbreviation == primary.abbreviation }) {
+            persistSelectionBookkeeping(selected)
+        }
+
+        bibleRepo.downloadBible(primary.abbreviation) { step, progress ->
+            _downloadStep.value = step
+            _downloadProgress.value = progress
+        }
+
+        prefsRepo.isPrimaryLoaded = true
+
+        SyncScheduler.scheduleSecondaryDownloads(
+            context,
+            selected.drop(1).map { it.abbreviation },
+        )
     }
 }

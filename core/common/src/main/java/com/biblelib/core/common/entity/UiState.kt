@@ -6,4 +6,5 @@ sealed interface UiState {
     data object Saving : UiState
     data object Saved : UiState
     data class Error(val message: String) : UiState
+    data class SaveFailed(val message: String, val progress: Float) : UiState
 }

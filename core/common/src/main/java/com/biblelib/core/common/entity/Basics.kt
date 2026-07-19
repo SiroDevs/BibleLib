@@ -85,6 +85,15 @@ data class ReadingHistory(
     val readAt: Long = System.currentTimeMillis()
 )
 
+/** Everything needed to open the Reader at a precise verse, e.g. from the Scripture Opener. */
+data class ScriptureNavTarget(
+    val bibleAbbr: String,
+    val bibleName: String,
+    val bookId: String,
+    val chapterId: String,
+    val verseId: String,
+)
+
 data class SearchResult(
     val bibleAbbr: String,
     val bookId: String,

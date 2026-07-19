@@ -27,7 +27,6 @@ data class BiblesUiState(
     val showPrimaryPicker: Boolean = false,
     val isLoading: Boolean = true,
     val multiBibleEnabled: Boolean = false,
-    /** Ordered stack of secondary Bibles (excludes the primary Bible). */
     val secondaryBibles: List<String> = emptyList(),
 )
 
@@ -81,12 +80,17 @@ class BiblesViewModel @Inject constructor(
                 observedAbbrs += bible.abbreviation
                 viewModelScope.launch {
                     workManager
-                        .getWorkInfosForUniqueWorkFlow("${SyncWorker.WORK_NAME_PREFIX}${bible.abbreviation}")
+                        .getWorkInfosByTagFlow(bible.abbreviation)
                         .collect { infos ->
-                            val info = infos.firstOrNull()
+                            val info = infos
+                                .filterNot { it.state.isFinished }
+                                .maxByOrNull { it.id.hashCode() }
+                                ?: infos.maxByOrNull { it.id.hashCode() }
                             val progress = info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
-                            _uiState.update {
-                                it.copy(downloadProgress = it.downloadProgress + (bible.abbreviation to progress))
+                            if (progress > 0f) {
+                                _uiState.update {
+                                    it.copy(downloadProgress = it.downloadProgress + (bible.abbreviation to progress))
+                                }
                             }
                             if (info != null && info.state.isFinished) {
                                 observedAbbrs -= bible.abbreviation
@@ -95,6 +99,26 @@ class BiblesViewModel @Inject constructor(
                         }
                 }
             }
+    }
+
+    fun retryDownload(abbr: String) {
+        viewModelScope.launch {
+            observedAbbrs -= abbr
+            _uiState.update { it.copy(downloadProgress = it.downloadProgress + (abbr to 0f)) }
+            SyncScheduler.scheduleSecondaryDownload(context, abbr)
+            load()
+        }
+    }
+
+    fun restartDownload(abbr: String) {
+        viewModelScope.launch {
+            observedAbbrs -= abbr
+            SyncScheduler.cancelDownload(context, abbr)
+            bibleRepo.clearBibleContent(abbr)
+            _uiState.update { it.copy(downloadProgress = it.downloadProgress + (abbr to 0f)) }
+            SyncScheduler.scheduleSecondaryDownload(context, abbr)
+            load()
+        }
     }
 
     fun openPrimaryPicker() = _uiState.update { it.copy(showPrimaryPicker = true) }
@@ -108,7 +132,6 @@ class BiblesViewModel @Inject constructor(
         prefsRepo.lastBibleAbbr = abbr
         prefsRepo.lastBookId = ""
         prefsRepo.lastChapterId = ""
-        // A Bible can't be both primary and a secondary at the same time.
         val updatedSecondary = prefsRepo.getSecondaryBibleList() - abbr
         prefsRepo.setSecondaryBibleList(updatedSecondary)
 
@@ -139,7 +162,6 @@ class BiblesViewModel @Inject constructor(
         }
     }
 
-    /** Restarts the Selection flow so the user can add/remove owned Bibles from scratch. */
     fun requestReselection(mainViewModel: MainViewModel) {
         viewModelScope.launch {
             prefsRepo.selectAfresh = true
@@ -147,14 +169,11 @@ class BiblesViewModel @Inject constructor(
         }
     }
 
-    // ───────────────────────── Multi-Bible Reader ─────────────────────────
-
     fun setMultiBibleEnabled(enabled: Boolean) {
         prefsRepo.multiBibleReaderEnabled = enabled
         _uiState.update { it.copy(multiBibleEnabled = enabled) }
     }
 
-    /** Toggles [abbr] in/out of the secondary stack, respecting the 1–5 secondary cap. */
     fun toggleSecondaryBible(abbr: String) {
         val current = _uiState.value.secondaryBibles
         val updated = if (abbr in current) {
@@ -167,7 +186,6 @@ class BiblesViewModel @Inject constructor(
         prefsRepo.setSecondaryBibleList(updated)
     }
 
-    /** Moves [abbr] up (-1) or down (+1) in the secondary stack order. */
     fun moveSecondaryBible(abbr: String, direction: Int) {
         val list = _uiState.value.secondaryBibles.toMutableList()
         val idx = list.indexOf(abbr)

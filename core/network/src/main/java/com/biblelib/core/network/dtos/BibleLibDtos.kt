@@ -29,6 +29,9 @@ data class BibleCountryDto(
     val name: String = "",
 )
 
+fun BibleInfoDto.primaryCountryName(): String =
+    countries.firstOrNull()?.name?.takeIf { it.isNotBlank() } ?: "Other"
+
 typealias BooksResponse = List<BookDto>
 
 data class BookDto(

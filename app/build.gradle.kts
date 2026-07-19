@@ -95,6 +95,7 @@ dependencies {
     implementation(project(":feature:reader"))
     implementation(project(":feature:bookmarknotes"))
     implementation(project(":feature:search"))
+    implementation(project(":feature:scriptureopener"))
     implementation(project(":feature:history"))
     implementation(project(":feature:settings"))
     implementation(project(":feature:bibles"))

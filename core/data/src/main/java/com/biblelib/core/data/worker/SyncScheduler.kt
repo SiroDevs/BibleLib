@@ -3,6 +3,7 @@ package com.biblelib.core.data.worker
 import android.content.Context
 import androidx.work.Constraints
 import androidx.work.NetworkType
+import androidx.work.OneTimeWorkRequest
 import androidx.work.OneTimeWorkRequestBuilder
 import androidx.work.BackoffPolicy
 import androidx.work.ExistingWorkPolicy
@@ -13,16 +14,15 @@ import java.util.concurrent.TimeUnit
 
 object SyncScheduler {
 
+    /** How many Bibles may download at the same time once the primary Bible is done. */
+    const val MAX_CONCURRENT_DOWNLOADS = 2
+
     private val networkConstraints = Constraints.Builder()
         .setRequiredNetworkType(NetworkType.CONNECTED)
         .build()
 
-    /**
-     * Schedule download for a secondary bible (runs in foreground with notification).
-     * Uses REPLACE so a re-selection always restarts cleanly.
-     */
-    fun scheduleSecondaryDownload(context: Context, abbr: String) {
-        val request = OneTimeWorkRequestBuilder<SyncWorker>()
+    private fun buildRequest(abbr: String): OneTimeWorkRequest =
+        OneTimeWorkRequestBuilder<SyncWorker>()
             .setConstraints(networkConstraints)
             .setInputData(workDataOf(SyncWorker.KEY_BIBLE_ABBR to abbr))
             .addTag(SyncWorker.TAG)
@@ -31,20 +31,40 @@ object SyncScheduler {
             .setExpedited(OutOfQuotaPolicy.RUN_AS_NON_EXPEDITED_WORK_REQUEST)
             .build()
 
+    fun scheduleSecondaryDownload(context: Context, abbr: String) {
         WorkManager.getInstance(context).enqueueUniqueWork(
-            "${SyncWorker.WORK_NAME_PREFIX}$abbr",
+            "${SyncWorker.WORK_NAME_PREFIX}single_$abbr",
             ExistingWorkPolicy.REPLACE,
-            request,
+            buildRequest(abbr),
         )
     }
 
-    /** Cancel a specific bible download. */
-    fun cancelDownload(context: Context, abbr: String) {
-        WorkManager.getInstance(context)
-            .cancelUniqueWork("${SyncWorker.WORK_NAME_PREFIX}$abbr")
+    fun scheduleSecondaryDownloads(context: Context, abbrs: List<String>) {
+        if (abbrs.isEmpty()) return
+
+        val workManager = WorkManager.getInstance(context)
+        val lanes = List(MAX_CONCURRENT_DOWNLOADS) { mutableListOf<String>() }
+        abbrs.forEachIndexed { index, abbr ->
+            lanes[index % MAX_CONCURRENT_DOWNLOADS].add(abbr)
+        }
+
+        lanes.forEachIndexed { laneIndex, laneAbbrs ->
+            if (laneAbbrs.isEmpty()) return@forEachIndexed
+            val requests = laneAbbrs.map { buildRequest(it) }
+            var continuation = workManager.beginUniqueWork(
+                "${SyncWorker.WORK_NAME_PREFIX}lane_$laneIndex",
+                ExistingWorkPolicy.REPLACE,
+                requests.first(),
+            )
+            requests.drop(1).forEach { continuation = continuation.then(it) }
+            continuation.enqueue()
+        }
     }
 
-    /** Cancel all pending bible downloads. */
+    fun cancelDownload(context: Context, abbr: String) {
+        WorkManager.getInstance(context).cancelAllWorkByTag(abbr)
+    }
+
     fun cancelAll(context: Context) {
         WorkManager.getInstance(context).cancelAllWorkByTag(SyncWorker.TAG)
     }

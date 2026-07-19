@@ -43,92 +43,100 @@ class BibleRepo @Inject constructor(
             service.getBiblesInfo()
         }
 
-    /**
-     * Downloads books, chapters, and verses for [abbr].
-     *
-     * Verses are fetched book-by-book (one "batch" per book, since the API now
-     * serves a single chapter per request). Up to [MAX_CONCURRENT_BOOK_BATCHES]
-     * books are fetched and saved concurrently at a time for a big speed-up over
-     * fetching everything serially, while still bounding how many requests are
-     * in flight at once.
-     */
     suspend fun downloadBible(
         abbr: String,
         onProgress: suspend (step: String, progress: Float) -> Unit = { _, _ -> }
     ) = withContext(Dispatchers.IO) {
         Log.d(TAG, "▶ Downloading bible: $abbr")
 
-        onProgress("Fetching books...", 0.05f)
-        val booksResp = service.getBooks(abbr)
-        val bookEntities = booksResp.mapIndexed { i, dto ->
-            BookEntity(
-                id = dto.id,
-                bibleAbbr = abbr,
-                abbreviation = dto.abbreviation,
-                name = dto.name,
-                nameLong = dto.nameLong,
-                sortOrder = i,
-            )
+        val reportProgress: suspend (String, Float) -> Unit = { step, progress ->
+            bibleDao.updateProgress(abbr, progress)
+            onProgress(step, progress)
         }
-        bookDao.insertAll(bookEntities)
-        Log.d(TAG, "✅ ${bookEntities.size} books saved for $abbr")
 
-        onProgress("Fetching chapters...", 0.15f)
-        val chaptersResp = service.getChapters(abbr)
-        val chapterEntities = mutableListOf<ChapterEntity>()
-        chaptersResp.forEach { (_, chapters) ->
-            chapters.forEach { dto ->
-                chapterEntities.add(
-                    ChapterEntity(
-                        id = dto.id,
-                        bibleAbbr = abbr,
-                        bookId = dto.bookId,
-                        number = dto.number,
-                        reference = dto.reference,
-                    )
+        try {
+            reportProgress("Fetching books...", 0.05f)
+            val booksResp = service.getBooks(abbr)
+            val bookEntities = booksResp.mapIndexed { i, dto ->
+                BookEntity(
+                    id = dto.id,
+                    bibleAbbr = abbr,
+                    abbreviation = dto.abbreviation,
+                    name = dto.name,
+                    nameLong = dto.nameLong,
+                    sortOrder = i,
                 )
             }
-        }
-        chapterDao.insertAll(chapterEntities)
-        Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
+            bookDao.insertAll(bookEntities)
+            Log.d(TAG, "✅ ${bookEntities.size} books saved for $abbr")
 
-        val chaptersByBook = chapterEntities.groupBy { it.bookId }
-        val bookIds = booksResp.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
+            reportProgress("Fetching chapters...", 0.15f)
+            val chaptersResp = service.getChapters(abbr)
+            val chapterEntities = mutableListOf<ChapterEntity>()
+            chaptersResp.forEach { (_, chapters) ->
+                chapters.forEach { dto ->
+                    chapterEntities.add(
+                        ChapterEntity(
+                            id = dto.id,
+                            bibleAbbr = abbr,
+                            bookId = dto.bookId,
+                            number = dto.number,
+                            reference = dto.reference,
+                        )
+                    )
+                }
+            }
+            chapterDao.insertAll(chapterEntities)
+            Log.d(TAG, "✅ ${chapterEntities.size} chapters saved for $abbr")
 
-        onProgress("Fetching verses...", 0.25f)
+            val chaptersByBook = chapterEntities.groupBy { it.bookId }
+            val bookIds = booksResp.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
 
-        val semaphore = Semaphore(MAX_CONCURRENT_BOOK_BATCHES)
-        val progressMutex = Mutex()
-        var completedBooks = 0
+            // Chapters already cached from a previous, interrupted attempt — skip re-fetching them.
+            val alreadyCachedChapterIds = verseDao.getCachedChapterIds(abbr).toSet()
 
-        coroutineScope {
-            bookIds.map { bookId ->
-                async {
-                    semaphore.withPermit {
-                        val chaptersForBook = chaptersByBook[bookId].orEmpty()
-                        val verseEntities = fetchVersesForBook(abbr, bookId, chaptersForBook)
-                        if (verseEntities.isNotEmpty()) {
-                            verseDao.insertAll(verseEntities)
-                        }
+            reportProgress("Fetching verses...", 0.25f)
 
-                        progressMutex.withLock {
-                            completedBooks++
-                            val fraction = completedBooks.toFloat() / bookIds.size
-                            onProgress(
-                                "Fetching verses ($bookId, $completedBooks/${bookIds.size})...",
-                                0.25f + fraction * 0.7f
-                            )
+            val semaphore = Semaphore(MAX_CONCURRENT_BOOK_BATCHES)
+            val progressMutex = Mutex()
+            var completedBooks = 0
+
+            coroutineScope {
+                bookIds.map { bookId ->
+                    async {
+                        semaphore.withPermit {
+                            val chaptersForBook = chaptersByBook[bookId].orEmpty()
+                            val pendingChapters = chaptersForBook.filter { it.id !in alreadyCachedChapterIds }
+                            if (pendingChapters.isNotEmpty()) {
+                                val verseEntities = fetchVersesForBook(abbr, bookId, pendingChapters)
+                                if (verseEntities.isNotEmpty()) {
+                                    verseDao.insertAll(verseEntities)
+                                }
+                            }
+
+                            progressMutex.withLock {
+                                completedBooks++
+                                val fraction = completedBooks.toFloat() / bookIds.size
+                                reportProgress(
+                                    "Fetching verses ($bookId, $completedBooks/${bookIds.size})...",
+                                    0.25f + fraction * 0.7f
+                                )
+                            }
                         }
                     }
-                }
-            }.awaitAll()
+                }.awaitAll()
+            }
+
+            Log.d(TAG, "✅ Verses saved in ${bookIds.size} book batches for $abbr")
+
+            bibleDao.markDownloaded(abbr)
+            onProgress("Done!", 1.0f)
+            Log.d(TAG, "✅ Download complete for $abbr")
+        } catch (e: Exception) {
+            val lastKnownProgress = bibleDao.getByAbbr(abbr)?.downloadProgress ?: 0f
+            bibleDao.markFailed(abbr, lastKnownProgress)
+            throw e
         }
-
-        Log.d(TAG, "✅ Verses saved in ${bookIds.size} book batches for $abbr")
-
-        bibleDao.markDownloaded(abbr)
-        onProgress("Done!", 1.0f)
-        Log.d(TAG, "✅ Download complete for $abbr")
     }
 
     private suspend fun fetchVersesForBook(
@@ -193,6 +201,22 @@ class BibleRepo @Inject constructor(
         verseDao.deleteByBible(abbr)
     }
 
+    suspend fun clearBibleContent(abbr: String) = withContext(Dispatchers.IO) {
+        bookDao.deleteByBible(abbr)
+        chapterDao.deleteByBible(abbr)
+        verseDao.deleteByBible(abbr)
+        bibleDao.getByAbbr(abbr)?.let { existing ->
+            bibleDao.insert(
+                existing.copy(isDownloaded = false, downloadProgress = 0f, downloadFailed = false)
+            )
+        }
+    }
+
+    suspend fun markDownloadFailed(abbr: String) = withContext(Dispatchers.IO) {
+        val progress = bibleDao.getByAbbr(abbr)?.downloadProgress ?: 0f
+        bibleDao.markFailed(abbr, progress)
+    }
+
     suspend fun deleteAllData() = withContext(Dispatchers.IO) {
         bibleDao.deleteAll()
         bookDao.deleteAll()
@@ -243,8 +267,6 @@ class BibleRepo @Inject constructor(
 
     companion object {
         private const val TAG = "BibleRepo"
-
-        /** How many books' worth of verses may be fetched & saved concurrently. */
         private const val MAX_CONCURRENT_BOOK_BATCHES = 10
     }
 }
