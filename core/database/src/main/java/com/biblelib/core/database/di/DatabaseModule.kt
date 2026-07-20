@@ -8,6 +8,8 @@ import com.biblelib.core.database.daos.BookDao
 import com.biblelib.core.database.daos.BookmarkDao
 import com.biblelib.core.database.daos.ChapterDao
 import com.biblelib.core.database.daos.NoteDao
+import com.biblelib.core.database.daos.ScriptureItemDao
+import com.biblelib.core.database.daos.ScriptureListDao
 import com.biblelib.core.database.daos.VerseDao
 import com.biblelib.core.database.daos.HistoryDao
 import com.biblelib.core.database.daos.SearchDao
@@ -36,4 +38,6 @@ object DatabaseModule {
     @Provides fun provideSearchDao(db: AppDatabase): SearchDao = db.searchesDao()
     @Provides fun provideBookmarkDao(db: AppDatabase): BookmarkDao = db.bookmarksDao()
     @Provides fun provideNoteDao(db: AppDatabase): NoteDao = db.notesDao()
+    @Provides fun provideScriptureListDao(db: AppDatabase): ScriptureListDao = db.scriptureListsDao()
+    @Provides fun provideScriptureItemDao(db: AppDatabase): ScriptureItemDao = db.scriptureItemsDao()
 }

@@ -53,17 +53,14 @@ class PrefsRepo @Inject constructor(
         get() = prefs.getString(PrefConstants.LAST_CHAPTER_ID, "") ?: ""
         set(v) = prefs.edit { putString(PrefConstants.LAST_CHAPTER_ID, v) }
 
-    /** The verse that was at the top of the screen when the user last left the reader. */
     var lastVerseId: String
         get() = prefs.getString(PrefConstants.LAST_VERSE_ID, "") ?: ""
         set(v) = prefs.edit { putString(PrefConstants.LAST_VERSE_ID, v) }
 
-    /** Selected reader text font — see [PrefConstants.READER_FONT_FAMILY]. */
     var readerFontFamily: String
         get() = prefs.getString(PrefConstants.READER_FONT_FAMILY, "default") ?: "default"
         set(v) = prefs.edit { putString(PrefConstants.READER_FONT_FAMILY, v) }
 
-    /** Selected reader background preset id — see AppReaderBackgrounds. */
     var readerBackground: String
         get() = prefs.getString(PrefConstants.READER_BACKGROUND, "default") ?: "default"
         set(v) = prefs.edit { putString(PrefConstants.READER_BACKGROUND, v) }
@@ -86,12 +83,10 @@ class PrefsRepo @Inject constructor(
         get() = prefs.getLong(PrefConstants.LAST_SYNCED_AT, 0L)
         set(v) = prefs.edit { putLong(PrefConstants.LAST_SYNCED_AT, v) }
 
-    /** Whether parallel/secondary Bibles are shown alongside the primary text. Default ON. */
     var multiBibleReaderEnabled: Boolean
         get() = prefs.getBoolean(PrefConstants.MULTI_BIBLE_ENABLED, true)
         set(v) = prefs.edit { putBoolean(PrefConstants.MULTI_BIBLE_ENABLED, v) }
 
-    /** Ordered, comma-separated list of secondary Bible abbreviations (stack order). */
     var secondaryBibles: String
         get() = prefs.getString(PrefConstants.SECONDARY_BIBLES, "") ?: ""
         set(v) = prefs.edit { putString(PrefConstants.SECONDARY_BIBLES, v) }

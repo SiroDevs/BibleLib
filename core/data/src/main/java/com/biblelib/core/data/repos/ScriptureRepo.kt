@@ -14,8 +14,6 @@ class ScriptureRepo @Inject constructor(
     private val listDao: ScriptureListDao,
     private val itemDao: ScriptureItemDao,
 ) {
-    /** Persists a new scripture list with [items], naming it [name] if given, otherwise the
-     *  reference of the first item. Returns the new list's id. */
     suspend fun saveList(items: List<ScriptureItemEntity>, name: String? = null): Long =
         withContext(Dispatchers.IO) {
             require(items.isNotEmpty()) { "Cannot save an empty scripture list" }

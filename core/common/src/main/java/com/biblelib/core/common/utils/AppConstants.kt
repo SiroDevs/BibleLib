@@ -53,7 +53,8 @@ object Routes {
     fun reader(bibleAbbr: String = "", bookId: String = "", chapterId: String = "") =
         "reader?bibleAbbr=$bibleAbbr&bookId=$bookId&chapterId=$chapterId"
 
-    const val NOTES = "notes?bibleAbbr={bibleAbbr}&verseId={verseId}&bookId={bookId}&chapterId={chapterId}&title={title}&verseText={verseText}"
+    const val NOTES =
+        "notes?bibleAbbr={bibleAbbr}&verseId={verseId}&bookId={bookId}&chapterId={chapterId}&title={title}&verseText={verseText}"
 
     fun notes(
         bibleAbbr: String,

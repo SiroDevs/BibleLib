@@ -27,7 +27,6 @@ data class ScriptureOpenerUiState(
     val navigateToReader: ScriptureNavTarget? = null,
     val closeRequested: Boolean = false,
 ) {
-    /** The single row still being edited — always the last, unlocked row. */
     val activeRow: ScriptureSearchRowState? get() = rows.lastOrNull { !it.locked }
 }
 

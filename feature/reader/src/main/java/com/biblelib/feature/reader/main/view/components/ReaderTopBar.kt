@@ -11,7 +11,10 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowDropDown
+import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Bookmarks
+import androidx.compose.material.icons.filled.Close
+import androidx.compose.material.icons.filled.EditNote
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.HelpOutline
 import androidx.compose.material.icons.filled.History
@@ -38,21 +41,19 @@ import androidx.compose.ui.platform.LocalLocale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
+import com.biblelib.core.common.utils.Routes
 import com.biblelib.feature.reader.R
+import com.biblelib.feature.reader.main.utils.ReaderUiState
+import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ReaderTopBar(
-    bibleName: String,
-    bookName: String,
+    navController: NavController,
+    state: ReaderUiState,
     onBibleClick: () -> Unit,
     onBookClick: () -> Unit,
-    onSearchClick: () -> Unit,
-    onBookmarksNotesClick: () -> Unit,
-    onHistoryClick: () -> Unit,
-    onSettingsClick: () -> Unit,
-    onSupportClick: () -> Unit,
-    onHelpClick: () -> Unit,
 ) {
     var showMoreMenu by remember { mutableStateOf(false) }
 
@@ -66,7 +67,7 @@ fun ReaderTopBar(
                         .padding(horizontal = 5.dp)
                 ) {
                     Text(
-                        text = bibleName.take(30),
+                        text = state.activeBible.take(30),
                         style = MaterialTheme.typography.titleMedium,
                     )
                     Spacer(Modifier.width(5.dp))
@@ -81,7 +82,8 @@ fun ReaderTopBar(
                     Icon(Icons.Default.MenuBook, null, modifier = Modifier.size(25.dp))
                     Spacer(Modifier.width(10.dp))
                     Text(
-                        text = bookName.uppercase(LocalLocale.current.platformLocale),
+                        text = state.activeBook?.name
+                            ?: "".uppercase(LocalLocale.current.platformLocale),
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.Bold,
                     )
@@ -91,7 +93,7 @@ fun ReaderTopBar(
             }
         },
         actions = {
-            IconButton(onClick = onSearchClick) {
+            IconButton(onClick = { navController.navigate(Routes.SEARCH) }) {
                 Icon(Icons.Default.Search, "Search")
             }
             IconButton(onClick = { showMoreMenu = true }) {
@@ -101,27 +103,42 @@ fun ReaderTopBar(
                 DropdownMenuItem(
                     text = { Text("Bookmarks & Notes") },
                     leadingIcon = { Icon(Icons.Default.Bookmarks, null) },
-                    onClick = { showMoreMenu = false; onBookmarksNotesClick() },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.BOOKMARKS_NOTES)
+                    },
                 )
                 DropdownMenuItem(
                     text = { Text("Your History") },
                     leadingIcon = { Icon(Icons.Default.History, null) },
-                    onClick = { showMoreMenu = false; onHistoryClick() },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.HISTORY)
+                    },
                 )
                 DropdownMenuItem(
                     text = { Text("Manage Settings") },
                     leadingIcon = { Icon(Icons.Default.Settings, null) },
-                    onClick = { showMoreMenu = false; onSettingsClick() },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.SETTINGS)
+                    },
                 )
                 DropdownMenuItem(
                     text = { Text("Support BibleLib") },
                     leadingIcon = { Icon(Icons.Default.Favorite, null) },
-                    onClick = { showMoreMenu = false; onSupportClick() },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.DONATION)
+                    },
                 )
                 DropdownMenuItem(
                     text = { Text("Help & Support") },
                     leadingIcon = { Icon(Icons.Default.HelpOutline, null) },
-                    onClick = { showMoreMenu = false; onHelpClick() },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.HELP)
+                    },
                 )
             }
         },
@@ -137,6 +154,36 @@ fun ReaderTopBar(
             titleContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
             navigationIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
             actionIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+        ),
+    )
+}
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun ReaderSelectionTopBar(
+    selectedCount: Int,
+    viewModel: ReaderViewModel,
+) {
+    TopAppBar(
+        title = { Text("$selectedCount selected") },
+        navigationIcon = {
+            IconButton(onClick = viewModel::clearSelection) {
+                Icon(Icons.Default.Close, "Cancel selection")
+            }
+        },
+        actions = {
+            IconButton(onClick = viewModel::openColorPicker) {
+                Icon(Icons.Default.Bookmark, "Bookmark")
+            }
+            IconButton(
+                onClick = viewModel::openNotesForSelection,
+                enabled = selectedCount == 1
+            ) {
+                Icon(Icons.Default.EditNote, "Notes")
+            }
+        },
+        colors = TopAppBarDefaults.topAppBarColors(
+            containerColor = MaterialTheme.colorScheme.primaryContainer,
         ),
     )
 }

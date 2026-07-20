@@ -28,21 +28,21 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.BookEntity
+import com.biblelib.feature.reader.main.utils.ReaderUiState
 
 private const val OT_BOOK_COUNT = 39
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun BookDrawer(
-    books: List<BookEntity>,
-    activeBookId: String,
+    state: ReaderUiState,
     onSelect: (BookEntity) -> Unit,
     onDismiss: () -> Unit,
 ) {
     var query by remember { mutableStateOf("") }
     var selectedTab by remember { mutableIntStateOf(0) }
 
-    val orderedBooks = remember(books) { books.sortedBy { it.sortOrder } }
+    val orderedBooks = remember(state.books) { state.books.sortedBy { it.sortOrder } }
     val oldTestament = remember(orderedBooks) { orderedBooks.take(OT_BOOK_COUNT) }
     val newTestament = remember(orderedBooks) { orderedBooks.drop(OT_BOOK_COUNT) }
 

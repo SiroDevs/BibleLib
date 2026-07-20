@@ -22,12 +22,12 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.feature.reader.main.utils.ReaderUiState
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ChapterSheet(
-    chapters: List<ChapterEntity>,
-    activeChapterId: String,
+    state: ReaderUiState,
     onSelect: (ChapterEntity) -> Unit,
     onDismiss: () -> Unit,
 ) {
@@ -45,8 +45,8 @@ fun ChapterSheet(
             contentPadding = PaddingValues(horizontal = 12.dp, vertical = 8.dp),
             modifier = Modifier.padding(bottom = 32.dp)
         ) {
-            items(chapters, key = { it.id }) { chapter ->
-                val isActive = chapter.id == activeChapterId
+            items(state.chapters, key = { it.id }) { chapter ->
+                val isActive = chapter.id == state.activeChapter?.id
                 Surface(
                     modifier = Modifier
                         .padding(4.dp)
@@ -60,8 +60,7 @@ fun ChapterSheet(
                             text = chapter.number,
                             style = MaterialTheme.typography.bodyMedium,
                             fontWeight = if (isActive) FontWeight.Bold else FontWeight.Normal,
-                            color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                            else MaterialTheme.colorScheme.onSurfaceVariant,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
                     }
                 }

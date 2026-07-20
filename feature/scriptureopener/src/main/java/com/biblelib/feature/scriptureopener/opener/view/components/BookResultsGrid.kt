@@ -10,8 +10,6 @@ import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.lazy.stickyHeader
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
@@ -27,15 +25,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.BookEntity
 
-/** The Old Testament is always the first 39 books; everything after that is the New Testament. */
 private const val OT_BOOK_COUNT = 39
 
-/**
- * Floating results panel shown under the "Book" field: a 4-column table where the first
- * two columns list the Old Testament (39 books) and the last two list the New Testament
- * (the remaining books). Both "OT" and "NT" headers stay pinned to the top as the user
- * scrolls through the list.
- */
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun BookResultsGrid(

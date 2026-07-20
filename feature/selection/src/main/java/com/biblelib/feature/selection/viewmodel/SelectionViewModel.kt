@@ -236,12 +236,9 @@ class SelectionViewModel @Inject constructor(
         )
     }
 
-    /** Downloads the primary Bible (resumable), then queues the rest 2-at-a-time in the background. */
     private suspend fun downloadPrimaryAndQueueSecondaries(selected: List<BibleInfoDto>) {
         val primary = selected.first()
 
-        // saveBibles() may not have run yet if this is a raw retry entry point — make sure the
-        // row exists so download progress has somewhere to persist to.
         if (bibleRepo.getbibles().none { it.abbreviation == primary.abbreviation }) {
             persistSelectionBookkeeping(selected)
         }
@@ -252,6 +249,7 @@ class SelectionViewModel @Inject constructor(
         }
 
         prefsRepo.isPrimaryLoaded = true
+        prefsRepo.isDataSelected = true
 
         SyncScheduler.scheduleSecondaryDownloads(
             context,

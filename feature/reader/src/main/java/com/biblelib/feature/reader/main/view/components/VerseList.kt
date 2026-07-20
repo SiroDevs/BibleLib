@@ -43,51 +43,44 @@ import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.biblelib.core.common.entity.VerseDisplay
+import com.biblelib.feature.reader.main.utils.ReaderUiState
+import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlin.math.roundToInt
 
 private const val SWIPE_ACTION_TRIGGER_PX = 140f
 
 @Composable
 fun VerseList(
-    verses: List<VerseDisplay>,
-    parallelVerses: Map<String, List<VerseDisplay>>,
-    fontSizeSp: Float,
+    state: ReaderUiState,
+    viewModel: ReaderViewModel,
     fontFamily: FontFamily = FontFamily.Default,
     listState: LazyListState = rememberLazyListState(),
-    bookmarks: Map<String, String?> = emptyMap(),
-    notedVerseIds: Set<String> = emptySet(),
-    selectedVerseIds: Set<String> = emptySet(),
-    isSelectionMode: Boolean = false,
-    onLongPress: (String) -> Unit = {},
-    onTap: (String) -> Unit = {},
-    onSwipeBookmark: (String) -> Unit = {},
-    onSwipeNotes: (String) -> Unit = {},
 ) {
-    val hasParallel = parallelVerses.isNotEmpty()
+    val hasParallel = state.parallelVerses.isNotEmpty()
     LazyColumn(
         state = listState,
-        contentPadding  = PaddingValues(horizontal = 16.dp, vertical = 12.dp),
+        contentPadding = PaddingValues(horizontal = 16.dp, vertical = 12.dp),
         verticalArrangement = Arrangement.spacedBy(2.dp),
     ) {
-        items(verses, key = { it.verseId }) { verse ->
+        items(state.verses, key = { it.verseId }) { verse ->
             VerseRow(
-                verse          = verse,
-                fontSizeSp     = fontSizeSp,
-                fontFamily     = fontFamily,
-                parallelTexts  = if (hasParallel) {
-                    parallelVerses.mapValues { (_, pVerses) ->
+                verse = verse,
+                fontSizeSp = state.fontSizeSp,
+                fontFamily = fontFamily,
+                parallelTexts = if (hasParallel) {
+                    state.parallelVerses.mapValues { (_, pVerses) ->
                         pVerses.find { it.number == verse.number }?.text ?: ""
                     }
                 } else emptyMap(),
-                bookmarkColor = bookmarks[verse.verseId],
-                isBookmarked = bookmarks.containsKey(verse.verseId),
-                hasNote = verse.verseId in notedVerseIds,
-                isSelected = verse.verseId in selectedVerseIds,
-                isSelectionMode = isSelectionMode,
-                onLongPress = { onLongPress(verse.verseId) },
-                onTap = { onTap(verse.verseId) },
-                onSwipeBookmark = { onSwipeBookmark(verse.verseId) },
-                onSwipeNotes = { onSwipeNotes(verse.verseId) },
+                bookmarkColor = state.bookmarks[verse.verseId],
+                isBookmarked = state.bookmarks.containsKey(verse.verseId),
+                hasNote = verse.verseId in state.notedVerseIds,
+                isSelected = verse.verseId in state.selectedVerseIds,
+                isSelectionMode = state.isSelectionMode,
+                onLongPress = { viewModel.toggleVerseSelected(verse.verseId) },
+                onTap = { viewModel.toggleVerseSelected(verse.verseId) },
+                onSwipeBookmark = { viewModel.quickToggleBookmark(verse.verseId) },
+                onSwipeNotes = { viewModel.requestNotesForVerse(verse.verseId) },
             )
         }
     }
@@ -115,6 +108,7 @@ private fun VerseRow(
         isSelected -> MaterialTheme.colorScheme.primary.copy(alpha = 0.18f)
         bookmarkColor != null -> runCatching { Color(android.graphics.Color.parseColor(bookmarkColor)) }
             .getOrDefault(Color.Transparent).copy(alpha = 0.35f)
+
         else -> Color.Transparent
     }
 
@@ -183,11 +177,13 @@ private fun VerseRow(
             // Primary verse
             Text(
                 text = buildAnnotatedString {
-                    withStyle(SpanStyle(
-                        fontWeight = FontWeight.Bold,
-                        fontSize = (fontSizeSp * 0.72f).sp,
-                        color = MaterialTheme.colorScheme.primary,
-                    )) { append("${verse.number} ") }
+                    withStyle(
+                        SpanStyle(
+                            fontWeight = FontWeight.Bold,
+                            fontSize = (fontSizeSp * 0.72f).sp,
+                            color = MaterialTheme.colorScheme.primary,
+                        )
+                    ) { append("${verse.number} ") }
                     if (isBookmarked && bookmarkColor == null) {
                         append("\uD83D\uDD16 ") // quick-bookmark icon glyph inline
                     }
@@ -204,17 +200,18 @@ private fun VerseRow(
                 color = MaterialTheme.colorScheme.onBackground,
             )
 
-            // Parallel verses
             parallelTexts.forEach { (abbr, text) ->
                 if (text.isNotEmpty()) {
                     Spacer(Modifier.height(2.dp))
                     Text(
                         text = buildAnnotatedString {
-                            withStyle(SpanStyle(
-                                fontWeight = FontWeight.Bold,
-                                fontSize = (fontSizeSp * 0.65f).sp,
-                                color = MaterialTheme.colorScheme.secondary,
-                            )) { append("[${abbr.uppercase()}] ") }
+                            withStyle(
+                                SpanStyle(
+                                    fontWeight = FontWeight.Bold,
+                                    fontSize = (fontSizeSp * 0.65f).sp,
+                                    color = MaterialTheme.colorScheme.secondary,
+                                )
+                            ) { append("[${abbr.uppercase()}] ") }
                             append(text)
                         },
                         fontSize = (fontSizeSp * 0.85f).sp,

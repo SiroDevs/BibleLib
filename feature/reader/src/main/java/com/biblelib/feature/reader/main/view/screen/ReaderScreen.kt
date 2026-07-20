@@ -1,36 +1,37 @@
 package com.biblelib.feature.reader.main.view.screen
 
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Tune
-import androidx.compose.material3.AlertDialog
+import androidx.compose.material.icons.filled.KeyboardArrowUp
+import androidx.compose.material.icons.filled.ManageSearch
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.FilterChip
+import androidx.compose.material3.ExtendedFloatingActionButton
 import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Slider
-import androidx.compose.material3.Switch
+import androidx.compose.material3.SmallFloatingActionButton
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.snapshotFlow
@@ -41,9 +42,7 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
-import com.biblelib.core.common.utils.AppFonts
 import com.biblelib.core.common.utils.Routes
-import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.designsystem.customization.AppFontFamilies
 import com.biblelib.core.designsystem.customization.AppReaderBackgrounds
@@ -52,15 +51,18 @@ import com.biblelib.core.ui.components.indicators.VerseShimmer
 import com.biblelib.feature.reader.main.view.components.BibleSelectorSheet
 import com.biblelib.feature.reader.main.view.components.BookDrawer
 import com.biblelib.feature.reader.main.view.components.BookmarkOptionsDialog
-import com.biblelib.feature.reader.main.view.components.ChapterNavBar
 import com.biblelib.feature.reader.main.view.components.ChapterSheet
 import com.biblelib.feature.reader.main.view.components.HighlightColorPickerDialog
+import com.biblelib.feature.reader.main.view.components.QuickSettingsDialog
+import com.biblelib.feature.reader.main.view.components.ReaderBottomBar
+import com.biblelib.feature.reader.main.view.components.ReaderFab
 import com.biblelib.feature.reader.main.view.components.ReaderSelectionTopBar
 import com.biblelib.feature.reader.main.view.components.ReaderTopBar
 import com.biblelib.feature.reader.main.view.components.VerseList
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -84,6 +86,10 @@ fun ReaderScreen(
     var showQuickSettings by remember { mutableStateOf(false) }
 
     val listState = rememberLazyListState()
+    val scope = rememberCoroutineScope()
+
+    val isAtTop by remember { derivedStateOf { listState.firstVisibleItemIndex == 0 } }
+    val showScrollToTop by remember { derivedStateOf { !isAtTop } }
     val resolvedFontFamily = AppFontFamilies.byId(state.fontFamilyId).family
     val resolvedBackground = AppReaderBackgrounds.byId(state.readerBackgroundId)
 
@@ -138,27 +144,20 @@ fun ReaderScreen(
             if (state.isSelectionMode) {
                 ReaderSelectionTopBar(
                     selectedCount = state.selectedVerseIds.size,
-                    onClose = viewModel::clearSelection,
-                    onBookmarkClick = viewModel::openColorPicker,
-                    onNotesClick = { viewModel.openNotesForSelection() },
+                    viewModel = viewModel,
                 )
             } else {
                 ReaderTopBar(
-                    bibleName = state.activeBible,
-                    bookName = state.activeBook?.name ?: "",
+                    navController = navController,
+                    state = state,
                     onBibleClick = { showBibleSelector = true },
                     onBookClick = { showBookDrawer = true },
-                    onSearchClick = { navController.navigate(Routes.SEARCH) },
-                    onBookmarksNotesClick = { navController.navigate(Routes.BOOKMARKS_NOTES) },
-                    onHistoryClick = { navController.navigate(Routes.HISTORY) },
-                    onSettingsClick = { navController.navigate(Routes.SETTINGS) },
-                    onSupportClick = { navController.navigate(Routes.DONATION) },
-                    onHelpClick = { navController.navigate(Routes.HELP) },
                 )
             }
         },
         bottomBar = {
-            ChapterNavBar(
+            ReaderBottomBar(
+                viewModel = viewModel,
                 hasPrev = run {
                     val chapters = state.chapters
                     val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
@@ -170,23 +169,24 @@ fun ReaderScreen(
                     idx < chapters.size - 1
                 },
                 chapterRef = state.activeChapter?.reference ?: "",
-                onPrev = { viewModel.navigateChapter(-1) },
-                onNext = { viewModel.navigateChapter(1) },
                 onChapterList = { showChapterSheet = true },
+                onQuickSettings = { showQuickSettings = true },
             )
         },
         floatingActionButton = {
             if (!state.isSelectionMode) {
                 FloatingActionButton(onClick = { showQuickSettings = true }) {
-                    Icon(Icons.Default.Tune, "Quick Settings")
+                    Icon(Icons.Default.ManageSearch, "Scripture Opener")
                 }
             }
         }
     ) { padding ->
-        Box(Modifier
-            .fillMaxSize()
-            .padding(padding)
-            .background(resolvedBackground.brush())) {
+        Box(
+            Modifier
+                .fillMaxSize()
+                .padding(padding)
+                .background(resolvedBackground.brush())
+        ) {
             when {
                 state.isLoading -> VerseShimmer()
                 state.error != null -> ErrorState(
@@ -202,28 +202,24 @@ fun ReaderScreen(
                 )
 
                 else -> VerseList(
-                    verses = state.verses,
-                    parallelVerses = state.parallelVerses,
-                    fontSizeSp = state.fontSizeSp,
+                    state = state,
+                    viewModel = viewModel,
                     fontFamily = resolvedFontFamily,
                     listState = listState,
-                    bookmarks = state.bookmarks,
-                    notedVerseIds = state.notedVerseIds,
-                    selectedVerseIds = state.selectedVerseIds,
-                    isSelectionMode = state.isSelectionMode,
-                    onLongPress = viewModel::toggleVerseSelected,
-                    onTap = viewModel::toggleVerseSelected,
-                    onSwipeBookmark = viewModel::quickToggleBookmark,
-                    onSwipeNotes = { verseId -> viewModel.requestNotesForVerse(verseId) },
                 )
             }
+
+            ReaderFab(
+                modifier = Modifier.align(Alignment.BottomEnd),
+                navController = navController,
+                listState = listState,
+            )
         }
     }
 
     if (showBookDrawer) {
         BookDrawer(
-            books = state.books,
-            activeBookId = state.activeBook?.id ?: "",
+            state = state,
             onSelect = { book ->
                 viewModel.selectBook(book)
                 showBookDrawer = false
@@ -234,8 +230,7 @@ fun ReaderScreen(
 
     if (showChapterSheet) {
         ChapterSheet(
-            chapters = state.chapters,
-            activeChapterId = state.activeChapter?.id ?: "",
+            state = state,
             onSelect = { ch ->
                 viewModel.selectChapter(ch)
                 showChapterSheet = false
@@ -246,15 +241,12 @@ fun ReaderScreen(
 
     if (showBibleSelector) {
         BibleSelectorSheet(
-            savedBibles = state.savedBibles,
-            activeBibleAbbr = state.activeBibleAbbr,
-            downloadProgress = state.downloadProgress,
+            state = state,
+            viewModel = viewModel,
             onSelect = { abbr ->
                 viewModel.selectBible(abbr)
                 showBibleSelector = false
             },
-            onRetryDownload = viewModel::retryBibleDownload,
-            onRestartDownload = viewModel::restartBibleDownload,
             onOpenBibles = {
                 showBibleSelector = false
                 navController.navigate(Routes.BIBLES)
@@ -280,57 +272,11 @@ fun ReaderScreen(
     }
 
     if (showQuickSettings) {
-        AlertDialog(
-            onDismissRequest = { showQuickSettings = false },
-            title = { Text("Quick Settings") },
-            text = {
-                Column {
-                    Text(
-                        "Theme",
-                        style = MaterialTheme.typography.labelMedium,
-                        modifier = Modifier.padding(bottom = 8.dp),
-                    )
-                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                        ThemeMode.entries.forEach { mode ->
-                            FilterChip(
-                                selected = themeRepo.selectedTheme == mode,
-                                onClick = { themeRepo.setTheme(mode) },
-                                label = { Text(mode.name.lowercase().replaceFirstChar { it.uppercase() }) },
-                            )
-                        }
-                    }
-
-                    Spacer(Modifier.height(20.dp))
-
-                    Text(
-                        "Font size: ${state.fontSizeSp.toInt()}sp",
-                        style = MaterialTheme.typography.labelMedium,
-                    )
-                    Slider(
-                        value = state.fontSizeSp,
-                        onValueChange = viewModel::setFontSize,
-                        valueRange = AppFonts.MIN_FONT_SP..AppFonts.MAX_FONT_SP,
-                        steps = ((AppFonts.MAX_FONT_SP - AppFonts.MIN_FONT_SP) / 2).toInt() - 1,
-                    )
-
-                    Spacer(Modifier.height(12.dp))
-
-                    Row(
-                        modifier = Modifier.fillMaxWidth(),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        Text("Multi-Bible Reader", style = MaterialTheme.typography.labelMedium)
-                        Switch(
-                            checked = state.multiBibleReaderEnabled,
-                            onCheckedChange = viewModel::setMultiBibleReaderEnabled,
-                        )
-                    }
-                }
-            },
-            confirmButton = {
-                TextButton(onClick = { showQuickSettings = false }) { Text("Done") }
-            },
+        QuickSettingsDialog(
+            state = state,
+            themeRepo = themeRepo,
+            viewModel = viewModel,
+            onDismiss = { showQuickSettings = false },
         )
     }
 }

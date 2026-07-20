@@ -7,6 +7,8 @@ import com.biblelib.core.database.daos.BookDao
 import com.biblelib.core.database.daos.BookmarkDao
 import com.biblelib.core.database.daos.ChapterDao
 import com.biblelib.core.database.daos.NoteDao
+import com.biblelib.core.database.daos.ScriptureItemDao
+import com.biblelib.core.database.daos.ScriptureListDao
 import com.biblelib.core.database.daos.VerseDao
 import com.biblelib.core.database.daos.SearchDao
 import com.biblelib.core.database.daos.HistoryDao
@@ -15,6 +17,8 @@ import com.biblelib.core.database.model.BookEntity
 import com.biblelib.core.database.model.BookmarkEntity
 import com.biblelib.core.database.model.ChapterEntity
 import com.biblelib.core.database.model.NoteEntity
+import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.model.ScriptureListEntity
 import com.biblelib.core.database.model.VerseEntity
 import com.biblelib.core.database.model.HistoryEntity
 import com.biblelib.core.database.model.SearchEntity
@@ -29,6 +33,8 @@ import com.biblelib.core.database.model.SearchEntity
         SearchEntity::class,
         BookmarkEntity::class,
         NoteEntity::class,
+        ScriptureListEntity::class,
+        ScriptureItemEntity::class,
     ],
     version = 1,
     exportSchema = false
@@ -42,4 +48,6 @@ abstract class AppDatabase : RoomDatabase() {
     abstract fun searchesDao(): SearchDao
     abstract fun bookmarksDao(): BookmarkDao
     abstract fun notesDao(): NoteDao
+    abstract fun scriptureListsDao(): ScriptureListDao
+    abstract fun scriptureItemsDao(): ScriptureItemDao
 }

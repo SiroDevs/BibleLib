@@ -2,12 +2,13 @@ package com.biblelib.feature.bibles.view.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AddCircleOutline
@@ -71,6 +72,7 @@ fun SwipeableBibleRow(
                     contentDescription = "Delete",
                     alignment = Alignment.CenterEnd,
                 )
+
                 SwipeToDismissBoxValue.StartToEnd -> SwipeActionBackground(
                     color = MaterialTheme.colorScheme.primaryContainer,
                     contentColor = MaterialTheme.colorScheme.onPrimaryContainer,
@@ -78,6 +80,7 @@ fun SwipeableBibleRow(
                     contentDescription = if (isSecondary) "Remove from secondary" else "Add to secondary",
                     alignment = Alignment.CenterStart,
                 )
+
                 SwipeToDismissBoxValue.Settled -> {}
             }
         },
@@ -86,26 +89,45 @@ fun SwipeableBibleRow(
             ListItem(
                 leadingContent = leadingContent,
                 headlineContent = { Text(bible.name, fontWeight = FontWeight.Medium) },
-                supportingContent = { Text("${bible.abbreviation.uppercase()} BIBLE") },
+                supportingContent = {
+                    Box(Modifier
+                        .padding(horizontal = 16.dp)
+                        .padding(bottom = 12.dp)) {
+                        Text("${bible.abbreviation.uppercase()} BIBLE")
+                    }
+                },
+                trailingContent = {
+                    if (bible.downloadFailed) {
+                        Column(
+                            Modifier
+                                .padding(horizontal = 16.dp)
+                                .padding(bottom = 5.dp)
+                        ) {
+                            TextButton(onClick = { onRestartDownload?.invoke() }) { Text("Restart") }
+                            TextButton(onClick = { onContinueDownload?.invoke() }) { Text("Continue") }
+                        }
+                    }
+                }
             )
             if (bible.downloadFailed) {
-                Column(Modifier.padding(horizontal = 16.dp).padding(bottom = 12.dp)) {
+                Box(
+                    Modifier
+                        .padding(horizontal = 16.dp)
+                        .padding(bottom = 12.dp)
+                ) {
                     Text(
-                        "DOWNLOAD FAILED · ${(bible.downloadProgress * 100).toInt()}% done",
+                        "DOWNLOAD FAILED · ${(bible.downloadProgress * 100).toInt()}%",
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.error,
                         fontWeight = FontWeight.Bold,
                     )
-                    Row(
-                        modifier = Modifier.padding(top = 8.dp),
-                        horizontalArrangement = Arrangement.spacedBy(8.dp),
-                    ) {
-                        TextButton(onClick = { onRestartDownload?.invoke() }) { Text("Restart") }
-                        TextButton(onClick = { onContinueDownload?.invoke() }) { Text("Continue") }
-                    }
                 }
             } else if (!bible.isDownloaded) {
-                Column(Modifier.padding(horizontal = 16.dp).padding(bottom = 12.dp)) {
+                Column(
+                    Modifier
+                        .padding(horizontal = 16.dp)
+                        .padding(bottom = 12.dp)
+                ) {
                     Text(
                         "Downloading ... ${((progress ?: bible.downloadProgress) * 100).toInt()}%",
                         style = MaterialTheme.typography.labelSmall,
