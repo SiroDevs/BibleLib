@@ -1,44 +1,25 @@
 package com.biblelib.feature.reader.main.view.screen
 
-import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.fadeIn
-import androidx.compose.animation.fadeOut
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.rememberLazyListState
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.KeyboardArrowUp
-import androidx.compose.material.icons.filled.ManageSearch
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.ExtendedFloatingActionButton
-import androidx.compose.material3.FloatingActionButton
-import androidx.compose.material3.Icon
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.SmallFloatingActionButton
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalLifecycleOwner
-import androidx.compose.ui.unit.dp
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
@@ -62,7 +43,6 @@ import com.biblelib.feature.reader.main.view.components.VerseList
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.distinctUntilChanged
-import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -86,10 +66,6 @@ fun ReaderScreen(
     var showQuickSettings by remember { mutableStateOf(false) }
 
     val listState = rememberLazyListState()
-    val scope = rememberCoroutineScope()
-
-    val isAtTop by remember { derivedStateOf { listState.firstVisibleItemIndex == 0 } }
-    val showScrollToTop by remember { derivedStateOf { !isAtTop } }
     val resolvedFontFamily = AppFontFamilies.byId(state.fontFamilyId).family
     val resolvedBackground = AppReaderBackgrounds.byId(state.readerBackgroundId)
 
@@ -157,6 +133,7 @@ fun ReaderScreen(
         },
         bottomBar = {
             ReaderBottomBar(
+                navController = navController,
                 viewModel = viewModel,
                 hasPrev = run {
                     val chapters = state.chapters
@@ -173,13 +150,6 @@ fun ReaderScreen(
                 onQuickSettings = { showQuickSettings = true },
             )
         },
-        floatingActionButton = {
-            if (!state.isSelectionMode) {
-                FloatingActionButton(onClick = { showQuickSettings = true }) {
-                    Icon(Icons.Default.ManageSearch, "Scripture Opener")
-                }
-            }
-        }
     ) { padding ->
         Box(
             Modifier

@@ -24,12 +24,6 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.ScriptureItemEntity
 
-/**
- * Replaces the [ChapterNavBar] whenever a scripture list is open (built via the Scripture
- * Opener, or resumed from Scripture Lists). Shows every scripture in the list as a horizontal
- * row of rounded chips, with the currently-open one highlighted. The "X" on the far right
- * dismisses the queue and hands the bottom bar back to [ChapterNavBar].
- */
 @Composable
 fun FloatingScriptureQueue(
     items: List<ScriptureItemEntity>,

@@ -11,6 +11,7 @@ import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
+import androidx.compose.material.icons.automirrored.filled.ListAlt
 import androidx.compose.material.icons.filled.KeyboardArrowUp
 import androidx.compose.material.icons.filled.ManageSearch
 import androidx.compose.material.icons.filled.MenuBook
@@ -56,7 +57,7 @@ fun ReaderFab(
     Column(
         modifier = modifier
             .navigationBarsPadding()
-            .padding(end = 16.dp, bottom = 16.dp),
+            .padding(end = 10.dp),
         verticalArrangement = Arrangement.spacedBy(10.dp),
         horizontalAlignment = Alignment.End,
     ) {
@@ -86,6 +87,7 @@ fun ReaderFab(
 
 @Composable
 fun ReaderBottomBar(
+    navController: NavController,
     viewModel: ReaderViewModel,
     hasPrev: Boolean,
     hasNext: Boolean,
@@ -94,6 +96,12 @@ fun ReaderBottomBar(
     onQuickSettings: () -> Unit,
 ) {
     NavigationBar(containerColor = MaterialTheme.colorScheme.onPrimary, tonalElevation = 4.dp) {
+        NavigationBarItem(
+            selected = false,
+            onClick = { navController.navigate(Routes.SCRIPTURE_LISTS) },
+            icon = { Icon(Icons.AutoMirrored.Filled.ListAlt, "Scriptures") },
+            label = { Text("Scriptures") }
+        )
         NavigationBarItem(
             selected = false,
             onClick = { viewModel.navigateChapter(-1) },
