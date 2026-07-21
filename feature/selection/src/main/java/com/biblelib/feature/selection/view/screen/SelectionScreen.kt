@@ -1,16 +1,15 @@
 package com.biblelib.feature.selection.view.screen
 
-import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.animateFloatAsState
-import androidx.compose.animation.expandVertically
-import androidx.compose.animation.shrinkVertically
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.GridItemSpan
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Brightness6
 import androidx.compose.material.icons.filled.Refresh
@@ -29,22 +28,25 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.biblelib.core.common.entity.Selectable
 import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.designsystem.theme.ThemeSelectorDialog
-import com.biblelib.core.network.dtos.BibleInfoDto
-import com.biblelib.core.network.dtos.primaryCountryName
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.indicators.BibleCardShimmer
 import com.biblelib.core.ui.components.indicators.ErrorState
-import com.biblelib.feature.selection.viewmodel.SelectionViewModel
 import com.biblelib.feature.selection.view.components.BibleListItem
 import com.biblelib.feature.selection.view.components.BibleSavingProgress
-import com.biblelib.feature.selection.view.components.CountryGroupHeader
 import com.biblelib.feature.selection.view.components.DownloadFailedState
+import com.biblelib.feature.selection.view.components.FilterChipStrip
+import com.biblelib.feature.selection.view.components.GroupHeader
+import com.biblelib.feature.selection.view.components.GroupingFilmStrip
 import com.biblelib.feature.selection.view.components.ProceedBar
+import com.biblelib.feature.selection.utils.GridEntry
+import com.biblelib.feature.selection.viewmodel.SelectionViewModel
+import com.biblelib.feature.selection.utils.buildGridEntries
+
+private const val GRID_COLUMNS = 2
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -53,9 +55,9 @@ fun SelectionScreen(
     viewModel: SelectionViewModel,
     themeRepo: ThemeRepo,
 ) {
-
     val uiState by viewModel.uiState.collectAsState()
     val bibles by viewModel.bibles.collectAsState()
+    val groupingMode by viewModel.groupingMode.collectAsState()
     val selectedCount by viewModel.selectedCount.collectAsState()
     val canProceed by viewModel.canProceed.collectAsState()
     val downloadProgress by viewModel.downloadProgress.collectAsState()
@@ -66,6 +68,8 @@ fun SelectionScreen(
     }
 
     val expandedGroups = remember { mutableStateMapOf<String, Boolean>() }
+
+    val countryFilters = remember { mutableStateMapOf<String, String>() }
 
     LaunchedEffect(Unit) {
         viewModel.fetchBibles()
@@ -121,7 +125,7 @@ fun SelectionScreen(
             }
         },
         bottomBar = {
-            if (showChrome && uiState !is UiState.Loading) {
+            if (uiState is UiState.Loaded) {
                 ProceedBar(
                     canProceed = canProceed,
                     onProceed = viewModel::saveSelectionAndDownload
@@ -162,35 +166,77 @@ fun SelectionScreen(
                 }
 
                 else -> {
-                    val groups = remember(bibles) { groupByCountry(bibles) }
-
-                    LazyColumn(
-                        contentPadding = PaddingValues(vertical = 8.dp)
+                    val entries = remember(
+                        bibles,
+                        groupingMode,
+                        expandedGroups.toMap(),
+                        countryFilters.toMap(),
                     ) {
-                        groups.forEach { (countryName, items) ->
-                            val isExpanded = expandedGroups[countryName] ?: false
-                            val selectedInGroup = items.count { it.isSelected }
+                        buildGridEntries(
+                            bibles = bibles,
+                            mode = groupingMode,
+                            expandedGroups = expandedGroups,
+                            countryFilters = countryFilters,
+                        )
+                    }
 
-                            item(key = "header_$countryName") {
-                                CountryGroupHeader(
-                                    countryName = countryName,
-                                    selectedInGroup = selectedInGroup,
-                                    totalInGroup = items.size,
-                                    expanded = isExpanded,
-                                    onClick = {
-                                        expandedGroups[countryName] = !isExpanded
-                                    },
-                                )
-                            }
+                    Column(Modifier.fillMaxSize()) {
+                        GroupingFilmStrip(
+                            selected = groupingMode,
+                            onSelected = viewModel::setGroupingMode,
+                        )
 
-                            item(key = "group_$countryName") {
-                                AnimatedVisibility(
-                                    visible = isExpanded,
-                                    enter = expandVertically(),
-                                    exit = shrinkVertically(),
-                                ) {
-                                    Column(Modifier.fillMaxWidth()) {
-                                        items.forEach { item ->
+                        LazyVerticalGrid(
+                            columns = GridCells.Fixed(GRID_COLUMNS),
+                            contentPadding = PaddingValues(all = 2.dp),
+                        ) {
+                            items(
+                                items = entries,
+                                key = { entry ->
+                                    when (entry) {
+                                        is GridEntry.Header -> "header_${entry.key}"
+                                        is GridEntry.CountryFilterStrip -> "filter_${entry.key}"
+                                        is GridEntry.Item -> "item_${entry.key}"
+                                    }
+                                },
+                                span = { entry ->
+                                    when (entry) {
+                                        is GridEntry.Header -> GridItemSpan(maxLineSpan)
+                                        is GridEntry.CountryFilterStrip -> GridItemSpan(maxLineSpan)
+                                        is GridEntry.Item -> if (entry.soloInGroup) {
+                                            GridItemSpan(maxLineSpan)
+                                        } else {
+                                            GridItemSpan(1)
+                                        }
+                                    }
+                                },
+                            ) { entry ->
+                                when (entry) {
+                                    is GridEntry.Header -> {
+                                        val isExpanded = expandedGroups[entry.key] ?: true
+                                        GroupHeader(
+                                            title = entry.title,
+                                            totalInGroup = entry.totalCount,
+                                            expanded = isExpanded,
+                                            onClick = {
+                                                expandedGroups[entry.key] = !isExpanded
+                                            },
+                                        )
+                                    }
+
+                                    is GridEntry.CountryFilterStrip -> {
+                                        FilterChipStrip(
+                                            options = entry.options,
+                                            selected = entry.selected,
+                                            onSelected = { country ->
+                                                countryFilters[entry.continentKey] = country
+                                            },
+                                        )
+                                    }
+
+                                    is GridEntry.Item -> {
+                                        val item = entry.bible
+                                        Box(Modifier.padding(2.dp)) {
                                             BibleListItem(
                                                 name = item.data.name,
                                                 description = item.data.description,
@@ -215,11 +261,3 @@ fun SelectionScreen(
         }
     }
 }
-
-private fun groupByCountry(
-    bibles: List<Selectable<BibleInfoDto>>
-): List<Pair<String, List<Selectable<BibleInfoDto>>>> =
-    bibles
-        .groupBy { it.data.primaryCountryName() }
-        .toSortedMap()
-        .map { (country, items) -> country to items }

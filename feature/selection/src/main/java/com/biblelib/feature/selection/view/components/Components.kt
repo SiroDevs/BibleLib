@@ -4,6 +4,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -11,13 +12,18 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.ErrorOutline
 import androidx.compose.material.icons.filled.ExpandLess
 import androidx.compose.material.icons.filled.ExpandMore
 import androidx.compose.material3.Button
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
@@ -30,6 +36,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import com.biblelib.feature.selection.utils.FilterOption
+import com.biblelib.feature.selection.utils.GroupingMode
 
 @Composable
 fun BibleSavingProgress(progress: Float, step: String) {
@@ -101,7 +109,7 @@ fun DownloadFailedState(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(horizontal = 32.dp),
+            .padding(horizontal = 30.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
@@ -169,9 +177,8 @@ fun DownloadFailedState(
 }
 
 @Composable
-fun CountryGroupHeader(
-    countryName: String,
-    selectedInGroup: Int,
+fun GroupHeader(
+    title: String,
     totalInGroup: Int,
     expanded: Boolean,
     onClick: () -> Unit,
@@ -179,7 +186,12 @@ fun CountryGroupHeader(
     Surface(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 10.dp, vertical = 4.dp)
+            .padding(
+                start = 5.dp,
+                end = 5.dp,
+                top = 0.dp,
+                bottom = 5.dp,
+            )
             .clip(RoundedCornerShape(10.dp))
             .clickable { onClick() },
         color = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f),
@@ -187,29 +199,86 @@ fun CountryGroupHeader(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 14.dp, vertical = 12.dp),
+                .padding(
+                    horizontal = 10.dp,
+                    vertical = 5.dp,
+                ),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.SpaceBetween,
         ) {
-            Column {
+            Row(
+                modifier = Modifier.weight(1f),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
                 Text(
-                    text = countryName,
+                    text = title,
                     style = MaterialTheme.typography.titleSmall,
                     fontWeight = FontWeight.SemiBold,
                 )
+
+                Spacer(modifier = Modifier.width(8.dp))
+
                 Text(
-                    text = if (selectedInGroup > 0) {
-                        "$totalInGroup bibles · $selectedInGroup selected"
-                    } else {
-                        "$totalInGroup bibles"
-                    },
+                    text = if (totalInGroup == 1) "$totalInGroup bible" else "$totalInGroup bibles",
                     style = MaterialTheme.typography.labelSmall,
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                 )
             }
+
             Icon(
-                imageVector = if (expanded) Icons.Default.ExpandLess else Icons.Default.ExpandMore,
+                imageVector = if (expanded) {
+                    Icons.Default.ExpandLess
+                } else {
+                    Icons.Default.ExpandMore
+                },
                 contentDescription = if (expanded) "Collapse" else "Expand",
+            )
+        }
+    }
+}
+
+@Composable
+fun GroupingFilmStrip(
+    selected: GroupingMode,
+    onSelected: (GroupingMode) -> Unit,
+) {
+    LazyRow(
+        modifier = Modifier.fillMaxWidth(),
+        contentPadding = PaddingValues(horizontal = 10.dp, vertical = 0.dp),
+        horizontalArrangement = Arrangement.spacedBy(5.dp),
+    ) {
+        items(GroupingMode.entries.toList(), key = { it.name }) { mode ->
+            val isSelected = mode == selected
+            FilterChip(
+                selected = isSelected,
+                onClick = { onSelected(mode) },
+                label = { Text(mode.label) },
+                leadingIcon = if (isSelected) {
+                    { Icon(Icons.Default.Check, contentDescription = null, modifier = Modifier.size(16.dp)) }
+                } else {
+                    null
+                },
+            )
+        }
+    }
+}
+
+@Composable
+fun FilterChipStrip(
+    options: List<FilterOption>,
+    selected: String,
+    onSelected: (String) -> Unit,
+) {
+    LazyRow(
+        modifier = Modifier.fillMaxWidth(),
+        contentPadding = PaddingValues(horizontal = 5.dp, vertical = 5.dp),
+        horizontalArrangement = Arrangement.spacedBy(5.dp),
+    ) {
+        items(options, key = { it.name }) { option ->
+            val isSelected = option.name == selected
+            FilterChip(
+                selected = isSelected,
+                onClick = { onSelected(option.name) },
+                label = { Text("${option.name} (${option.count})") },
             )
         }
     }

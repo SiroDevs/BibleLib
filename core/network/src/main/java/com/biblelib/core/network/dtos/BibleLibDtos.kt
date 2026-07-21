@@ -11,13 +11,13 @@ data class BibleInfoDto(
     val description: String = "",
     val abbreviation: String = "",
     val tagline: String = "",
-    val language: BibleLanguageDto = BibleLanguageDto(),
+    val language: BibleLangDto = BibleLangDto(),
     val countries: List<BibleCountryDto> = emptyList(),
     val copyright: String = "",
     val info: String = "",
 )
 
-data class BibleLanguageDto(
+data class BibleLangDto(
     val id: String = "",
     val name: String = "",
     val script: String = "",

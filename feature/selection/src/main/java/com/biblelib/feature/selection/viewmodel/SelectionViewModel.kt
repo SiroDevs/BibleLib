@@ -12,6 +12,7 @@ import com.biblelib.core.data.worker.SyncScheduler
 import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
 import com.biblelib.core.network.dtos.primaryCountryName
+import com.biblelib.feature.selection.utils.GroupingMode
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -46,6 +47,9 @@ class SelectionViewModel @Inject constructor(
 
     private val _bibles = MutableStateFlow<List<Selectable<BibleInfoDto>>>(emptyList())
     val bibles = _bibles.asStateFlow()
+
+    private val _groupingMode = MutableStateFlow(GroupingMode.Default)
+    val groupingMode = _groupingMode.asStateFlow()
 
     private var pendingSelection: List<BibleInfoDto> = emptyList()
 
@@ -89,6 +93,10 @@ class SelectionViewModel @Inject constructor(
                 )
             }
         }
+    }
+
+    fun setGroupingMode(mode: GroupingMode) {
+        _groupingMode.value = mode
     }
 
     fun toggleSelection(abbr: String) {
@@ -236,9 +244,12 @@ class SelectionViewModel @Inject constructor(
         )
     }
 
+    /** Downloads the primary Bible (resumable), then queues the rest 2-at-a-time in the background. */
     private suspend fun downloadPrimaryAndQueueSecondaries(selected: List<BibleInfoDto>) {
         val primary = selected.first()
 
+        // saveBibles() may not have run yet if this is a raw retry entry point — make sure the
+        // row exists so download progress has somewhere to persist to.
         if (bibleRepo.getbibles().none { it.abbreviation == primary.abbreviation }) {
             persistSelectionBookkeeping(selected)
         }
@@ -249,7 +260,6 @@ class SelectionViewModel @Inject constructor(
         }
 
         prefsRepo.isPrimaryLoaded = true
-        prefsRepo.isDataSelected = true
 
         SyncScheduler.scheduleSecondaryDownloads(
             context,
