@@ -43,7 +43,7 @@ fun BibleSelectorSheet(
     onDismiss: () -> Unit,
 ) {
     ModalBottomSheet(onDismissRequest = onDismiss) {
-        Row() {
+        Row(verticalAlignment = Alignment.CenterVertically) {
             Text(
                 "Switch Your Primary Bible",
                 style = MaterialTheme.typography.titleMedium,
@@ -64,54 +64,13 @@ fun BibleSelectorSheet(
                 Text("Manage Bibles")
             }
         }
-        state.savedBibles.forEach { bible ->
-            ListItem(
-                leadingContent = {
-                    when {
-                        bible.downloadFailed -> Icon(
-                            Icons.Default.ErrorOutline,
-                            contentDescription = "Download failed",
-                            tint = MaterialTheme.colorScheme.error,
-                            modifier = Modifier.size(18.dp),
-                        )
-                        !bible.isDownloaded -> CircularProgressIndicator(
-                            modifier = Modifier.size(20.dp),
-                            strokeWidth = 2.dp
-                        )
-                    }
-                },
-                headlineContent = { Text(bible.name) },
-                supportingContent = {
-                    when {
-                        bible.downloadFailed -> Text(
-                            "DOWNLOAD FAILED at ${(bible.downloadProgress * 100).toInt()}%",
-                            color = MaterialTheme.colorScheme.error,
-                            fontWeight = FontWeight.Bold,
-                        )
 
-                        else -> Text("${bible.abbreviation.uppercase()} BIBLE")
-                    }
-                },
+        state.savedBibles.filter { it.isDownloaded }.forEach { bible ->
+            ListItem(
+                headlineContent = { Text(bible.name) },
+                supportingContent = { Text("${bible.abbreviation.uppercase()} BIBLE") },
                 trailingContent = {
                     when {
-                        bible.downloadFailed -> Column() {
-                            TextButton(onClick = { viewModel.restartBibleDownload(bible.abbreviation) }) {
-                                Text("Restart", style = MaterialTheme.typography.labelSmall)
-                            }
-                            TextButton(onClick = { viewModel.restartBibleDownload(bible.abbreviation) }) {
-                                Text("Continue", style = MaterialTheme.typography.labelSmall)
-                            }
-                        }
-
-                        !bible.isDownloaded -> Box() {
-                            val progress =
-                                state.downloadProgress[bible.abbreviation] ?: bible.downloadProgress
-                            Text(
-                                "Downloading ${(progress * 100).toInt()}%",
-                                style = MaterialTheme.typography.labelSmall,
-                            )
-                        }
-
                         bible.abbreviation == state.activeBibleAbbr -> Icon(
                             Icons.Default.Check, null, tint = MaterialTheme.colorScheme.primary
                         )

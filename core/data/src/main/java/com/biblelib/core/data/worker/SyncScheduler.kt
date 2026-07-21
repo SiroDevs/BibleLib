@@ -13,10 +13,6 @@ import androidx.work.workDataOf
 import java.util.concurrent.TimeUnit
 
 object SyncScheduler {
-
-    /** How many Bibles may download at the same time once the primary Bible is done. */
-    const val MAX_CONCURRENT_DOWNLOADS = 2
-
     private val networkConstraints = Constraints.Builder()
         .setRequiredNetworkType(NetworkType.CONNECTED)
         .build()
@@ -43,22 +39,15 @@ object SyncScheduler {
         if (abbrs.isEmpty()) return
 
         val workManager = WorkManager.getInstance(context)
-        val lanes = List(MAX_CONCURRENT_DOWNLOADS) { mutableListOf<String>() }
-        abbrs.forEachIndexed { index, abbr ->
-            lanes[index % MAX_CONCURRENT_DOWNLOADS].add(abbr)
-        }
+        val requests = abbrs.map { buildRequest(it) }
 
-        lanes.forEachIndexed { laneIndex, laneAbbrs ->
-            if (laneAbbrs.isEmpty()) return@forEachIndexed
-            val requests = laneAbbrs.map { buildRequest(it) }
-            var continuation = workManager.beginUniqueWork(
-                "${SyncWorker.WORK_NAME_PREFIX}lane_$laneIndex",
-                ExistingWorkPolicy.REPLACE,
-                requests.first(),
-            )
-            requests.drop(1).forEach { continuation = continuation.then(it) }
-            continuation.enqueue()
-        }
+        var continuation = workManager.beginUniqueWork(
+            "${SyncWorker.WORK_NAME_PREFIX}queue",
+            ExistingWorkPolicy.REPLACE,
+            requests.first(),
+        )
+        requests.drop(1).forEach { continuation = continuation.then(it) }
+        continuation.enqueue()
     }
 
     fun cancelDownload(context: Context, abbr: String) {

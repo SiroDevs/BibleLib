@@ -166,11 +166,10 @@ fun AppNavHost(
         }
 
         composable(Routes.BIBLES) {
-            val mainVm: MainViewModel = hiltViewModel()
             val biblesVm: BiblesViewModel = hiltViewModel()
             BiblesScreen(
                 navController = navController,
-                mainViewModel = mainVm,
+                mainViewModel = mainViewModel,
                 viewModel = biblesVm,
             )
         }
@@ -193,11 +192,10 @@ fun AppNavHost(
         }
 
         composable(Routes.DATA_SETTINGS) {
-            val mainVm: MainViewModel = hiltViewModel()
             val settingsVm: SettingsViewModel = hiltViewModel()
             DataSettingsScreen(
                 navController = navController,
-                mainViewModel = mainVm,
+                mainViewModel = mainViewModel,
                 settViewModel = settingsVm,
             )
         }

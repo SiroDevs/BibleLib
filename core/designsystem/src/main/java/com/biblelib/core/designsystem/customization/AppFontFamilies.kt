@@ -11,7 +11,6 @@ data class AppFontOption(
 )
 
 object AppFontFamilies {
-
     val DEFAULT = AppFontOption("default", "Roboto (System)", FontFamily.Default)
     private val SERIF = AppFontOption("serif", "Serif (System)", FontFamily.Serif)
     private val SANS = AppFontOption("sans_serif", "Sans Serif (System)", FontFamily.SansSerif)
