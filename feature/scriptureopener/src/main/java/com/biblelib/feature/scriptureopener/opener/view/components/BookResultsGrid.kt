@@ -57,7 +57,7 @@ fun BookResultsGrid(
                         .padding(vertical = 8.dp)
                 ) {
                     Text(
-                        text = "OT",
+                        text = "Old Testament",
                         modifier = Modifier.weight(1f),
                         textAlign = TextAlign.Center,
                         style = MaterialTheme.typography.labelLarge,
@@ -65,7 +65,7 @@ fun BookResultsGrid(
                         color = MaterialTheme.colorScheme.primary,
                     )
                     Text(
-                        text = "NT",
+                        text = "New Testament",
                         modifier = Modifier.weight(1f),
                         textAlign = TextAlign.Center,
                         style = MaterialTheme.typography.labelLarge,
@@ -90,7 +90,7 @@ fun BookResultsGrid(
 }
 
 @Composable
-private fun RowScope.BookCell(
+private fun BookCell(
     book: BookEntity?,
     selectedBookId: String?,
     onSelect: (BookEntity) -> Unit,

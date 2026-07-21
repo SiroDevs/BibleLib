@@ -21,7 +21,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.ChapterEntity
 
-/** Floating results panel shown under the "Chapter" field: a 2-column table of chapters. */
 @Composable
 fun ChapterResultsGrid(
     chapters: List<ChapterEntity>,
@@ -36,7 +35,7 @@ fun ChapterResultsGrid(
         shape = RoundedCornerShape(10.dp),
     ) {
         LazyVerticalGrid(
-            columns = GridCells.Fixed(2),
+            columns = GridCells.Fixed(4),
             modifier = Modifier.heightIn(max = 280.dp),
             contentPadding = PaddingValues(6.dp),
         ) {
@@ -51,7 +50,6 @@ fun ChapterResultsGrid(
     }
 }
 
-/** Floating results panel shown under the "Verse" field: a 2-column table of verse numbers. */
 @Composable
 fun VerseResultsGrid(
     verseCount: Int,
@@ -66,7 +64,7 @@ fun VerseResultsGrid(
         shape = RoundedCornerShape(10.dp),
     ) {
         LazyVerticalGrid(
-            columns = GridCells.Fixed(2),
+            columns = GridCells.Fixed(4),
             modifier = Modifier.heightIn(max = 280.dp),
             contentPadding = PaddingValues(6.dp),
         ) {

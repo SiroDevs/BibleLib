@@ -20,7 +20,6 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.biblelib.feature.scriptureopener.opener.viewmodel.ScriptureSearchRowState
 
-/** A locked/added scripture row, rendered as a compact read-only summary card. */
 @Composable
 fun LockedScriptureRow(row: ScriptureSearchRowState, modifier: Modifier = Modifier) {
     Surface(
@@ -42,7 +41,7 @@ fun LockedScriptureRow(row: ScriptureSearchRowState, modifier: Modifier = Modifi
             Spacer(Modifier.width(10.dp))
             Text(
                 text = row.reference,
-                style = MaterialTheme.typography.titleSmall,
+                style = MaterialTheme.typography.titleLarge,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onSecondaryContainer,
                 maxLines = 1,
@@ -51,7 +50,7 @@ fun LockedScriptureRow(row: ScriptureSearchRowState, modifier: Modifier = Modifi
             Spacer(Modifier.width(6.dp))
             Text(
                 text = "Added to queue",
-                style = MaterialTheme.typography.labelSmall,
+                style = MaterialTheme.typography.labelMedium,
                 color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.75f),
             )
         }

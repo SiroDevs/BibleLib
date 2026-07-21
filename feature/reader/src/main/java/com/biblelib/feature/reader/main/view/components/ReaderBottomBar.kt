@@ -42,6 +42,8 @@ import kotlinx.coroutines.launch
 fun ReaderFab(
     navController: NavController,
     listState: LazyListState,
+    bibleAbbr: String,
+    bibleName: String,
     modifier: Modifier = Modifier,
 ) {
     val scope = rememberCoroutineScope()
@@ -75,7 +77,7 @@ fun ReaderFab(
         }
 
         ExtendedFloatingActionButton(
-            onClick = { navController.navigate(Routes.SCRIPTURE_OPENER) },
+            onClick = { navController.navigate(Routes.scriptureOpener(bibleAbbr, bibleName)) },
             expanded = isAtTop,
             containerColor = MaterialTheme.colorScheme.primaryContainer,
             icon = { Icon(Icons.Filled.ManageSearch, "Scripture Opener") },

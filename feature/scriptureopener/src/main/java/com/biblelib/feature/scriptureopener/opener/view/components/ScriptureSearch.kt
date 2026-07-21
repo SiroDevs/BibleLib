@@ -73,14 +73,14 @@ fun ScriptureSearch(
                 onClick = { onToggleField(ExpandedField.BOOK) },
             )
             ScriptureField(
-                label = "Ch",
+                label = "Chapter",
                 value = row.chapterLabel,
                 enabled = row.canExpandChapter,
                 modifier = Modifier.weight(1f),
                 onClick = { onToggleField(ExpandedField.CHAPTER) },
             )
             ScriptureField(
-                label = "Vs",
+                label = "Verse",
                 value = row.verseLabel,
                 enabled = row.canExpandVerse,
                 modifier = Modifier.weight(1f),

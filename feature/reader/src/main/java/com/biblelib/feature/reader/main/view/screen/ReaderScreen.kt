@@ -183,6 +183,8 @@ fun ReaderScreen(
                 modifier = Modifier.align(Alignment.BottomEnd),
                 navController = navController,
                 listState = listState,
+                bibleAbbr = state.activeBibleAbbr,
+                bibleName = state.activeBible,
             )
         }
     }
