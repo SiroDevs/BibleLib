@@ -6,15 +6,13 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.grid.GridCells
-import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
-import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
@@ -103,20 +101,22 @@ fun AppearanceSettingsScreen(
                     shape = RoundedCornerShape(14.dp),
                     colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f)),
                 ) {
-                    LazyVerticalGrid(
-                        columns = GridCells.Fixed(5),
+                    FlowRow(
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(16.dp),
+                        maxItemsInEachRow = 5,
                         horizontalArrangement = Arrangement.spacedBy(12.dp),
                         verticalArrangement = Arrangement.spacedBy(12.dp),
                     ) {
-                        items(AppReaderBackgrounds.ALL, key = { it.id }) { bg ->
+                        AppReaderBackgrounds.ALL.forEach { bg ->
                             val isSelected = bg.id == readerBackgroundId
                             val swatchLuminance = (0.299f * bg.swatch.red + 0.587f * bg.swatch.green + 0.114f * bg.swatch.blue)
                             Column(
                                 horizontalAlignment = Alignment.CenterHorizontally,
-                                modifier = Modifier.clickable { settViewModel.setReaderBackground(bg.id) },
+                                modifier = Modifier
+                                    .weight(1f)
+                                    .clickable { settViewModel.setReaderBackground(bg.id) },
                             ) {
                                 Box(
                                     modifier = Modifier
@@ -126,7 +126,7 @@ fun AppearanceSettingsScreen(
                                         .border(
                                             width = if (isSelected) 2.5.dp else 1.dp,
                                             color = if (isSelected) MaterialTheme.colorScheme.primary
-                                                    else MaterialTheme.colorScheme.outlineVariant,
+                                            else MaterialTheme.colorScheme.outlineVariant,
                                             shape = CircleShape,
                                         ),
                                     contentAlignment = Alignment.Center,

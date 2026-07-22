@@ -36,13 +36,13 @@ import com.biblelib.feature.reader.main.view.components.BibleSelectorSheet
 import com.biblelib.feature.reader.main.view.components.BookDrawer
 import com.biblelib.feature.reader.main.view.components.BookmarkOptionsDialog
 import com.biblelib.feature.reader.main.view.components.ChapterSheet
-import com.biblelib.feature.reader.main.view.components.FloatingScriptureQueue
 import com.biblelib.feature.reader.main.view.components.HighlightColorPickerDialog
 import com.biblelib.feature.reader.main.view.components.QuickSettingsDialog
 import com.biblelib.feature.reader.main.view.components.ReaderBottomBar
 import com.biblelib.feature.reader.main.view.components.ReaderFab
 import com.biblelib.feature.reader.main.view.components.ReaderSelectionTopBar
 import com.biblelib.feature.reader.main.view.components.ReaderTopBar
+import com.biblelib.feature.reader.main.view.components.ScriptureQueue
 import com.biblelib.feature.reader.main.view.components.VerseList
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.flow.debounce
@@ -149,11 +149,10 @@ fun ReaderScreen(
         },
         bottomBar = {
             if (state.isScriptureModeActive) {
-                FloatingScriptureQueue(
-                    items = state.queueItems,
-                    activeItemId = state.queueActiveItemId,
-                    onItemClick = viewModel::jumpToQueueItem,
-                    onDismiss = viewModel::dismissScriptureQueue,
+                ScriptureQueue(
+                    state = state,
+                    viewModel = viewModel,
+                    onQuickSettings = { showQuickSettings = true },
                 )
             } else {
                 ReaderBottomBar(
@@ -205,11 +204,10 @@ fun ReaderScreen(
             }
 
             ReaderFab(
+                state = state,
                 modifier = Modifier.align(Alignment.BottomEnd),
                 navController = navController,
                 listState = listState,
-                bibleAbbr = state.activeBibleAbbr,
-                bibleName = state.activeBible,
             )
         }
     }

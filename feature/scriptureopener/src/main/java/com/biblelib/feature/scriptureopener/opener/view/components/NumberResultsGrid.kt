@@ -38,7 +38,7 @@ fun ChapterResultsGrid(
             shape = RoundedCornerShape(10.dp),
         ) {
             LazyVerticalGrid(
-                columns = GridCells.Fixed(5),
+                columns = GridCells.Fixed(6),
                 modifier = Modifier.heightIn(max = 280.dp),
                 contentPadding = PaddingValues(6.dp),
             ) {
@@ -70,7 +70,7 @@ fun VerseResultsGrid(
             shape = RoundedCornerShape(10.dp),
         ) {
             LazyVerticalGrid(
-                columns = GridCells.Fixed(5),
+                columns = GridCells.Fixed(6),
                 modifier = Modifier.heightIn(max = 280.dp),
                 contentPadding = PaddingValues(6.dp),
             ) {

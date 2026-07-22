@@ -12,24 +12,36 @@ data class AppFontOption(
 
 object AppFontFamilies {
     val DEFAULT = AppFontOption("default", "Roboto (System)", FontFamily.Default)
-    private val SERIF = AppFontOption("serif", "Serif (System)", FontFamily.Serif)
+    private val MONOSPACE = AppFontOption("mono_space", "Mono Space (System)", FontFamily.Monospace)
     private val SANS = AppFontOption("sans_serif", "Sans Serif (System)", FontFamily.SansSerif)
 
-    private val OPEN_SANS = AppFontOption("open_sans", "Open Sans", FontFamily(Font(R.font.open_sans)))
+    private val OPEN_SANS =
+        AppFontOption("open_sans", "Open Sans", FontFamily(Font(R.font.open_sans)))
     private val LATO = AppFontOption("lato", "Lato", FontFamily(Font(R.font.lato)))
-    private val MONTSERRAT = AppFontOption("montserrat", "Montserrat", FontFamily(Font(R.font.montserrat)))
-    private val MERRIWEATHER = AppFontOption("merriweather", "Merriweather", FontFamily(Font(R.font.merriweather)))
-    private val PLAYFAIR = AppFontOption("playfair_display", "Playfair Display", FontFamily(Font(R.font.playfair_display)))
-    private val LORA = AppFontOption("lora", "Lora", FontFamily(Font(R.font.lora)))
-    private val PT_SERIF = AppFontOption("pt_serif", "PT Serif", FontFamily(Font(R.font.pt_serif)))
     private val NUNITO = AppFontOption("nunito", "Nunito", FontFamily(Font(R.font.nunito)))
     private val POPPINS = AppFontOption("poppins", "Poppins", FontFamily(Font(R.font.poppins)))
     private val OSWALD = AppFontOption("oswald", "Oswald", FontFamily(Font(R.font.oswald)))
-    private val NOTO_SERIF = AppFontOption("noto_serif", "Noto Serif", FontFamily(Font(R.font.noto_serif)))
+    private val TREBUCHET =
+        AppFontOption("trebuchet", "Trebuchet MS", FontFamily(Font(R.font.trebuchet)))
+    private val ROSEMARY = AppFontOption("rosemary", "Rosemary", FontFamily(Font(R.font.rosemary)))
+    private val COOLJAZZ = AppFontOption("cooljazz", "Cool jazz", FontFamily(Font(R.font.cooljazz)))
+    private val UBUNTUR = AppFontOption("ubuntu_r", "Ubuntu Regular", FontFamily(Font(R.font.ubuntu_r)))
+    private val ROBOTOR = AppFontOption("roboto_r", "Roboto Regular", FontFamily(Font(R.font.roboto_r)))
 
     val ALL: List<AppFontOption> = listOf(
-        DEFAULT, OPEN_SANS, LATO, MONTSERRAT, MERRIWEATHER, PLAYFAIR, LORA,
-        PT_SERIF, NUNITO, POPPINS, OSWALD, NOTO_SERIF, SERIF, SANS,
+        DEFAULT,
+        MONOSPACE,
+        OPEN_SANS,
+        LATO,
+        NUNITO,
+        POPPINS,
+        OSWALD,
+        SANS,
+        TREBUCHET,
+        ROSEMARY,
+        UBUNTUR,
+        ROBOTOR,
+        COOLJAZZ
     )
 
     fun byId(id: String): AppFontOption = ALL.find { it.id == id } ?: DEFAULT

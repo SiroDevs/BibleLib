@@ -34,16 +34,16 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
+import com.biblelib.feature.reader.main.utils.ReaderUiState
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 
 @Composable
 fun ReaderFab(
+    state: ReaderUiState,
     navController: NavController,
     listState: LazyListState,
-    bibleAbbr: String,
-    bibleName: String,
     modifier: Modifier = Modifier,
 ) {
     val scope = rememberCoroutineScope()
@@ -77,7 +77,7 @@ fun ReaderFab(
         }
 
         ExtendedFloatingActionButton(
-            onClick = { navController.navigate(Routes.scriptureOpener(bibleAbbr, bibleName)) },
+            onClick = { navController.navigate(Routes.scriptureOpener(state.activeBibleAbbr, state.activeBible)) },
             expanded = isAtTop,
             containerColor = MaterialTheme.colorScheme.primaryContainer,
             icon = { Icon(Icons.Filled.ManageSearch, "Scripture Opener") },

@@ -30,8 +30,7 @@ fun FieldPointerArrow(fieldIndex: Int, modifier: Modifier = Modifier) {
         FIELD_WEIGHTS.forEachIndexed { index, weight ->
             Box(
                 modifier = Modifier
-                    .weight(weight)
-                    .padding(bottom = 2.dp),
+                    .weight(weight),
                 contentAlignment = Alignment.Center,
             ) {
                 if (index == fieldIndex) {

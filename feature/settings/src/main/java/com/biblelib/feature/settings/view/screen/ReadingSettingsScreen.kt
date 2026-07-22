@@ -112,7 +112,7 @@ fun ReadingSettingsScreen(
                                 },
                                 supportingContent = {
                                     Text(
-                                        "The quick brown fox jumps over the lazy dog",
+                                        "In the beginning was the Word,",
                                         fontFamily = font.family,
                                         style = MaterialTheme.typography.bodySmall,
                                     )
