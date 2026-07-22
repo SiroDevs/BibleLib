@@ -13,6 +13,7 @@ import com.biblelib.core.common.entity.*
 import com.biblelib.core.data.repos.AnnotationRepo
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
+import com.biblelib.core.data.repos.ScriptureQueueRepo
 import com.biblelib.core.data.repos.TrackingRepo
 import com.biblelib.core.data.worker.SyncScheduler
 import com.biblelib.core.data.worker.SyncWorker
@@ -20,6 +21,7 @@ import com.biblelib.core.database.model.BookEntity
 import com.biblelib.core.database.model.ChapterEntity
 import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.core.database.model.ScriptureItemEntity
 import com.biblelib.feature.reader.main.utils.NotesNavRequest
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import javax.inject.Inject
@@ -30,6 +32,7 @@ class ReaderViewModel @Inject constructor(
     private val trackingRepo: TrackingRepo,
     private val prefsRepo: PrefsRepo,
     private val annotationRepo: AnnotationRepo,
+    private val scriptureQueueRepo: ScriptureQueueRepo,
     @ApplicationContext private val context: Context,
 ) : ViewModel() {
     private val _uiState = MutableStateFlow(ReaderUiState())
@@ -39,6 +42,15 @@ class ReaderViewModel @Inject constructor(
     private val observedAbbrs = mutableSetOf<String>()
 
     private var isFirstLoad = false
+
+    init {
+        viewModelScope.launch {
+            combine(scriptureQueueRepo.items, scriptureQueueRepo.activeItemId) { items, activeId -> items to activeId }
+                .collect { (items, activeId) ->
+                    _uiState.update { it.copy(queueItems = items, queueActiveItemId = activeId) }
+                }
+        }
+    }
 
     fun initialize(initialBible: String, initialBibleAbbr: String, initialBookId: String, initialChapterId: String) {
         viewModelScope.launch {
@@ -238,6 +250,8 @@ class ReaderViewModel @Inject constructor(
         prefsRepo.lastBookId = chapter.bookId
         prefsRepo.lastChapterId = chapter.id
 
+        scriptureQueueRepo.syncActiveByChapter(abbr, chapter.id)
+
         val book = _uiState.value.activeBook
         if (book != null) {
             trackingRepo.recordReading(
@@ -316,6 +330,23 @@ class ReaderViewModel @Inject constructor(
         val idx = chapters.indexOfFirst { it.id == current.id }
         val next = chapters.getOrNull(idx + direction) ?: return
         selectChapter(next)
+    }
+
+    /** Jumps the reader to a specific item from the currently open scripture queue, staying on
+     *  whichever Bible is currently active (so a prior Bible switch is respected). */
+    fun jumpToQueueItem(item: ScriptureItemEntity) {
+        scriptureQueueRepo.setActiveItem(item.id)
+        val abbr = _uiState.value.activeBibleAbbr
+        viewModelScope.launch {
+            loadBooks(abbr, item.bookId, item.chapterId)
+            _uiState.update { it.copy(restoreVerseId = item.verseId) }
+            prefsRepo.lastVerseId = item.verseId
+        }
+    }
+
+    /** Closes the floating scripture queue and returns the reader to normal navigation. */
+    fun dismissScriptureQueue() {
+        scriptureQueueRepo.dismiss()
     }
 
     fun setFontSize(sp: Float) {

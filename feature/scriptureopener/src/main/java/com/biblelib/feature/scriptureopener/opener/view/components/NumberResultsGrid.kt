@@ -2,6 +2,7 @@ package com.biblelib.feature.scriptureopener.opener.view.components
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.heightIn
@@ -28,23 +29,26 @@ fun ChapterResultsGrid(
     onSelect: (ChapterEntity) -> Unit,
     modifier: Modifier = Modifier,
 ) {
-    Surface(
-        modifier = modifier.fillMaxWidth(),
-        color = MaterialTheme.colorScheme.surface,
-        tonalElevation = 4.dp,
-        shape = RoundedCornerShape(10.dp),
-    ) {
-        LazyVerticalGrid(
-            columns = GridCells.Fixed(4),
-            modifier = Modifier.heightIn(max = 280.dp),
-            contentPadding = PaddingValues(6.dp),
+    Column(modifier = modifier.fillMaxWidth()) {
+        FieldPointerArrow(fieldIndex = FIELD_INDEX_CHAPTER)
+        Surface(
+            modifier = Modifier.fillMaxWidth(),
+            color = MaterialTheme.colorScheme.surface,
+            tonalElevation = 4.dp,
+            shape = RoundedCornerShape(10.dp),
         ) {
-            items(chapters, key = { it.id }) { chapter ->
-                NumberCell(
-                    label = chapter.number,
-                    isSelected = chapter.id == selectedChapterId,
-                    onClick = { onSelect(chapter) },
-                )
+            LazyVerticalGrid(
+                columns = GridCells.Fixed(5),
+                modifier = Modifier.heightIn(max = 280.dp),
+                contentPadding = PaddingValues(6.dp),
+            ) {
+                items(chapters, key = { it.id }) { chapter ->
+                    NumberCell(
+                        label = chapter.number,
+                        isSelected = chapter.id == selectedChapterId,
+                        onClick = { onSelect(chapter) },
+                    )
+                }
             }
         }
     }
@@ -57,24 +61,27 @@ fun VerseResultsGrid(
     onSelect: (Int) -> Unit,
     modifier: Modifier = Modifier,
 ) {
-    Surface(
-        modifier = modifier.fillMaxWidth(),
-        color = MaterialTheme.colorScheme.surface,
-        tonalElevation = 4.dp,
-        shape = RoundedCornerShape(10.dp),
-    ) {
-        LazyVerticalGrid(
-            columns = GridCells.Fixed(4),
-            modifier = Modifier.heightIn(max = 280.dp),
-            contentPadding = PaddingValues(6.dp),
+    Column(modifier = modifier.fillMaxWidth()) {
+        FieldPointerArrow(fieldIndex = FIELD_INDEX_VERSE)
+        Surface(
+            modifier = Modifier.fillMaxWidth(),
+            color = MaterialTheme.colorScheme.surface,
+            tonalElevation = 4.dp,
+            shape = RoundedCornerShape(10.dp),
         ) {
-            items(verseCount) { index ->
-                val number = index + 1
-                NumberCell(
-                    label = number.toString(),
-                    isSelected = number == selectedVerseNumber,
-                    onClick = { onSelect(number) },
-                )
+            LazyVerticalGrid(
+                columns = GridCells.Fixed(5),
+                modifier = Modifier.heightIn(max = 280.dp),
+                contentPadding = PaddingValues(6.dp),
+            ) {
+                items(verseCount) { index ->
+                    val number = index + 1
+                    NumberCell(
+                        label = number.toString(),
+                        isSelected = number == selectedVerseNumber,
+                        onClick = { onSelect(number) },
+                    )
+                }
             }
         }
     }

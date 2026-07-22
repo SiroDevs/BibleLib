@@ -28,11 +28,13 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.database.model.BookEntity
@@ -69,21 +71,24 @@ fun ScriptureSearch(
                 label = "Book",
                 value = row.bookLabel,
                 enabled = true,
-                modifier = Modifier.weight(1.3f),
+                isActive = row.expanded == ExpandedField.BOOK,
+                modifier = Modifier.weight(FIELD_WEIGHTS[FIELD_INDEX_BOOK]),
                 onClick = { onToggleField(ExpandedField.BOOK) },
             )
             ScriptureField(
                 label = "Chapter",
                 value = row.chapterLabel,
                 enabled = row.canExpandChapter,
-                modifier = Modifier.weight(1f),
+                isActive = row.expanded == ExpandedField.CHAPTER,
+                modifier = Modifier.weight(FIELD_WEIGHTS[FIELD_INDEX_CHAPTER]),
                 onClick = { onToggleField(ExpandedField.CHAPTER) },
             )
             ScriptureField(
                 label = "Verse",
                 value = row.verseLabel,
                 enabled = row.canExpandVerse,
-                modifier = Modifier.weight(1f),
+                isActive = row.expanded == ExpandedField.VERSE,
+                modifier = Modifier.weight(FIELD_WEIGHTS[FIELD_INDEX_VERSE]),
                 onClick = { onToggleField(ExpandedField.VERSE) },
             )
         }
@@ -144,6 +149,7 @@ private fun ScriptureField(
     label: String,
     value: String,
     enabled: Boolean,
+    isActive: Boolean,
     onClick: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
@@ -155,6 +161,15 @@ private fun ScriptureField(
             enabled = enabled,
             singleLine = true,
             label = { Text(label) },
+            colors = OutlinedTextFieldDefaults.colors(
+                unfocusedContainerColor = if (isActive) MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.4f) else Color.Transparent,
+                disabledContainerColor = if (isActive) MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.4f) else Color.Transparent,
+                unfocusedBorderColor = if (isActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.outline,
+                disabledBorderColor = if (isActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.outline.copy(alpha = 0.5f),
+                unfocusedLabelColor = if (isActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant,
+                disabledLabelColor = if (isActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.7f),
+                disabledTextColor = MaterialTheme.colorScheme.onSurface,
+            ),
             modifier = Modifier.fillMaxWidth(),
         )
         if (enabled) {

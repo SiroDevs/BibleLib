@@ -7,6 +7,8 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
@@ -14,6 +16,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.snapshotFlow
@@ -33,6 +36,7 @@ import com.biblelib.feature.reader.main.view.components.BibleSelectorSheet
 import com.biblelib.feature.reader.main.view.components.BookDrawer
 import com.biblelib.feature.reader.main.view.components.BookmarkOptionsDialog
 import com.biblelib.feature.reader.main.view.components.ChapterSheet
+import com.biblelib.feature.reader.main.view.components.FloatingScriptureQueue
 import com.biblelib.feature.reader.main.view.components.HighlightColorPickerDialog
 import com.biblelib.feature.reader.main.view.components.QuickSettingsDialog
 import com.biblelib.feature.reader.main.view.components.ReaderBottomBar
@@ -43,6 +47,7 @@ import com.biblelib.feature.reader.main.view.components.VerseList
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -68,6 +73,8 @@ fun ReaderScreen(
     val listState = rememberLazyListState()
     val resolvedFontFamily = AppFontFamilies.byId(state.fontFamilyId).family
     val resolvedBackground = AppReaderBackgrounds.byId(state.readerBackgroundId)
+    val snackbarHostState = remember { SnackbarHostState() }
+    val coroutineScope = rememberCoroutineScope()
 
     LaunchedEffect(state.activeChapter?.id, state.verses) {
         val target = state.restoreVerseId
@@ -116,6 +123,7 @@ fun ReaderScreen(
     }
 
     Scaffold(
+        snackbarHost = { SnackbarHost(snackbarHostState) },
         topBar = {
             if (state.isSelectionMode) {
                 ReaderSelectionTopBar(
@@ -128,27 +136,44 @@ fun ReaderScreen(
                     state = state,
                     onBibleClick = { showBibleSelector = true },
                     onBookClick = { showBookDrawer = true },
+                    bookSwitchEnabled = !state.isScriptureModeActive,
+                    onBookSwitchBlocked = {
+                        coroutineScope.launch {
+                            snackbarHostState.showSnackbar(
+                                "Finish or dismiss the scripture list to switch books"
+                            )
+                        }
+                    },
                 )
             }
         },
         bottomBar = {
-            ReaderBottomBar(
-                navController = navController,
-                viewModel = viewModel,
-                hasPrev = run {
-                    val chapters = state.chapters
-                    val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
-                    idx > 0
-                },
-                hasNext = run {
-                    val chapters = state.chapters
-                    val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
-                    idx < chapters.size - 1
-                },
-                chapterRef = state.activeChapter?.reference ?: "",
-                onChapterList = { showChapterSheet = true },
-                onQuickSettings = { showQuickSettings = true },
-            )
+            if (state.isScriptureModeActive) {
+                FloatingScriptureQueue(
+                    items = state.queueItems,
+                    activeItemId = state.queueActiveItemId,
+                    onItemClick = viewModel::jumpToQueueItem,
+                    onDismiss = viewModel::dismissScriptureQueue,
+                )
+            } else {
+                ReaderBottomBar(
+                    navController = navController,
+                    viewModel = viewModel,
+                    hasPrev = run {
+                        val chapters = state.chapters
+                        val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
+                        idx > 0
+                    },
+                    hasNext = run {
+                        val chapters = state.chapters
+                        val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
+                        idx < chapters.size - 1
+                    },
+                    chapterRef = state.activeChapter?.reference ?: "",
+                    onChapterList = { showChapterSheet = true },
+                    onQuickSettings = { showQuickSettings = true },
+                )
+            }
         },
     ) { padding ->
         Box(

@@ -4,6 +4,7 @@ import com.biblelib.core.common.entity.VerseDisplay
 import com.biblelib.core.database.model.BibleEntity
 import com.biblelib.core.database.model.BookEntity
 import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.core.database.model.ScriptureItemEntity
 
 data class NotesNavRequest(
     val bibleAbbr: String,
@@ -41,6 +42,10 @@ data class ReaderUiState(
     val notesNavRequest: NotesNavRequest? = null,
 
     val downloadProgress: Map<String, Float> = emptyMap(),
+
+    val queueItems: List<ScriptureItemEntity> = emptyList(),
+    val queueActiveItemId: Long? = null,
 ) {
     val isSelectionMode: Boolean get() = selectedVerseIds.isNotEmpty()
+    val isScriptureModeActive: Boolean get() = queueItems.size > 1
 }

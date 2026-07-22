@@ -37,6 +37,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.platform.LocalLocale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
@@ -54,6 +55,8 @@ fun ReaderTopBar(
     state: ReaderUiState,
     onBibleClick: () -> Unit,
     onBookClick: () -> Unit,
+    bookSwitchEnabled: Boolean = true,
+    onBookSwitchBlocked: () -> Unit = {},
 ) {
     var showMoreMenu by remember { mutableStateOf(false) }
 
@@ -76,7 +79,8 @@ fun ReaderTopBar(
                 Row(
                     horizontalArrangement = Arrangement.Center,
                     modifier = Modifier
-                        .clickable { onBookClick() }
+                        .alpha(if (bookSwitchEnabled) 1f else 0.5f)
+                        .clickable { if (bookSwitchEnabled) onBookClick() else onBookSwitchBlocked() }
                         .padding(horizontal = 5.dp)
                 ) {
                     Icon(Icons.Default.MenuBook, null, modifier = Modifier.size(25.dp))

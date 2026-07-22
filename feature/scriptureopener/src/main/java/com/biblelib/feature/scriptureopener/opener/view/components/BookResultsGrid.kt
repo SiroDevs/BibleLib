@@ -4,6 +4,7 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.heightIn
@@ -42,47 +43,69 @@ fun BookResultsGrid(
     val ntRows = remember(newTestament) { newTestament.chunked(2) }
     val rowCount = maxOf(otRows.size, ntRows.size)
 
-    Surface(
-        modifier = modifier.fillMaxWidth(),
-        color = MaterialTheme.colorScheme.surface,
-        tonalElevation = 4.dp,
-        shape = RoundedCornerShape(10.dp),
-    ) {
-        LazyColumn(modifier = Modifier.heightIn(max = 320.dp)) {
-            stickyHeader {
-                Row(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .background(MaterialTheme.colorScheme.surface)
-                        .padding(vertical = 8.dp)
-                ) {
-                    Text(
-                        text = "Old Testament",
-                        modifier = Modifier.weight(1f),
-                        textAlign = TextAlign.Center,
-                        style = MaterialTheme.typography.labelLarge,
-                        fontWeight = FontWeight.Bold,
-                        color = MaterialTheme.colorScheme.primary,
-                    )
-                    Text(
-                        text = "New Testament",
-                        modifier = Modifier.weight(1f),
-                        textAlign = TextAlign.Center,
-                        style = MaterialTheme.typography.labelLarge,
-                        fontWeight = FontWeight.Bold,
-                        color = MaterialTheme.colorScheme.primary,
-                    )
+    val otShade = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.18f)
+    val ntShade = MaterialTheme.colorScheme.tertiaryContainer.copy(alpha = 0.18f)
+
+    Column(modifier = modifier.fillMaxWidth()) {
+        FieldPointerArrow(fieldIndex = FIELD_INDEX_BOOK)
+
+        Surface(
+            modifier = Modifier.fillMaxWidth(),
+            color = MaterialTheme.colorScheme.surface,
+            tonalElevation = 4.dp,
+            shape = RoundedCornerShape(10.dp),
+        ) {
+            LazyColumn(modifier = Modifier.heightIn(max = 320.dp)) {
+                stickyHeader {
+                    Column {
+                        Row(modifier = Modifier.fillMaxWidth()) {
+                            Box(
+                                modifier = Modifier
+                                    .weight(2f)
+                                    .background(otShade)
+                                    .padding(vertical = 8.dp),
+                                contentAlignment = Alignment.Center,
+                            ) {
+                                Text(
+                                    text = "Old Testament",
+                                    textAlign = TextAlign.Center,
+                                    style = MaterialTheme.typography.labelLarge,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.primary,
+                                )
+                            }
+                            Box(
+                                modifier = Modifier
+                                    .weight(2f)
+                                    .background(ntShade)
+                                    .padding(vertical = 8.dp),
+                                contentAlignment = Alignment.Center,
+                            ) {
+                                Text(
+                                    text = "New Testament",
+                                    textAlign = TextAlign.Center,
+                                    style = MaterialTheme.typography.labelLarge,
+                                    fontWeight = FontWeight.Bold,
+                                    color = MaterialTheme.colorScheme.tertiary,
+                                )
+                            }
+                        }
+                        HorizontalDivider(thickness = 0.5.dp)
+                    }
                 }
-                HorizontalDivider(thickness = 0.5.dp)
-            }
-            items(rowCount) { rowIndex ->
-                Row(modifier = Modifier.fillMaxWidth()) {
-                    val otPair = otRows.getOrNull(rowIndex)
-                    BookCell(otPair?.getOrNull(0), selectedBookId, onSelect, Modifier.weight(1f))
-                    BookCell(otPair?.getOrNull(1), selectedBookId, onSelect, Modifier.weight(1f))
-                    val ntPair = ntRows.getOrNull(rowIndex)
-                    BookCell(ntPair?.getOrNull(0), selectedBookId, onSelect, Modifier.weight(1f))
-                    BookCell(ntPair?.getOrNull(1), selectedBookId, onSelect, Modifier.weight(1f))
+                items(rowCount) { rowIndex ->
+                    Row(modifier = Modifier.fillMaxWidth()) {
+                        val otPair = otRows.getOrNull(rowIndex)
+                        Row(modifier = Modifier.weight(2f).background(otShade)) {
+                            BookCell(otPair?.getOrNull(0), selectedBookId, onSelect, Modifier.weight(1f))
+                            BookCell(otPair?.getOrNull(1), selectedBookId, onSelect, Modifier.weight(1f))
+                        }
+                        val ntPair = ntRows.getOrNull(rowIndex)
+                        Row(modifier = Modifier.weight(2f).background(ntShade)) {
+                            BookCell(ntPair?.getOrNull(0), selectedBookId, onSelect, Modifier.weight(1f))
+                            BookCell(ntPair?.getOrNull(1), selectedBookId, onSelect, Modifier.weight(1f))
+                        }
+                    }
                 }
             }
         }
