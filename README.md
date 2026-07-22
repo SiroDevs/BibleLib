@@ -1,26 +1,49 @@
-# BibleLib
+# BibleLib: Multi-Bible Reader
 
-An offline-first Bible app with dozens of translations you can read side by side, search instantly, and tune to how you read. It supports real use—bookmarks, notes, reading history, and even queue scriptures ahead of time for a sermon, study, or devotion, saved as a reusable list.
+A clean, offline-first Bible reader built for focused study. Explore a number of translations side by side, search instantly, personalize your reading experience, and keep everything organized with bookmarks, notes, reading history, and reusable scripture lists for sermons, studies, or personal devotions.
 
 ---
 
 ## Features
 
-- **Multiple Bible translations** — browse and download translations from the BibleLib content API,
-  one at a time
-- **Offline reading** — once a translation is downloaded, its books, chapters, and verses are stored
-  locally in Room and read entirely without internet access
-- **Chapter reader** — book drawer and chapter navigation bar for quick jumps, with a page-curl
-  swipe effect between chapters
-- **Full-text search** — search verse text across a downloaded translation
-- **Reading history** — automatically records recently read chapters and recent search queries,
-  viewable and clearable from the History screen
-- **Adjustable font size and theme** — light / dark / system theme, with a configurable reading font
-  size
-- **Background downloads** — new translations download via WorkManager with a foreground progress
-  notification, so the UI stays responsive
-- **Crash and performance monitoring** — Sentry integration (breadcrumbs, performance traces, and
-  optional screenshot/view-hierarchy capture on crash)
+📖 READ YOUR WAY
+- Download multiple Bible translations and switch between them freely
+- Parallel reading — view your primary translation alongside up to 5 secondary
+  translations side by side
+- Jump between books and chapters with a simple, fast navigator
+- Your last-read verse is remembered automatically so you always pick up
+  where you left off
+
+🔍 FIND ANY VERSE FAST
+- Full-text search across your downloaded Bible
+- Recent searches saved for quick access
+- Look up a specific reference directly — book, chapter, and verse — with
+  quick-open shortcuts
+- Save frequently used passages into custom scripture lists you can reopen
+  anytime, and queue up several passages to read through in one sitting
+
+🖍️ BOOKMARKS, HIGHLIGHTS & NOTES
+- Tap to select one or more verses and highlight them in a color of your
+  choice
+- Bookmark verses for quick recall
+- Attach personal notes to any verse
+- Browse and manage all your bookmarks and notes in one place
+
+🕘 HISTORY
+- Automatic reading history, grouped by date, so you can retrace your steps
+- Full search history alongside your reading history
+
+🎨 MAKE IT YOURS
+- 10 reader background themes, from soft parchment and sepia tones to
+  dark options like Night, Charcoal, and Forest
+- Multiple font choices
+- Adjustable font size for comfortable reading at any distance
+
+📶 BUILT FOR OFFLINE USE
+- Download a Bible once, then read, search, and study without an internet
+  connection
+- Download progress, retry, and re-download controls if a download is
+  interrupted
 
 ---
 
