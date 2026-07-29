@@ -23,8 +23,8 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 5
-        versionName = "1.0.5"
+        versionCode = 6
+        versionName = "1.0.6"
         minSdk = 26
         targetSdk = 37
 
@@ -55,6 +55,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("release")
         }
     }
 
