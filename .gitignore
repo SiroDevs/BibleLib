@@ -1,6 +1,5 @@
 # built application files
 *.apk
-*.zip
 *.ap_
 
 # files for the dex VM
@@ -8,6 +7,8 @@
 
 # Java class files
 *.class
+*.zip
+*.bin
 
 # generated files
 bin/
@@ -15,6 +16,7 @@ gen/
 out/
 build/
 generated/
+.wakatime-project
 
 # Ignore all build directories at any level
 **/build/
