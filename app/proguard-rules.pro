@@ -20,6 +20,30 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
+ # Retrofit/Gson need generic type (Signature) metadata at runtime to know
+ # what to deserialize suspend-function return types into. Without this,
+ # R8 full mode strips it and Gson silently returns raw LinkedTreeMap
+ # instances instead of your DTOs -> ClassCastException in release only.
+ -keepattributes Signature
+ -keepattributes Exceptions
+ -keepattributes InnerClasses,EnclosingMethod
+ -keepattributes RuntimeVisibleAnnotations,RuntimeVisibleParameterAnnotations
+ -keepattributes AnnotationDefault
+
+ # Gson-specific: keep type adapters/factories and the streaming classes it
+ # reaches via reflection.
+ -keep class com.google.gson.stream.** { *; }
+ -keep class * implements com.google.gson.TypeAdapterFactory
+ -keep class * implements com.google.gson.JsonSerializer
+ -keep class * implements com.google.gson.JsonDeserializer
+ -keep,allowobfuscation,allowshrinking class com.google.gson.reflect.TypeToken
+ -keep,allowobfuscation,allowshrinking class * extends com.google.gson.reflect.TypeToken
+
+ # Keep your network DTOs intact (fields + no-arg access) so Gson's field-name
+ # matching survives obfuscation.
+ -keep class com.biblelib.core.network.dtos.** { *; }
+ -keepclassmembers class com.biblelib.core.network.dtos.** { *; }
+
  # With R8 full mode generic signatures are stripped for classes that are not
  # kept. Suspend functions are wrapped in continuations where the type argument
  # is used.
