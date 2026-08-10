@@ -1,0 +1,306 @@
+{
+  "id": "JON.3",
+  "number": "3",
+  "bookId": "JON",
+  "reference": "Jona 3",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JON 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jona Gũthiĩ Nineve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ndũmĩrĩri ya Jehova ĩgĩkinyĩra Jona hĩndĩ ya keerĩ, akĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.1",
+            "verseOrgIds": [
+              "JON.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũkĩra, ũthiĩ itũũra rĩrĩa inene rĩa Nineve, na ũrĩhunjĩrie ũhoro ũrĩa ngũkwĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.2",
+            "verseOrgIds": [
+              "JON.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jona agĩathĩkĩra ndũmĩrĩri ya Jehova, agĩthiĩ Nineve. Na rĩrĩ, Nineve rĩarĩ itũũra inene na rĩa bata mũno. Kũrĩthiũrũrũka rĩothe kũngĩaninire mĩthenya ĩtatũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.3",
+            "verseOrgIds": [
+              "JON.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya wa mbere Jona akĩambĩrĩria gũtoonya itũũra rĩu. Akĩanĩrĩra, akiuga atĩrĩ, “Gwatigia mĩthenya mĩrongo ĩna Nineve kũharaganio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.4",
+            "verseOrgIds": [
+              "JON.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ a Nineve magĩĩtĩkia Ngai. Makĩanĩrĩra kũgĩe na ihinda rĩa kwĩhinga kũrĩa irio, nao othe makĩĩhumba nguo cia makũnia, kuuma ũrĩa mũnene mũno o nginya ũrĩa mũnini mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.5",
+            "verseOrgIds": [
+              "JON.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa mũthamaki wa kũu Nineve aakinyĩirwo nĩ ũhoro ũcio-rĩ, agĩũkĩra akiuma gĩtĩ-inĩ gĩake kĩa ũnene, akĩruta nguo ciake cia ũthamaki, akĩĩhumba nguo ya ikũnia, na agĩikara thĩ rũkũngũ-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.6",
+            "verseOrgIds": [
+              "JON.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ akĩanĩrĩrithia ũhoro ũyũ kũu Nineve: “Kuumana na uuge wa mũthamaki na andũ ake arĩa marĩ igweta:\n“Mũtikareke mũndũ o wothe, kana nyamũ cia rũũru rwa ngʼombe kana rwa mbũri, irũme kĩndũ; itikarekwo irĩe kana inyue.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.7",
+            "verseOrgIds": [
+              "JON.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, andũ nĩmehumbe nguo cia makũnia o nacio nyamũ nĩihumbwo makũnia. O mũndũ nĩakaĩre Ngai narua. Andũ nĩmatige mĩthiĩre yao mĩũru na ngũĩ ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.8",
+            "verseOrgIds": [
+              "JON.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nũũ ũngĩmenya kana Ngai aahota kwĩricũkwo, aigue tha atigane na marakara make mahiũ nĩgeetha tũtikaniinwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.9",
+            "verseOrgIds": [
+              "JON.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa Ngai onire ũrĩa meekire, na ũrĩa maagarũrũkĩte magatiga mĩthiĩre yao mĩũru-rĩ, akĩmaiguĩra tha akĩaga kũmaniina ta ũrĩa oigĩte nĩekũmaniina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.3.10",
+            "verseOrgIds": [
+              "JON.3.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.4",
+    "number": "4",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.2",
+    "number": "2",
+    "bookId": "JON"
+  }
+}

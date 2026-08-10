@@ -1,0 +1,590 @@
+{
+  "id": "PSA.1",
+  "number": "1",
+  "bookId": "PSA",
+  "reference": "Psalm 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PSA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms1"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "sc"
+          },
+          "items": [
+            {
+              "text": "Book I",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "mr"
+      },
+      "items": [
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "PSA.1-PSA.41"
+          },
+          "items": [
+            {
+              "text": "Psalms 1–41",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed is the one",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:1"
+      },
+      "items": [
+        {
+          "text": "who does not walk in step with the wicked",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 1:1"
+      },
+      "items": [
+        {
+          "text": "or stand in the way that sinners take",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:1"
+      },
+      "items": [
+        {
+          "text": "or sit in the company of mockers,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but whose delight is in the law of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.2",
+                "verseOrgIds": [
+                  "PSA.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:2"
+      },
+      "items": [
+        {
+          "text": "and who meditates on his law day and night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That person is like a tree planted by streams of water,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:3"
+      },
+      "items": [
+        {
+          "text": "which yields its fruit in season",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 1:3"
+      },
+      "items": [
+        {
+          "text": "and whose leaf does not wither—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:3"
+      },
+      "items": [
+        {
+          "text": "whatever they do prospers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Not so the wicked!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:4"
+      },
+      "items": [
+        {
+          "text": "They are like chaff",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:4"
+      },
+      "items": [
+        {
+          "text": "that the wind blows away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore the wicked will not stand in the judgment,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.5",
+            "verseOrgIds": [
+              "PSA.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:5"
+      },
+      "items": [
+        {
+          "text": "nor sinners in the assembly of the righteous.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.5",
+            "verseOrgIds": [
+              "PSA.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.6",
+            "verseOrgIds": [
+              "PSA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.6",
+                "verseOrgIds": [
+                  "PSA.1.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "watches over the way of the righteous,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.6",
+            "verseOrgIds": [
+              "PSA.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 1:6"
+      },
+      "items": [
+        {
+          "text": "but the way of the wicked leads to destruction.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.6",
+            "verseOrgIds": [
+              "PSA.1.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.intro",
+    "number": "intro",
+    "bookId": "PSA"
+  }
+}

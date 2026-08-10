@@ -1,0 +1,381 @@
+{
+  "id": "1CO.5",
+  "number": "5",
+  "bookId": "1CO",
+  "reference": "1 Akorinitho 5",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1CO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ingatai Mũndũ ũcio Gĩtharia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ma ndeto nĩiraario atĩ thĩinĩ wanyu kũrĩ na ũtharia, na nĩ ũtharia mũthemba ũrĩa ũtangĩoneka o na kũrĩ andũ arĩa matetĩkĩtie Ngai: Naguo nĩ atĩ ũmwe wanyu nĩakomete na mũtumia wa ithe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.1",
+            "verseOrgIds": [
+              "1CO.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na inyuĩ mũgakenera ũndũ ũcio! Githĩ mũtiagĩrĩirwo nĩgũkorwo mũiyũrĩtwo nĩ kĩeha, nĩguo mũndũ ũcio wĩkĩte ũguo mũmũingate, ehere ngwatanĩro-inĩ yanyu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.2",
+            "verseOrgIds": [
+              "1CO.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na ndakorwo ndirĩ hamwe na inyuĩ kũu, ndĩ hamwe na inyuĩ thĩinĩ wa roho, na nĩndĩkĩtie gũtuĩra mũndũ ũcio wĩkĩte ũguo ciira, o ta ndĩ hamwe na inyuĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.3",
+            "verseOrgIds": [
+              "1CO.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa mũrĩkorwo mũnganĩte thĩinĩ wa rĩĩtwa rĩa Mwathani witũ Jesũ, na niĩ ndĩ hamwe na inyuĩ thĩinĩ wa roho, o na hinya wa Mwathani witũ Jesũ ũrĩ ho-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.4",
+            "verseOrgIds": [
+              "1CO.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mũndũ ũcio mũneanei kũrĩ Shaitani, nĩgeetha mehia make ma kĩĩmwĩrĩ maniinwo, naguo roho wake ũkaahonokio mũthenya ũrĩa wa Mwathani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.5",
+            "verseOrgIds": [
+              "1CO.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwĩgaatho ũcio wanyu ti mwega. Kaĩ inyuĩ mũtooĩ atĩ ndawa nini ya kũimbia mĩgate nĩĩtũmaga kĩmere gĩothe kĩimbe?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.6",
+            "verseOrgIds": [
+              "1CO.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eheriai ndawa ĩyo ya kũimbia mĩgate ĩrĩa ya tene biũ nĩguo mũtuĩke kĩmere kĩerũ gĩtarĩ na ndawa ya kũimbia, tondũ ũguo nĩguo mũtariĩ. Nĩgũkorwo Kristũ, o we gatũrũme gaitũ ka Bathaka, nĩarĩkĩtie kũrutwo igongona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.7",
+            "verseOrgIds": [
+              "1CO.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio-rĩ, nĩtũkũngũĩre Gĩathĩ, ti na ndawa ĩyo ya tene ya kũimbia mĩgate, ĩyo ya rũmena na ya waganu, no tũkũngũĩre na mũgate ũtarĩ na ndawa ya kũimbia, o guo mũgate wa wĩhokeku na wa ũhoro wa ma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.8",
+            "verseOrgIds": [
+              "1CO.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩndĩmwandĩkĩire marũa-inĩ makwa ngamwĩra mũtigage kũgĩaga thiritũ na andũ arĩa ahũũri maraya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.9",
+            "verseOrgIds": [
+              "1CO.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CO 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ũguo ti kuuga mweheranĩre na andũ a thĩ ĩno, arĩa ahũũri maraya, kana arĩa akoroku, kana arĩa atunyani, o na kana arĩa ahooi mĩhianano. Mũngĩĩka ũguo-rĩ, no mũkiumire gũkũ thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.10",
+            "verseOrgIds": [
+              "1CO.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CO 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩu, ndĩramwandĩkĩra nĩguo mũtikagĩe thiritũ na mũndũ o na ũrĩkũ ũrĩa wĩĩtaga mũrũ kana mwarĩ wa Ithe witũ, no nĩ mũhũũri maraya, kana nĩ mũkoroku, kana nĩ mũhooi mĩhianano kana nĩ mũndũ wa gũcambania, o na kana nĩ mũrĩĩu wa njoohi kana nĩ mũtunyani. Mũndũ ta ũcio mũtikarĩĩanĩre nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.11",
+            "verseOrgIds": [
+              "1CO.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CO 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũkĩrĩ wĩra wakwa gũciirithia arĩa matarĩ a kanitha? Githĩ inyuĩ mũtikĩagĩrĩirwo nĩgũciirithia arĩa marĩ a kanitha?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.12",
+            "verseOrgIds": [
+              "1CO.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CO 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nĩwe ũgaaciirithia arĩa marĩ nja. “Ingatai mũndũ ũcio mwaganu oime thĩinĩ wanyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.5.13",
+            "verseOrgIds": [
+              "1CO.5.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.6",
+    "number": "6",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.4",
+    "number": "4",
+    "bookId": "1CO"
+  }
+}

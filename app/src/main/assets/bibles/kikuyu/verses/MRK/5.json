@@ -1,0 +1,1153 @@
+{
+  "id": "MRK.5",
+  "number": "5",
+  "bookId": "MRK",
+  "reference": "Mariko 5",
+  "verseCount": 43,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MRK 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũhonio kwa Mũndũ warĩ na Ndaimono",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesũ na arutwo ake magĩkinya mũrĩmo ũũrĩa ũngĩ wa iria, magĩthiĩ bũrũri wa Agerasi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.1",
+            "verseOrgIds": [
+              "MRK.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Jesũ aarĩkia kuuma gatarũ-inĩ, agĩtũngwo nĩ mũndũ warĩ na ngoma thũku oimĩte mbĩrĩra-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.2",
+            "verseOrgIds": [
+              "MRK.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MRK 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio aatũũraga kũu mbĩrĩra-inĩ, na gũtirĩ mũndũ ũngĩahotire kũmuoha na kĩndũ, o na mũnyororo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.3",
+            "verseOrgIds": [
+              "MRK.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MRK 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo nĩohagwo kaingĩ na mĩnyororo moko na magũrũ, no akamĩtuanga icunjĩ na akoinanga igera iria ciamuohaga magũrũ. Na gũtirĩ mũndũ warĩ na hinya wa kũmũhooreria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.4",
+            "verseOrgIds": [
+              "MRK.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aatũũraga akayaga ũtukũ na mũthenya, kũu mbĩrĩra-inĩ na irĩma-inĩ agĩĩtemangaga na mahiga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.5",
+            "verseOrgIds": [
+              "MRK.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MRK 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa oonire Jesũ arĩ o haraaya akĩhanyũka, akĩĩgũithia thĩ mbere yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.6",
+            "verseOrgIds": [
+              "MRK.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MRK 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩanĩrĩra na mũgambo mũnene, akiuga atĩrĩ, “Ũrenda atĩa na niĩ, wee Jesũ, Mũrũ wa Ngai-Ũrĩa-Ũrĩ-Igũrũ-Mũno? Ndagũthaitha na Ngai ndũkaanyariire!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.7",
+            "verseOrgIds": [
+              "MRK.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo Jesũ aamwĩrĩte atĩrĩ, “Wee ngoma ĩno thũku uma thĩinĩ wa mũndũ ũyũ!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.8",
+            "verseOrgIds": [
+              "MRK.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesũ agĩcooka akĩmũũria atĩrĩ, “Wĩtagwo atĩa?” Nake akĩmũcookeria atĩrĩ, “Njĩtagwo Legioni, nĩgũkorwo tũrĩ aingĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.9",
+            "verseOrgIds": [
+              "MRK.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake agĩkĩrĩrĩria gũthaitha Jesũ mũno ndagacingate ciume bũrũri ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.10",
+            "verseOrgIds": [
+              "MRK.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, haarĩ na rũũru rũnene rwa ngũrwe rwarĩĩaga harũrũka-inĩ cia kĩrĩma kĩarĩ hakuhĩ na hau.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.11",
+            "verseOrgIds": [
+              "MRK.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaimono icio igĩthaitha Jesũ, ikĩmwĩra atĩrĩ, “Twĩtĩkĩrie tũthiĩ kũrĩ ngũrwe iria, tũtoonye thĩinĩ wacio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.12",
+            "verseOrgIds": [
+              "MRK.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake agĩciĩtĩkĩria. Nacio ndaimono icio ikiuma igĩthiĩ igĩtoonya thĩinĩ wa ngũrwe. Rũũru rũu ruothe rwa mũigana wa ngũrwe ngiri igĩrĩ, rũkĩharũrũka kĩhurũrũka-inĩ na ihenya rũgĩtoonya iria-inĩ, rũkĩũrĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.13",
+            "verseOrgIds": [
+              "MRK.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arĩa maarĩithagia ngũrwe icio makĩũra, magĩthiĩ kũheana ũhoro ũcio itũũra-inĩ na mĩgũnda-inĩ, nao andũ magĩũka kuona ũrĩa gwekĩkĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.14",
+            "verseOrgIds": [
+              "MRK.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa mookire harĩ Jesũ, makĩona mũndũ ũrĩa warĩ na Legioni ya ndaimono aikarĩte thĩ hau, ehumbĩte nguo na arĩ na meciiria mega; nao magĩĩtigĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.15",
+            "verseOrgIds": [
+              "MRK.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ arĩa moonete ũndũ ũcio ũgĩĩkwo makĩĩra andũ acio angĩ maũndũ marĩa mekĩkire kũrĩ mũndũ ũcio waiyũrĩtwo nĩ ndaimono, o na makĩmahe ũhoro wa ngũrwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.16",
+            "verseOrgIds": [
+              "MRK.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ acio makĩambĩrĩria gũthaitha Jesũ oime bũrũri ũcio wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.17",
+            "verseOrgIds": [
+              "MRK.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Jesũ aatoonyaga gatarũ, mũndũ ũcio warutĩtwo ndaimono agĩthaitha Jesũ etĩkĩre mathiĩ nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.18",
+            "verseOrgIds": [
+              "MRK.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jesũ akĩmũgiria, akĩmwĩra atĩrĩ, “Inũka mũciĩ kũrĩ andũ anyu, ũmeere ũrĩa wothe Mwathani agwĩkĩire, o na ũrĩa akũiguĩrĩire tha.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.19",
+            "verseOrgIds": [
+              "MRK.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, mũndũ ũcio agĩthiĩ akĩambĩrĩria kũheana ũhoro kũu Dekapoli wa maũndũ marĩa mothe Jesũ aamwĩkĩire. Nao andũ othe makĩgega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.20",
+            "verseOrgIds": [
+              "MRK.5.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kairĩtu Gaakuĩte na Mũtumia warĩ Mũrũaru",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ aarĩkia kũringa rĩngĩ na gatarũ na aakinya mũrĩmo ũrĩa ũngĩ wa iria, kĩrĩndĩ kĩingĩ gĩkĩũngana harĩ we o hau aarĩ hũgũrũrũ-inĩ cia iria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.21",
+            "verseOrgIds": [
+              "MRK.5.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hĩndĩ o ĩyo mũnene ũmwe wa thunagogi wetagwo Jairũ agĩũka hau. Oona Jesũ, akĩĩgũithia thĩ magũrũ-inĩ make",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.22",
+            "verseOrgIds": [
+              "MRK.5.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 5:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akĩmũthaitha mũno, akĩmwĩra atĩrĩ, “Kairĩtu gakwa gakirie gũkua. Ndagũthaitha ũũke, ũgakaigĩrĩre moko nĩgeetha kahone, gatũũre muoyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.23",
+            "verseOrgIds": [
+              "MRK.5.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Jesũ agĩthiĩ nake. Nakĩo kĩrĩndĩ kĩnene gĩkĩmũrũmĩrĩra, na gĩkamũhatĩkaga na mĩena yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.24",
+            "verseOrgIds": [
+              "MRK.5.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, hau nĩ haarĩ na mũtumia watũire oiraga thakame mĩaka ikũmi na ĩĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.25",
+            "verseOrgIds": [
+              "MRK.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩathĩĩnĩkĩte mũno agĩthondekwo nĩ mandagĩtarĩ aingĩ, na akahũthĩra kĩrĩa gĩothe aakoretwo nakĩo, no handũ ha kũhona aakĩragĩrĩria o kwĩhĩrwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.26",
+            "verseOrgIds": [
+              "MRK.5.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa aiguire ũhoro wa Jesũ, agĩũka na thuutha wake gatagatĩ-inĩ ga kĩrĩndĩ, akĩhutia nguo yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.27",
+            "verseOrgIds": [
+              "MRK.5.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 5:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "tondũ eeciiririe atĩrĩ, “Ingĩhutia nguo ciake, no hone.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.28",
+            "verseOrgIds": [
+              "MRK.5.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 5:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O rĩmwe agĩtiga kuura, na akĩigua nĩehererio thĩĩna mwĩrĩ-inĩ wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.29",
+            "verseOrgIds": [
+              "MRK.5.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 5:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ o rĩmwe akĩigua atĩ hinya nĩwoima harĩ we. Akĩĩhũgũrĩra kĩrĩndĩ kĩu akĩũria atĩrĩ, “Nũũ ũcio wahutia nguo ciakwa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.30",
+            "verseOrgIds": [
+              "MRK.5.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 5:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao arutwo ake makĩmũcookeria atĩrĩ, “Woria ‘Nũũ wahutia?’ ũkĩonaga ũrĩa andũ aya marakũhatĩka?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.31",
+            "verseOrgIds": [
+              "MRK.5.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 5:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jesũ akĩroranga one nũũ wamũhutĩtie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.32",
+            "verseOrgIds": [
+              "MRK.5.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 5:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio, aamenya ũrĩa eekĩtwo, agĩũka, akĩĩgũithia magũrũ-inĩ make akĩinainaga nĩ guoya, akĩmũhe ũhoro wothe ũrĩa watariĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.33",
+            "verseOrgIds": [
+              "MRK.5.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 5:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmwĩra atĩrĩ, “Mwarĩ ũyũ, wĩtĩkio waku nĩguo watũma ũhone; thiĩ na thayũ na ũhone mũrimũ waku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.34",
+            "verseOrgIds": [
+              "MRK.5.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 5:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O hĩndĩ ĩyo Jesũ akĩaragia-rĩ, hagĩũka andũ moimĩte kwa Jairũ ũrĩa warĩ mũnene wa thunagogi, makĩmwĩra atĩrĩ, “Mwarĩguo nĩakua. Ũgũgĩthĩĩnia mũrutani rĩngĩ nĩkĩ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.35",
+            "verseOrgIds": [
+              "MRK.5.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 5:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩaga gũthikĩrĩria ũguo moigaga, akĩĩra mũnene ũcio wa thunagogi atĩrĩ, “Wee ĩtĩkia na ndũgetigĩre.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.36",
+            "verseOrgIds": [
+              "MRK.5.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 5:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesũ ndetĩkĩririe mũndũ o na ũrĩkũ amũrũmĩrĩre, o tiga Petero na Jakubu na Johana mũrũ wa nyina na Jakubu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.37",
+            "verseOrgIds": [
+              "MRK.5.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 5:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na maakinya mũciĩ kwa mũnene ũcio wa thunagogi, Jesũ akĩona andũ magagaĩte makĩrĩraga na makiugagĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.38",
+            "verseOrgIds": [
+              "MRK.5.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 5:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agĩtoonya thĩinĩ akĩmeera atĩrĩ, “Kĩagago gĩkĩ gĩothe na kĩrĩro nĩ cia kĩ? Mwana ti mũkuũ, no nĩ gũkoma akomete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.39",
+            "verseOrgIds": [
+              "MRK.5.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 5:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makĩmũthekerera. Na thuutha wa kũmoimia nja othe, akĩoya ithe na nyina wa mwana na arutwo arĩa aarĩ nao magĩtoonya harĩa mwana ũcio aarĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.40",
+            "verseOrgIds": [
+              "MRK.5.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 5:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩnyiita mwana guoko, akĩmwĩra atĩrĩ, “Talitha kumi!” (naguo wataũrwo nĩ ta kuuga, “Kairĩtu gaka, ndakwĩra atĩrĩ, ũkĩra!”)",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.41",
+            "verseOrgIds": [
+              "MRK.5.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 5:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O rĩmwe kairĩtu kau gagĩũkĩra, gakĩambĩrĩria gũthiĩ (nako kaarĩ na ũkũrũ wa mĩaka ikũmi na ĩĩrĩ). Nao mona ũguo makĩgega mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.42",
+            "verseOrgIds": [
+              "MRK.5.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 5:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmakaania mũno matikareke mũndũ o na ũrĩkũ amenye ũhoro ũcio, na akĩmeera makahe kĩndũ gĩa kũrĩa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.5.43",
+            "verseOrgIds": [
+              "MRK.5.43"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.6",
+    "number": "6",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.4",
+    "number": "4",
+    "bookId": "MRK"
+  }
+}

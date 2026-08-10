@@ -1,0 +1,749 @@
+{
+  "id": "PSA.85",
+  "number": "85",
+  "bookId": "PSA",
+  "reference": "Psalms 85",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "85",
+        "style": "c",
+        "sid": "PSA 85"
+      },
+      "items": [
+        {
+          "text": "85",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, A Psalm for the sons of Korah.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 85:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.1",
+                "verseOrgIds": [
+                  "PSA.85.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.1",
+            "verseOrgIds": [
+              "PSA.85.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 85:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.2",
+            "verseOrgIds": [
+              "PSA.85.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 85:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou hast taken away all thy wrath: thou hast turned",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.3",
+            "verseOrgIds": [
+              "PSA.85.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thyself",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.3",
+                "verseOrgIds": [
+                  "PSA.85.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "from the fierceness of thine anger.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.3",
+            "verseOrgIds": [
+              "PSA.85.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 85:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.4",
+            "verseOrgIds": [
+              "PSA.85.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 85:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.5",
+            "verseOrgIds": [
+              "PSA.85.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 85:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wilt thou not revive us again: that thy people may rejoice in thee?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.6",
+            "verseOrgIds": [
+              "PSA.85.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 85:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shew us thy mercy, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.7",
+            "verseOrgIds": [
+              "PSA.85.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.7",
+                "verseOrgIds": [
+                  "PSA.85.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and grant us thy salvation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.7",
+            "verseOrgIds": [
+              "PSA.85.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 85:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will hear what God the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.8",
+            "verseOrgIds": [
+              "PSA.85.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.8",
+                "verseOrgIds": [
+                  "PSA.85.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.8",
+            "verseOrgIds": [
+              "PSA.85.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 85:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely his salvation",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.9",
+            "verseOrgIds": [
+              "PSA.85.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.9",
+                "verseOrgIds": [
+                  "PSA.85.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "nigh them that fear him; that glory may dwell in our land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.9",
+            "verseOrgIds": [
+              "PSA.85.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 85:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mercy and truth are met together; righteousness and peace have kissed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.10",
+            "verseOrgIds": [
+              "PSA.85.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "each other",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.10",
+                "verseOrgIds": [
+                  "PSA.85.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.10",
+            "verseOrgIds": [
+              "PSA.85.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 85:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.11",
+            "verseOrgIds": [
+              "PSA.85.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 85:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yea, the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.12",
+            "verseOrgIds": [
+              "PSA.85.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.12",
+                "verseOrgIds": [
+                  "PSA.85.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall give",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.12",
+            "verseOrgIds": [
+              "PSA.85.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that which is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.12",
+                "verseOrgIds": [
+                  "PSA.85.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good; and our land shall yield her increase.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.12",
+            "verseOrgIds": [
+              "PSA.85.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 85:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Righteousness shall go before him; and shall set",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.13",
+            "verseOrgIds": [
+              "PSA.85.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "us",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.85.13",
+                "verseOrgIds": [
+                  "PSA.85.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the way of his steps.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.85.13",
+            "verseOrgIds": [
+              "PSA.85.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.86",
+    "number": "86",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.84",
+    "number": "84",
+    "bookId": "PSA"
+  }
+}

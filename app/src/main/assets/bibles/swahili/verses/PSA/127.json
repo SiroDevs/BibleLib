@@ -1,0 +1,539 @@
+{
+  "id": "PSA.127",
+  "number": "127",
+  "bookId": "PSA",
+  "reference": "Zaburi 127",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "127",
+        "style": "c",
+        "sid": "PSA 127"
+      },
+      "items": [
+        {
+          "text": "127",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 127",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bila Mungu, Kazi Ya Mwanadamu Haifai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu. Wa Solomoni.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 127:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.127.1",
+                "verseOrgIds": [
+                  "PSA.127.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "asipoijenga nyumba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.1",
+            "verseOrgIds": [
+              "PSA.127.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:1"
+      },
+      "items": [
+        {
+          "text": "wajengao hufanya kazi bure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.1",
+            "verseOrgIds": [
+              "PSA.127.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 127:1"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.127.1",
+                "verseOrgIds": [
+                  "PSA.127.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "asipoulinda mji,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.1",
+            "verseOrgIds": [
+              "PSA.127.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:1"
+      },
+      "items": [
+        {
+          "text": "walinzi wakesha bure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.1",
+            "verseOrgIds": [
+              "PSA.127.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 127:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mnajisumbua bure kuamka mapema",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.2",
+            "verseOrgIds": [
+              "PSA.127.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:2"
+      },
+      "items": [
+        {
+          "text": "na kuchelewa kulala,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.2",
+            "verseOrgIds": [
+              "PSA.127.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 127:2"
+      },
+      "items": [
+        {
+          "text": "mkitaabikia chakula:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.2",
+            "verseOrgIds": [
+              "PSA.127.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:2"
+      },
+      "items": [
+        {
+          "text": "kwa maana yeye huwapa usingizi wapenzi wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.2",
+            "verseOrgIds": [
+              "PSA.127.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 127:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wana ni urithi utokao kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.3",
+            "verseOrgIds": [
+              "PSA.127.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.127.3",
+                "verseOrgIds": [
+                  "PSA.127.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.3",
+            "verseOrgIds": [
+              "PSA.127.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:3"
+      },
+      "items": [
+        {
+          "text": "watoto ni zawadi kutoka kwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.3",
+            "verseOrgIds": [
+              "PSA.127.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 127:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama mishale mikononi mwa shujaa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.4",
+            "verseOrgIds": [
+              "PSA.127.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:4"
+      },
+      "items": [
+        {
+          "text": "ndivyo walivyo wana awazaao mtu katika ujana wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.4",
+            "verseOrgIds": [
+              "PSA.127.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 127:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heri mtu ambaye podo lake",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.5",
+            "verseOrgIds": [
+              "PSA.127.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:5"
+      },
+      "items": [
+        {
+          "text": "limejazwa nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.5",
+            "verseOrgIds": [
+              "PSA.127.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 127:5"
+      },
+      "items": [
+        {
+          "text": "Hawataaibishwa wanaposhindana",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.5",
+            "verseOrgIds": [
+              "PSA.127.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 127:5"
+      },
+      "items": [
+        {
+          "text": "na adui zao langoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.127.5",
+            "verseOrgIds": [
+              "PSA.127.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.128",
+    "number": "128",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.126",
+    "number": "126",
+    "bookId": "PSA"
+  }
+}

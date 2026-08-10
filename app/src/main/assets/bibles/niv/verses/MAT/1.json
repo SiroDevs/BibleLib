@@ -1,0 +1,1448 @@
+{
+  "id": "MAT.1",
+  "number": "1",
+  "bookId": "MAT",
+  "reference": "Matt. 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The Genealogy of Jesus the Messiah",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "lh"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is the genealogy",
+          "type": "text"
+        },
+        {
+          "text": "of Jesus the Messiah",
+          "type": "text"
+        },
+        {
+          "text": "the son of David, the son of Abraham:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abraham was the father of Isaac,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.2",
+            "verseOrgIds": [
+              "MAT.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:2"
+      },
+      "items": [
+        {
+          "text": "Isaac the father of Jacob,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.2",
+            "verseOrgIds": [
+              "MAT.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:2"
+      },
+      "items": [
+        {
+          "text": "Jacob the father of Judah and his brothers,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.2",
+            "verseOrgIds": [
+              "MAT.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Judah the father of Perez and Zerah, whose mother was Tamar,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.3",
+            "verseOrgIds": [
+              "MAT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:3"
+      },
+      "items": [
+        {
+          "text": "Perez the father of Hezron,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.3",
+            "verseOrgIds": [
+              "MAT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:3"
+      },
+      "items": [
+        {
+          "text": "Hezron the father of Ram,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.3",
+            "verseOrgIds": [
+              "MAT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ram the father of Amminadab,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.4",
+            "verseOrgIds": [
+              "MAT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:4"
+      },
+      "items": [
+        {
+          "text": "Amminadab the father of Nahshon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.4",
+            "verseOrgIds": [
+              "MAT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:4"
+      },
+      "items": [
+        {
+          "text": "Nahshon the father of Salmon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.4",
+            "verseOrgIds": [
+              "MAT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Salmon the father of Boaz, whose mother was Rahab,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.5",
+            "verseOrgIds": [
+              "MAT.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:5"
+      },
+      "items": [
+        {
+          "text": "Boaz the father of Obed, whose mother was Ruth,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.5",
+            "verseOrgIds": [
+              "MAT.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:5"
+      },
+      "items": [
+        {
+          "text": "Obed the father of Jesse,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.5",
+            "verseOrgIds": [
+              "MAT.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and Jesse the father of King David.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.6",
+            "verseOrgIds": [
+              "MAT.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "MAT 1:6"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:6"
+      },
+      "items": [
+        {
+          "text": "David was the father of Solomon, whose mother had been Uriah's wife,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.6",
+            "verseOrgIds": [
+              "MAT.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomon the father of Rehoboam,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.7",
+            "verseOrgIds": [
+              "MAT.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:7"
+      },
+      "items": [
+        {
+          "text": "Rehoboam the father of Abijah,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.7",
+            "verseOrgIds": [
+              "MAT.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:7"
+      },
+      "items": [
+        {
+          "text": "Abijah the father of Asa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.7",
+            "verseOrgIds": [
+              "MAT.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Asa the father of Jehoshaphat,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.8",
+            "verseOrgIds": [
+              "MAT.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:8"
+      },
+      "items": [
+        {
+          "text": "Jehoshaphat the father of Jehoram,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.8",
+            "verseOrgIds": [
+              "MAT.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:8"
+      },
+      "items": [
+        {
+          "text": "Jehoram the father of Uzziah,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.8",
+            "verseOrgIds": [
+              "MAT.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uzziah the father of Jotham,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.9",
+            "verseOrgIds": [
+              "MAT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:9"
+      },
+      "items": [
+        {
+          "text": "Jotham the father of Ahaz,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.9",
+            "verseOrgIds": [
+              "MAT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:9"
+      },
+      "items": [
+        {
+          "text": "Ahaz the father of Hezekiah,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.9",
+            "verseOrgIds": [
+              "MAT.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hezekiah the father of Manasseh,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.10",
+            "verseOrgIds": [
+              "MAT.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:10"
+      },
+      "items": [
+        {
+          "text": "Manasseh the father of Amon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.10",
+            "verseOrgIds": [
+              "MAT.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:10"
+      },
+      "items": [
+        {
+          "text": "Amon the father of Josiah,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.10",
+            "verseOrgIds": [
+              "MAT.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and Josiah the father of Jeconiah",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.11",
+            "verseOrgIds": [
+              "MAT.1.11"
+            ]
+          }
+        },
+        {
+          "text": "and his brothers at the time of the exile to Babylon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.11",
+            "verseOrgIds": [
+              "MAT.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "lh"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "After the exile to Babylon:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:12"
+      },
+      "items": [
+        {
+          "text": "Jeconiah was the father of Shealtiel,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.12",
+            "verseOrgIds": [
+              "MAT.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:12"
+      },
+      "items": [
+        {
+          "text": "Shealtiel the father of Zerubbabel,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.12",
+            "verseOrgIds": [
+              "MAT.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zerubbabel the father of Abihud,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.13",
+            "verseOrgIds": [
+              "MAT.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:13"
+      },
+      "items": [
+        {
+          "text": "Abihud the father of Eliakim,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.13",
+            "verseOrgIds": [
+              "MAT.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:13"
+      },
+      "items": [
+        {
+          "text": "Eliakim the father of Azor,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.13",
+            "verseOrgIds": [
+              "MAT.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azor the father of Zadok,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.14",
+            "verseOrgIds": [
+              "MAT.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:14"
+      },
+      "items": [
+        {
+          "text": "Zadok the father of Akim,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.14",
+            "verseOrgIds": [
+              "MAT.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:14"
+      },
+      "items": [
+        {
+          "text": "Akim the father of Elihud,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.14",
+            "verseOrgIds": [
+              "MAT.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elihud the father of Eleazar,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.15",
+            "verseOrgIds": [
+              "MAT.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:15"
+      },
+      "items": [
+        {
+          "text": "Eleazar the father of Matthan,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.15",
+            "verseOrgIds": [
+              "MAT.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 1:15"
+      },
+      "items": [
+        {
+          "text": "Matthan the father of Jacob,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.15",
+            "verseOrgIds": [
+              "MAT.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and Jacob the father of Joseph, the husband of Mary, and Mary was the mother of Jesus who is called the Messiah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.16",
+            "verseOrgIds": [
+              "MAT.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "lf"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Joseph Accepts Jesus as His Son",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is how the birth of Jesus the Messiah came about",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.18",
+            "verseOrgIds": [
+              "MAT.1.18"
+            ]
+          }
+        },
+        {
+          "text": ": His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.18",
+            "verseOrgIds": [
+              "MAT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because Joseph her husband was faithful to the law, and yet",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.19",
+            "verseOrgIds": [
+              "MAT.1.19"
+            ]
+          }
+        },
+        {
+          "text": "did not want to expose her to public disgrace, he had in mind to divorce her quietly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.19",
+            "verseOrgIds": [
+              "MAT.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But after he had considered this, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.20",
+            "verseOrgIds": [
+              "MAT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She will give birth to a son, and you are to give him the name Jesus,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.21",
+            "verseOrgIds": [
+              "MAT.1.21"
+            ]
+          }
+        },
+        {
+          "text": "because he will save his people from their sins.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.21",
+            "verseOrgIds": [
+              "MAT.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All this took place to fulfill what the Lord had said through the prophet:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.22",
+            "verseOrgIds": [
+              "MAT.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"The virgin will conceive and give birth to a son, and they will call him Immanuel\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.23",
+            "verseOrgIds": [
+              "MAT.1.23"
+            ]
+          }
+        },
+        {
+          "text": "(which means \"God with us\").",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.23",
+            "verseOrgIds": [
+              "MAT.1.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.24",
+            "verseOrgIds": [
+              "MAT.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.1.25",
+            "verseOrgIds": [
+              "MAT.1.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.2",
+    "number": "2",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.intro",
+    "number": "intro",
+    "bookId": "MAT"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "PSA.46",
+  "number": "46",
+  "bookId": "PSA",
+  "reference": "Thaburi 46",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "46",
+        "style": "c",
+        "sid": "PSA 46"
+      },
+      "items": [
+        {
+          "text": "46",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngai arĩ Hamwe na Ithuĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 46:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.1",
+            "verseOrgIds": [
+              "PSA.46.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 46:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.2",
+            "verseOrgIds": [
+              "PSA.46.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 46:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.3",
+            "verseOrgIds": [
+              "PSA.46.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 46:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.4",
+            "verseOrgIds": [
+              "PSA.46.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 46:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.5",
+            "verseOrgIds": [
+              "PSA.46.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 46:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.6",
+            "verseOrgIds": [
+              "PSA.46.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 46:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.7",
+            "verseOrgIds": [
+              "PSA.46.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 46:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.8",
+            "verseOrgIds": [
+              "PSA.46.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 46:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.9",
+            "verseOrgIds": [
+              "PSA.46.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 46:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.10",
+            "verseOrgIds": [
+              "PSA.46.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 46:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.46.11",
+            "verseOrgIds": [
+              "PSA.46.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.47",
+    "number": "47",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.45",
+    "number": "45",
+    "bookId": "PSA"
+  }
+}

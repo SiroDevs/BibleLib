@@ -1,0 +1,418 @@
+{
+  "id": "JER.19",
+  "number": "19",
+  "bookId": "JER",
+  "reference": "Jeremia 19",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "19",
+        "style": "c",
+        "sid": "JER 19"
+      },
+      "items": [
+        {
+          "text": "19",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 19:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũũ nĩguo Jehova ekuuga: “Thiĩ ũgũre gatigithũ ka rĩũmba harĩ mũũmbi. Ũcooke woe athuuri amwe a kĩrĩndĩ na athĩnjĩri-Ngai amwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.1",
+            "verseOrgIds": [
+              "JER.19.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 19:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mumagare mũthiĩ Gĩtuamba-inĩ kĩa Beni-Hinomu, hakuhĩ na itoonyero rĩa Kĩhingo-kĩa-Ngĩo. Wakinya hau wanĩrĩre ũhoro ũrĩa ngũkwĩra,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.2",
+            "verseOrgIds": [
+              "JER.19.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 19:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "uuge atĩrĩ, ‘Ta iguai ndũmĩrĩri ya Jehova, inyuĩ athamaki a Juda, na andũ a Jerusalemu. Jehova Mwene-Hinya-Wothe, o we Ngai wa Isiraeli ekuuga atĩrĩ: Ta thikĩrĩriai! Nĩngũrehithia mwanangĩko kũndũ gũkũ ũrĩa ũgaatũma mũndũ o wothe ũrĩa ũkaũigua ararakwo nĩ matũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.3",
+            "verseOrgIds": [
+              "JER.19.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 19:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo nĩmandirikĩte na magatũma haha hatuĩke handũ ha ngai cia kũndũ kũngĩ; nĩmacinĩire magongona kũrĩ ngai iria o ene, kana maithe mao, o na kana athamaki a Juda matooĩ, na makaiyũria kũndũ gũkũ thakame ya andũ arĩa matarĩ ũũru mekĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.4",
+            "verseOrgIds": [
+              "JER.19.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JER 19:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩmakĩĩte kũndũ kũrĩa gũtũũgĩru gwa kũhooerwo Baali, na gwa gũcinagĩrwo ariũ ao na mwaki matuĩke maruta ma kũrutĩrwo Baali, ũndũ ũrĩa niĩ itaathanire wĩkagwo, kana ngĩũgweta, o na ũndũ ũtarĩ wagĩa meciiria-inĩ makwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.5",
+            "verseOrgIds": [
+              "JER.19.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JER 19:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, Jehova ekuuga atĩrĩ, Mwĩmenyererei, tondũ matukũ nĩmarooka rĩrĩa andũ matagacooka gwĩtaga kũndũ gũkũ Tofethi, kana Gĩtuamba kĩa Beni-Hinomu, no gũgeetagwo Gĩtuamba gĩa Kũũraganĩrwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.6",
+            "verseOrgIds": [
+              "JER.19.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JER 19:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Kũndũ gũkũ nĩkuo ngathũkĩria mĩbango yothe ya Juda na ya Jerusalemu. Nĩngatũma mooragwo na hiũ cia njora nĩ thũ ciao, moko-inĩ ma andũ arĩa mendaga kũmaruta muoyo, nacio ciimba ciao ndĩciheane ituĩke nyama cia kũrĩĩo nĩ nyoni cia rĩera-inĩ na nyamũ cia gĩthaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.7",
+            "verseOrgIds": [
+              "JER.19.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 19:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngananga itũũra rĩĩrĩ ndũme rĩtuĩke kũndũ gwa kũnyararwo; arĩa othe makaahĩtũkĩra kuo nĩmakagega na mamanyũrũrie moona ũrĩa nguraro ciao cingĩhĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.8",
+            "verseOrgIds": [
+              "JER.19.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 19:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngatũma marĩe nyama cia mĩĩrĩ ya ariũ na aarĩ ao, na o mũndũ arĩe nyama cia mwĩrĩ wa mũndũ ũrĩa ũngĩ hĩndĩ ĩrĩa magaakorwo marĩ na mĩnyamaro nĩ ũndũ wa gũthiũrũrũkĩrio nĩ thũ ciao iria ciendaga kũmaruta muoyo.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.9",
+            "verseOrgIds": [
+              "JER.19.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 19:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũcooke ũũrage gatigithũ kau, acio mũgaathiĩ nao makĩonaga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.10",
+            "verseOrgIds": [
+              "JER.19.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 19:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ũmeere atĩrĩ, ‘Jehova Mwene-Hinya-Wothe ekuuga atĩrĩ: Nĩngahehenja rũrĩrĩ rũrũ, o na itũũra rĩĩrĩ, o ta ũrĩa mũndũ oragaga nyũngũ ya mũũmbi na ndĩcookaga gũthondekeka ĩtuĩke ngʼima rĩngĩ. Magaathika arĩa makuĩte kũu Tofethi nginya kwage handũ ha gũthikanwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.11",
+            "verseOrgIds": [
+              "JER.19.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JER 19:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũguo nĩguo ngeeka kũndũ gũkũ, o na andũ arĩa matũũraga kuo, ũguo nĩguo Jehova ekuuga. Nĩngatũma itũũra rĩĩrĩ inene rĩhaane o ta Tofethi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.12",
+            "verseOrgIds": [
+              "JER.19.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JER 19:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyũmba iria irĩ Jerusalemu, o na cia athamaki a Juda nĩigathaahio o ta gũkũ Tofethi: nyũmba ciothe iria maacinĩire ũbumba igũrũ rĩacio, makĩũcinĩra mbũtũ ciothe cia njata, na magĩitagĩra ngai ingĩ maruta ma indo cia kũnyuuo.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.13",
+            "verseOrgIds": [
+              "JER.19.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JER 19:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jeremia agĩcooka akĩhũndũka kuuma Tofethi, o kũu Jehova aamũtũmĩte akarathĩre andũ ũhoro, nake akĩrũgama nja ya hekarũ ya Jehova, akĩĩra andũ othe atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.14",
+            "verseOrgIds": [
+              "JER.19.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JER 19:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Jehova Mwene-Hinya-Wothe, o Wee Ngai wa Isiraeli, ekuuga atĩrĩ, ‘Ta thikĩrĩriai! Nĩngũrehithĩria itũũra rĩĩrĩ inene, o na tũtũũra tũrĩa tũrĩrigiicĩirie tuothe mwanangĩko ũrĩa wothe ngwetete igũrũ rĩao, nĩ ũndũ nĩmoomirie ngingo, makĩaga gũthikĩrĩria ciugo ciakwa.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.19.15",
+            "verseOrgIds": [
+              "JER.19.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.20",
+    "number": "20",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.18",
+    "number": "18",
+    "bookId": "JER"
+  }
+}

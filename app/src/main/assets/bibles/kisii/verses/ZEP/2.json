@@ -1,0 +1,490 @@
+{
+  "id": "ZEP.2",
+  "number": "2",
+  "bookId": "ZEP",
+  "reference": "Sefania 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ZEP 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogokuurerwa gw’okoonchoka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEP 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe abanto b’egesaku getari korora obosooku, esangererie inwe abanyene, mweborie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.1",
+            "verseOrgIds": [
+              "ZEP.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEP 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekero aya achigetwe ataraikeranigwa, ekero rituko riria rirairurwe buna omoiriro okoirurwa na endamwamu entindi y’Omonene etarabachera, ee, ekero rituko ri’endamwamu y’Omonene ritarabachera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.2",
+            "verseOrgIds": [
+              "ZEP.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEP 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe mwensi abamore abaitongo ase ense eye, inwe abamobwatete amachiiko aye, morigie Omonene; rigia oboronge, rigia ay’obokanyeku. Ande nabo morabaise gokengerwa ase rituko riria ri’endamwamu y’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.3",
+            "verseOrgIds": [
+              "ZEP.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okogambigwa kw’ebisaku bietanaine Abaisraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEP 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omochie o Gasa nong’anyigwe, na oyo bw’Asikeloni notigwe ore bosa; abanto b’Asidodi nabaserigwe, na omochie bw’Ekironi notagorwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.4",
+            "verseOrgIds": [
+              "ZEP.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEP 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obobe nobwaino inwe abanto momenyete ase enyancha mbarabare inwe egesaku ki’Abakereti! Aye Kanaani, ense y’Abafilisti, ring’ana ri’Omonene nigo rire mamincha yao. “Ningosirie goika monto onde tatigara omenyete ime yao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.5",
+            "verseOrgIds": [
+              "ZEP.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEP 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ense eyio ere mbarabare y’enyancha nebe amarisio aase abarisia barabe namakuruma abo na ameri ’amaicho abo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.6",
+            "verseOrgIds": [
+              "ZEP.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEP 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ense eyio nebe egetari ki’abatigari b’Abayuda, nao barabe bakorisia chitugo chiabo na korara ase chinyomba chire agwo Asikeloni chingaki chia mogoroba. Omonene, Nyasae obo, nabainyore, abarusie ase obosibwa bwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.7",
+            "verseOrgIds": [
+              "ZEP.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEP 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naigure Abamoabu bagochecheria abanto baane na Abaamoni bakobarama na kobachecheria, naende buna bagwetogia ase ogotumana chimbebe chiabo, na gosoa ase ense yabo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.8",
+            "verseOrgIds": [
+              "ZEP.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEP 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio Omonene bw’Emeganda, Nyasae bw’Abaisraeli, nigo agoteeba iga: “Ekeene, buna inde moyo, ense ya Moabu nebe buna Sodomu, na ense y’Abaamoni nebe buna Gomora, ense ere namasa ne chingoro chire nomonyoo, aase agwo nabe agendererete gosareka botambe. Abatigari b’abaanto baane mbasakore abanto abwo, na abatooregete b’egesaku kiane mbaboose baabakore babe abasomba babo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.9",
+            "verseOrgIds": [
+              "ZEP.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEP 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okwo nakwo korabe ogoakanwa kwabo ase engencho y’oboenenu bwabo, ekiagera bachecheretie na gwetogia igoro y’abanto b’Omonene bw’Emeganda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.10",
+            "verseOrgIds": [
+              "ZEP.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEP 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nabaondokie. Nakore chinyasae chionsi chire ase ense eyio chibe bosa. Abanto b’echinse chi’ebisaku mbamosasime, kera oyomo aase aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.11",
+            "verseOrgIds": [
+              "ZEP.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEP 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nainwe Abaetiopia boigo inche Omonene nimbaite n’omoro one.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.12",
+            "verseOrgIds": [
+              "ZEP.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEP 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene narambore okoboko kwaye gochia sugusu asirie Abaasuri; nasirie na Ninawi obe bosa, na ayuomie obe erooro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.13",
+            "verseOrgIds": [
+              "ZEP.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEP 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aase agwo nabe ase amaicho e chitugo akorara, ne ching’iti chi’orosana ao ao; chinsoti ne ching’iti chinke chinga buna ebirongo nchimenye ase ebisure bi’emetobwa yaye; chinyakweumia nachieumie ase chitirisa, na ogosareka goike ase emeriibo ya bisieri inse, ekiagera emecharake y’amaagacho abo nesareke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.14",
+            "verseOrgIds": [
+              "ZEP.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEP 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyo noro omochie oria orenge nomogooko, omenyete n’obotoereru, orenge gwetogia, oteba: “Inche ninche inde bweka, na onde tari onga buna inche.” Naki omochie oyio osarigwe otigaire bosa, obeire aase ching’iti chi’orosana chigotimokera! Kera omonto oraete ang’e noro nigo arabugie omoororia ase ogokumia na gosamunsa amaboko aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEP.2.15",
+            "verseOrgIds": [
+              "ZEP.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEP.3",
+    "number": "3",
+    "bookId": "ZEP"
+  },
+  "previous": {
+    "id": "ZEP.1",
+    "number": "1",
+    "bookId": "ZEP"
+  }
+}

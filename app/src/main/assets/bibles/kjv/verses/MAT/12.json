@@ -1,0 +1,2537 @@
+{
+  "id": "MAT.12",
+  "number": "12",
+  "bookId": "MAT",
+  "reference": "Matthew 12",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 50,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "MAT 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.1",
+            "verseOrgIds": [
+              "MAT.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But when the Pharisees saw",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.2",
+            "verseOrgIds": [
+              "MAT.12.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.2",
+                "verseOrgIds": [
+                  "MAT.12.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.2",
+            "verseOrgIds": [
+              "MAT.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But he said unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.3",
+            "verseOrgIds": [
+              "MAT.12.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Have ye not read what David did, when he was an hungred, and they that were with him;",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.3",
+                "verseOrgIds": [
+                  "MAT.12.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.3",
+            "verseOrgIds": [
+              "MAT.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.4",
+                "verseOrgIds": [
+                  "MAT.12.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.4",
+            "verseOrgIds": [
+              "MAT.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.5",
+                "verseOrgIds": [
+                  "MAT.12.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.5",
+            "verseOrgIds": [
+              "MAT.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But I say unto you, That in this place is",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.6",
+                "verseOrgIds": [
+                  "MAT.12.6"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "one",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.6",
+                    "verseOrgIds": [
+                      "MAT.12.6"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "greater than the temple.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.6",
+                "verseOrgIds": [
+                  "MAT.12.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.6",
+            "verseOrgIds": [
+              "MAT.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But if ye had known what",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.7",
+                "verseOrgIds": [
+                  "MAT.12.7"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "this",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.7",
+                    "verseOrgIds": [
+                      "MAT.12.7"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.7",
+                "verseOrgIds": [
+                  "MAT.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.7",
+            "verseOrgIds": [
+              "MAT.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For the Son of man is Lord even of the sabbath day.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.8",
+                "verseOrgIds": [
+                  "MAT.12.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.8",
+            "verseOrgIds": [
+              "MAT.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when he was departed thence, he went into their synagogue:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.9",
+            "verseOrgIds": [
+              "MAT.12.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ And, behold, there was a man which had",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.10",
+            "verseOrgIds": [
+              "MAT.12.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.10",
+                "verseOrgIds": [
+                  "MAT.12.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.10",
+            "verseOrgIds": [
+              "MAT.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he said unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.11",
+            "verseOrgIds": [
+              "MAT.12.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.11",
+                "verseOrgIds": [
+                  "MAT.12.11"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "it",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.11",
+                    "verseOrgIds": [
+                      "MAT.12.11"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "out?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.11",
+                "verseOrgIds": [
+                  "MAT.12.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.11",
+            "verseOrgIds": [
+              "MAT.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.12",
+                "verseOrgIds": [
+                  "MAT.12.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.12",
+            "verseOrgIds": [
+              "MAT.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then saith he to the man,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.13",
+            "verseOrgIds": [
+              "MAT.12.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Stretch forth thine hand.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.13",
+                "verseOrgIds": [
+                  "MAT.12.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "And he stretched",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.13",
+            "verseOrgIds": [
+              "MAT.12.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.13",
+                "verseOrgIds": [
+                  "MAT.12.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "forth; and it was restored whole, like as the other.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.13",
+            "verseOrgIds": [
+              "MAT.12.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Then the Pharisees went out, and held a council against him, how they might destroy him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.14",
+            "verseOrgIds": [
+              "MAT.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But when Jesus knew",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.15",
+            "verseOrgIds": [
+              "MAT.12.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.15",
+                "verseOrgIds": [
+                  "MAT.12.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", he withdrew himself from thence: and great multitudes followed him, and he healed them all;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.15",
+            "verseOrgIds": [
+              "MAT.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And charged them that they should not make him known:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.16",
+            "verseOrgIds": [
+              "MAT.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.17",
+            "verseOrgIds": [
+              "MAT.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.18",
+            "verseOrgIds": [
+              "MAT.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.19",
+            "verseOrgIds": [
+              "MAT.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.20",
+            "verseOrgIds": [
+              "MAT.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And in his name shall the Gentiles trust.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.21",
+            "verseOrgIds": [
+              "MAT.12.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.22",
+            "verseOrgIds": [
+              "MAT.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And all the people were amazed, and said, Is not this the son of David?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.23",
+            "verseOrgIds": [
+              "MAT.12.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But when the Pharisees heard",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.24",
+            "verseOrgIds": [
+              "MAT.12.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.24",
+                "verseOrgIds": [
+                  "MAT.12.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", they said, This",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.24",
+            "verseOrgIds": [
+              "MAT.12.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "fellow",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.24",
+                "verseOrgIds": [
+                  "MAT.12.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "doth not cast out devils, but by Beelzebub the prince of the devils.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.24",
+            "verseOrgIds": [
+              "MAT.12.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 12:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And Jesus knew their thoughts, and said unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.25",
+            "verseOrgIds": [
+              "MAT.12.25"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.25",
+                "verseOrgIds": [
+                  "MAT.12.25"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.25",
+            "verseOrgIds": [
+              "MAT.12.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 12:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.26",
+                "verseOrgIds": [
+                  "MAT.12.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.26",
+            "verseOrgIds": [
+              "MAT.12.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 12:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And if I by Beelzebub cast out devils, by whom do your children cast",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.27",
+                "verseOrgIds": [
+                  "MAT.12.27"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "them",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.27",
+                    "verseOrgIds": [
+                      "MAT.12.27"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "out? therefore they shall be your judges.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.27",
+                "verseOrgIds": [
+                  "MAT.12.27"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.27",
+            "verseOrgIds": [
+              "MAT.12.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 12:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.28",
+                "verseOrgIds": [
+                  "MAT.12.28"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.28",
+            "verseOrgIds": [
+              "MAT.12.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MAT 12:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Or else how can one enter into a strong man's house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.29",
+                "verseOrgIds": [
+                  "MAT.12.29"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.29",
+            "verseOrgIds": [
+              "MAT.12.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MAT 12:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.30",
+                "verseOrgIds": [
+                  "MAT.12.30"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MAT 12:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "¶ Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.31",
+                "verseOrgIds": [
+                  "MAT.12.31"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "against",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.31",
+                    "verseOrgIds": [
+                      "MAT.12.31"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "the",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.31",
+                "verseOrgIds": [
+                  "MAT.12.31"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "Holy",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.31",
+                    "verseOrgIds": [
+                      "MAT.12.31"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "Ghost shall not be forgiven unto men.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.31",
+                "verseOrgIds": [
+                  "MAT.12.31"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.31",
+            "verseOrgIds": [
+              "MAT.12.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MAT 12:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.32",
+                "verseOrgIds": [
+                  "MAT.12.32"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "world",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.32",
+                    "verseOrgIds": [
+                      "MAT.12.32"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "to come.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.32",
+                "verseOrgIds": [
+                  "MAT.12.32"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.32",
+            "verseOrgIds": [
+              "MAT.12.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MAT 12:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.33",
+                "verseOrgIds": [
+                  "MAT.12.33"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "his",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.33",
+                    "verseOrgIds": [
+                      "MAT.12.33"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "fruit.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.33",
+                "verseOrgIds": [
+                  "MAT.12.33"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.33",
+            "verseOrgIds": [
+              "MAT.12.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MAT 12:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.34",
+                "verseOrgIds": [
+                  "MAT.12.34"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.34",
+            "verseOrgIds": [
+              "MAT.12.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MAT 12:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.35",
+                "verseOrgIds": [
+                  "MAT.12.35"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.35",
+            "verseOrgIds": [
+              "MAT.12.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MAT 12:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.36",
+                "verseOrgIds": [
+                  "MAT.12.36"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.36",
+            "verseOrgIds": [
+              "MAT.12.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MAT 12:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.37",
+                "verseOrgIds": [
+                  "MAT.12.37"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MAT 12:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.38",
+            "verseOrgIds": [
+              "MAT.12.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MAT 12:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But he answered and said unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.39",
+            "verseOrgIds": [
+              "MAT.12.39"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.39",
+                "verseOrgIds": [
+                  "MAT.12.39"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.39",
+            "verseOrgIds": [
+              "MAT.12.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MAT 12:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.40",
+                "verseOrgIds": [
+                  "MAT.12.40"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.40",
+            "verseOrgIds": [
+              "MAT.12.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MAT 12:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.41",
+                "verseOrgIds": [
+                  "MAT.12.41"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "is",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.41",
+                    "verseOrgIds": [
+                      "MAT.12.41"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "here.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.41",
+                "verseOrgIds": [
+                  "MAT.12.41"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.41",
+            "verseOrgIds": [
+              "MAT.12.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MAT 12:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.42",
+                "verseOrgIds": [
+                  "MAT.12.42"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "is",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.42",
+                    "verseOrgIds": [
+                      "MAT.12.42"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "here.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.42",
+                "verseOrgIds": [
+                  "MAT.12.42"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.42",
+            "verseOrgIds": [
+              "MAT.12.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MAT 12:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.43",
+                "verseOrgIds": [
+                  "MAT.12.43"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.43",
+            "verseOrgIds": [
+              "MAT.12.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MAT 12:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.44",
+                "verseOrgIds": [
+                  "MAT.12.44"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "it",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.44",
+                    "verseOrgIds": [
+                      "MAT.12.44"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "empty, swept, and garnished.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.44",
+                "verseOrgIds": [
+                  "MAT.12.44"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.44",
+            "verseOrgIds": [
+              "MAT.12.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MAT 12:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.45",
+                "verseOrgIds": [
+                  "MAT.12.45"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "state",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.12.45",
+                    "verseOrgIds": [
+                      "MAT.12.45"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "of that man is worse than the first. Even so shall it be also unto this wicked generation.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.45",
+                "verseOrgIds": [
+                  "MAT.12.45"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "MAT 12:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ While he yet talked to the people, behold,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.46",
+            "verseOrgIds": [
+              "MAT.12.46"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.46",
+                "verseOrgIds": [
+                  "MAT.12.46"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mother and his brethren stood without, desiring to speak with him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.46",
+            "verseOrgIds": [
+              "MAT.12.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "MAT 12:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.47",
+            "verseOrgIds": [
+              "MAT.12.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "MAT 12:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But he answered and said unto him that told him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.48",
+            "verseOrgIds": [
+              "MAT.12.48"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Who is my mother? and who are my brethren?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.48",
+                "verseOrgIds": [
+                  "MAT.12.48"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.48",
+            "verseOrgIds": [
+              "MAT.12.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "MAT 12:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he stretched forth his hand toward his disciples, and said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.49",
+            "verseOrgIds": [
+              "MAT.12.49"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Behold my mother and my brethren!",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.49",
+                "verseOrgIds": [
+                  "MAT.12.49"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.12.49",
+            "verseOrgIds": [
+              "MAT.12.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "MAT 12:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.12.50",
+                "verseOrgIds": [
+                  "MAT.12.50"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.13",
+    "number": "13",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.11",
+    "number": "11",
+    "bookId": "MAT"
+  }
+}

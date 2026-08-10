@@ -1,0 +1,561 @@
+{
+  "id": "PSA.101",
+  "number": "101",
+  "bookId": "PSA",
+  "reference": "Zaburi 101",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "101",
+        "style": "c",
+        "sid": "PSA 101"
+      },
+      "items": [
+        {
+          "text": "101",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omorwoti okoria eira",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogosaba gwa Daudi)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 101:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nintere igoro y’amaabera ao na oboronge bwao;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ningoterere aye Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 101:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo nganetie na korenda enchera y’oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.2",
+            "verseOrgIds": [
+              "PSA.101.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Inee! Ndiriri orache ase ’nde?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.2",
+            "verseOrgIds": [
+              "PSA.101.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nigo nganetie imbe norogendo ororonge ase enyomba yane imenyete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.2",
+            "verseOrgIds": [
+              "PSA.101.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 101:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tinkobeeka ase obosio bwane ing’ana rinde rionsi ri’obobe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.3",
+            "verseOrgIds": [
+              "PSA.101.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo ngechete ogokora kw’abaanto bagotiga obwegenwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.3",
+            "verseOrgIds": [
+              "PSA.101.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tinkonyara kobwatwa ne chingencho chiabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.3",
+            "verseOrgIds": [
+              "PSA.101.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 101:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimbeere aare korwa ase abwo bare ne chinkoro chi’obokorekanu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.4",
+            "verseOrgIds": [
+              "PSA.101.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ring’ana rinde rionsi ri’obobe ribe aare nainche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.4",
+            "verseOrgIds": [
+              "PSA.101.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 101:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninsirie omonto okona‐gokwana bobe omonto onde bobisi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.5",
+            "verseOrgIds": [
+              "PSA.101.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tinkoremereria omonto omoenenu na omweanchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.5",
+            "verseOrgIds": [
+              "PSA.101.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 101:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amaiso aane narigereretie abegenwa bare ase ense,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo mbamenye amo nainche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Omonto okobwatia chinchera chi’oboronge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oyio nabe ogonkorera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 101:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto okwenaria obong’ainereria takomenya ase enyomba yane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.7",
+            "verseOrgIds": [
+              "PSA.101.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oyo ogoteeba oborimo takobeera ase obosio bwane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.7",
+            "verseOrgIds": [
+              "PSA.101.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 101:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera emambia nimbe ngosiria abakori amabe bonsi abare ase ense,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.8",
+            "verseOrgIds": [
+              "PSA.101.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nindusie abakori ebibe bonsi korwa ase omochie O’ Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.8",
+            "verseOrgIds": [
+              "PSA.101.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.102",
+    "number": "102",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  }
+}

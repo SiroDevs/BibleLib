@@ -1,0 +1,1472 @@
+{
+  "id": "JHN.4",
+  "number": "4",
+  "bookId": "JHN",
+  "reference": "Johana 4",
+  "verseCount": 54,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JHN 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jesũ Kwaria na Mũtumia Mũsamaria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JHN 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afarisai nĩmaiguire atĩ Jesũ nĩagĩĩaga na arutwo aingĩ gũkĩra Johana na akamabatithia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.1",
+            "verseOrgIds": [
+              "JHN.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JHN 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o na gũtuĩka, ti Jesũ wabatithanagia, no nĩ arutwo ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.2",
+            "verseOrgIds": [
+              "JHN.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JHN 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa Mwathani aamenyire ũhoro ũcio, akiuma Judea na agĩcooka Galili o rĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.3",
+            "verseOrgIds": [
+              "JHN.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JHN 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, no nginya angĩatuĩkanĩirie bũrũri wa Samaria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.4",
+            "verseOrgIds": [
+              "JHN.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JHN 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, agĩkinya itũũra rĩarĩ Samaria rĩetagwo Sukaru, hakuhĩ na gĩthaka kĩrĩa Jakubu aaheete mũriũ Jusufu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.5",
+            "verseOrgIds": [
+              "JHN.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JHN 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakĩo gĩthima kĩa Jakubu nĩkuo kĩarĩ, nake Jesũ, tondũ wa kũnoga nĩ rũgendo, agĩikara thĩ hau gĩthima-inĩ. Na kwarĩ ta thaa thita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.6",
+            "verseOrgIds": [
+              "JHN.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JHN 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa mũtumia ũmwe Mũsamaria okire gũtaha maaĩ-rĩ, Jesũ akĩmũũria atĩrĩ, “No ũũhe maaĩ ma kũnyua?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.7",
+            "verseOrgIds": [
+              "JHN.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JHN 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Hĩndĩ ĩyo arutwo ake nĩmathiĩte kũgũra irio itũũra-inĩ.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.8",
+            "verseOrgIds": [
+              "JHN.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JHN 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio Mũsamaria akĩmwĩra atĩrĩ, “Wee ũrĩ Mũyahudi na niĩ ndĩ mũtumia Mũsamaria. Ũngĩkĩĩhooya gĩa kũnyua atĩa?” (Nĩgũkorwo Ayahudi matirĩ ngwatanĩro na Asamaria.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.9",
+            "verseOrgIds": [
+              "JHN.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JHN 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmũcookeria atĩrĩ, “Korwo nĩũũĩ kĩheo kĩa Ngai na ũkamenya nũũ ũrakũhooya maaĩ ma kũnyua, wee nĩwe ũngĩamũhooya nake nĩangĩakũhe maaĩ ma muoyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.10",
+            "verseOrgIds": [
+              "JHN.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JHN 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio akĩmwĩra atĩrĩ, “Mũthuuri ũyũ, ndũrĩ na kĩndũ gĩa gũtaha maaĩ nakĩo, na gĩthima gĩkĩ nĩ kĩriku. Ũngĩkĩruta kũ maaĩ macio ma muoyo?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.11",
+            "verseOrgIds": [
+              "JHN.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JHN 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anga ũkĩrĩ mũnene gũkĩra ithe witũ Jakubu ũrĩa watũheire gĩthima gĩkĩ, na we mwene aatũũrĩte anyuuaga maaĩ kuuma kĩo o hamwe na ariũ ake na ndũũru ciake cia mbũri na cia ngʼombe?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.12",
+            "verseOrgIds": [
+              "JHN.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JHN 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmũcookeria atĩrĩ, “Mũndũ o wothe ũnyuuaga maaĩ maya nĩanyootaga rĩngĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.13",
+            "verseOrgIds": [
+              "JHN.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JHN 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no ũrĩa wothe ũkũnyua maaĩ marĩa ngaamũhe ndarĩ hĩndĩ akaanyoota. Ti-itherũ, maaĩ marĩa ngũmũhe megũtuĩka gĩthima kĩa maaĩ thĩinĩ wake, gĩtherũkage muoyo wa tene na tene.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.14",
+            "verseOrgIds": [
+              "JHN.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JHN 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio akĩmwĩra atĩrĩ, “Mũthuuri ũyũ, he maaĩ macio nĩguo ndikananyoote rĩngĩ, na ndige gũũkaga haha gũtaha maaĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.15",
+            "verseOrgIds": [
+              "JHN.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JHN 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmwĩra atĩrĩ, “Thiĩ wĩte mũthuuriguo mũũke nake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.16",
+            "verseOrgIds": [
+              "JHN.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JHN 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio akĩmũcookeria atĩrĩ, “Niĩ ndirĩ na mũthuuri.” Nake Jesũ akĩmwĩra atĩrĩ, “Nĩ waria ma rĩrĩa woiga atĩ ndũrĩ na mũthuuri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.17",
+            "verseOrgIds": [
+              "JHN.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JHN 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro wa ma nĩ atĩ ũkoretwo ũrĩ na athuuri atano, na mũndũ mũrũme ũrĩa ũrĩ nake rĩu ti mũthuuriguo.Ũguo woiga nĩ ũhoro wa ma.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.18",
+            "verseOrgIds": [
+              "JHN.4.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JHN 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio akĩmwĩra atĩrĩ, “Mũthuuri ũyũ, nĩndĩrona atĩ wee ũrĩ mũnabii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.19",
+            "verseOrgIds": [
+              "JHN.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JHN 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maithe maitũ maahooyagĩra Ngai kĩrĩma-inĩ gĩkĩ, no inyuĩ Ayahudi muugaga atĩ Jerusalemu nokuo kũndũ kũrĩa twagĩrĩirwo nĩkũhooyagĩra Ngai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.20",
+            "verseOrgIds": [
+              "JHN.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JHN 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akiuga atĩrĩ, “Mũtumia ũyũ, njĩtĩkia, kũrĩ ihinda rĩroka rĩrĩa mũtakaahooyagĩra Baba kĩrĩma-inĩ gĩkĩ o na kana Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.21",
+            "verseOrgIds": [
+              "JHN.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JHN 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inyuĩ Asamaria mũhooyaga kĩrĩa mũtooĩ; no ithuĩ tũhooyaga kĩrĩa tũũĩ, nĩgũkorwo ũhonokio uumĩte kũrĩ Ayahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.22",
+            "verseOrgIds": [
+              "JHN.4.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JHN 4:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No ihinda nĩrĩroka na rĩu nĩrĩkinyu, rĩrĩa arĩa mahooyaga na ma makaahooyaga Baba na roho, na mamũhooyage na ma, nĩgũkorwo nĩ andũ ta acio Baba acaragia a kũmũhooyaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.23",
+            "verseOrgIds": [
+              "JHN.4.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JHN 4:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nĩ roho, nao arĩa mamũhooyaga no nginya mamũhooyage na roho, na mamũhooyage na ma.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.24",
+            "verseOrgIds": [
+              "JHN.4.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JHN 4:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia ũcio akĩmwĩra atĩrĩ, “Nĩnjũũĩ atĩ Mesia” (ũrĩa wĩtagwo Kristũ) “nĩarooka. Hĩndĩ ĩrĩa agooka nĩagatũtaarĩria maũndũ mothe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.25",
+            "verseOrgIds": [
+              "JHN.4.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JHN 4:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akiuga atĩrĩ, “Niĩ ndĩrakwarĩria nĩ niĩ we.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.26",
+            "verseOrgIds": [
+              "JHN.4.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Arutwo Gũcooka harĩ Jesũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JHN 4:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ihinda-inĩ rĩu arutwo ake magĩũka, na makĩgega maakora akĩaranĩria na mũtumia. No gũtirĩ o na ũmwe woririe atĩrĩ, “Nĩ kĩĩ ũrenda?” kana akĩũria, “Ũraaranĩria nake nĩkĩ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.27",
+            "verseOrgIds": [
+              "JHN.4.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JHN 4:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O hĩndĩ ĩyo mũtumia ũcio agĩtiga ndigithũ yake ya maaĩ, agĩcooka itũũra-inĩ, akĩĩra andũ atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.28",
+            "verseOrgIds": [
+              "JHN.4.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JHN 4:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũkai, mũkone mũndũ wanjĩĩra maũndũ marĩa mothe ndaaneka. Ũcio no akorwo nĩwe Kristũ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.29",
+            "verseOrgIds": [
+              "JHN.4.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JHN 4:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makiuma kũu itũũra-inĩ, magĩthiĩ harĩa Jesũ aarĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.30",
+            "verseOrgIds": [
+              "JHN.4.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JHN 4:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũira wa makinye, arutwo ake makĩmũringĩrĩria makĩmwĩra atĩrĩ, “Rabii, rĩa irio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.31",
+            "verseOrgIds": [
+              "JHN.4.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JHN 4:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nowe akĩmeera atĩrĩ, “Ndĩ na irio cia kũrĩa, iria mũtarĩ ũndũ wacio mũũĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.32",
+            "verseOrgIds": [
+              "JHN.4.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JHN 4:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao arutwo ake makĩũrania atĩrĩ, “Kaĩ hihi harĩ mũndũ ũmũreheire irio?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.33",
+            "verseOrgIds": [
+              "JHN.4.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JHN 4:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akiuga atĩrĩ, “Irio ciakwa nĩ gwĩka wendi wa ũrĩa wandũmire na kũrĩĩkia wĩra wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.34",
+            "verseOrgIds": [
+              "JHN.4.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "JHN 4:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Githĩ mũtiugaga atĩ, ‘Nĩ mĩeri ĩna ĩtigarĩte magetha makinye’? Ngũmwĩra atĩrĩ, hingũrai maitho manyu muone mĩgũnda! Magetha nĩmakinyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.35",
+            "verseOrgIds": [
+              "JHN.4.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "JHN 4:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na rĩu mũgethi nĩagĩĩaga na mũcaara wake, o na nĩagethaga magetha ma muoyo wa tene na tene, nĩgeetha mũhaandi na mũgethi makenanĩre hamwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.36",
+            "verseOrgIds": [
+              "JHN.4.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "JHN 4:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amu nĩ ũhoro wa ma ũrĩa uugaga atĩ, ‘Ũmwe ahaandaga, nake ũngĩ akagetha.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.37",
+            "verseOrgIds": [
+              "JHN.4.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "JHN 4:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ ndaamũtũmire mũkagethe kĩrĩa mũtarutĩire wĩra. Angĩ nĩo marutĩte wĩra mũritũ, na inyuĩ mũkagetha uumithio wa wĩra wao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.38",
+            "verseOrgIds": [
+              "JHN.4.38"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Asamaria Aingĩ Gwĩtĩkia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "JHN 4:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Asamaria aingĩ kuuma itũũra rĩu makĩmwĩtĩkia nĩ ũndũ wa ũira wa mũtumia ũcio, tondũ nĩameerire atĩrĩ, “Nĩanjĩĩrire maũndũ marĩa mothe ndaneeka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.39",
+            "verseOrgIds": [
+              "JHN.4.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "JHN 4:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, hĩndĩ ĩrĩa Asamaria mokire kũrĩ Jesũ, makĩmũringĩrĩria aikaranie nao, nake agĩikara mĩthenya ĩĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.40",
+            "verseOrgIds": [
+              "JHN.4.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "JHN 4:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na tondũ wa ciugo ciake, andũ angĩ aingĩ magĩĩtĩkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.41",
+            "verseOrgIds": [
+              "JHN.4.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "JHN 4:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magĩkĩĩra mũtumia ũcio atĩrĩ, “Ithuĩ tũtiretĩkia no ũndũ wa ũrĩa ũratwĩrire; rĩu nĩtwĩiguĩrĩire ithuĩ ene na tũkamenya atĩ mũndũ ũyũ ti-itherũ nĩwe Mũhonokia wa kĩrĩndĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.42",
+            "verseOrgIds": [
+              "JHN.4.42"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jesũ Kũhonia Mwana wa Mũnene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "JHN 4:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa mĩthenya ĩyo ĩĩrĩ, akiumagara agĩthiĩ Galili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.43",
+            "verseOrgIds": [
+              "JHN.4.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "JHN 4:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Amu Jesũ we mwene nĩoigĩte atĩ mũnabii ndatĩĩagwo bũrũri-inĩ wake mwene.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.44",
+            "verseOrgIds": [
+              "JHN.4.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "JHN 4:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa aakinyire Galili, andũ a Galili makĩmũnyiita ũgeni. Nĩmonete ũrĩa wothe ekĩte Jerusalemu hĩndĩ ya Gĩathĩ gĩa Bathaka, nĩgũkorwo o nao maarĩ kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.45",
+            "verseOrgIds": [
+              "JHN.4.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "JHN 4:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O rĩngĩ agĩceera Kana ya Galili, kũrĩa aagarũrĩte maaĩ magatuĩka ndibei. Na kũu Kaperinaumu nĩ kwarĩ na mũndũ ũmwe mũnene warĩ na mũriũ mũrũaru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.46",
+            "verseOrgIds": [
+              "JHN.4.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "JHN 4:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa mũndũ ũcio aaiguire atĩ Jesũ nĩoimĩte Judea agooka Galili, agĩthiĩ kũrĩ we, akĩmũthaitha athiĩ akahonie mũriũ, ũrĩa warĩ hakuhĩ gũkua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.47",
+            "verseOrgIds": [
+              "JHN.4.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "JHN 4:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesũ akĩmwĩra atĩrĩ, “Inyuĩ mũtangĩona ciama na morirũ, mũtingĩtĩkia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.48",
+            "verseOrgIds": [
+              "JHN.4.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "JHN 4:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũnene ũcio akĩmwĩra atĩrĩ, “Mũthuuri ũyũ, nĩtũikũrũke mwana wakwa atanakua.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.49",
+            "verseOrgIds": [
+              "JHN.4.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "JHN 4:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmũcookeria atĩrĩ, “Inũka. Mũrũguo nĩekũhona.” Mũndũ ũcio agĩĩtĩkia ũguo Jesũ aamwĩrire, na akĩinũka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.50",
+            "verseOrgIds": [
+              "JHN.4.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "JHN 4:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naarĩ njĩra akĩinũka, ndungata ciake ikĩmũtũnga na ndũmĩrĩri atĩ mũrũwe arĩ o muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.51",
+            "verseOrgIds": [
+              "JHN.4.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "JHN 4:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa aamooririe nĩ ta thaa ciigana mũriũ aambĩrĩirie kũigua wega, makĩmwĩra atĩrĩ, “Ira thaa mũgwanja nĩguo araahonire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.52",
+            "verseOrgIds": [
+              "JHN.4.52"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "JHN 4:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake ithe akĩmenya atĩ thaa icio nocio Jesũ aramwĩrĩte atĩrĩ, “Mũrũguo nĩekũhona.” Nĩ ũndũ ũcio we na nyũmba yake yothe magĩĩtĩkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.53",
+            "verseOrgIds": [
+              "JHN.4.53"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "54",
+            "style": "v",
+            "sid": "JHN 4:54"
+          },
+          "items": [
+            {
+              "text": "54",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gĩkĩ nĩkĩo kĩarĩ kĩama gĩa keerĩ kĩrĩa Jesũ aaringire kũu Galili, oimĩte Judea.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JHN.4.54",
+            "verseOrgIds": [
+              "JHN.4.54"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JHN.5",
+    "number": "5",
+    "bookId": "JHN"
+  },
+  "previous": {
+    "id": "JHN.3",
+    "number": "3",
+    "bookId": "JHN"
+  }
+}

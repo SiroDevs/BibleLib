@@ -1,0 +1,334 @@
+{
+  "id": "ZEC.3",
+  "number": "3",
+  "bookId": "ZEC",
+  "reference": "Zakaria 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ZEC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorora kw’omobani igoro y’Omokuani Omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende Omonene akanyorokia Yoshua, Omokuani omonene, oteneine ase obosio bw’omomalaika bw’Omonene, na Saitani oteneine ase ensemo ya borio ya Yoshua okomosoera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.1",
+            "verseOrgIds": [
+              "ZEC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eri’Omonene agateebia Saitani, “Aye Saitani, inche Omonene ningotogonyere! Ee, inche Omonene nachorire Yerusalemu, ningotogonyere! Inee! Omonto oyo tari ekegenga giataboretigwe korwa ase omorero ime?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.2",
+            "verseOrgIds": [
+              "ZEC.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono Yoshua nigo ateneine ase obosio bw’omomalaika, obegete chianga chire ne riko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.3",
+            "verseOrgIds": [
+              "ZEC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio omomalaika oria agachiika abwo bateneineo ase okomokorera, akabateebia, “Morusie chianga echio chire ne riko.” Nyuma y’ayio omomalaika oria agateebia Yoshua, “Naama! Narusirie ebibe biao korwa asore, ninkobekere chianga chingiya chi’omoyega.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.4",
+            "verseOrgIds": [
+              "ZEC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio inche ngateba, “Bono mobekere egetambaa ekerabu motwe.” Ase igo bakamobekera egetambaa ekerabu motwe na bakamobekera ne chianga chiria chingiya, ekero omomalaika oria Omonene ateneineo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.5",
+            "verseOrgIds": [
+              "ZEC.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio omomalaika oria Omonene akamoenekeria Yoshua, akamoteebia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.6",
+            "verseOrgIds": [
+              "ZEC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro Omonene bw’Emeganda agoteeba: Korabwatie chinchera chiane, na obwate aya nagochikeire, rirorio nogambere enyomba yane, na orende chiraaro chiane. Ninkoe ribaga ogochera ase ’nde amo nabwo bagonkorera aiga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.7",
+            "verseOrgIds": [
+              "ZEC.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Yoshua, Omokuani omonene, tegerera oigwe amang’ana aya, aye amo nabagisangio bao, abwo baikaransete ase obosio bwao, ekiagera abwo nabaanto bare ekemanyererio ki’amang’ana agochi gocha: Naama! Inche nintome omosomba one okorokwa Omoseboko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.8",
+            "verseOrgIds": [
+              "ZEC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rigereria, ase obosio bwa Yoshua nabekire rigena erimo; nareo amaiso atano na abere arigereretie rigena erio. Inche Omonene bw’Emeganda nigo ngoteeba iga: Nimang’ere ase rigena erio ririiko ririgwenerete, na nindusie ebibe bi’ense eye ase rituko erimo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.9",
+            "verseOrgIds": [
+              "ZEC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase rituko erio kera oyomo oino narangerie oyomwabo ache, baikaranse komo inse y’emesabibu na emeko yaye. “Nabo Omonene bw’Emeganda atebiire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.3.10",
+            "verseOrgIds": [
+              "ZEC.3.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.4",
+    "number": "4",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.2",
+    "number": "2",
+    "bookId": "ZEC"
+  }
+}

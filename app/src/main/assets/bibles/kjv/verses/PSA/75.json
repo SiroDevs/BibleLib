@@ -1,0 +1,732 @@
+{
+  "id": "PSA.75",
+  "number": "75",
+  "bookId": "PSA",
+  "reference": "Psalms 75",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "75",
+        "style": "c",
+        "sid": "PSA 75"
+      },
+      "items": [
+        {
+          "text": "75",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, Al-taschith, A Psalm",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "or",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Song of Asaph.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 75:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Unto thee, O God, do we give thanks,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "unto thee",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.1",
+                "verseOrgIds": [
+                  "PSA.75.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "do we give thanks: for",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.1",
+                "verseOrgIds": [
+                  "PSA.75.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy name is near thy wondrous works declare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 75:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When I shall receive the congregation I will judge uprightly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.2",
+            "verseOrgIds": [
+              "PSA.75.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 75:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.3",
+            "verseOrgIds": [
+              "PSA.75.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 75:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.4",
+            "verseOrgIds": [
+              "PSA.75.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 75:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift not up your horn on high: speak",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.5",
+            "verseOrgIds": [
+              "PSA.75.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "not with",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.5",
+                "verseOrgIds": [
+                  "PSA.75.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a stiff neck.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.5",
+            "verseOrgIds": [
+              "PSA.75.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 75:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For promotion",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.6",
+            "verseOrgIds": [
+              "PSA.75.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "cometh",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.6",
+                "verseOrgIds": [
+                  "PSA.75.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "neither from the east, nor from the west, nor from the south.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.6",
+            "verseOrgIds": [
+              "PSA.75.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 75:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.7",
+            "verseOrgIds": [
+              "PSA.75.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.7",
+                "verseOrgIds": [
+                  "PSA.75.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the judge: he putteth down one, and setteth up another.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.7",
+            "verseOrgIds": [
+              "PSA.75.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 75:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For in the hand of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "them",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "out,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "drink",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "them",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 75:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But I will declare for ever; I will sing praises to the God of Jacob.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.9",
+            "verseOrgIds": [
+              "PSA.75.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 75:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All the horns of the wicked also will I cut off;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.10",
+            "verseOrgIds": [
+              "PSA.75.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "but",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.10",
+                "verseOrgIds": [
+                  "PSA.75.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the horns of the righteous shall be exalted.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.10",
+            "verseOrgIds": [
+              "PSA.75.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.76",
+    "number": "76",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.74",
+    "number": "74",
+    "bookId": "PSA"
+  }
+}

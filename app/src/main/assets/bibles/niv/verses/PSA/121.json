@@ -1,0 +1,662 @@
+{
+  "id": "PSA.121",
+  "number": "121",
+  "bookId": "PSA",
+  "reference": "Psalm 121",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "121",
+        "style": "c",
+        "sid": "PSA 121"
+      },
+      "items": [
+        {
+          "text": "121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A song of ascents.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 121:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I lift up my eyes to the mountains—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:1"
+      },
+      "items": [
+        {
+          "text": "where does my help come from?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 121:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My help comes from the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.2",
+                "verseOrgIds": [
+                  "PSA.121.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:2"
+      },
+      "items": [
+        {
+          "text": "the Maker of heaven and earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 121:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He will not let your foot slip—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:3"
+      },
+      "items": [
+        {
+          "text": "he who watches over you will not slumber;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 121:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "indeed, he who watches over Israel",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.4",
+            "verseOrgIds": [
+              "PSA.121.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:4"
+      },
+      "items": [
+        {
+          "text": "will neither slumber nor sleep.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.4",
+            "verseOrgIds": [
+              "PSA.121.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 121:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.5",
+                "verseOrgIds": [
+                  "PSA.121.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "watches over you—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:5"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.5",
+                "verseOrgIds": [
+                  "PSA.121.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is your shade at your right hand;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 121:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "the sun will not harm you by day,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:6"
+      },
+      "items": [
+        {
+          "text": "nor the moon by night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 121:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.7",
+                "verseOrgIds": [
+                  "PSA.121.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will keep you from all harm—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:7"
+      },
+      "items": [
+        {
+          "text": "he will watch over your life;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 121:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.8",
+                "verseOrgIds": [
+                  "PSA.121.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will watch over your coming and going",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:8"
+      },
+      "items": [
+        {
+          "text": "both now and forevermore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.120",
+    "number": "120",
+    "bookId": "PSA"
+  }
+}

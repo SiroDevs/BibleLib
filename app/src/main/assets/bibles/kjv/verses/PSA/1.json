@@ -1,0 +1,421 @@
+{
+  "id": "PSA.1",
+  "number": "1",
+  "bookId": "PSA",
+  "reference": "Psalms 1",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PSA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.1",
+                "verseOrgIds": [
+                  "PSA.1.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.1",
+            "verseOrgIds": [
+              "PSA.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But his delight",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.2",
+                "verseOrgIds": [
+                  "PSA.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the law of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.2",
+                "verseOrgIds": [
+                  "PSA.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; and in his law doth he meditate day and night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.2",
+            "verseOrgIds": [
+              "PSA.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.3",
+            "verseOrgIds": [
+              "PSA.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The ungodly",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.4",
+                "verseOrgIds": [
+                  "PSA.1.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not so: but",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.4",
+                "verseOrgIds": [
+                  "PSA.1.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like the chaff which the wind driveth away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.4",
+            "verseOrgIds": [
+              "PSA.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.5",
+            "verseOrgIds": [
+              "PSA.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.6",
+            "verseOrgIds": [
+              "PSA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.1.6",
+                "verseOrgIds": [
+                  "PSA.1.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "knoweth the way of the righteous: but the way of the ungodly shall perish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.1.6",
+            "verseOrgIds": [
+              "PSA.1.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.intro",
+    "number": "intro",
+    "bookId": "PSA"
+  }
+}

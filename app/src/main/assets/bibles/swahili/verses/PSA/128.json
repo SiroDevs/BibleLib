@@ -1,0 +1,565 @@
+{
+  "id": "PSA.128",
+  "number": "128",
+  "bookId": "PSA",
+  "reference": "Zaburi 128",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "128",
+        "style": "c",
+        "sid": "PSA 128"
+      },
+      "items": [
+        {
+          "text": "128",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 128",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Thawabu Ya Kumtii",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 128:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heri ni wale wote wamchao",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.1",
+                "verseOrgIds": [
+                  "PSA.128.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:1"
+      },
+      "items": [
+        {
+          "text": "waendao katika njia zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 128:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Utakula matunda ya kazi yako;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:2"
+      },
+      "items": [
+        {
+          "text": "baraka na mafanikio vitakuwa vyako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 128:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mke wako atakuwa kama mzabibu uzaao",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "ndani ya nyumba yako;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "wana wako watakuwa kama machipukizi ya mizeituni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "kuizunguka meza yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 128:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo ndivyo atakavyobarikiwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:4"
+      },
+      "items": [
+        {
+          "text": "mtu amchaye",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.4",
+                "verseOrgIds": [
+                  "PSA.128.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 128:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.5",
+                "verseOrgIds": [
+                  "PSA.128.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "na akubariki kutoka Sayuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:5"
+      },
+      "items": [
+        {
+          "text": "siku zote za maisha yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 128:5"
+      },
+      "items": [
+        {
+          "text": "na uone mafanikio ya Yerusalemu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 128:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nawe ujaliwe kuishi uone watoto wa watoto wako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 128:6"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 128:6"
+      },
+      "items": [
+        {
+          "text": "Amani iwe juu ya Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.129",
+    "number": "129",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.127",
+    "number": "127",
+    "bookId": "PSA"
+  }
+}

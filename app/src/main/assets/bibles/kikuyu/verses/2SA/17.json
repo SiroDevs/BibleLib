@@ -1,0 +1,768 @@
+{
+  "id": "2SA.17",
+  "number": "17",
+  "bookId": "2SA",
+  "reference": "2 Samũeli 17",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "2SA 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahithofeli akĩĩra Abisalomu atĩrĩ, “Reke thuure andũ ngiri ikũmi na igĩrĩ nĩguo tũthiĩ ũtukũ o ro ũyũ tũgakinyĩre Daudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.1",
+            "verseOrgIds": [
+              "2SA.17.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ndĩmũtharĩkĩre o ro rĩu arĩ mũnogu na atarĩ na hinya. Ndĩmũmakie, na andũ arĩa othe arĩa marĩ hamwe nake moore. Njũrage o mũthamaki we wiki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.2",
+            "verseOrgIds": [
+              "2SA.17.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na hũndũre andũ othe macooke kũrĩ we. Gĩkuũ kĩa mũndũ ũcio ũracaria gĩgũcookia andũ othe harĩwe; gũtirĩ mũndũ ũkũgurara.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.3",
+            "verseOrgIds": [
+              "2SA.17.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Narĩo ithugunda rĩu rĩkĩoneka rĩrĩ rĩega nĩ Abisalomu na athuuri othe a Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.4",
+            "verseOrgIds": [
+              "2SA.17.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Abisalomu akiuga atĩrĩ, “Tũmanĩrai Hushai ũrĩa Mũariki o nake, nĩguo tũigue ũrĩa ekuuga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.5",
+            "verseOrgIds": [
+              "2SA.17.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa Hushai ookire, Abisalomu akĩmwĩra atĩrĩ, “Ahithofeli nĩaheanĩte mataaro maya. Nĩ wega twĩke ũguo aroiga? Angĩkorwo ti ũguo-rĩ, tũhe woni waku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.6",
+            "verseOrgIds": [
+              "2SA.17.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hushai agĩcookeria Abisalomu atĩrĩ, “Itaaro rĩrĩa Ahithofeli aheanĩte ti rĩega ihinda-inĩ rĩĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.7",
+            "verseOrgIds": [
+              "2SA.17.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wee nĩũũĩ thoguo na andũ ake; nĩ andũ njamba, na nĩ njamba ta nduba ĩtunyĩtwo mwana wayo. Ningĩ thoguo arĩ na ũmenyo wa mbaara; ndarĩ hĩndĩ angĩraarania na mbũtũ cia ita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.8",
+            "verseOrgIds": [
+              "2SA.17.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na rĩu ahithĩtwo ngurunga kana akahithwo handũ hangĩ. Angĩtharĩkĩra mbũtũ ciaku cia ita mbere-rĩ, ũrĩa wothe ũkaigua ũhoro ũcio akoiga atĩrĩ, ‘Mbũtũ cia ita cia Abisalomu nĩciũragĩtwo.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.9",
+            "verseOrgIds": [
+              "2SA.17.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo o na mũthigari ũrĩa njamba, ũrĩa ngoro yake ĩhaana ta ngoro ya mũrũũthi-rĩ, nĩakaringĩka nĩ guoya, tondũ Isiraeli othe nĩmooĩ atĩ, thoguo nĩ njamba ya ita na atĩ andũ arĩa marĩ nake nĩ njamba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.10",
+            "verseOrgIds": [
+              "2SA.17.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio ngũgũtaara atĩrĩ: Reke andũ othe a Isiraeli kuuma Dani nginya Birishiba, acio aingĩ mũno ta mũthanga wa hũgũrũrũ cia iria, moonganio othe macookanĩrĩre harĩwe, na wee mwene ũmatongorie magĩthiĩ ita-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.11",
+            "verseOrgIds": [
+              "2SA.17.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo nĩtũkaamũtharĩkĩra harĩa hothe tũngĩmuona, tũmũmbĩrĩre o ta ũrĩa ime rĩgũaga thĩ. Nĩgũkorwo we mwene o na kana mũndũ o na ũmwe wake gũtirĩ ũgaatigara muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.12",
+            "verseOrgIds": [
+              "2SA.17.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na ningĩ angĩgatoonya itũũra inene, andũ othe a Isiraeli makaarehe mĩhĩndo itũũra-inĩ rĩu, tũrĩkururie tũrĩtware gĩtuamba-inĩ, o nginya kwage gacunjĩ karĩo kangĩoneka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.13",
+            "verseOrgIds": [
+              "2SA.17.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 17:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Abisalomu na andũ othe a Isiraeli makiuga atĩrĩ, “Ũtaaro wa Hushai ũrĩa Mũariki nĩ mwega gũkĩra wa Ahithofeli.” Nĩgũkorwo Jehova nĩatuĩte atĩ nĩegũthũkia ũtaarani ũcio mwega wa Ahithofeli nĩgeetha arehithĩrie Abisalomu mwanangĩko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.14",
+            "verseOrgIds": [
+              "2SA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 17:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hushai akĩĩra Zadoku na Abiatharu, acio athĩnjĩri-Ngai, atĩrĩ, “Ahithofeli nĩataarĩte Abisalomu na athuuri a Isiraeli meeke ũna na ũna, no niĩ ndĩmataarĩte meke ũna na ũna.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.15",
+            "verseOrgIds": [
+              "2SA.17.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 17:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩu tũmana kũrĩ Daudi narua, ũmwĩre atĩrĩ, ‘Ũtukũ ũyũ menya ndũkaraare mariũko-inĩ kũu werũ-inĩ; ringa mũrĩmo na ndũkaage gwĩka ũguo, kwaga ũguo mũthamaki na arĩa othe arĩ nao nĩmekũniinwo.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.16",
+            "verseOrgIds": [
+              "2SA.17.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2SA 17:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jonathani na Ahimaazu maikaraga Eni-Rogeli. Nayo ndungata ya mũirĩtu nĩyo yarĩ ĩthiĩ ĩkamahe ũhoro ũcio, nao mathiĩ makeere Mũthamaki Daudi, tondũ matingĩetĩkĩrire kuonwo magĩtoonya itũũra-inĩ rĩu inene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.17",
+            "verseOrgIds": [
+              "2SA.17.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2SA 17:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No kamwana kanini nĩkamonire na gakĩĩra Abisalomu. Nĩ ũndũ ũcio andũ acio eerĩ makiumagara na ihenya magĩtoonya nyũmba ya mũndũ kũu Bahurimu. Nake aarĩ na gĩthima hau nja ya mũciĩ wake, nao makĩharũrũka thĩinĩ wakĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.18",
+            "verseOrgIds": [
+              "2SA.17.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2SA 17:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũtumia wa mũndũ ũcio akĩoya kĩndũ gĩa kũhumbĩra, agĩgĩtambũrũkia igũrũ rĩa mũromo wa gĩthima, na akĩanĩka ngano igũrũ rĩakĩo. Na gũtirĩ mũndũ o na ũmwe wamenyire ũhoro ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.19",
+            "verseOrgIds": [
+              "2SA.17.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2SA 17:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa andũ a Abisalomu mookire kũrĩ mũtumia ũcio kũu nyũmba gwake-rĩ, makĩmũũria atĩrĩ, “Ahimaazu na Jonathani marĩ ha?” Nake mũtumia ũcio akĩmacookeria atĩrĩ, “Maringire mũrĩmo ũũrĩa wa karũũĩ.” Nao andũ acio makĩmacaria no mationire mũndũ; nĩ ũndũ ũcio magĩcooka Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.20",
+            "verseOrgIds": [
+              "2SA.17.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2SA 17:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa andũ acio gũthiĩ, Jonathani na Ahimaazu makiuma gĩthima-inĩ, na magĩtwarĩra Mũthamaki Daudi ũhoro ũcio. Makĩmwĩra atĩrĩ, “Wĩhaarĩrie ũringe rũũĩ o narua, Ahithofeli nĩ ataaranĩte ũna na ũna wa gũgũũkĩrĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.21",
+            "verseOrgIds": [
+              "2SA.17.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2SA 17:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Daudi na andũ othe arĩa maarĩ nake magĩũkĩra na makĩringa Rũũĩ rwa Jorodani. Na gũgĩkĩa gũtirĩ mũndũ ũtaaringĩte Rũũĩ rwa Jorodani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.22",
+            "verseOrgIds": [
+              "2SA.17.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2SA 17:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa Ahithofeli onire atĩ mataaro make matiinarũmĩrĩrĩrwo-rĩ, agĩtandĩka ndigiri yake, akĩinũka gwake mũciĩ itũũra-inĩ rĩake. Agĩthondeka maũndũ make, agĩcooka akĩĩita. Nĩ ũndũ ũcio agĩkua na agĩthikwo mbĩrĩra-inĩ ya ithe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.23",
+            "verseOrgIds": [
+              "2SA.17.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "2SA 17:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi agĩthiĩ Mahanaimu, nake Abisalomu akĩringa Rũũĩ rwa Jorodani hamwe na andũ othe a Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.24",
+            "verseOrgIds": [
+              "2SA.17.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "2SA 17:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abisalomu nĩathuurĩte Amasa atuĩke mũnene wa mbũtũ cia ita ithenya rĩa Joabu. Amasa aarĩ mũriũ wa mũndũ wetagwo Jetheri, Mũisiraeli ũrĩa wahikĩtie Abigaili, mwarĩ wa Nahashu, mwarĩ wa nyina na Zeruia nyina wa Joabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.25",
+            "verseOrgIds": [
+              "2SA.17.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "2SA 17:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ a Isiraeli na Abisalomu maambĩte hema ciao bũrũri-inĩ wa Gileadi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.26",
+            "verseOrgIds": [
+              "2SA.17.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "2SA 17:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa Daudi aakinyire Mahanaimu, Shobi mũrũ wa Nahashu wa kuuma Raba kwa Aamoni, na Makiri mũrũ wa Amieli kuuma Lo-Debari, na Barizilai ũrĩa Mũgileadi kuuma Rogelimu",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.27",
+            "verseOrgIds": [
+              "2SA.17.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "2SA 17:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "makĩrehe indo cia gũkomera, na mbakũri, na indo cia rĩũmba. Ningĩ makĩrehe ngano na cairi, na mũtu na ngano hĩhie, na mboco na ndengũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.28",
+            "verseOrgIds": [
+              "2SA.17.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "2SA 17:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ũũkĩ na ngorono, na ngʼondu na maguta mamata ma iria rĩa ngʼombe, nĩgeetha Daudi na andũ ake marĩe. Tondũ moigire atĩrĩ, “Andũ aya nĩahũũtu, na makanoga, na makanyootera gũkũ werũ-inĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.17.29",
+            "verseOrgIds": [
+              "2SA.17.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.18",
+    "number": "18",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.16",
+    "number": "16",
+    "bookId": "2SA"
+  }
+}

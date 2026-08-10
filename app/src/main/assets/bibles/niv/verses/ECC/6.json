@@ -1,0 +1,635 @@
+{
+  "id": "ECC.6",
+  "number": "6",
+  "bookId": "ECC",
+  "reference": "Eccles. 6",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ECC 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have seen another evil under the sun, and it weighs heavily on mankind:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.1",
+            "verseOrgIds": [
+              "ECC.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God gives some people wealth, possessions and honor, so that they lack nothing their hearts desire, but God does not grant them the ability to enjoy them, and strangers enjoy them instead. This is meaningless, a grievous evil.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.2",
+            "verseOrgIds": [
+              "ECC.6.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A man may have a hundred children and live many years; yet no matter how long he lives, if he cannot enjoy his prosperity and does not receive proper burial, I say that a stillborn child is better off than he.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.3",
+            "verseOrgIds": [
+              "ECC.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "It comes without meaning, it departs in darkness, and in darkness its name is shrouded.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.4",
+            "verseOrgIds": [
+              "ECC.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Though it never saw the sun or knew anything, it has more rest than does that man—",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.5",
+            "verseOrgIds": [
+              "ECC.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.6",
+            "verseOrgIds": [
+              "ECC.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Everyone's toil is for their mouth,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.7",
+            "verseOrgIds": [
+              "ECC.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:7"
+      },
+      "items": [
+        {
+          "text": "yet their appetite is never satisfied.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.7",
+            "verseOrgIds": [
+              "ECC.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What advantage have the wise over fools?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.8",
+            "verseOrgIds": [
+              "ECC.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ECC 6:8"
+      },
+      "items": [
+        {
+          "text": "What do the poor gain",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.8",
+            "verseOrgIds": [
+              "ECC.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:8"
+      },
+      "items": [
+        {
+          "text": "by knowing how to conduct themselves before others?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.8",
+            "verseOrgIds": [
+              "ECC.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Better what the eye sees",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:9"
+      },
+      "items": [
+        {
+          "text": "than the roving of the appetite.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ECC 6:9"
+      },
+      "items": [
+        {
+          "text": "This too is meaningless,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:9"
+      },
+      "items": [
+        {
+          "text": "a chasing after the wind.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.9",
+            "verseOrgIds": [
+              "ECC.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whatever exists has already been named,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:10"
+      },
+      "items": [
+        {
+          "text": "and what humanity is has been known;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ECC 6:10"
+      },
+      "items": [
+        {
+          "text": "no one can contend",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:10"
+      },
+      "items": [
+        {
+          "text": "with someone who is stronger.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.10",
+            "verseOrgIds": [
+              "ECC.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The more the words,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.11",
+            "verseOrgIds": [
+              "ECC.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:11"
+      },
+      "items": [
+        {
+          "text": "the less the meaning,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.11",
+            "verseOrgIds": [
+              "ECC.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ECC 6:11"
+      },
+      "items": [
+        {
+          "text": "and how does that profit anyone?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.11",
+            "verseOrgIds": [
+              "ECC.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For who knows what is good for a person in life, during the few and meaningless days they pass through like a shadow? Who can tell them what will happen under the sun after they are gone?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.6.12",
+            "verseOrgIds": [
+              "ECC.6.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.7",
+    "number": "7",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.5",
+    "number": "5",
+    "bookId": "ECC"
+  }
+}

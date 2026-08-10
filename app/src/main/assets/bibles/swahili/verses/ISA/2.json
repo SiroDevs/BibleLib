@@ -1,0 +1,2215 @@
+{
+  "id": "ISA.2",
+  "number": "2",
+  "bookId": "ISA",
+  "reference": "Isaya 2",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ISA 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mlima Wa",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MIC.4.1-MIC.4.3"
+          },
+          "items": [
+            {
+              "text": "Mika 4:1-3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo aliloliona Isaya mwana wa Amozi kuhusu Yuda na Yerusalemu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.1",
+            "verseOrgIds": [
+              "ISA.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika siku za mwisho",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:2"
+      },
+      "items": [
+        {
+          "text": "mlima wa Hekalu la",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.2",
+                "verseOrgIds": [
+                  "ISA.2.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "utaimarishwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:2"
+      },
+      "items": [
+        {
+          "text": "kama mlima mkuu miongoni mwa milima yote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:2"
+      },
+      "items": [
+        {
+          "text": "utainuliwa juu ya vilima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:2"
+      },
+      "items": [
+        {
+          "text": "na mataifa yote yatamiminika huko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.2",
+            "verseOrgIds": [
+              "ISA.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mataifa mengi yatakuja na kusema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "\"Njooni, twendeni mlimani mwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.3",
+                "verseOrgIds": [
+                  "ISA.2.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "kwenye nyumba ya Mungu wa Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "Atatufundisha njia zake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "ili tuweze kuenenda katika mapito yake.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "Sheria itatoka Sayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:3"
+      },
+      "items": [
+        {
+          "text": "neno la",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.3",
+                "verseOrgIds": [
+                  "ISA.2.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "litatoka Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.3",
+            "verseOrgIds": [
+              "ISA.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atahukumu kati ya mataifa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:4"
+      },
+      "items": [
+        {
+          "text": "na ataamua migogoro ya mataifa mengi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:4"
+      },
+      "items": [
+        {
+          "text": "Watafua panga zao ziwe majembe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:4"
+      },
+      "items": [
+        {
+          "text": "na mikuki yao kuwa miundu ya kukata matawi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:4"
+      },
+      "items": [
+        {
+          "text": "Taifa halitainua upanga dhidi ya taifa jingine,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:4"
+      },
+      "items": [
+        {
+          "text": "wala hawatajifunza vita tena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.4",
+            "verseOrgIds": [
+              "ISA.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njooni, enyi nyumba ya Yakobo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.5",
+            "verseOrgIds": [
+              "ISA.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:5"
+      },
+      "items": [
+        {
+          "text": "tutembeeni katika nuru ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.5",
+            "verseOrgIds": [
+              "ISA.2.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.5",
+                "verseOrgIds": [
+                  "ISA.2.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.5",
+            "verseOrgIds": [
+              "ISA.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Siku Ya",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umewatelekeza watu wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.6",
+            "verseOrgIds": [
+              "ISA.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:6"
+      },
+      "items": [
+        {
+          "text": "nyumba ya Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.6",
+            "verseOrgIds": [
+              "ISA.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:6"
+      },
+      "items": [
+        {
+          "text": "Wamejaa ushirikina utokao Mashariki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.6",
+            "verseOrgIds": [
+              "ISA.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:6"
+      },
+      "items": [
+        {
+          "text": "wanapiga ramli kama Wafilisti",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.6",
+            "verseOrgIds": [
+              "ISA.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:6"
+      },
+      "items": [
+        {
+          "text": "na wanashikana mikono na wapagani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.6",
+            "verseOrgIds": [
+              "ISA.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nchi yao imejaa fedha na dhahabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.7",
+            "verseOrgIds": [
+              "ISA.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:7"
+      },
+      "items": [
+        {
+          "text": "hakuna mwisho wa hazina zao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.7",
+            "verseOrgIds": [
+              "ISA.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:7"
+      },
+      "items": [
+        {
+          "text": "Nchi yao imejaa farasi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.7",
+            "verseOrgIds": [
+              "ISA.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:7"
+      },
+      "items": [
+        {
+          "text": "hakuna mwisho wa magari yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.7",
+            "verseOrgIds": [
+              "ISA.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nchi yao imejaa sanamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.8",
+            "verseOrgIds": [
+              "ISA.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:8"
+      },
+      "items": [
+        {
+          "text": "wanasujudia kazi za mikono yao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.8",
+            "verseOrgIds": [
+              "ISA.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:8"
+      },
+      "items": [
+        {
+          "text": "vitu vile vidole vyao vimevitengeneza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.8",
+            "verseOrgIds": [
+              "ISA.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo mwanadamu atashushwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.9",
+            "verseOrgIds": [
+              "ISA.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:9"
+      },
+      "items": [
+        {
+          "text": "na binadamu atanyenyekezwa:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.9",
+            "verseOrgIds": [
+              "ISA.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:9"
+      },
+      "items": [
+        {
+          "text": "usiwasamehe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.9",
+            "verseOrgIds": [
+              "ISA.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ingieni kwenye miamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.10",
+            "verseOrgIds": [
+              "ISA.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:10"
+      },
+      "items": [
+        {
+          "text": "jificheni ardhini",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.10",
+            "verseOrgIds": [
+              "ISA.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:10"
+      },
+      "items": [
+        {
+          "text": "kutokana na utisho wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.10",
+            "verseOrgIds": [
+              "ISA.2.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.10",
+                "verseOrgIds": [
+                  "ISA.2.10"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:10"
+      },
+      "items": [
+        {
+          "text": "na utukufu wa enzi yake!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.10",
+            "verseOrgIds": [
+              "ISA.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Macho ya mtu mwenye majivuno yatanyenyekezwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.11",
+            "verseOrgIds": [
+              "ISA.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:11"
+      },
+      "items": [
+        {
+          "text": "na kiburi cha wanadamu kitashushwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.11",
+            "verseOrgIds": [
+              "ISA.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:11"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.11",
+                "verseOrgIds": [
+                  "ISA.2.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "peke yake ndiye atakayetukuzwa siku hiyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.11",
+            "verseOrgIds": [
+              "ISA.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.12",
+                "verseOrgIds": [
+                  "ISA.2.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mwenye Nguvu Zote anayo siku aliyoiweka akiba",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.12",
+            "verseOrgIds": [
+              "ISA.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:12"
+      },
+      "items": [
+        {
+          "text": "kwa wote wenye kujivuna na wenye kiburi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.12",
+            "verseOrgIds": [
+              "ISA.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:12"
+      },
+      "items": [
+        {
+          "text": "kwa wote wanaojikweza",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.12",
+            "verseOrgIds": [
+              "ISA.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:12"
+      },
+      "items": [
+        {
+          "text": "(nao watanyenyekezwa),",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.12",
+            "verseOrgIds": [
+              "ISA.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa mierezi yote ya Lebanoni iliyo mirefu sana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.13",
+            "verseOrgIds": [
+              "ISA.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:13"
+      },
+      "items": [
+        {
+          "text": "na mialoni yote ya Bashani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.13",
+            "verseOrgIds": [
+              "ISA.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa milima yote mirefu",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.14",
+            "verseOrgIds": [
+              "ISA.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:14"
+      },
+      "items": [
+        {
+          "text": "na vilima vyote vilivyoinuka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.14",
+            "verseOrgIds": [
+              "ISA.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa kila mnara ulio mrefu sana",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.15",
+            "verseOrgIds": [
+              "ISA.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:15"
+      },
+      "items": [
+        {
+          "text": "na kila ukuta wenye ngome,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.15",
+            "verseOrgIds": [
+              "ISA.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa kila meli ya biashara,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.16",
+            "verseOrgIds": [
+              "ISA.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:16"
+      },
+      "items": [
+        {
+          "text": "na kila chombo cha baharini cha fahari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.16",
+            "verseOrgIds": [
+              "ISA.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Majivuno ya mwanadamu yatashushwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.17",
+            "verseOrgIds": [
+              "ISA.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:17"
+      },
+      "items": [
+        {
+          "text": "na kiburi cha wanadamu kitanyenyekezwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.17",
+            "verseOrgIds": [
+              "ISA.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:17"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.17",
+                "verseOrgIds": [
+                  "ISA.2.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "peke yake ndiye atatukuzwa siku hiyo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.17",
+            "verseOrgIds": [
+              "ISA.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nazo sanamu zitatoweka kabisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.18",
+            "verseOrgIds": [
+              "ISA.2.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu watakimbilia kwenye mapango ndani ya miamba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.19",
+            "verseOrgIds": [
+              "ISA.2.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:19"
+      },
+      "items": [
+        {
+          "text": "na kwenye mahandaki ardhini",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.19",
+            "verseOrgIds": [
+              "ISA.2.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:19"
+      },
+      "items": [
+        {
+          "text": "kutokana na utisho wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.19",
+            "verseOrgIds": [
+              "ISA.2.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.19",
+                "verseOrgIds": [
+                  "ISA.2.19"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:19"
+      },
+      "items": [
+        {
+          "text": "na utukufu wa enzi yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.19",
+            "verseOrgIds": [
+              "ISA.2.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:19"
+      },
+      "items": [
+        {
+          "text": "ainukapo kuitikisa dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.19",
+            "verseOrgIds": [
+              "ISA.2.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ile, watu watawatupia",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.20",
+            "verseOrgIds": [
+              "ISA.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:20"
+      },
+      "items": [
+        {
+          "text": "panya na popo",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.20",
+            "verseOrgIds": [
+              "ISA.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:20"
+      },
+      "items": [
+        {
+          "text": "sanamu zao za fedha na za dhahabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.20",
+            "verseOrgIds": [
+              "ISA.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:20"
+      },
+      "items": [
+        {
+          "text": "walizozitengeneza ili waziabudu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.20",
+            "verseOrgIds": [
+              "ISA.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watakimbilia kwenye mapango miambani",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.21",
+            "verseOrgIds": [
+              "ISA.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:21"
+      },
+      "items": [
+        {
+          "text": "na kwenye nyufa za miamba",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.21",
+            "verseOrgIds": [
+              "ISA.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:21"
+      },
+      "items": [
+        {
+          "text": "kutokana na utisho wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.21",
+            "verseOrgIds": [
+              "ISA.2.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.2.21",
+                "verseOrgIds": [
+                  "ISA.2.21"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:21"
+      },
+      "items": [
+        {
+          "text": "na utukufu wa enzi yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.21",
+            "verseOrgIds": [
+              "ISA.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:21"
+      },
+      "items": [
+        {
+          "text": "ainukapo kuitikisa dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.21",
+            "verseOrgIds": [
+              "ISA.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acheni kumtumainia mwanadamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.22",
+            "verseOrgIds": [
+              "ISA.2.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 2:22"
+      },
+      "items": [
+        {
+          "text": "ambaye hana kitu ila pumzi katika pua zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.22",
+            "verseOrgIds": [
+              "ISA.2.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 2:22"
+      },
+      "items": [
+        {
+          "text": "Yeye ana thamani gani?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.2.22",
+            "verseOrgIds": [
+              "ISA.2.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.3",
+    "number": "3",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.1",
+    "number": "1",
+    "bookId": "ISA"
+  }
+}

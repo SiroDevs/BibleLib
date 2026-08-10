@@ -1,0 +1,871 @@
+{
+  "id": "JAS.3",
+  "number": "3",
+  "bookId": "JAS",
+  "reference": "James 3",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "JAS 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My brethren, be not many masters, knowing that we shall receive the greater condemnation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.1",
+            "verseOrgIds": [
+              "JAS.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JAS 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For in many things we offend all. If any man offend not in word, the same",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.2",
+            "verseOrgIds": [
+              "JAS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.2",
+                "verseOrgIds": [
+                  "JAS.3.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a perfect man,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.2",
+            "verseOrgIds": [
+              "JAS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.2",
+                "verseOrgIds": [
+                  "JAS.3.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "able also to bridle the whole body.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.2",
+            "verseOrgIds": [
+              "JAS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JAS 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.3",
+            "verseOrgIds": [
+              "JAS.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold also the ships, which though",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.4",
+            "verseOrgIds": [
+              "JAS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "they be",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.4",
+                "verseOrgIds": [
+                  "JAS.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "so great, and",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.4",
+            "verseOrgIds": [
+              "JAS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.4",
+                "verseOrgIds": [
+                  "JAS.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.4",
+            "verseOrgIds": [
+              "JAS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JAS 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.5",
+            "verseOrgIds": [
+              "JAS.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the tongue",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.6",
+            "verseOrgIds": [
+              "JAS.3.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.6",
+                "verseOrgIds": [
+                  "JAS.3.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.6",
+            "verseOrgIds": [
+              "JAS.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JAS 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.7",
+            "verseOrgIds": [
+              "JAS.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the tongue can no man tame;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.8",
+            "verseOrgIds": [
+              "JAS.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.8",
+                "verseOrgIds": [
+                  "JAS.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "an unruly evil, full of deadly poison.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.8",
+            "verseOrgIds": [
+              "JAS.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JAS 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.9",
+            "verseOrgIds": [
+              "JAS.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.10",
+            "verseOrgIds": [
+              "JAS.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Doth a fountain send forth at the same place sweet",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.11",
+            "verseOrgIds": [
+              "JAS.3.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "water",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.11",
+                "verseOrgIds": [
+                  "JAS.3.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "and bitter?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.11",
+            "verseOrgIds": [
+              "JAS.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.12",
+            "verseOrgIds": [
+              "JAS.3.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "can",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.12",
+                "verseOrgIds": [
+                  "JAS.3.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no fountain both yield salt water and fresh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.12",
+            "verseOrgIds": [
+              "JAS.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JAS 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.13",
+            "verseOrgIds": [
+              "JAS.3.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.13",
+                "verseOrgIds": [
+                  "JAS.3.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.13",
+            "verseOrgIds": [
+              "JAS.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JAS 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.14",
+            "verseOrgIds": [
+              "JAS.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This wisdom descendeth not from above, but",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.15",
+            "verseOrgIds": [
+              "JAS.3.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.15",
+                "verseOrgIds": [
+                  "JAS.3.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "earthly, sensual, devilish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.15",
+            "verseOrgIds": [
+              "JAS.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For where envying and strife",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.16",
+            "verseOrgIds": [
+              "JAS.3.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.16",
+                "verseOrgIds": [
+                  "JAS.3.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", there",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.16",
+            "verseOrgIds": [
+              "JAS.3.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.16",
+                "verseOrgIds": [
+                  "JAS.3.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "confusion and every evil work.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.16",
+            "verseOrgIds": [
+              "JAS.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JAS 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the wisdom that is from above is first pure, then peaceable, gentle,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.17",
+            "verseOrgIds": [
+              "JAS.3.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "JAS.3.17",
+                "verseOrgIds": [
+                  "JAS.3.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.17",
+            "verseOrgIds": [
+              "JAS.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the fruit of righteousness is sown in peace of them that make peace.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.3.18",
+            "verseOrgIds": [
+              "JAS.3.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JAS.4",
+    "number": "4",
+    "bookId": "JAS"
+  },
+  "previous": {
+    "id": "JAS.2",
+    "number": "2",
+    "bookId": "JAS"
+  }
+}

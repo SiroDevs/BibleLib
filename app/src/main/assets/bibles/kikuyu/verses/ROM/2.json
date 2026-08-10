@@ -1,0 +1,803 @@
+{
+  "id": "ROM.2",
+  "number": "2",
+  "bookId": "ROM",
+  "reference": "Aroma 2",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ROM 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ciira wa Ngai wa Kĩhooto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ROM 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio-rĩ, wee mũndũ ũyũ ndũrĩ na kĩĩgwatio, wee ũtuagĩra mũndũ ũrĩa ũngĩ ciira, nĩgũkorwo rĩrĩa ũgũtuĩra mũndũ ũngĩ ciira, nĩwe mwene ũretuĩra ciira, tondũ wee ũratuanĩra ciira wĩkaga maũndũ o macio ekaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.1",
+            "verseOrgIds": [
+              "ROM.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ROM 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩtũũĩ atĩ Ngai agaatuĩra andũ arĩa mekaga maũndũ ta macio ciira na kĩhooto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.2",
+            "verseOrgIds": [
+              "ROM.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ROM 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tondũ rĩrĩa wee mũndũ ũyũ, ũtuagĩra arĩa angĩ ciira na ũgacooka ũgeeka maũndũ o macio mekaga-rĩ, wee ũgwĩciiria nĩũkahonoka ciira wa Ngai?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.3",
+            "verseOrgIds": [
+              "ROM.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kana nĩkũnyarara ũnyararĩte ũtugi wake mũnene, na ũkirĩrĩria, na wetereri wake, ũkaaga kũmenya atĩ ũtugi wa Ngai nĩguo ũkũguucagĩrĩria nĩguo wĩrire?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.4",
+            "verseOrgIds": [
+              "ROM.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ROM 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, nĩ ũndũ wa ũrĩa ũmĩtie ngoro yaku, na ũkarega kwĩrira-rĩ, nĩ mangʼũrĩ ũreigĩra marĩa magagũũkĩrĩra. Nĩgũkorwo mũthenya wa mangʼũrĩ nĩũrooka, rĩrĩa matuĩro ma Ngai ma kĩhooto makaaguũranĩrio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.5",
+            "verseOrgIds": [
+              "ROM.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ROM 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ Ngai akaarĩha o mũndũ kũringana na maũndũ marĩa aaneka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.6",
+            "verseOrgIds": [
+              "ROM.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ROM 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arĩa macaragia kũheo riiri, na gĩtĩĩo, na ũhoro wa kwaga kũbutha, nĩ ũndũ wa gwĩka wega matekũnoga-rĩ, acio nĩakamahe muoyo wa tene na tene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.7",
+            "verseOrgIds": [
+              "ROM.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ROM 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No arĩa eyendi, na nĩmaregaga ũhoro-wa-ma na makarũmagĩrĩra maũndũ mooru-rĩ, acio nĩmagakinyĩrwo nĩ mangʼũrĩ na marakara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.8",
+            "verseOrgIds": [
+              "ROM.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ROM 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkaagĩa na thĩĩna na mĩnyamaro kũrĩ andũ othe arĩa mekaga ũũru; mbere kũrĩ Ayahudi, na thuutha kũrĩ andũ-a-Ndũrĩrĩ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.9",
+            "verseOrgIds": [
+              "ROM.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ROM 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no riiri, na gĩtĩĩo, na thayũ ikaaheo mũndũ o wothe ũrĩa wĩkaga wega: mbere kũrĩ Ayahudi, na thuutha kũrĩ andũ-a-Ndũrĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.10",
+            "verseOrgIds": [
+              "ROM.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ROM 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo Ngai ndatĩĩagĩra andũ maũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.11",
+            "verseOrgIds": [
+              "ROM.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ROM 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ arĩa othe mehagia matarĩ watho-inĩ makaaniinwo matarĩ watho-inĩ, nao arĩa othe mehagia marĩ rungu rwa watho magaatuĩrwo ciira kũringana na watho ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.12",
+            "verseOrgIds": [
+              "ROM.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo ti arĩa maiguaga watho matuagwo athingu maitho-inĩ ma Ngai, no arĩa maathĩkagĩra watho nĩo magaatuuo athingu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.13",
+            "verseOrgIds": [
+              "ROM.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ROM 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Ti-itherũ, rĩrĩa andũ-a-Ndũrĩrĩ arĩa matarĩ na watho mekaga maũndũ marĩa watho uugĩte nĩ ũndũ wa ũhoro wao wa mũciarĩre-rĩ, o ene nĩmonanagia nĩmooĩ watho ũcio, o na gũtuĩka matirĩ maũigua",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.14",
+            "verseOrgIds": [
+              "ROM.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ROM 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "tondũ nĩmonanagia atĩ maũndũ marĩa mabataranagia thĩinĩ wa watho nĩmandĩke ngoro-inĩ ciao, nacio thamiri ciao o nacio ikaruta ũira, namo meciiria mao rĩmwe makamaciirithagia na rĩrĩa rĩngĩ makamaciirĩrĩra.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.15",
+            "verseOrgIds": [
+              "ROM.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ROM 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũyũ ũkooneka mũthenya ũrĩa Ngai, na ũndũ wa Jesũ Kristũ agaatuĩra ciira meciiria ma hitho marĩa marĩ ngoro-inĩ cia andũ, o ta ũrĩa Ũhoro-ũrĩa-Mwega uugĩte, ũrĩa niĩ hunjagia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.16",
+            "verseOrgIds": [
+              "ROM.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ayahudi na Watho",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ROM 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atĩrĩrĩ, angĩkorwo wee wĩĩtaga Mũyahudi; na ũngĩkorwo wĩhocagia ũhoro-inĩ wa watho na nĩwĩĩrahagĩra ngwatanĩro yaku na Ngai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.17",
+            "verseOrgIds": [
+              "ROM.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ROM 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "angĩkorwo nĩũmenyete ũrĩa endaga, na ũgakũũrana maũndũ marĩa marĩ bata gũkĩra marĩa mangĩ tondũ wa ũrĩa ũrutĩtwo maũndũ ma watho;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.18",
+            "verseOrgIds": [
+              "ROM.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ROM 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "angĩkorwo nĩwĩtĩkĩtie atĩ wee ũrĩ mũtongoria wa andũ arĩa atumumu, o na ũtheri wa gũtherera arĩa marĩ nduma-inĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.19",
+            "verseOrgIds": [
+              "ROM.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ROM 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o na mũtaari wa andũ arĩa akĩĩgu, na mũrutani wa tũkenge, tondũ thĩinĩ wa watho ũrĩ na mũhianĩre wa ũrĩa ũmenyo wa ũhoro-wa-ma ũtariĩ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.20",
+            "verseOrgIds": [
+              "ROM.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ROM 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "hakĩrĩ ũguo-rĩ, wee ũrutaga andũ arĩa angĩ-rĩ, ndũngĩkĩĩruta wee mwene? Wee ũhunjagia atĩ andũ matikaiye-rĩ, wee nĩũiyaga?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.21",
+            "verseOrgIds": [
+              "ROM.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ROM 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wee uugaga atĩ andũ matikanatharanie-rĩ, wee nĩũtharanagia? Wee ũthũire mĩhianano-rĩ, wee nĩũiyaga indo cia hekarũ cia andũ arĩa matooĩ Ngai?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.22",
+            "verseOrgIds": [
+              "ROM.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ROM 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wee wĩrahagĩra watho-rĩ, nĩũconorithagia Ngai na ũndũ wa kwagarara watho ũcio?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.23",
+            "verseOrgIds": [
+              "ROM.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ROM 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ta ũrĩa kwandĩkĩtwo atĩrĩ, “Rĩĩtwa rĩa Ngai nĩrĩcambagio thĩinĩ wa andũ-a-Ndũrĩrĩ nĩ ũndũ wanyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.24",
+            "verseOrgIds": [
+              "ROM.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ROM 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro wa kũrua nĩ ũrĩ kĩguni ũngĩrũmia ũrĩa watho uugĩte, no ũngĩagarara watho ũcio-rĩ, ũhoro ũcio waku wa kũrua ũtuĩkĩte ta ũtaruĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.25",
+            "verseOrgIds": [
+              "ROM.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ROM 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angĩkorwo arĩa matarĩ aruu nĩmahingagia maũndũ marĩa mabataranagia thĩinĩ wa watho-rĩ, githĩ acio matiagĩrĩire gũtuuo ta maruĩte?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.26",
+            "verseOrgIds": [
+              "ROM.2.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "ROM 2:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũrĩa ũtarĩ mũruu mwĩrĩ na nĩahingagia ũrĩa watho uugĩte-rĩ, nĩakamũtuĩra ciira, inyuĩ mwagararaga watho ũcio o na mwakorwo nĩmũruĩte na mũrĩ na watho ũrĩa mwandĩke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.27",
+            "verseOrgIds": [
+              "ROM.2.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "ROM 2:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tondũ-rĩ, Mũyahudi ti ũrĩa wonanagia atĩ nĩ Mũyahudi na igũrũ, nakuo kũrua to kũrĩa gwa kuoneka mwĩrĩ-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.28",
+            "verseOrgIds": [
+              "ROM.2.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "ROM 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aca, Mũyahudi kũna nĩ ũrĩa Mũyahudi ngoro; nakuo kũrua nĩ kũrua kwa ngoro, ũguo nĩ kuuga atĩ nĩ ũhoro wa Roho, no ti wa watho ũrĩa mwandĩke. Kũganwo kwa mũndũ ta ũcio-rĩ, gũtiumaga kũrĩ andũ, no kuumaga kũrĩ Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.2.29",
+            "verseOrgIds": [
+              "ROM.2.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ROM.3",
+    "number": "3",
+    "bookId": "ROM"
+  },
+  "previous": {
+    "id": "ROM.1",
+    "number": "1",
+    "bookId": "ROM"
+  }
+}

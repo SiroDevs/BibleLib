@@ -1,0 +1,1162 @@
+{
+  "id": "JOB.1",
+  "number": "1",
+  "bookId": "JOB",
+  "reference": "Ayubu 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms1"
+      },
+      "items": [
+        {
+          "text": "Sehemu Ya Kwanza: Habari Za Awali",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "mr"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JOB.1-JOB.2"
+          },
+          "items": [
+            {
+              "text": "Ayubu 1–2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ayubu Na Jamaa Yake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika nchi ya Usi paliishi mtu ambaye aliitwa Ayubu. Mtu huyu alikuwa hana hatia, naye alikuwa mkamilifu; alimcha Mungu na kuepukana na uovu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.1",
+            "verseOrgIds": [
+              "JOB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alikuwa na wana saba na binti watatu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.2",
+            "verseOrgIds": [
+              "JOB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naye alikuwa na kondoo elfu saba, ngamia elfu tatu, jozi mia tano za maksai, na punda mia tano, tena alikuwa na idadi kubwa ya watumishi. Alikuwa mtu mkuu sana miongoni mwa watu wa Mashariki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.3",
+            "verseOrgIds": [
+              "JOB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wanawe walikuwa na desturi ya kufanya karamu katika nyumba zao kwa zamu, nao wangewaalika umbu zao watatu ili kula na kunywa pamoja nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.4",
+            "verseOrgIds": [
+              "JOB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati kipindi cha karamu kilimalizika, Ayubu angetuma waitwe na kuwafanyia utakaso. Angetoa dhabihu ya sadaka ya kuteketezwa kwa ajili ya kila mmoja wao asubuhi na mapema, akifikiri, \"Pengine wanangu wametenda dhambi na kumlaani Mungu mioyoni mwao.\" Hii ilikuwa ndiyo desturi ya kawaida ya Ayubu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.5",
+            "verseOrgIds": [
+              "JOB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jaribu La Kwanza La Ayubu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOB 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku moja wana wa Mungu",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "text": "walikwenda kujionyesha mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.6",
+                "verseOrgIds": [
+                  "JOB.1.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Shetani",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "text": "naye akaja pamoja nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOB 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.7",
+                "verseOrgIds": [
+                  "JOB.1.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Shetani, \"Umetoka wapi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.7",
+            "verseOrgIds": [
+              "JOB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "JOB 1:7"
+      },
+      "items": [
+        {
+          "text": "Shetani akamjibu",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.7",
+            "verseOrgIds": [
+              "JOB.1.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.7",
+                "verseOrgIds": [
+                  "JOB.1.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", \"Natoka kuzunguka pote duniani, nikitembea huku na huko humo.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.7",
+            "verseOrgIds": [
+              "JOB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOB 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.8",
+            "verseOrgIds": [
+              "JOB.1.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.8",
+                "verseOrgIds": [
+                  "JOB.1.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Shetani, \"Je, umemwangalia huyo mtumishi wangu Ayubu? Hakuna mtu mwingine duniani aliye kama yeye, asiye na hatia, ni mnyofu, mwenye kumcha Mungu, na kuepukana na uovu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.8",
+            "verseOrgIds": [
+              "JOB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOB 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shetani akamjibu",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.9",
+            "verseOrgIds": [
+              "JOB.1.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.9",
+                "verseOrgIds": [
+                  "JOB.1.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", \"Je, Ayubu anamcha Mungu bure?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.9",
+            "verseOrgIds": [
+              "JOB.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOB 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Je, wewe hukumjengea boma pande zote yeye na wa nyumbani mwake pamoja na kila kitu alicho nacho? Kazi za mikono yake umezibariki na hivyo makundi yake ya kondoo na mbuzi pamoja na ya wanyama yameenea katika nchi nzima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.10",
+            "verseOrgIds": [
+              "JOB.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOB 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini nyoosha mkono wako na kupiga kila kitu alicho nacho, naye kwa hakika atakulaani mbele za uso wako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.11",
+            "verseOrgIds": [
+              "JOB.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOB 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.12",
+                "verseOrgIds": [
+                  "JOB.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Shetani, \"Vema sana, kwa hiyo, kila kitu alicho nacho kiko mikononi mwako, lakini juu ya huyo mtu mwenyewe usimguse hata kwa kidole.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.12",
+            "verseOrgIds": [
+              "JOB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "JOB 1:12"
+      },
+      "items": [
+        {
+          "text": "Ndipo Shetani akatoka mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.12",
+            "verseOrgIds": [
+              "JOB.1.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.12",
+                "verseOrgIds": [
+                  "JOB.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.12",
+            "verseOrgIds": [
+              "JOB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOB 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku moja watoto wa Ayubu walipokuwa wakifanya karamu wakila na kunywa divai katika nyumba ya ndugu yao mkubwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.13",
+            "verseOrgIds": [
+              "JOB.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOB 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akaja mjumbe kwa Ayubu na kusema, \"Maksai walikuwa wakilima na punda walikuwa wakilisha karibu nao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.14",
+            "verseOrgIds": [
+              "JOB.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOB 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waseba wakawashambulia na kuchukua mifugo. Kisha wakawaua watumishi kwa upanga, nami ndimi peke yangu niliyenusurika kukuletea habari!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.15",
+            "verseOrgIds": [
+              "JOB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOB 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipokuwa bado ananena, mjumbe mwingine akaja na kusema, \"Moto wa Mungu ulishuka kutoka mbinguni na kuteketeza kondoo na watumishi, nami ndimi peke yangu niliyenusurika kukuletea habari!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.16",
+            "verseOrgIds": [
+              "JOB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOB 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipokuwa bado ananena, mjumbe mwingine akaja na kusema, \"Wakaldayo waliunda vikosi vitatu vya uvamizi na kuwaangukia ngamia wako na kuwachukua wakaondoka nao. Wakawaua watumishi kwa upanga, nami ndimi peke yangu niliyenusurika kukuletea habari.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.17",
+            "verseOrgIds": [
+              "JOB.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOB 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipokuwa bado ananena, mjumbe mwingine akaja na kusema, \"Wana wako na binti zako walipokuwa wakifanya karamu, wakila na kunywa divai katika nyumba ya ndugu yao mkubwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.18",
+            "verseOrgIds": [
+              "JOB.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOB 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ghafula upepo wenye nguvu ukavuma kutoka jangwani, nao ukaipiga nyumba hiyo pembe zake nne. Ikawaangukia hao watoto nao wamekufa, nami ndimi peke yangu niliyenusurika kukuletea habari!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.19",
+            "verseOrgIds": [
+              "JOB.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOB 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Ayubu akasimama, akararua joho lake na kunyoa nywele zake. Kisha akaanguka chini katika kuabudu",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.20",
+            "verseOrgIds": [
+              "JOB.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JOB 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kusema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "JOB 1:21"
+      },
+      "items": [
+        {
+          "text": "\"Nilitoka tumboni mwa mama yangu uchi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "JOB 1:21"
+      },
+      "items": [
+        {
+          "text": "nami nitaondoka uchi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "JOB 1:21"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.21",
+                "verseOrgIds": [
+                  "JOB.1.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "alinipa, naye",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.21",
+                "verseOrgIds": [
+                  "JOB.1.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ameviondoa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "JOB 1:21"
+      },
+      "items": [
+        {
+          "text": "jina la",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOB.1.21",
+                "verseOrgIds": [
+                  "JOB.1.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "litukuzwe.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JOB 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mambo haya yote, Ayubu hakutenda dhambi kwa kumlaumu Mungu kwa kufanya ubaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.22",
+            "verseOrgIds": [
+              "JOB.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.2",
+    "number": "2",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  }
+}

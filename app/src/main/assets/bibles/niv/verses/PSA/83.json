@@ -1,0 +1,1143 @@
+{
+  "id": "PSA.83",
+  "number": "83",
+  "bookId": "PSA",
+  "reference": "Psalm 83",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "83",
+        "style": "c",
+        "sid": "PSA 83"
+      },
+      "items": [
+        {
+          "text": "83",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 83",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A song. A psalm of Asaph.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 83:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O God, do not remain silent;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.1",
+            "verseOrgIds": [
+              "PSA.83.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:1"
+      },
+      "items": [
+        {
+          "text": "do not turn a deaf ear,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.1",
+            "verseOrgIds": [
+              "PSA.83.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:1"
+      },
+      "items": [
+        {
+          "text": "do not stand aloof, O God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.1",
+            "verseOrgIds": [
+              "PSA.83.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 83:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "See how your enemies growl,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.2",
+            "verseOrgIds": [
+              "PSA.83.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:2"
+      },
+      "items": [
+        {
+          "text": "how your foes rear their heads.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.2",
+            "verseOrgIds": [
+              "PSA.83.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 83:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "With cunning they conspire against your people;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.3",
+            "verseOrgIds": [
+              "PSA.83.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:3"
+      },
+      "items": [
+        {
+          "text": "they plot against those you cherish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.3",
+            "verseOrgIds": [
+              "PSA.83.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 83:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Come,\" they say, \"let us destroy them as a nation,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.4",
+            "verseOrgIds": [
+              "PSA.83.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:4"
+      },
+      "items": [
+        {
+          "text": "so that Israel's name is remembered no more.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.4",
+            "verseOrgIds": [
+              "PSA.83.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 83:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "With one mind they plot together;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.5",
+            "verseOrgIds": [
+              "PSA.83.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:5"
+      },
+      "items": [
+        {
+          "text": "they form an alliance against you—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.5",
+            "verseOrgIds": [
+              "PSA.83.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 83:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "the tents of Edom and the Ishmaelites,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.6",
+            "verseOrgIds": [
+              "PSA.83.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:6"
+      },
+      "items": [
+        {
+          "text": "of Moab and the Hagrites,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.6",
+            "verseOrgIds": [
+              "PSA.83.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 83:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Byblos, Ammon and Amalek,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.7",
+            "verseOrgIds": [
+              "PSA.83.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:7"
+      },
+      "items": [
+        {
+          "text": "Philistia, with the people of Tyre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.7",
+            "verseOrgIds": [
+              "PSA.83.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 83:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Even Assyria has joined them",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.8",
+            "verseOrgIds": [
+              "PSA.83.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:8"
+      },
+      "items": [
+        {
+          "text": "to reinforce Lot's descendants.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.8",
+            "verseOrgIds": [
+              "PSA.83.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 83:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do to them as you did to Midian,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.9",
+            "verseOrgIds": [
+              "PSA.83.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:9"
+      },
+      "items": [
+        {
+          "text": "as you did to Sisera and Jabin at the river Kishon,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.9",
+            "verseOrgIds": [
+              "PSA.83.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 83:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who perished at Endor",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.10",
+            "verseOrgIds": [
+              "PSA.83.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:10"
+      },
+      "items": [
+        {
+          "text": "and became like dung on the ground.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.10",
+            "verseOrgIds": [
+              "PSA.83.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 83:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Make their nobles like Oreb and Zeeb,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.11",
+            "verseOrgIds": [
+              "PSA.83.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:11"
+      },
+      "items": [
+        {
+          "text": "all their princes like Zebah and Zalmunna,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.11",
+            "verseOrgIds": [
+              "PSA.83.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 83:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who said, \"Let us take possession",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.12",
+            "verseOrgIds": [
+              "PSA.83.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:12"
+      },
+      "items": [
+        {
+          "text": "of the pasturelands of God.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.12",
+            "verseOrgIds": [
+              "PSA.83.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 83:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Make them like tumbleweed, my God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.13",
+            "verseOrgIds": [
+              "PSA.83.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:13"
+      },
+      "items": [
+        {
+          "text": "like chaff before the wind.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.13",
+            "verseOrgIds": [
+              "PSA.83.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 83:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As fire consumes the forest",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.14",
+            "verseOrgIds": [
+              "PSA.83.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:14"
+      },
+      "items": [
+        {
+          "text": "or a flame sets the mountains ablaze,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.14",
+            "verseOrgIds": [
+              "PSA.83.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 83:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "so pursue them with your tempest",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.15",
+            "verseOrgIds": [
+              "PSA.83.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:15"
+      },
+      "items": [
+        {
+          "text": "and terrify them with your storm.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.15",
+            "verseOrgIds": [
+              "PSA.83.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 83:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cover their faces with shame,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.16",
+            "verseOrgIds": [
+              "PSA.83.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.83.16",
+                "verseOrgIds": [
+                  "PSA.83.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.16",
+            "verseOrgIds": [
+              "PSA.83.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:16"
+      },
+      "items": [
+        {
+          "text": "so that they will seek your name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.16",
+            "verseOrgIds": [
+              "PSA.83.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 83:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May they ever be ashamed and dismayed;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.17",
+            "verseOrgIds": [
+              "PSA.83.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:17"
+      },
+      "items": [
+        {
+          "text": "may they perish in disgrace.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.17",
+            "verseOrgIds": [
+              "PSA.83.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 83:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let them know that you, whose name is the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.18",
+            "verseOrgIds": [
+              "PSA.83.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.83.18",
+                "verseOrgIds": [
+                  "PSA.83.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.18",
+            "verseOrgIds": [
+              "PSA.83.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 83:18"
+      },
+      "items": [
+        {
+          "text": "that you alone are the Most High over all the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.83.18",
+            "verseOrgIds": [
+              "PSA.83.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.84",
+    "number": "84",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.82",
+    "number": "82",
+    "bookId": "PSA"
+  }
+}

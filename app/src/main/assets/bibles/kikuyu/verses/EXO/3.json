@@ -1,0 +1,606 @@
+{
+  "id": "EXO.3",
+  "number": "3",
+  "bookId": "EXO",
+  "reference": "Thaama 3",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "EXO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Musa na Kĩhinga Gĩakanaga Mwaki",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Musa nĩ kũrĩithia arĩithagia rũũru rwa mbũri rwa mũthoni-we Jethero, mũthĩnjĩri-ngai wa Midiani, nake agĩtongoria rũũru rũu rwa mbũri mwena ũũrĩa ũngĩ wa werũ kũraya ma, na agĩkinya Horebu, kĩrĩma-inĩ kĩa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.1",
+            "verseOrgIds": [
+              "EXO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arĩ kũu-rĩ, akiumĩrĩrwo nĩ mũraika wa Jehova arĩ nĩnĩmbĩ-inĩ cia mwaki ikiuma kĩhinga-inĩ. Musa akĩona atĩ o na gũtuĩka kĩhinga nĩgĩakanaga-rĩ, gĩtiahĩaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.2",
+            "verseOrgIds": [
+              "EXO.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Musa agĩĩciiria atĩrĩ, “Nĩngũthiĩ ho nĩgeetha nyone ũndũ ũyũ mũgeni, menye kĩrĩa kĩragiria kĩhinga kĩhĩe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.3",
+            "verseOrgIds": [
+              "EXO.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Jehova onire atĩ nĩathiĩ hau gũcũthĩrĩria, Ngai akĩmwĩta arĩ kĩhinga-inĩ, “Musa! Musa!” Nake Musa agĩĩtĩka, akiuga atĩrĩ, “Niĩ ũyũ haha.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.4",
+            "verseOrgIds": [
+              "EXO.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai akĩmwĩra atĩrĩ, “Ndũgakuhĩrĩrie haha. Ruta iraatũ ciaku magũrũ, nĩgũkorwo handũ hau ũrũgamĩte nĩ handũ hatheru.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.5",
+            "verseOrgIds": [
+              "EXO.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ akĩmwĩra atĩrĩ, “Niĩ nĩ niĩ Ngai wa thoguo, Ngai wa Iburahĩmu, Ngai wa Isaaka, o na Ngai wa Jakubu.” Kahinda kau Musa akĩhitha ũthiũ wake, tondũ nĩetigĩrire kũrora Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.6",
+            "verseOrgIds": [
+              "EXO.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova akiuga atĩrĩ; “Ti-itherũ nĩnyonete mĩnyamaro ya andũ akwa kũu bũrũri wa Misiri. Nĩnjiguĩte kĩrĩro kĩao nĩ ũndũ wa arũgamĩrĩri a ngombo arĩa mamahinyagĩrĩria, na nĩngũrũmbũiya ũhoro wa kũnyamarĩka kwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.7",
+            "verseOrgIds": [
+              "EXO.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio nĩnjikũrũkĩte nĩguo ndĩmateithũre kuuma moko-inĩ ma andũ a Misiri, ndĩmarute bũrũri ũcio, ndĩmatware bũrũri mwega na mwariĩ, bũrũri ũrĩ bũthi wa iria na ũũkĩ, kũrĩa gũtũũragwo nĩ Akaanani, na Ahiti, na Aamori, na Aperizi, na Ahivi, na Ajebusi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.8",
+            "verseOrgIds": [
+              "EXO.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩu kĩrĩro kĩa andũ a Isiraeli nĩkĩnginyĩire, na nĩnyonete ũrĩa andũ a bũrũri wa Misiri maramahinyĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.9",
+            "verseOrgIds": [
+              "EXO.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, thiĩ. Ndĩragũtũma kũrĩ Firaũni ũkarute andũ akwa a Isiraeli moime bũrũri wa Misiri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.10",
+            "verseOrgIds": [
+              "EXO.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Musa akĩũria Ngai atĩrĩ, “Niĩ ndĩ ũ wa gũthiĩ kwa Firaũni ngarute andũ a Isiraeli moime bũrũri wa Misiri?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.11",
+            "verseOrgIds": [
+              "EXO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai agĩcookia atĩrĩ, “Ndĩrĩkoragwo hamwe nawe. Naguo ũndũ ũyũ nĩguo ũgaatuĩka kĩmenyithia gĩa atĩ nĩ niĩ ngũtũmĩte: Rĩrĩa ũkaaruta andũ a Isiraeli moime bũrũri wa Misiri, nĩmũkahooyagĩra Ngai kĩrĩma-inĩ gĩkĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.12",
+            "verseOrgIds": [
+              "EXO.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akĩĩra Ngai atĩrĩ, “Ingĩthiĩ kũrĩ andũ a Isiraeli ndĩmeere atĩrĩ, ‘Nĩ Ngai wa maithe manyu wandũma kũrĩ inyuĩ,’ nao manjũũrie atĩrĩ, ‘Ngai ũcio etagwo atĩa?’ ngaamacookeria atĩa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.13",
+            "verseOrgIds": [
+              "EXO.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai akĩĩra Musa atĩrĩ, “NIĨ NDŨIRE O TA ŨRĨA NDŨIRE. Ĩra andũ a Isiraeli atĩrĩ, Ũrĩa wĩtagwo ‘NIĨ NDŨIRE nĩwe ũndũmĩte kũrĩ inyuĩ.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.14",
+            "verseOrgIds": [
+              "EXO.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Ngai agĩcooka akĩĩra Musa atĩrĩ, “Ĩra andũ a Isiraeli atĩrĩ, ‘Jehova, o we Ngai wa maithe manyu, Ngai wa Iburahĩmu, na Ngai wa Isaaka na Ngai wa Jakubu nĩandũmĩte kũrĩ inyuĩ.’ Rĩĩrĩ nĩrĩo rĩĩtwa rĩakwa nginya tene, rĩĩtwa rĩrĩa ndĩĩririkanagwo narĩo kuuma njiarwa na njiarwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.15",
+            "verseOrgIds": [
+              "EXO.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thiĩ, ũcookanĩrĩrie athuuri a Isiraeli, ũmeere atĩrĩ, ‘Jehova, Ngai wa maithe manyu o we Ngai wa Iburahĩmu, na Isaaka, na Jakubu nĩanyumĩrĩire akanjĩĩra atĩrĩ: Nĩndorete na ngoona maũndũ marĩa mwĩkĩtwo kũu bũrũri wa Misiri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.16",
+            "verseOrgIds": [
+              "EXO.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na nĩnduĩte nĩngũmũruta kuuma mĩnyamaro-inĩ yanyu kũu bũrũri wa Misiri, ndĩmũtware bũrũri wa Akaanani, na Ahiti, na Aamori, na Aperizi, na Ahivi, na Ajebusi, bũrũri ũrĩ bũthi wa iria na ũũkĩ.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.17",
+            "verseOrgIds": [
+              "EXO.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Athuuri acio a Isiraeli nĩmagagũthikĩrĩria. Ningĩ wee na athuuri acio nĩmũgathiĩ kũrĩ mũthamaki wa bũrũri wa Misiri na mũmwĩre atĩrĩ, ‘Jehova, o we Ngai wa Ahibirania, nĩarĩtie na ithuĩ. Nĩ ũndũ ũcio twĩtĩkĩrie tũthiĩ rũgendo rwa mĩthenya ĩtatũ werũ-inĩ tũkarutĩre Jehova Ngai witũ magongona.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.18",
+            "verseOrgIds": [
+              "EXO.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nĩnjũũĩ atĩ mũthamaki ũcio wa bũrũri wa Misiri ndakamwĩtĩkĩria mũthiĩ, tiga guoko gwakwa kwa hinya kũmũhatĩrĩirie gwĩka ũguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.19",
+            "verseOrgIds": [
+              "EXO.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio nĩngatambũrũkia guoko gwakwa hũũre andũ a Misiri na maũndũ mothe ma magegania marĩa ngeeka thĩinĩ wao. Thuutha ũcio, nĩakamwĩtĩkĩria mũthiĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.20",
+            "verseOrgIds": [
+              "EXO.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Na nĩngatũma mwĩtĩkĩrĩke nĩ andũ a Misiri, nĩgeetha rĩrĩa mũkoimagara, mũtikanathiĩ moko matheri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.21",
+            "verseOrgIds": [
+              "EXO.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ-wa-nja o wothe Mũisiraeli nĩakahooya mũndũ wa itũũra rĩake, na ahooe mũndũ-wa-nja o wothe matũũranagia nake gwake nyũmba indo cia betha na thahabu o na nguo, iria mũkaahumba ciana cianyu cia aanake na cia airĩtu. Na nĩ ũndũ ũcio nĩmũgataha andũ acio a Misiri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.3.22",
+            "verseOrgIds": [
+              "EXO.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.4",
+    "number": "4",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.2",
+    "number": "2",
+    "bookId": "EXO"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "id": "EXO.24",
+  "number": "24",
+  "bookId": "EXO",
+  "reference": "Thaama 24",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "EXO 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kĩrĩkanĩro Gwĩkĩrwo Hinya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩĩra Musa atĩrĩ, “Ambata, ũũke kũrĩ Jehova, wee na Harũni, na Nadabu, na Abihu, na athuuri mĩrongo mũgwanja a Isiraeli, mũinamĩrĩre mũhooe mũrĩ haraaya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.1",
+            "verseOrgIds": [
+              "EXO.24.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 24:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no Musa wiki ũgaakuhĩrĩria Jehova; acio angĩ matigooke hakuhĩ. Nao andũ acio angĩ a Isiraeli matikambate nawe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.2",
+            "verseOrgIds": [
+              "EXO.24.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 24:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Musa agĩthiĩ na akĩĩra andũ ciugo ciothe cia Jehova na mawatho make, nao andũ magĩĩtĩkanĩria na mũgambo ũmwe, makiuga atĩrĩ, “Ũrĩa wothe Jehova oigĩte, nĩtũgwĩka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.3",
+            "verseOrgIds": [
+              "EXO.24.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 24:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Musa akĩandĩka ũhoro wothe ũrĩa Jehova aarĩtie. Mũthenya ũyũ ũngĩ agĩũkĩra rũciinĩ tene, agĩaka kĩgongona magũrũ-inĩ ma kĩrĩma, na akĩrũgamia itugĩ ikũmi na igĩrĩ cia mahiga irũgamĩrĩire mĩhĩrĩga ikũmi na ĩĩrĩ ya Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.4",
+            "verseOrgIds": [
+              "EXO.24.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 24:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ agĩtũma aanake amwe a Isiraeli, nao makĩruta magongona ma njino, na magĩthĩnja tũtegwa tũrĩ igongona rĩa ũiguano kũrĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.5",
+            "verseOrgIds": [
+              "EXO.24.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 24:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akĩoya nuthu ya thakame yatuo akĩmĩĩkĩra mbakũri-inĩ, na nuthu ĩrĩa ĩngĩ akĩmĩminjaminjĩria kĩgongona kĩu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.6",
+            "verseOrgIds": [
+              "EXO.24.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 24:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ akĩoya Ibuku rĩa Kĩrĩkanĩro, na akĩrĩthomera andũ. Nao andũ magĩĩtĩkanĩria, makiuga atĩrĩ, “Nĩtũgwĩka ũrĩa wothe Jehova oigĩte; nĩtũgwathĩka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.7",
+            "verseOrgIds": [
+              "EXO.24.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 24:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agĩcooka akĩoya thakame ĩyo, akĩmĩminjaminjĩria andũ, na akiuga atĩrĩ, “Ĩno nĩ thakame ya kĩrĩkanĩro kĩrĩa Jehova aarĩkanĩire na inyuĩ kũringana na ciugo ici ciothe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.8",
+            "verseOrgIds": [
+              "EXO.24.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa na Harũni, na Nadabu na Abihu hamwe na athuuri acio mĩrongo mũgwanja a Isiraeli makĩambata,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.9",
+            "verseOrgIds": [
+              "EXO.24.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na makĩona Ngai wa Isiraeli. Rungu rwa makinya make haarĩ handũ haakĩtwo wega na mahiga ma yakuti ya bururu, matherete o ta igũrũ rĩo rĩene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.10",
+            "verseOrgIds": [
+              "EXO.24.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 24:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jehova ndaigana kũhũũra atongoria acio a Isiraeli; nĩmoonire Ngai, na makĩrĩa na makĩnyua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.11",
+            "verseOrgIds": [
+              "EXO.24.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 24:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩĩra Musa atĩrĩ, “Ambata, ũũke kũrĩ niĩ kĩrĩma igũrũ, na ũikare ho, na nĩngũcooka ngũnengere ihengere cia mahiga, irĩ na maandĩko ma watho na maathani marĩa nyandĩkĩte nĩguo ũmarutage andũ a Isiraeli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.12",
+            "verseOrgIds": [
+              "EXO.24.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 24:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Musa akiumagara marĩ na mũteithĩrĩria wake Joshua, nake Musa akĩambata kĩrĩma-inĩ kĩa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.13",
+            "verseOrgIds": [
+              "EXO.24.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 24:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩĩra athuuri acio atĩrĩ, “Twetererei haha nginya rĩrĩa tũgaacooka. Harũni na Huri marĩ hamwe na inyuĩ, mũndũ o wothe ũrĩa ũngĩgĩa na ciira nĩathiiage kũrĩ o.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.14",
+            "verseOrgIds": [
+              "EXO.24.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 24:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Musa aambatire kĩrĩma-inĩ, itu rĩkĩhumbĩra kĩrĩma,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.15",
+            "verseOrgIds": [
+              "EXO.24.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 24:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naguo riiri wa Jehova ũgĩikara igũrũ rĩa Kĩrĩma gĩa Sinai. Kĩrĩma gĩkĩhumbĩrwo nĩ itu rĩu mĩthenya ĩtandatũ, na mũthenya wa mũgwanja Jehova agĩĩta Musa arĩ itu-inĩ rĩu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.16",
+            "verseOrgIds": [
+              "EXO.24.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 24:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "andũ a Isiraeli moonaga riiri wa Jehova ũtariĩ ta mwaki wa kũniinana ũrĩ kĩrĩma igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.17",
+            "verseOrgIds": [
+              "EXO.24.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 24:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Musa agĩtoonya itu-inĩ o akĩambataga kĩrĩma. Agĩikara kũu kĩrĩma-inĩ matukũ mĩrongo ĩna, ũtukũ na mũthenya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.24.18",
+            "verseOrgIds": [
+              "EXO.24.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.25",
+    "number": "25",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.23",
+    "number": "23",
+    "bookId": "EXO"
+  }
+}

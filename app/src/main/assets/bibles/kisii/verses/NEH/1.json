@@ -1,0 +1,379 @@
+{
+  "id": "NEH.1",
+  "number": "1",
+  "bookId": "NEH",
+  "reference": "Nehemia 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NEH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nehemia ogosabera Abanto baye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amang’ana a Nehemia, mosinto o Hakalia. Ase omotienyi o Kisilevu, omwaka bw’emerengo ebere, ekero narenge ase eburi agwo Susa, omochie omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.1",
+            "verseOrgIds": [
+              "NEH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hanani, oyomo bw’abaminto, agacha amo nabaanto bande korwa ase ense y’Abayuda. Nkababooria igoro y’Abayahudi bande batigarete aroro bare moyo, abwo konya batoorekire korwa ase obosomba, naende nkababoria amang’ana igoro ya Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.2",
+            "verseOrgIds": [
+              "NEH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakang’iraneria, baganteebia, “Abatigari baria batooretigwe korwa ase obosomba bare ase orogongo rwabo, nigo bare ase emechando emenene na ogochaywa okonene Orwaki rwa Yerusalemu rwatagoirwe, na ebiita biaye biasambirwe nomorero.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.3",
+            "verseOrgIds": [
+              "NEH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero naigwete amang’ana ayio, ngaikaransa inse, nkarera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.4",
+            "verseOrgIds": [
+              "NEH.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Ase amatuko atai make nkaba nkobokia amagombo na kweng’ata amo nogosaba ase obosio bwa Nyasae ore igoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.4",
+            "verseOrgIds": [
+              "NEH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ngateba, “Aye Omonene, Nyasae ore igoro, aye nomobui bw’okoirokia, aye bwanchete na korenda okobwatana kwao kw’ogotianania na kobaa obuya abwo bagwanchete na babwatete amachiiko ao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.5",
+            "verseOrgIds": [
+              "NEH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndigererie oigwe ogosaba kwane, inche omosomba oo. Nigo ngosaba ase obosio bwao omobaso na obotuko, ase engencho y’abasomba bao Abaisraeli, na koorokia ebibe intwe Abaisraeli twakorire asore. Ee, ekeene, nonya ninche amo nabaanto b’eamate yane twakorire ebibe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.6",
+            "verseOrgIds": [
+              "NEH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twakorire ogosaria okobe mono asore, twatigire kobwata amachiiko na emeroberio echiikire, ebio gwachigeete Musa, omosomba oo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.7",
+            "verseOrgIds": [
+              "NEH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono inyora amang’ana aria gwachigeete Musa, omosomba oo, okamoteebia: Inwe motabeti abegenwa, goika imbasiarere gochia ase abanto b’ebisaku ebiao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.8",
+            "verseOrgIds": [
+              "NEH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende komorang’iranere na kobwata amachiiko aane na koyarenda, nonya Abanto baino Baserigwe gochia ase chinsinyo chi’ense, nigo ndabasangererie korwa aase agwo, mbarente aase nachorire kobeeka erieta riane ribeereo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.9",
+            "verseOrgIds": [
+              "NEH.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Aba nigo bare abasomba bao na abanto bao, abwo kwabooretie nokobua kwao okonene goetera ase okoboko kwao kore ne chinguru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.10",
+            "verseOrgIds": [
+              "NEH.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, igwa ogosaba kwane, inche omosomba oo, amo nogosaba kw’abasomba bao, abwo bare nomogooko gokoiroka aye. Insesenia inche, omosomba oo, rituko ria reero, inyore ogwancherwa ase obosio bw’omonto oyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.11",
+            "verseOrgIds": [
+              "NEH.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Ase engaki eyio nigo narenge omobogoria bw’ebinyugwa bi’omorwoti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.1.11",
+            "verseOrgIds": [
+              "NEH.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.2",
+    "number": "2",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.intro",
+    "number": "intro",
+    "bookId": "NEH"
+  }
+}

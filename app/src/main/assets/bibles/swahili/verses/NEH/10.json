@@ -1,0 +1,1605 @@
+{
+  "id": "NEH.10",
+  "number": "10",
+  "bookId": "NEH",
+  "reference": "Nehemia 10",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 39,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "NEH 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale waliotia muhuri walikuwa:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "NEH 10:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:1"
+      },
+      "items": [
+        {
+          "text": "Nehemia mtawala, mwana wa Hakalia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "NEH 10:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:1"
+      },
+      "items": [
+        {
+          "text": "Sedekia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Seraya, Azaria, Yeremia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.2",
+            "verseOrgIds": [
+              "NEH.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pashuri, Amaria, Malkiya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.3",
+            "verseOrgIds": [
+              "NEH.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hatushi, Shebania, Maluki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.4",
+            "verseOrgIds": [
+              "NEH.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Harimu, Meremothi, Obadia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.5",
+            "verseOrgIds": [
+              "NEH.10.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Danieli, Ginethoni, Baruku,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.6",
+            "verseOrgIds": [
+              "NEH.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Meshulamu, Abiya, Miyamini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.7",
+            "verseOrgIds": [
+              "NEH.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maazia, Bilgai na Shemaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.8",
+            "verseOrgIds": [
+              "NEH.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:8"
+      },
+      "items": [
+        {
+          "text": "Hawa ndio waliokuwa makuhani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.8",
+            "verseOrgIds": [
+              "NEH.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walawi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.9",
+            "verseOrgIds": [
+              "NEH.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:9"
+      },
+      "items": [
+        {
+          "text": "Yeshua mwana wa Azania, Binui wa wana wa Henadadi, Kadmieli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.9",
+            "verseOrgIds": [
+              "NEH.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na wenzao: Shebania,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.10",
+            "verseOrgIds": [
+              "NEH.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:10"
+      },
+      "items": [
+        {
+          "text": "Hodia, Kelita, Pelaya, Hanani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.10",
+            "verseOrgIds": [
+              "NEH.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mika, Rehobu, Hashabia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.11",
+            "verseOrgIds": [
+              "NEH.10.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zakuri, Sherebia, Shebania,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.12",
+            "verseOrgIds": [
+              "NEH.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hodia, Bani na Beninu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.13",
+            "verseOrgIds": [
+              "NEH.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Viongozi wa watu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.14",
+            "verseOrgIds": [
+              "NEH.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NEH 10:14"
+      },
+      "items": [
+        {
+          "text": "Paroshi, Pahath-Moabu, Elamu, Zatu, Bani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.14",
+            "verseOrgIds": [
+              "NEH.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buni, Azgadi, Bebai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.15",
+            "verseOrgIds": [
+              "NEH.10.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adoniya, Bigwai, Adini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.16",
+            "verseOrgIds": [
+              "NEH.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ateri, Hezekia, Azuri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.17",
+            "verseOrgIds": [
+              "NEH.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hodia, Hashumu, Besai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.18",
+            "verseOrgIds": [
+              "NEH.10.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Harifu, Anathothi, Nebai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.19",
+            "verseOrgIds": [
+              "NEH.10.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magpiashi, Meshulamu, Heziri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.20",
+            "verseOrgIds": [
+              "NEH.10.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NEH 10:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Meshezabeli, Sadoki, Yadua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.21",
+            "verseOrgIds": [
+              "NEH.10.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NEH 10:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pelatia, Hanani, Anaya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.22",
+            "verseOrgIds": [
+              "NEH.10.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NEH 10:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hoshea, Hanania, Hashubu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.23",
+            "verseOrgIds": [
+              "NEH.10.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NEH 10:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haloheshi, Pilha, Shobeki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.24",
+            "verseOrgIds": [
+              "NEH.10.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NEH 10:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rehumu, Hashabna, Maaseya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.25",
+            "verseOrgIds": [
+              "NEH.10.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NEH 10:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahiya, Hanani, Anani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.26",
+            "verseOrgIds": [
+              "NEH.10.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NEH 10:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maluki, Harimu na Baana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.27",
+            "verseOrgIds": [
+              "NEH.10.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NEH 10:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Watu wengine wote, wakiwa ni makuhani, Walawi, mabawabu, waimbaji, watumishi wa Hekalu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.28",
+            "verseOrgIds": [
+              "NEH.10.29"
+            ]
+          }
+        },
+        {
+          "text": "na wale wote waliojitenga na mataifa jirani kwa ajili ya Sheria ya Mungu, pamoja na wake zao na wana wao na binti zao wote waliokuwa na uwezo wa kufahamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.28",
+            "verseOrgIds": [
+              "NEH.10.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NEH 10:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "basi hawa wote wanajiunga na ndugu zao na wakuu wao, na kujifunga kwa laana na kwa kiapo kufuata Sheria ya Mungu iliyotolewa kupitia kwa Mose mtumishi wa Mungu, na kutii kwa uangalifu amri zote, maagizo na sheria za",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.29",
+            "verseOrgIds": [
+              "NEH.10.30"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NEH.10.29",
+                "verseOrgIds": [
+                  "NEH.10.30"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Bwana wetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.29",
+            "verseOrgIds": [
+              "NEH.10.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NEH 10:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Tunaahidi kutowaoza binti zetu kwa watu wanaotuzunguka, wala kuwaoza wana wetu binti zao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.30",
+            "verseOrgIds": [
+              "NEH.10.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NEH 10:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Wakati mataifa jirani waletapo bidhaa zao au nafaka kuuza siku ya Sabato, hatutazinunua kutoka kwao siku ya Sabato, wala siku nyingine yoyote takatifu. Kila mwaka wa saba, tutaacha kuilima ardhi na tutafuta madeni yote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.31",
+            "verseOrgIds": [
+              "NEH.10.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NEH 10:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Tunakubali wajibu wa kutimiza amri za kutoa theluthi ya shekeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.32",
+            "verseOrgIds": [
+              "NEH.10.33"
+            ]
+          }
+        },
+        {
+          "text": "kila mwaka kwa ajili ya utumishi wa nyumba ya Mungu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.32",
+            "verseOrgIds": [
+              "NEH.10.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NEH 10:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ajili ya mikate ya Wonyesho, kwa ajili ya sadaka za kawaida za nafaka na sadaka za kuteketezwa, kwa ajili ya sadaka za siku za Sabato, Sikukuu za Mwandamo wa Mwezi na sikukuu nyingine zilizoamriwa, kwa ajili ya sadaka takatifu, kwa ajili ya sadaka za dhambi ili kufanya upatanisho kwa ajili ya Israeli, na kwa ajili ya kazi zote za nyumba ya Mungu wetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.33",
+            "verseOrgIds": [
+              "NEH.10.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NEH 10:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Sisi makuhani, Walawi na watu, tumepiga kura kuamua kuwa kila mmoja wa jamaa zetu lazima alete katika nyumba ya Mungu wetu kwa nyakati maalum kila mwaka mchango wa kuni za kukokea moto katika madhabahu ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.34",
+            "verseOrgIds": [
+              "NEH.10.35"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NEH.10.34",
+                "verseOrgIds": [
+                  "NEH.10.35"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wetu, kama ilivyoandikwa katika Sheria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.34",
+            "verseOrgIds": [
+              "NEH.10.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "NEH 10:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Pia tunachukua wajibu wa kuleta malimbuko ya mazao yetu na matunda ya kwanza ya kila mti wa matunda katika nyumba ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.35",
+            "verseOrgIds": [
+              "NEH.10.36"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NEH.10.35",
+                "verseOrgIds": [
+                  "NEH.10.36"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "kila mwaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.35",
+            "verseOrgIds": [
+              "NEH.10.36"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "NEH 10:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Kama pia ilivyoandikwa katika Sheria, tutawaleta wazaliwa wetu wa kwanza wa kiume, na wa mifugo yetu, yaani wa ngʼombe wetu na wa makundi yetu ya kondoo na mbuzi, katika nyumba ya Mungu wetu, kwa ajili ya makuhani wanaohudumu huko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.36",
+            "verseOrgIds": [
+              "NEH.10.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "NEH 10:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Zaidi ya hayo, tutaleta katika ghala za nyumba ya Mungu wetu, kwa makuhani, vyakula vya kwanza vya mashamba yetu, sadaka zetu za nafaka, matunda ya miti yetu yote, divai yetu mpya na mafuta. Nasi tutaleta zaka za mazao yetu kwa Walawi, kwa kuwa Walawi ndio ambao hukusanya zaka katika miji yote tunakofanya kazi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.37",
+            "verseOrgIds": [
+              "NEH.10.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "NEH 10:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhani atokanaye na uzao wa Aroni atashirikiana na Walawi wakati wanapopokea zaka, nao Walawi itawapasa kuleta sehemu ya kumi ya zaka katika nyumba ya Mungu wetu katika ghala za hazina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.38",
+            "verseOrgIds": [
+              "NEH.10.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "NEH 10:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu wa Israeli pamoja na Walawi itawapasa kuleta michango yao ya nafaka, divai mpya na mafuta katika vyumba vya ghala, mahali vifaa vya mahali patakatifu vinapohifadhiwa, na wanapokaa makuhani wanaohudumu, na mabawabu na waimbaji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.39",
+            "verseOrgIds": [
+              "NEH.10.40"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm",
+        "vid": "NEH 10:39"
+      },
+      "items": [
+        {
+          "text": "\"Hatutaacha kuijali nyumba ya Mungu wetu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.39",
+            "verseOrgIds": [
+              "NEH.10.40"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.11",
+    "number": "11",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.9",
+    "number": "9",
+    "bookId": "NEH"
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "id": "DEU.3",
+  "number": "3",
+  "bookId": "DEU",
+  "reference": "Gũcookerithia 3",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "DEU 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ogu Mũthamaki wa Bashani Kũhootwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩtwacookire tũkĩgarũrũka na tũkĩambata na njĩra tũrorete Bashani, nake Ogu mũthamaki wa Bashani akiumagara na mbũtũ ciake ciothe cia ita oke ahũũrane na ithuĩ kũu Edirei.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.1",
+            "verseOrgIds": [
+              "DEU.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩnjĩĩra atĩrĩ, “Ndũkamwĩtigĩre, nĩ ũndũ nĩndĩmũneanĩte hamwe na mbũtũ ciake ciothe cia ita na bũrũri wake moko-inĩ maku. Mwĩke o ũrĩa wekire Sihoni mũthamaki wa Aamori, ũrĩa waathanaga Heshiboni.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.2",
+            "verseOrgIds": [
+              "DEU.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Jehova Ngai witũ akĩneana Ogu mũthamaki wa Bashani moko-inĩ maitũ na mbũtũ yake yothe. Tũkĩmooraga na tũtiatigirie mũndũ o na ũmwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.3",
+            "verseOrgIds": [
+              "DEU.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihinda-inĩ rĩu tũkĩmatunya matũũra mao mothe. Gũtirĩ itũũra o na rĩmwe rĩa matũũra mao mĩrongo ĩtandatũ tũtaamatunyire, marĩa maarĩ bũrũri-inĩ ũcio wothe wa Arigobu, ũthamaki-inĩ wa Ogu kũu Bashani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.4",
+            "verseOrgIds": [
+              "DEU.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Matũũra macio mothe maarĩ mairigĩre na hinya, na thingo ndaaya na igũrũ, na ihingo ciarĩ na mĩgĩĩko, na ningĩ no kwarĩ tũtũũra tũingĩ tũtaarĩ tũirigĩre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.5",
+            "verseOrgIds": [
+              "DEU.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩtwamanangire biũ, o ta ũrĩa twekĩte Sihoni mũthamaki wa Heshiboni, tũkĩananga matũũra mothe manene, o na tũkĩniina arũme na andũ-a-nja o na ciana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.6",
+            "verseOrgIds": [
+              "DEU.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mahiũ mothe na indo iria twatahire kuuma matũũra macio mao manene nĩtwacioire tũgĩthiĩ nacio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.7",
+            "verseOrgIds": [
+              "DEU.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ihinda-inĩ rĩu nĩtwatunyanire bũrũri ũrĩa warĩ irathĩro rĩa Rũũĩ rwa Jorodani, kuuma kũrĩ athamaki acio eerĩ a Aamori, naguo uumĩte kĩanda kĩa Arinoni nginya kĩrĩma-inĩ kĩa Herimoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.8",
+            "verseOrgIds": [
+              "DEU.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Kĩrĩma kĩa Herimoni gĩĩtagwo Sirioni nĩ Asidoni; nao Aamori magĩĩtaga Seniru.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.9",
+            "verseOrgIds": [
+              "DEU.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩtwatahire matũũra mothe marĩa maarĩ kũndũ kwaraganu, na Gileadi guothe, na Bashani guothe, o nginya Saleka na Edirei, matũũra ma kũrĩa Ogu aathanaga kũu Bashani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.10",
+            "verseOrgIds": [
+              "DEU.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(No Ogu mũthamaki wa Bashani wiki watigarire harĩ matigari ma Arefai. Gĩtanda gĩake kĩarĩ gĩa cuuma, na kĩarĩ na ũraihu wa makĩria ma buti ikũmi na ithatũ,na wariĩ wa buti ithathatũ.Gĩtanda kĩu kĩrĩ o kũu Raba kwa Aamoni.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.11",
+            "verseOrgIds": [
+              "DEU.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũgayania Bũrũri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo bũrũri ũrĩa twatunyanire hĩndĩ ĩyo-rĩ, nĩndagaĩire andũ a Rubeni na a Gadi bũrũri ũrĩa warĩ gathigathini wa Aroeri kũnyiitana na kĩanda kĩa Arinoni, hamwe na nuthu ya bũrũri ũrĩa ũrĩ irĩma wa Gileadi, o hamwe na matũũra makuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.12",
+            "verseOrgIds": [
+              "DEU.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakuo kũrĩa kũngĩ guothe gwatigaire kũu Gileadi o na Bashani guothe, kũrĩa Ogu aathanaga, ngĩkũhe nuthu ya mũhĩrĩga wa Manase. (Bũrũri wothe wa Arigobu kũu Bashani hĩndĩ ĩmwe wetagwo bũrũri wa Arefai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.13",
+            "verseOrgIds": [
+              "DEU.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jairu, wa rũciaro rwa Manase, nĩegwatĩire bũrũri wothe wa Arigobu o nginya mũhaka-inĩ wa Ageshuru na Amaakathi; nakuo gũgĩĩtanio nake, nĩ ũndũ ũcio Bashani gwĩtagwo Havothu-Jairu o nginya ũmũthĩ.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.14",
+            "verseOrgIds": [
+              "DEU.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩndaheanire Gileadi kũrĩ Makiru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.15",
+            "verseOrgIds": [
+              "DEU.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No andũ a Rubeni na a Gadi ndaamaheire bũrũri ũrĩa uumĩte Gileadi ũgaikũrũka nginya kĩanda kĩa Arinoni (mũhaka warĩ gatagatĩ ga kĩanda kĩu), ũgacooka ũgakinya rũũĩ-inĩ rwa Jaboku, arĩ ruo mũhaka wa Aamoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.16",
+            "verseOrgIds": [
+              "DEU.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũhaka wakuo wa mwena wa ithũĩro warĩ Rũũĩ rwa Jorodani kũu Araba, kuuma Kinerethu nginya Iria-inĩ rĩa Araba (nĩrĩo Iria rĩa Cumbĩ), mũhuro wa iharũrũka cia Pisiga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.17",
+            "verseOrgIds": [
+              "DEU.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo nĩndamwathire ngĩmwĩra atĩrĩ, “Jehova Ngai wanyu nĩamũheete bũrũri ũyũ mũwĩgwatĩre. No andũ anyu arĩa marĩ na hinya, arĩa meeohete indo cia mbaara, no nginya maringe mũrĩmo ũrĩa ũngĩ mbere ya andũ a Isiraeli ariũ a ithe wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.18",
+            "verseOrgIds": [
+              "DEU.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, atumia anyu, na ciana cianyu, o na ũhiũ wanyu (nĩnjũũĩ nĩ mũrĩ na ũhiũ mũingĩ) no maikare matũũra-inĩ marĩa ndĩmũheete,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.19",
+            "verseOrgIds": [
+              "DEU.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nginya rĩrĩa Jehova akaahe ariũ a thoguo ũhurũko ta ũrĩa amũheete inyuĩ, nao makorwo meyoeire bũrũri ũrĩa Jehova Ngai wanyu ekũmahe, mũrĩmo ũrĩa ũngĩ wa Rũũĩ rwa Jorodani. Thuutha ũcio-rĩ, o mũndũ wanyu no acooke handũ harĩa ndĩmũheete mwĩgwatĩre hatuĩke hanyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.20",
+            "verseOrgIds": [
+              "DEU.3.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Musa Kũgirio Kũringa Rũũĩ rwa Jorodani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩatha Joshua ngĩmwĩra atĩrĩ: “Nĩwĩoneire na maitho maku ũrĩa wothe Jehova Ngai wanyu ekĩte athamaki acio eerĩ. Ũguo noguo Jehova ageeka mothamaki marĩa mothe marĩ kũndũ kũu mũrathiĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.21",
+            "verseOrgIds": [
+              "DEU.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndũkanametigĩre; Jehova Ngai wanyu nĩwe ũrĩmũrũagĩrĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.22",
+            "verseOrgIds": [
+              "DEU.3.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo nĩndathaithire Jehova ngĩmwĩra atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.23",
+            "verseOrgIds": [
+              "DEU.3.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DEU 3:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“We Mwathani Jehova, nĩwambĩrĩirie kuonia ndungata yaku ũnene waku na hinya wa guoko gwaku. Nĩ ũndũ-rĩ, nĩ ngai ĩrĩkũ igũrũ kana thĩ ĩngĩĩka ciĩko cia hinya ta iria wee wĩkaga?",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.24",
+            "verseOrgIds": [
+              "DEU.3.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 3:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Reke ninge kũndũ kũu mũrĩmo wa Rũũĩ rwa Jorodani ngeyonere bũrũri mwega, bũrũri ũcio mwega ũrĩ irĩma o na bũrũri wa Lebanoni.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.25",
+            "verseOrgIds": [
+              "DEU.3.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DEU 3:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nĩ ũndũ wanyu-rĩ, Jehova nĩandakarĩire na ndangĩathikĩrĩirie. Jehova akiuga atĩrĩ, “Reke ũhoro ũcio ũkinye hau, ndũkanjarĩrie rĩngĩ ũndũ wĩgiĩ ũhoro ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.26",
+            "verseOrgIds": [
+              "DEU.3.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DEU 3:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ambata gacũmbĩrĩ ga kĩrĩma kĩa Pisiga wĩrorere mwena wa ithũĩro, na wa gathigathini, na wa gũthini, o na wa irathĩro. Wĩrorere bũrũri ũcio na maitho maku, nĩ ũndũ ndũkũringa rũũĩ rũrũ rwa Jorodani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.27",
+            "verseOrgIds": [
+              "DEU.3.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DEU 3:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, taara Joshua, na ũmũũmĩrĩrie, na ũmwĩkĩre hinya, nĩgũkorwo nĩwe ũgaatongoria andũ aya maringe mathiĩ mũrĩmo ũrĩa ũngĩ, na atũme magae bũrũri ũcio ũkuona.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.28",
+            "verseOrgIds": [
+              "DEU.3.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DEU 3:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio tũgĩikara kũu gĩtuamba-inĩ hakuhĩ na Bethi-Peori.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.29",
+            "verseOrgIds": [
+              "DEU.3.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.4",
+    "number": "4",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.2",
+    "number": "2",
+    "bookId": "DEU"
+  }
+}

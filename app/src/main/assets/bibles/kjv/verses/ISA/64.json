@@ -1,0 +1,885 @@
+{
+  "id": "ISA.64",
+  "number": "64",
+  "bookId": "ISA",
+  "reference": "Isaiah 64",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "64",
+        "style": "c",
+        "sid": "ISA 64"
+      },
+      "items": [
+        {
+          "text": "64",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 64:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.1",
+            "verseOrgIds": [
+              "ISA.64.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 64:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.2",
+            "verseOrgIds": [
+              "ISA.64.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "when",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.2",
+                "verseOrgIds": [
+                  "ISA.64.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.2",
+            "verseOrgIds": [
+              "ISA.64.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.2",
+                "verseOrgIds": [
+                  "ISA.64.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the nations may tremble at thy presence!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.2",
+            "verseOrgIds": [
+              "ISA.64.1"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.2",
+            "verseOrgIds": [
+              "ISA.64.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 64:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When thou didst terrible things",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.3",
+            "verseOrgIds": [
+              "ISA.64.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.3",
+                "verseOrgIds": [
+                  "ISA.64.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "we looked not for, thou camest down, the mountains flowed down at thy presence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.3",
+            "verseOrgIds": [
+              "ISA.64.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 64:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For since the beginning of the world",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.4",
+            "verseOrgIds": [
+              "ISA.64.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "men",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.4",
+                "verseOrgIds": [
+                  "ISA.64.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.4",
+            "verseOrgIds": [
+              "ISA.64.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "what",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.4",
+                "verseOrgIds": [
+                  "ISA.64.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he hath prepared for him that waiteth for him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.4",
+            "verseOrgIds": [
+              "ISA.64.3"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.4",
+            "verseOrgIds": [
+              "ISA.64.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 64:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou meetest him that rejoiceth and worketh righteousness,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.5",
+            "verseOrgIds": [
+              "ISA.64.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "those that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.5",
+                "verseOrgIds": [
+                  "ISA.64.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.5",
+            "verseOrgIds": [
+              "ISA.64.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 64:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But we are all as an unclean",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.6",
+            "verseOrgIds": [
+              "ISA.64.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thing",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.6",
+                "verseOrgIds": [
+                  "ISA.64.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and all our righteousnesses",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.6",
+            "verseOrgIds": [
+              "ISA.64.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.6",
+                "verseOrgIds": [
+                  "ISA.64.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.6",
+            "verseOrgIds": [
+              "ISA.64.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 64:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.7",
+            "verseOrgIds": [
+              "ISA.64.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.7",
+                "verseOrgIds": [
+                  "ISA.64.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.7",
+            "verseOrgIds": [
+              "ISA.64.6"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.7",
+            "verseOrgIds": [
+              "ISA.64.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 64:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But now, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.8",
+            "verseOrgIds": [
+              "ISA.64.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.8",
+                "verseOrgIds": [
+                  "ISA.64.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.8",
+            "verseOrgIds": [
+              "ISA.64.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.8",
+                "verseOrgIds": [
+                  "ISA.64.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our father; we",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.8",
+            "verseOrgIds": [
+              "ISA.64.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.8",
+                "verseOrgIds": [
+                  "ISA.64.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the clay, and thou our potter; and we all",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.8",
+            "verseOrgIds": [
+              "ISA.64.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.8",
+                "verseOrgIds": [
+                  "ISA.64.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the work of thy hand.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.8",
+            "verseOrgIds": [
+              "ISA.64.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 64:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Be not wroth very sore, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.9",
+            "verseOrgIds": [
+              "ISA.64.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.9",
+                "verseOrgIds": [
+                  "ISA.64.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", neither remember iniquity for ever: behold, see, we beseech thee, we",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.9",
+            "verseOrgIds": [
+              "ISA.64.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.9",
+                "verseOrgIds": [
+                  "ISA.64.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "all thy people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.9",
+            "verseOrgIds": [
+              "ISA.64.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 64:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.10",
+            "verseOrgIds": [
+              "ISA.64.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 64:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.11",
+            "verseOrgIds": [
+              "ISA.64.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 64:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wilt thou refrain thyself for these",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.12",
+            "verseOrgIds": [
+              "ISA.64.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "things",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.12",
+                "verseOrgIds": [
+                  "ISA.64.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", O",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.12",
+            "verseOrgIds": [
+              "ISA.64.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.64.12",
+                "verseOrgIds": [
+                  "ISA.64.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "? wilt thou hold thy peace, and afflict us very sore?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.64.12",
+            "verseOrgIds": [
+              "ISA.64.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.65",
+    "number": "65",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.63",
+    "number": "63",
+    "bookId": "ISA"
+  }
+}

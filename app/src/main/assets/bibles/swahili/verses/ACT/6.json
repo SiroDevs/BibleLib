@@ -1,0 +1,555 @@
+{
+  "id": "ACT.6",
+  "number": "6",
+  "bookId": "ACT",
+  "reference": "Matendo 6",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ACT 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms1"
+      },
+      "items": [
+        {
+          "text": "Mateso Na Kuenea Kwa Injili",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "mr"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "ACT.6.1-ACT.9.31"
+          },
+          "items": [
+            {
+              "text": "6:1–9:31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Saba Wachaguliwa Kuhudumu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi ikawa katika siku hizo, wakati idadi ya wanafunzi ilipokuwa ikiongezeka sana, palitokea manungʼuniko kati ya Wayahudi wa Kiyunani, dhidi ya Waebrania kwa sababu wajane wao walisahaulika katika mgawanyo wa chakula wa kila siku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.1",
+            "verseOrgIds": [
+              "ACT.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale mitume kumi na wawili wakakusanya wanafunzi wote pamoja wakasema, \"Haitakuwa vyema sisi kuacha huduma ya neno la Mungu ili kuhudumu mezani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.2",
+            "verseOrgIds": [
+              "ACT.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo ndugu, chagueni watu saba miongoni mwenu, watu wenye sifa njema, waliojawa na Roho Mtakatifu na hekima, ambao tunaweza kuwakabidhi kazi hii,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.3",
+            "verseOrgIds": [
+              "ACT.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nasi tutatumia muda wetu kuomba na huduma ya neno.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.4",
+            "verseOrgIds": [
+              "ACT.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yale waliyosema yakawapendeza watu wote, nao wakamchagua Stefano (mtu aliyejawa na imani na Roho Mtakatifu) pamoja na Filipo, Prokoro, Nikanori, Timoni, Parmena na Nikolao, mwongofu kutoka Antiokia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.5",
+            "verseOrgIds": [
+              "ACT.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakawaleta watu hawa mbele ya mitume, nao wakawaombea na kuwawekea mikono juu yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.6",
+            "verseOrgIds": [
+              "ACT.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neno la Mungu likazidi kuenea. Idadi ya wanafunzi ikazidi kuongezeka sana katika Yerusalemu hata makuhani wengi wakaitii ile imani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.7",
+            "verseOrgIds": [
+              "ACT.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kukamatwa Kwa Stefano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Stefano, akiwa amejaa neema na nguvu za Mungu, alifanya ishara na miujiza mikubwa miongoni mwa watu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.8",
+            "verseOrgIds": [
+              "ACT.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata hivyo, ukainuka upinzani wa watu wa Sinagogi la Watu Huru (kama lilivyokuwa linaitwa), la Wayahudi wa Kirene na wa Iskanderia, na wengine kutoka Kilikia na Asia. Watu hawa wakaanza kupingana na Stefano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.9",
+            "verseOrgIds": [
+              "ACT.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini hawakuweza kushindana na hekima yake wala huyo Roho ambaye alisema kwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.10",
+            "verseOrgIds": [
+              "ACT.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo kwa siri wakawashawishi watu fulani waseme, \"Tumemsikia Stefano akisema maneno ya kufuru dhidi ya Mose na dhidi ya Mungu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.11",
+            "verseOrgIds": [
+              "ACT.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Stefano Afikishwa Mbele Ya Baraza",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakawachochea watu, wazee na walimu wa Sheria, nao wakamkamata Stefano wakamfikisha mbele ya baraza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.12",
+            "verseOrgIds": [
+              "ACT.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakaweka mashahidi wa uongo ambao walishuhudia wakisema, \"Mtu huyu kamwe haachi kusema dhidi ya mahali hapa patakatifu na dhidi ya Sheria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.13",
+            "verseOrgIds": [
+              "ACT.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana tumemsikia akisema kwamba Yesu wa Nazareti atapaharibu mahali patakatifu na kubadili desturi zote tulizopewa na Mose.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.14",
+            "verseOrgIds": [
+              "ACT.6.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu wote waliokuwa wameketi katika baraza wakimkazia macho Stefano, wakaona uso wake unangʼaa kama uso wa malaika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.15",
+            "verseOrgIds": [
+              "ACT.6.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.7",
+    "number": "7",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.5",
+    "number": "5",
+    "bookId": "ACT"
+  }
+}

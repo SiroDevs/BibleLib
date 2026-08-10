@@ -1,0 +1,456 @@
+{
+  "id": "PSA.54",
+  "number": "54",
+  "bookId": "PSA",
+  "reference": "Psalms 54",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "54",
+        "style": "c",
+        "sid": "PSA 54"
+      },
+      "items": [
+        {
+          "text": "54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician on Neginoth, Maschil,",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 54:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Save me, O God, by thy name, and judge me by thy strength.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.1",
+            "verseOrgIds": [
+              "PSA.54.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 54:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.2",
+            "verseOrgIds": [
+              "PSA.54.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 54:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.3",
+            "verseOrgIds": [
+              "PSA.54.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 54:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.4",
+            "verseOrgIds": [
+              "PSA.54.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.4",
+                "verseOrgIds": [
+                  "PSA.54.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mine helper: the Lord",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.4",
+            "verseOrgIds": [
+              "PSA.54.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.4",
+                "verseOrgIds": [
+                  "PSA.54.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with them that uphold my soul.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.4",
+            "verseOrgIds": [
+              "PSA.54.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 54:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.5",
+            "verseOrgIds": [
+              "PSA.54.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 54:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will freely sacrifice unto thee: I will praise thy name, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.6",
+                "verseOrgIds": [
+                  "PSA.54.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; for",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.6",
+                "verseOrgIds": [
+                  "PSA.54.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 54:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For he hath delivered me out of all trouble: and mine eye hath seen",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.7",
+            "verseOrgIds": [
+              "PSA.54.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his desire",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.7",
+                "verseOrgIds": [
+                  "PSA.54.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon mine enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.7",
+            "verseOrgIds": [
+              "PSA.54.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.55",
+    "number": "55",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  }
+}

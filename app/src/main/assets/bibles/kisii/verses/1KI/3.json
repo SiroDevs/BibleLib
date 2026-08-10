@@ -1,0 +1,930 @@
+{
+  "id": "1KI.3",
+  "number": "3",
+  "bookId": "1KI",
+  "reference": "1 Abarwoti 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "1KI 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Sulemani ogosaba aegwe obong’aini",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(2 Amg 1:3-12)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1KI 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sulemani agakora oboamate na Farao, omorwoti o Misiri. Akanyuoma omoiseke o Farao, akamorenta ase Omochie o Daudi akamenya aroro goika ekero akoorete koagacha enyomba yaye omonyene amo nenyomba y’Omonene ne chindwaki chiaetanaine Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.1",
+            "verseOrgIds": [
+              "1KI.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1KI 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto nigo baarenge koruera ebing’wanso ase ebisasimero biareenge aase aimokererete igoro, ekiagera nyomba ende yonsi konya teraagachwa ase baranyare gosasiima erieta ri’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.2",
+            "verseOrgIds": [
+              "1KI.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1KI 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sulemani nigo anchete Omonene, akabwatia emeroberio Daudi achiigete, korende nigo aruete ebing’wanso na gosamba ubani agwo aase aimokererete igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.3",
+            "verseOrgIds": [
+              "1KI.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1KI 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti akagenda Gibeoni gochia korua ekeng’wanso aroro, ekiagera nao egesasiimero kiareenge aase aimokererete igoro mono; akarua aroro ebing’wanso bi’ogosambwa elifu eyemo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.4",
+            "verseOrgIds": [
+              "1KI.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1KI 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agwo Gibeoni Omonene akaorokera Sulemani ase chindoto botuko, Nyasae akamoteebia, “Boria egento oganetie nkoe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.5",
+            "verseOrgIds": [
+              "1KI.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1KI 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sulemani agateeba: “Aye kworokirie obwanchani obonene botari koera ase omosomba oo Daudi tata, ekiagera igo ataarete ase obosio bwao ase obwegenwa, na oboronge, na ekeene gi’enkoro yaye. Naye kwagendereire komworokia obwanchani obonene botari koera, kwamoeire omwana omomura aikaranse ase ekerogo ki’oborwoti, buna ere reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.6",
+            "verseOrgIds": [
+              "1KI.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1KI 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na bono, Omonene, Nyasae one, aye gwankorire inche, omosomba oo, nabeire omorwoti ribaga ria Daudi tata, nonya inde omwana omoke. Timanyeti buna nkogamba na koraa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.7",
+            "verseOrgIds": [
+              "1KI.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1KI 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche omosomba oo nigo inde ase egati y’abanto bao, aba gwachorire, abanto abange batanyare kobareka ase engencho y’obonge bwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.8",
+            "verseOrgIds": [
+              "1KI.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1KI 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, ing’a inche, omosomba oo, okomanya kw’obong’aini gw’okogaambera abanto bao, erio nario ndamanye gwatanana amaya na amabe. Naki ning’o oranyare kogaambera abanto aba bao abange?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.9",
+            "verseOrgIds": [
+              "1KI.3.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1KI 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akagokigwa namang’ana ayio Sulemani aboretie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.10",
+            "verseOrgIds": [
+              "1KI.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1KI 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae akamoteebia: “Ekiagera kwaboririe ring’ana eri, na tibweborereti aye omonyene oegwe obogima obotambe, gose obonda obonge, gose ogosirigwa kw’obogima bw’ababisa bao, korende kwaboririe ng’a oegwe okomanya kw’obong’aini ase okomanyereria ayare amaronge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.11",
+            "verseOrgIds": [
+              "1KI.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1KI 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "rora, ninkore koreng’ana buna kwamboria. Ninkoe enkoro y’okomanya okonene kw’obong’aini, okwo monto onde atana koba nakwo, gose oyorache magega yao takoba nakwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.12",
+            "verseOrgIds": [
+              "1KI.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1KI 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende ninkoe boigo ebinto binde otaboria; ninkoe obotenenku obonge na obonene bw’ogosikwa, na omorwoti onde tari oraareng’anigwe naye ase amatuko ao onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.13",
+            "verseOrgIds": [
+              "1KI.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1KI 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na korarende chinchera chiane, na emeroberio yane echiikire, na amachiiko aane amaachenu, buna Daudi iso akorete, erio ningokore obe moyo amatuko amange.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.14",
+            "verseOrgIds": [
+              "1KI.3.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1KI 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sulemani akaboka, akamanya ng’a omaanoreirwe ayio goetera ase chindoto. Erio akagenda Yerusalemu, agatenena bosio bw’Esanduki ere ne chibao chiriikire okobwatana kw’Omonene, akaruera Omonene ekeng’wanso ki’ogosaambwa na eki’omorembe. Magega y’ayio agakorera abasomba baye bonsi omoyega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.15",
+            "verseOrgIds": [
+              "1KI.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Sulemani okogaamba ekiina egekong’u",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1KI 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio abakungu abatayayi babere bagacha ase obosio bw’omorwoti, bagatenena aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.16",
+            "verseOrgIds": [
+              "1KI.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1KI 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omokungu oyomo agakwana, agateeba, “Aye omonene one, inche amo nomokuungu oyo nigo tomenyete ase enyomba eyemo; nkaibora omwana ekero ere areenge ase enyomba eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.17",
+            "verseOrgIds": [
+              "1KI.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1KI 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio rituko ria gatato magega inche konaiboire, omokungu oyo nere akaibora; nintwe tweka babere twareengeo, monto onde omoao tareenge ase enyomba eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.18",
+            "verseOrgIds": [
+              "1KI.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1KI 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na omwana bw’omokuungu oyo agakwa botuko, ekiagera igo amoraarerete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.19",
+            "verseOrgIds": [
+              "1KI.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1KI 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio akaboka botuko gati, akabogoria omwana one omoisia korwa ase rikere riane ensemo, ekero inche, omosomba oo, naraire chitoro, erio akaareria omwana one ase rikere riaye, na akarenta omwana oria oye okwete, akamwareria ase rikere riane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.20",
+            "verseOrgIds": [
+              "1KI.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1KI 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero nabogeete mambia ngonkie omwana one, nkanyora ng’a okuure korende ekero narigereretie omwana oria buya ase emambia eyio, nkarora ng’a oyo tari omwana oria naiborete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.21",
+            "verseOrgIds": [
+              "1KI.3.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1KI 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende omokungu oria o kabere agakana, “Yaya taibo, omwana oyo ore moyo, nere oyone, na omwana oria okwete nere oyoo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.22",
+            "verseOrgIds": [
+              "1KI.3.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Omokungu oria omotang’ani akabora, “Yaya, omwana oria okwete, nere oyoo, na omwana oyo ore moyo, nere oyone.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.22",
+            "verseOrgIds": [
+              "1KI.3.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Naboigo bakwanete, bakoamererania ase obosio bw’omorwoti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.22",
+            "verseOrgIds": [
+              "1KI.3.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1KI 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio omorwoti agateeba, “Oyomo nigo agoteeba: Omwana oyo ore moyo, nere oyone, na omwana oria okwete, nere oyoo; na oyonde igo agokana: Yaya, omwana oo, nere okwete, na omwana one, nere ore moyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.23",
+            "verseOrgIds": [
+              "1KI.3.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1KI 3:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo akabooria aegwe omoro. Na ekero arenteirwe omoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.24",
+            "verseOrgIds": [
+              "1KI.3.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1KI 3:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agateeba, “Butorane omwana oyo ore moyo ebing’ese bibere, ekeng’ese ekemo keegwe omokungu oyomo, na ekende keegwe oyonde.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.25",
+            "verseOrgIds": [
+              "1KI.3.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "1KI 3:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio omokungu oria omwana oye areenge moyo, ekiagera anchete omwana oye mono, agateebia omorwoti, “Aye omorwoti, Omonene, tobaisa goita omwana, kae omokungu oyo omwana oyo ore moyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.26",
+            "verseOrgIds": [
+              "1KI.3.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Korende oria onde agateeba, “Omwana takoba oyone, gose oyoo; tiga anachanwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.26",
+            "verseOrgIds": [
+              "1KI.3.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "1KI 3:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti akairaneria, agateeba, “Omwana oyo ore moyo, kae omokungu oyo bw’eritang’ani, timobaisa konachana omwana oyo; omokungu oyo nere ng’ina.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.27",
+            "verseOrgIds": [
+              "1KI.3.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "1KI 3:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaisraeli bonsi bakaigwa chinkuma chi’ekina ekio omorwoti agambete; erio bakairoka omorwoti, ekiagera nigo baroche ng’a obong’aini bwa Nyasae nigo bwareenge ime yaye ase okogaamba kw’oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.3.28",
+            "verseOrgIds": [
+              "1KI.3.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1KI.4",
+    "number": "4",
+    "bookId": "1KI"
+  },
+  "previous": {
+    "id": "1KI.2",
+    "number": "2",
+    "bookId": "1KI"
+  }
+}

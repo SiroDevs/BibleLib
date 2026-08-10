@@ -1,0 +1,455 @@
+{
+  "id": "DAN.12",
+  "number": "12",
+  "bookId": "DAN",
+  "reference": "Danieli 12",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "DAN 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Engaki y’omoerio",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase engaki eyio Mikaeli, omogambi oria omonene naoroke, atenenere abanto bao. Erio n’ebe engaki y’emechando emenene mono, eye etana koba rinde korwa ekero egesaku kia Mwanyabaanto giachaagete kobao goika ase engaki eyio. Korende ase engaki eyio, abanto bao mbatoorigwe, kera oyomo oyio erieta riaye riranyorekane ririikire ase egetabu eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.1",
+            "verseOrgIds": [
+              "DAN.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abange b’abwo baraire ase riroba ime mbaboke, abande banyore obogima bwa kare na kare, na abande banyore obosooku na ogochaaywa gwa kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.2",
+            "verseOrgIds": [
+              "DAN.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bare abang’aini mbabe bakomeka‐meka buna amasase a igoro, na abwo baonchorete abange bakanyora oboronge mbameka‐meke buna ching’enang’eni goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.3",
+            "verseOrgIds": [
+              "DAN.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korende aye Danieli, mumekeria amang’ana aya, obeke egetabu eke ekemanyererio goika engaki y’omoerio. Ase engaki eyio abanto abange nabaminyoke gochia aaria na aaria koriga‐rigia, na okomanya kwabo nkomentekane.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.4",
+            "verseOrgIds": [
+              "DAN.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio inche Danieli nkarigereria nkarora abanto babere bateneine ase engegu y’orooche, oyomo ase engegu eyemo, na oyonde ase engegu ende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.5",
+            "verseOrgIds": [
+              "DAN.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyomo akaboria omonto oria obegete eanga y’egatani oteneine ase amaache a rooche igoro, “Nengaki eng’ana naki erabe goika omoerio oche, na amakumia aya abe?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.6",
+            "verseOrgIds": [
+              "DAN.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oria obegete eanga y’egatani, oria oteneine ase amaache a rooche igoro, akarambora okoboko kwaye gw’okorio na ogw’okobee gochia igoro; nkamoigwa ogotiana ase are oyore moyo goika kare na kare ng’a aya nigo araikeranigwe ase ekero ekemo, na ebiro bibere, na ekeng’ese gi’ekero,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.7",
+            "verseOrgIds": [
+              "DAN.12.7"
+            ]
+          }
+        },
+        {
+          "text": "na ekero okobua kw’ abanto abachenu kor’abe gwasiriigwe kegima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.7",
+            "verseOrgIds": [
+              "DAN.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaigwa amang’ana aria, korende tinamanya engencho yaye. Ase ayio nkaboria, “Aye Omonene one, omoerio bw’amang’ana aya, naki or’abe?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.8",
+            "verseOrgIds": [
+              "DAN.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akairaneria aganteebia, “Aye Danieli, karue aa ogende, ekiagera amang’ana aya amumekerigwe na kobekwa ekemanyererio goika engaki y’omoerio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.9",
+            "verseOrgIds": [
+              "DAN.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abange mbacheneke na koraba, babe basibekire, korende abakori amabe mbagenderere gokora amabe, onde tagotooka ase abakori amabe orabe nokomanya, korende abare nobong’aini mbamanye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.10",
+            "verseOrgIds": [
+              "DAN.12.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korwa ase engaki eyio ebing’wanso bia kera rituko mbirusigwe aroro, na okogechia kw’ogosaria ngotenenigweo, nabe amatuko elifu eyemo, na amagana abere, na emerongo kianda (1,290).",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.11",
+            "verseOrgIds": [
+              "DAN.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nasesenirie omonto oria oraganye aikere amatuko elifu eyemo, na amagana atato, na emerongo etato na atano (1,335).",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.12",
+            "verseOrgIds": [
+              "DAN.12.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korende aye Danieli, genda goika engaki eyio y’omoerio eike, ekero orabe gotimogete, noche koboka onyore egetari kiao ase engaki y’omoerio bw’amatuko ayio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.13",
+            "verseOrgIds": [
+              "DAN.12.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "DAN.11",
+    "number": "11",
+    "bookId": "DAN"
+  }
+}

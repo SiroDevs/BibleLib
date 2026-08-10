@@ -1,0 +1,347 @@
+{
+  "id": "JOB.25",
+  "number": "25",
+  "bookId": "JOB",
+  "reference": "Ayubu 25",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "JOB 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "sp"
+      },
+      "items": [
+        {
+          "text": "Bilidadi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bilidadi Omosua akairaneria, akabora:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.1",
+            "verseOrgIds": [
+              "JOB.25.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOB 25:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Obonene na okoirokia nigo bire ase Nyasae,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.2",
+            "verseOrgIds": [
+              "JOB.25.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo agokora omorembe aaria igoro mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.2",
+            "verseOrgIds": [
+              "JOB.25.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOB 25:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Ning’o oranyare kobara emeganda yaye?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.3",
+            "verseOrgIds": [
+              "JOB.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ning’o omobaso oye otari kobarera?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.3",
+            "verseOrgIds": [
+              "JOB.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOB 25:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki rende omonto aranyare koba omonyaboronge ase obosio bwa Nyasae?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.4",
+            "verseOrgIds": [
+              "JOB.25.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Naki omonto oiboire nomokuungu aranyare koba oyochenegete?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.4",
+            "verseOrgIds": [
+              "JOB.25.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOB 25:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rora, nonya nomotienyi tori noborabu asare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.5",
+            "verseOrgIds": [
+              "JOB.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "gose ching’enang’eni tichiikeraneti ase amaiso aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.5",
+            "verseOrgIds": [
+              "JOB.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOB 25:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye nabo, naki rende ase omonto oyio onga buna rikonde;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.6",
+            "verseOrgIds": [
+              "JOB.25.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na Mwanyabaanto oyio onga buna enyongore.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.25.6",
+            "verseOrgIds": [
+              "JOB.25.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.26",
+    "number": "26",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.24",
+    "number": "24",
+    "bookId": "JOB"
+  }
+}

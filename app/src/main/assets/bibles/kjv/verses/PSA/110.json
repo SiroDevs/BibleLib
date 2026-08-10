@@ -1,0 +1,468 @@
+{
+  "id": "PSA.110",
+  "number": "110",
+  "bookId": "PSA",
+  "reference": "Psalms 110",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "110",
+        "style": "c",
+        "sid": "PSA 110"
+      },
+      "items": [
+        {
+          "text": "110",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 110:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.1",
+                "verseOrgIds": [
+                  "PSA.110.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 110:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.2",
+            "verseOrgIds": [
+              "PSA.110.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.2",
+                "verseOrgIds": [
+                  "PSA.110.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.2",
+            "verseOrgIds": [
+              "PSA.110.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 110:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy people",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.3",
+                "verseOrgIds": [
+                  "PSA.110.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 110:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.4",
+                "verseOrgIds": [
+                  "PSA.110.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hath sworn, and will not repent, Thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.4",
+                "verseOrgIds": [
+                  "PSA.110.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a priest for ever after the order of Melchizedek.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 110:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.5",
+            "verseOrgIds": [
+              "PSA.110.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 110:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall judge among the heathen, he shall fill",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.6",
+            "verseOrgIds": [
+              "PSA.110.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "the places",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.110.6",
+                "verseOrgIds": [
+                  "PSA.110.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with the dead bodies; he shall wound the heads over many countries.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.6",
+            "verseOrgIds": [
+              "PSA.110.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 110:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.7",
+            "verseOrgIds": [
+              "PSA.110.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.111",
+    "number": "111",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  }
+}

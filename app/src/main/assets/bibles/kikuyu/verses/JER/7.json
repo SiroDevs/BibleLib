@@ -1,0 +1,928 @@
+{
+  "id": "JER.7",
+  "number": "7",
+  "bookId": "JER",
+  "reference": "Jeremia 7",
+  "verseCount": 34,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "JER 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ndini ya Maheeni ndĩrĩ Kĩene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ĩno nĩyo ndũmĩrĩri ĩrĩa yakinyĩrĩire Jeremia yumĩte kũrĩ Jehova, akĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.1",
+            "verseOrgIds": [
+              "JER.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thiĩ ũrũgame kĩhingo-inĩ kĩa nyũmba ya Jehova na ũrĩ hau wanĩrĩre ũhoro ũyũ, uuge atĩrĩ: “ ‘Thikĩrĩriai ndũmĩrĩri ya Jehova, inyuothe andũ a Juda, inyuĩ mũtoonyagĩra ihingo-inĩ ici nĩguo mũgathathaiye Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.2",
+            "verseOrgIds": [
+              "JER.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova Mwene-Hinya-Wothe, Ngai wa Isiraeli, ekuuga atĩrĩ: Garũrĩrai mĩthiĩre yanyu o na ciĩko cianyu, na niĩ nĩngareka mũtũũre kũndũ gũkũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.3",
+            "verseOrgIds": [
+              "JER.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tigai gũikaraga mwĩhokete ndeto cia maheeni, muge atĩrĩ, “Ĩno nĩ hekarũ ya Jehova, ti-itherũ nĩ hekarũ ya Jehova, nĩ hekarũ ya Jehova ki!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.4",
+            "verseOrgIds": [
+              "JER.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JER 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ-rĩ, mũngĩagĩria mĩthiĩre yanyu na ciĩko cianyu biũ, na mũtuanagĩre ciira na kĩhooto mũndũ na ũrĩa ũngĩ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.5",
+            "verseOrgIds": [
+              "JER.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JER 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mũngĩaga kũhinyĩrĩria mũndũ wa kũngĩ, kana mwana wa ngoriai, kana mũtumia wa ndigwa-rĩ, na mwage gũitithia thakame ya mũndũ ũteehĩtie kũndũ gũkũ-rĩ, o na ningĩ mwage kwĩgerithia ngero nĩ ũndũ wa kũrũmĩrĩra ngai ingĩ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.6",
+            "verseOrgIds": [
+              "JER.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JER 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "hĩndĩ ĩyo nĩngareka mũtũũre kũndũ gũkũ, o gũkũ bũrũri ũyũ ndaheire maithe manyu nginya tene na tene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.7",
+            "verseOrgIds": [
+              "JER.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, mwĩhokete ndeto cia maheeni itarĩ kĩene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.8",
+            "verseOrgIds": [
+              "JER.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Anga mũrĩiyaga na mũkooragana, na mũgatharia, na mũkehĩta na maheeni, mũgĩcinagĩra Baali ũbumba, na mũkarũmĩrĩra ngai ingĩ iria mũtooĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.9",
+            "verseOrgIds": [
+              "JER.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ningĩ mũgacooka mũgooka mũkarũgama mbere yakwa thĩinĩ wa nyũmba ĩno ĩtanĩtio na Rĩĩtwa rĩakwa, mũkoiga atĩrĩ, “Tũrĩ agitĩre”; mũgitĩirwo nĩguo mwĩkage maũndũ macio mothe marĩ magigi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.10",
+            "verseOrgIds": [
+              "JER.7.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyũmba ĩno ĩtanĩtio na Rĩĩtwa rĩakwa mũmĩtuĩte ngurunga ya atunyani? No niĩ nĩndĩĩoneire maũndũ macio! Ũguo nĩguo Jehova ekuuga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.11",
+            "verseOrgIds": [
+              "JER.7.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JER 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Rĩu ũkĩrai mũthiĩ Shilo, kũndũ kũrĩa ndambire gũtua gĩikaro kĩa Rĩĩtwa rĩakwa, nĩguo mwĩonere ũrĩa ndeekire kuo nĩ ũndũ wa waganu wa andũ akwa a Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.12",
+            "verseOrgIds": [
+              "JER.7.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JER 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova ekuuga atĩrĩ: Rĩrĩa inyuĩ mwekaga maũndũ macio mothe, niĩ nĩndamwaragĩria kaingĩ kaingĩ, no mũtiigana kũnjigua; ndamwĩtire no mũtiigana kũnjĩtĩka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.13",
+            "verseOrgIds": [
+              "JER.7.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JER 7:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, ũrĩa ndeekire kũu Shilo noguo ngeeka nyũmba ĩno ĩĩtanĩtio na Rĩĩtwa rĩakwa, o hekarũ ĩno mwĩhokete, kũndũ gũkũ ndamũheire inyuĩ o na ngĩhe maithe manyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.14",
+            "verseOrgIds": [
+              "JER.7.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JER 7:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngamũingata mwehere mbere yakwa, o ta ũrĩa ndeekire ariũ a ithe wanyu othe, nĩo andũ a Efiraimu.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.15",
+            "verseOrgIds": [
+              "JER.7.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JER 7:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio, tiga kũhoera andũ aya, kana ũmathaithanĩrĩre, kana ũmaarĩrĩrie, o na kana ũhooe ndĩmekĩre ũndũ tondũ ndingĩgũthikĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.16",
+            "verseOrgIds": [
+              "JER.7.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JER 7:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ wee ũtarona ũrĩa mareka kũu matũũra-inĩ ma Juda, o na kũu njĩra-inĩ cia itũũra rĩa Jerusalemu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.17",
+            "verseOrgIds": [
+              "JER.7.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JER 7:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ciana iroina ngũ, namo maithe mao magaakia mwaki, nao atumia magakanda mũtu, makarugĩra ngai ĩrĩa ĩĩtagwo Mũthamaki-Mũndũ-wa-nja wa kũũrĩa Igũrũ tũmĩgate, na maitĩre ngai ingĩ maruta ma indo cia kũnyuuo nĩguo maathirĩkie ndaakare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.18",
+            "verseOrgIds": [
+              "JER.7.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JER 7:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova egũkĩũria atĩrĩ: Nĩ niĩ maraathirĩkia? Githĩ andũ aya ti o ene marethũkia meconorithie?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.19",
+            "verseOrgIds": [
+              "JER.7.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JER 7:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Nĩ ũndũ ũcio-rĩ, Mwathani Jehova ekuuga atĩrĩ: Marakara na mangʼũrĩ makwa nĩmagaitĩrĩrio kũndũ gũkũ, magaaitĩrĩrio mũndũ na nyamũ, na mĩtĩ ya gĩthaka o na maciaro ma thĩ, namo nĩmagaakana na matikahoreka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.20",
+            "verseOrgIds": [
+              "JER.7.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JER 7:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ũũ nĩguo Jehova Mwene-Hinya-Wothe, o we Ngai wa Isiraeli, ekuuga: Thiĩi na mbere na kuongerera maruta ma magongona manyu ma njino harĩ magongona manyu marĩa mangĩ, na mũrĩe nyama icio inyuĩ ene!",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.21",
+            "verseOrgIds": [
+              "JER.7.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JER 7:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ rĩrĩa ndaarutire maithe manyu kũu bũrũri wa Misiri na ngĩmaarĩria, ndiamaheire o mawatho makoniĩ maruta ma njino na magongona,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.22",
+            "verseOrgIds": [
+              "JER.7.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JER 7:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no nĩndamaheire rĩathani rĩrĩ: Atĩrĩ, njathĩkagĩrai, na niĩ nĩngũtuĩka Ngai wanyu na inyuĩ mũtuĩke andũ akwa. Thiiagai na mĩthiĩre ĩrĩa yothe ndĩrĩmwathaga, nĩguo muonage maũndũ mega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.23",
+            "verseOrgIds": [
+              "JER.7.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JER 7:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, matiigana kũnjigua kana kũrũmbũiya ũhoro ũcio; handũ ha gwĩka ũguo-rĩ, maarũmĩrĩirie ũremi wa ngoro ciao njũru. Nao maacookire na thuutha, makĩaga gũthiĩ na mbere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.24",
+            "verseOrgIds": [
+              "JER.7.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JER 7:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma hĩndĩ ĩrĩa maithe manyu moimire bũrũri wa Misiri nginya rĩu, ndĩmũtũmagĩra ndungata ciakwa cia anabii, mũthenya o mũthenya, na hĩndĩ o hĩndĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.25",
+            "verseOrgIds": [
+              "JER.7.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JER 7:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, o matiigana gũũthikĩrĩria kana kũrũmbũiya ũhoro ũcio. No nĩmoomirie ngoro ciao na makĩagana gũkĩra maithe mao.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.26",
+            "verseOrgIds": [
+              "JER.7.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JER 7:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Wameera maũndũ macio mothe-rĩ, matigaagũthikĩrĩria; o na rĩrĩa ũkaameeta, matigaagwĩtĩka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.27",
+            "verseOrgIds": [
+              "JER.7.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JER 7:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, meere atĩrĩ, ‘Rũrũ nĩruo rũrĩrĩ rũrĩa rũregete gwathĩkĩra Jehova Ngai waruo, o na rũkarega gũtaarwo. Ũhoro-wa-ma nĩũthirĩte; nĩũmehereire ũkoima mĩromo-inĩ yao biũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.28",
+            "verseOrgIds": [
+              "JER.7.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JER 7:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enjwoi njuĩrĩ cianyu mũcite, mũcooke mũcakae mũrĩ kũu tũrĩma-igũrũ kũrĩa gũtigĩtwo gũtarĩ kĩndũ, nĩ ũndũ Jehova nĩaregete na agatiganĩria rũciaro rũrũ arakarĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.29",
+            "verseOrgIds": [
+              "JER.7.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mũkuru wa Kũũraganĩrwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JER 7:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Jehova ekuuga atĩrĩ, andũ aya a Juda nĩmekĩte maũndũ mooru maitho-inĩ makwa. Nĩmaigĩte mĩhianano ĩyo yao ĩrĩ magigi kũu thĩinĩ wa nyũmba ĩyo ĩĩtanĩtio na Rĩĩtwa rĩakwa, makamĩthaahia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.30",
+            "verseOrgIds": [
+              "JER.7.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JER 7:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩmakĩte kũndũ gũtũũgĩru gwa Tofethi, kũu Gĩtuamba-inĩ kĩa Beni-Hinomu, nĩguo macinagĩre aanake na airĩtu ao na mwaki kuo, ũndũ niĩ itaathanire wĩkagwo, o na ũndũ ũtarĩ wagĩa meciiria-inĩ makwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.31",
+            "verseOrgIds": [
+              "JER.7.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JER 7:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Jehova ekuuga atĩrĩ, mwĩmenyererei, tondũ matukũ nĩmarooka, rĩrĩa andũ matagacooka gwĩta kũndũ gũkũ Tofethi kana Gĩtuamba kĩa Beni-Hinomu, no gũgeetagwo Gĩtuamba gĩa Kũũraganĩrwo. Nĩgũkorwo kũu Tofethi nĩkuo magaathikaga andũ arĩa akuũ nginya kwage handũ hangĩthikanwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.32",
+            "verseOrgIds": [
+              "JER.7.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JER 7:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo ciimba cia andũ acio nĩigatuĩka nyama cia kũrĩĩo nĩ nyoni cia rĩera-inĩ, o na nyamũ cia gĩthaka, na gũtigakorwo o na mũndũ ũmwe wa gũcirira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.33",
+            "verseOrgIds": [
+              "JER.7.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JER 7:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ nĩnganiina mĩgambo ya gĩkeno na ya kũrũũhia, na mĩgambo ya gĩkeno kĩa mũhiki na mũhikania kũu matũũra-inĩ ma Juda, o na njĩra-inĩ cia Jerusalemu, nĩ ũndũ bũrũri ũcio nĩũgakira ihooru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.7.34",
+            "verseOrgIds": [
+              "JER.7.34"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.8",
+    "number": "8",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.6",
+    "number": "6",
+    "bookId": "JER"
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "id": "REV.21",
+  "number": "21",
+  "bookId": "REV",
+  "reference": "Kũguũrĩrio 21",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "REV 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jerusalemu ĩrĩa Njerũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 21:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩcooka ngĩona igũrũ rĩerũ na thĩ njerũ, tondũ igũrũ rĩrĩa rĩa mbere na thĩ ĩrĩa ya mbere nĩcieherete igathira, narĩo iria rĩrĩa inene rĩtiarĩ ho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.1",
+            "verseOrgIds": [
+              "REV.21.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 21:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩona Itũũra rĩrĩa Itheru, Jerusalemu ĩrĩa njerũ, rĩgĩikũrũka riumĩte igũrũ kwa Ngai, rĩhaarĩirio ta mũhiki agemeirio mũthuuriwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.2",
+            "verseOrgIds": [
+              "REV.21.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 21:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩigua mũgambo mũnene uumĩte gĩtĩ-inĩ-kĩa-ũnene, ũkiuga atĩrĩ, “Rĩu gĩikaro kĩa Ngai kĩrĩ hamwe na andũ, nake nĩegũtũũrania nao. Megũtuĩka andũ ake, nake Ngai we Mwene arĩkoragwo hamwe nao, na atuĩke Ngai wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.3",
+            "verseOrgIds": [
+              "REV.21.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 21:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake nĩakamagiria maithori mothe mathire maitho-inĩ mao. Gũtirĩ hĩndĩ ĩngĩ gũgaakorwo na gĩkuũ, o na kana gũcakaya, kana kĩrĩro, kana ruo, nĩgũkorwo maũndũ marĩa ma mbere nĩmeherete magathira.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.4",
+            "verseOrgIds": [
+              "REV.21.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 21:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake ũrĩa waikarĩire gĩtĩ-kĩa-ũnene akiuga atĩrĩ, “Nĩ kwerũhia ndĩrerũhia maũndũ mothe!” Agĩcooka akiuga atĩrĩ, “Andĩka ũndũ ũyũ, nĩgũkorwo ciugo ici nĩ cia kwĩhokwo, na nĩ cia ma.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.5",
+            "verseOrgIds": [
+              "REV.21.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 21:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agĩcooka akĩnjĩĩra atĩrĩ: “Maũndũ nĩmahingu. Niĩ nĩ niĩ Alifa o na Omega, Kĩambĩrĩria o na Kĩrĩkĩro. Ũrĩa mũnyootu nĩngamũhe maaĩ anyue kuuma gĩthima kĩa maaĩ ma muoyo, anyue o ũguo tũhũ atekũgũra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.6",
+            "verseOrgIds": [
+              "REV.21.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 21:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũrĩa ũgũtoorania nĩwe ũkaagaya maũndũ macio mothe, na niĩ nĩngatuĩka Ngai wake, nake atuĩke mũrũ wakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.7",
+            "verseOrgIds": [
+              "REV.21.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 21:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No andũ arĩa iguoya, na arĩa matetĩkĩtie, na arĩa imaramari, na arĩa oragani, na ahũũri maraya, na arogi, na ahooi mĩhianano, na aheenania-rĩ, othe ũtũũro wao no iria-inĩ rĩa mwaki wa ũbiriti. Gĩkĩ nĩkĩo gĩkuũ gĩa keerĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.8",
+            "verseOrgIds": [
+              "REV.21.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "REV 21:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũmwe wa araika acio mũgwanja arĩa maarĩ na mbakũri mũgwanja iria ciaiyũrĩte mĩthiro ĩrĩa mũgwanja ya kũrigĩrĩria agĩũka, akĩnjĩĩra atĩrĩ, “Ũka, nĩngũkuonia mũhiki, na nĩwe mũtumia wa Gatũrũme.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.9",
+            "verseOrgIds": [
+              "REV.21.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "REV 21:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩnguua ndĩ thĩinĩ wa Roho, akĩndwara kĩrĩma-inĩ kĩarĩ kĩnene kĩraaya na igũrũ, akĩnyonia Jerusalemu, Itũũra rĩu inene Itheru rĩgĩikũrũka riumĩte igũrũ kwa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.10",
+            "verseOrgIds": [
+              "REV.21.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "REV 21:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Itũũra rĩu rĩarĩ na riiri wa Ngai, naguo ũkengi warĩo wahaanaga ta wa kahiga ka goro mũno, o ta kahiga karĩa getagwo njathibi, gakengu o ta gĩcicio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.11",
+            "verseOrgIds": [
+              "REV.21.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "REV 21:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Narĩo rĩarĩ na rũthingo rũnene, rũraihu na igũrũ, rwarĩ na ihingo ikũmi na igĩrĩ, na araika ikũmi na eerĩ ihingo-inĩ icio. Nacio ihingo icio nĩciandĩkĩtwo marĩĩtwa ma mĩhĩrĩga ĩrĩa ikũmi na ĩĩrĩ ya ciana cia Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.12",
+            "verseOrgIds": [
+              "REV.21.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "REV 21:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwena wa irathĩro warĩ na ihingo ithatũ, na mwena wa gathigathini ihingo ithatũ, na mwena wa gũthini ihingo ithatũ, na mwena wa ithũĩro ihingo ithatũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.13",
+            "verseOrgIds": [
+              "REV.21.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "REV 21:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naruo rũthingo rwa itũũra rĩu inene rwarĩ na mĩthingi ikũmi na ĩĩrĩ, na igũrũ rĩayo ĩkaandĩkwo marĩĩtwa ma atũmwo arĩa ikũmi na eerĩ a Gatũrũme.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.14",
+            "verseOrgIds": [
+              "REV.21.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "REV 21:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũraika ũcio wanjarĩirie aarĩ na rũthanju rwa thahabu rwa gũthima itũũra rĩu inene, o na ihingo ciarĩo, na thingo ciarĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.15",
+            "verseOrgIds": [
+              "REV.21.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "REV 21:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Narĩo itũũra rĩu inene rĩakĩtwo rĩiganaine mĩena yothe, ũraihu warĩo ũkaiganana na wariĩ warĩo.Nĩathimire itũũra rĩu inene na rũthanju rũu, na akĩona atĩ rĩarĩ na ũraihu wa kilomita ta 2,200, ũkaiganana na wariĩ warĩo, na kwambata na igũrũ kwarĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.16",
+            "verseOrgIds": [
+              "REV.21.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "REV 21:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ agĩthima rũthingo rwarĩo, na ũtungu waruo ũgĩkorwo warĩ mĩkono igana rĩmwe na mĩrongo ĩna na ĩna, rũthimĩtwo na gĩthimi kĩa mũndũ, na no kĩo mũraika aahũthagĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.17",
+            "verseOrgIds": [
+              "REV.21.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "REV 21:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũthingo rũu rwakĩtwo na njathibi, narĩo itũũra rĩu inene rĩakĩĩtwo na thahabu ĩrĩa therie, ĩgathera o ta gĩcicio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.18",
+            "verseOrgIds": [
+              "REV.21.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "REV 21:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nayo mĩthingi ĩyo ya thingo cia itũũra rĩu inene yagemetio na mĩthemba yothe ya mahiga ma goro. Mũthingi wa mbere warĩ wa njathibi, na wa keerĩ warĩ wa yakuti ĩrĩa ya bururu, na wa gatatũ warĩ wa yacimu, na wa kana warĩ wa thumarati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.19",
+            "verseOrgIds": [
+              "REV.21.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "REV 21:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na wa gatano warĩ wa onigithi, na wa gatandatũ warĩ wa wakiki ũrĩa mũtune, na wa mũgwanja warĩ wa yakuti ĩrĩa ĩhaana thahabu, na wa kanana warĩ wa thabaricandi, na wa kenda warĩ wa yakuti ĩrĩa ĩhaana ngoikoni, na wa ikũmi warĩ wa wakiki ũrĩa ũhaana nyeki nduru, na wa ikũmi na ĩmwe warĩ wa wakiki ũrĩa wa bururu, na wa ikũmi na igĩrĩ warĩ wa amethuthito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.20",
+            "verseOrgIds": [
+              "REV.21.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "REV 21:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nacio ihingo iria ikũmi na igĩrĩ nĩ ruru ikũmi na igĩrĩ, o kĩhingo gĩathondeketwo na ruru ĩmwe. Nayo njĩra ĩrĩa nene ya itũũra rĩu inene yarĩ ya thahabu therie, yonithanagia mwena ũrĩa ũngĩ ta gĩcicio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.21",
+            "verseOrgIds": [
+              "REV.21.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "REV 21:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na gũtirĩ hekarũ ndonire kũu itũũra-inĩ rĩu inene, tondũ Mwathani Ngai Mwene-Hinya-Wothe na Gatũrũme nĩo hekarũ yakuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.22",
+            "verseOrgIds": [
+              "REV.21.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "REV 21:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Itũũra rĩu inene rĩtibataire nĩ kwarĩrwo nĩ riũa kana mweri, nĩgũkorwo riiri wa Ngai nĩũrĩheaga ũtheri, nake Gatũrũme nĩwe tawa warĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.23",
+            "verseOrgIds": [
+              "REV.21.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "REV 21:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nacio ndũrĩrĩ igaathiiaga na ũtheri warĩo, nao athamaki a thĩ marehe riiri wao thĩinĩ warĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.24",
+            "verseOrgIds": [
+              "REV.21.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "REV 21:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gũtirĩ mũthenya o na ũmwe ihingo ciarĩo ikaahingwo, nĩgũkorwo kũu gũtigakorwo na ũtukũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.25",
+            "verseOrgIds": [
+              "REV.21.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "REV 21:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩkuo makaarehe riiri na gĩtĩĩo cia ndũrĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.26",
+            "verseOrgIds": [
+              "REV.21.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "REV 21:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gũtirĩ kĩndũ gĩtarĩ gĩtheru gĩgaatoonya itũũra rĩu o narĩ, o na kana mũndũ o wothe ũrĩa wĩkaga maũndũ ma njono kana ma maheeni. O tiga arĩa marĩĩtwa mao mandĩkĩtwo ibuku-inĩ rĩrĩa rĩa Gatũrũme rĩa muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.21.27",
+            "verseOrgIds": [
+              "REV.21.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.22",
+    "number": "22",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.20",
+    "number": "20",
+    "bookId": "REV"
+  }
+}

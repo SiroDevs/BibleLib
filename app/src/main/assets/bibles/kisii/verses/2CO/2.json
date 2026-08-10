@@ -1,0 +1,541 @@
+{
+  "id": "2CO.2",
+  "number": "2",
+  "bookId": "2CO",
+  "reference": "2 Abakorinto 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "2CO 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2CO 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende nkarengereria ase omoyo one, ng’a tingocha seino naende ase okobaichania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.1",
+            "verseOrgIds": [
+              "2CO.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CO 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki onye inche nkobaichania, gaki ning’o orangokie, otatiga oria naichanirie?",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.2",
+            "verseOrgIds": [
+              "2CO.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CO 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche nigo nabaiikerete ring’ana eri, erinde ngocha ting’ichanigwa na baria bagwenerete kongokia, naki ninsemeretie igoro yaino inwe mwensi, ng’a omogooko one noro oyoino mwensi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.3",
+            "verseOrgIds": [
+              "2CO.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2CO 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki ase emechando emenge na ase obororo bw’enkoro, naende ase amariga amange nigo nabarikerete, tari ng’a moichanigwe, korende monyare komanya obwanchani bwane obonge inde nabwo ase more.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.4",
+            "verseOrgIds": [
+              "2CO.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okwabera omokori amabe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2CO 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende onye omonto orentire ogoichania, tang’ichaneti inche bweka, korende ase ensemo obaichanirie nainwe mwensi. Ase ogokwana igo, tinkoyakong’ia mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.5",
+            "verseOrgIds": [
+              "2CO.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CO 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Egesusuro eke omonto onga buna oyio aetwe nabange, nakio kiamoisanete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.6",
+            "verseOrgIds": [
+              "2CO.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CO 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ribaga ri’aya mbuya mwabere omonto buna oyio na komoremia, tabaisa kobugwa nogoichana, erinde erusie moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.7",
+            "verseOrgIds": [
+              "2CO.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2CO 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio nabasoroire momworokie obwanchani bwaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.8",
+            "verseOrgIds": [
+              "2CO.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2CO 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eke nakio kiagerete nkabariikera, erinde mbateeme na komanya gose mwabeire abaigweri ase amang’ana onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.9",
+            "verseOrgIds": [
+              "2CO.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CO 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onde bwensi morabere inwe, nainche nimwabere. Ekero nabeire omonto, onye namwabeire egento igo namwabeire ase engencho yaino ase obosio bwa Kristo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.10",
+            "verseOrgIds": [
+              "2CO.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CO 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Saitani tabaisa gotobua; naki intwe titokomocha komanya obong’ainereria bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.11",
+            "verseOrgIds": [
+              "2CO.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okogania gwa Paulo kogenda Troasi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2CO 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki ekero naigete Teroa ase engencho y’okorandia enchiri ya Kristo, nkaigorerwa egesieri n’Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.12",
+            "verseOrgIds": [
+              "2CO.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2CO 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende tinanyora ogotimoka ase omoyo one, ekiagera ntanyorete oyominto Tito aroro. Erio nkabateebia ng’a batigare buya, nkaimoka nkagenda Makedonia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.13",
+            "verseOrgIds": [
+              "2CO.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms"
+      },
+      "items": [
+        {
+          "text": "Obobui goetera ase Kristo",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.13",
+            "verseOrgIds": [
+              "2CO.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2CO 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae aakerwe ng’a mbuya mono, ere oyogotoraa ase okobua okonene botambe ase Kristo, naende oyogosokia rimisu rigiya goetera ase tore, erinde bamomanye kera aase.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.14",
+            "verseOrgIds": [
+              "2CO.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2CO 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki intwe nigo tore ogotioka okuya gwa Kristo ase obosio bwa Nyasae, ase abwo bagotoorigwa, na ase abwo bagosira;",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.15",
+            "verseOrgIds": [
+              "2CO.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2CO 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ase abwo bagosira ogotioka kw’amakweri gokorenta amakweri; ase abwo bagotoorigwa ogotioka kw’obogima gokorenta obogima. Ning’o oraisane ase amang’ana aya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.16",
+            "verseOrgIds": [
+              "2CO.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2CO 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki intwe titori buna abange abagokora okoonchorana okobe ase ring’ana ria Nyasae; korende buna abanto bagokwana ase oborabu bw’omoyo, buna abanto batomirwe na Nyasae. Ase obosio bwa Nyasae, nigo togokwana, tore ime ase Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CO.2.17",
+            "verseOrgIds": [
+              "2CO.2.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2CO.3",
+    "number": "3",
+    "bookId": "2CO"
+  },
+  "previous": {
+    "id": "2CO.1",
+    "number": "1",
+    "bookId": "2CO"
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": "ROM.13",
+  "number": "13",
+  "bookId": "ROM",
+  "reference": "Aroma 13",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "ROM 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kwĩnyiihĩria arĩa Maathanaga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ROM 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O mũndũ no nginya athĩkagĩre arĩa maathanaga, nĩgũkorwo gũtirĩ hinya wa gwathana tiga ũrĩa Ngai ahaandĩte. Aathani arĩa marĩ ho nĩ Ngai ũmatuĩte a gwathana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.1",
+            "verseOrgIds": [
+              "ROM.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ROM 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ wa ũguo-rĩ, mũndũ ũrĩa ũremagĩra arĩa maathanaga, nĩkũrega aregaga ũndũ ũrĩa Ngai atuĩte, nao arĩa mekaga ũguo nĩmagatuĩka a gũtuĩrwo ciira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.2",
+            "verseOrgIds": [
+              "ROM.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ROM 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo aathani ti a kũmakia arĩa mekaga ũrĩa kwagĩrĩire, no nĩ a kũmakia arĩa mekaga ũũru. Nĩũkwenda wagage gwĩtigagĩra ũrĩa wathanaga? Gĩĩkage ũrĩa kwagĩrĩire, nake nĩarĩkũgathagĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.3",
+            "verseOrgIds": [
+              "ROM.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo we nĩ ndungata ya Ngai ya gũtũma wonage maũndũ mega. No ũngĩka ũũru-rĩ, wĩtigĩre, nĩgũkorwo ndakuuaga rũhiũ rwa njora tũhũ. We nĩ ndungata ya Ngai, na mũrĩhania wake wa kũherithania na wa gũkinyĩria mũndũ ũrĩa wĩkaga ũũru mangʼũrĩ ma Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.4",
+            "verseOrgIds": [
+              "ROM.13.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ROM 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, nĩ kwagĩrĩire mwathĩkagĩre arĩa maathanaga, ti tondũ wa gwĩtigĩra mangʼũrĩ macio, no nĩ tondũ wa ũrĩa mwĩmenyeire na thamiri cianyu ũrĩa arĩ wega gwĩka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.5",
+            "verseOrgIds": [
+              "ROM.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ROM 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũcio noguo ũtũmaga mũrutage magooti, nĩgũkorwo arĩa maathanaga nĩ ndungata cia Ngai, na maheanaga mahinda mao mothe nĩ ũndũ wa wĩra ũcio kĩũmbe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.6",
+            "verseOrgIds": [
+              "ROM.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ROM 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rutagĩrai andũ othe kĩrĩa mwagĩrĩirwo nĩ kũmarutĩra: Angĩkorwo mũtirutĩte magooti, rutai magooti; na angĩkorwo nĩ kũruta mbeeca cia kũrutithia wĩra wa bũrũri, rutai; nao andũ arĩa a kũheo gĩtĩĩo, maheagei; na arĩa a gwĩkĩrĩrwo, mekagĩrĩrei.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.7",
+            "verseOrgIds": [
+              "ROM.13.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Endanagai tondũ Mũthenya Nĩũkuhĩrĩirie",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ROM 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtigaikare mũrĩ na thiirĩ na mũndũ o na ũrĩkũ, tiga o mwendanage hĩndĩ ciothe mũndũ na ũrĩa ũngĩ, nĩgũkorwo mũndũ wendaga mũndũ ũrĩa ũngĩ nĩahingĩtie watho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.8",
+            "verseOrgIds": [
+              "ROM.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ROM 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ maathani maya, atĩ “Ndũkanatharanie,” na “Ndũkanoragane,” na “Ndũkanaiye”, na “Ndũkanacumĩkĩre kĩndũ kĩene,” o na rĩathani rĩngĩ o rĩothe rĩngĩkorwo ho, mohanĩtio mothe maturanĩirwo thĩinĩ wa rĩathani rĩĩrĩ: “Enda mũndũ ũrĩa ũngĩ ta ũrĩa wĩyendete wee mwene.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.9",
+            "verseOrgIds": [
+              "ROM.13.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ROM 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wendani-rĩ, ndũngĩĩka mũndũ ũrĩa ũngĩ ũũru. Nĩ ũndũ ũcio kwendana nĩkuo kũhingia watho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.10",
+            "verseOrgIds": [
+              "ROM.13.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ROM 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mwĩkage ũguo nĩ ũndũ wa kũmenya mahinda maya tũrĩ ũrĩa matariĩ. Ihinda nĩikinyu nĩgeetha mwarahũke mũtige gũkoma, tondũ ũhonokio witũ rĩu ũrĩ hakuhĩ kũrĩ rĩrĩa twambĩrĩirie gwĩtĩkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.11",
+            "verseOrgIds": [
+              "ROM.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ROM 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũtukũ ũrĩ hakuhĩ gũthira; naguo mũthenya ũkiriĩ gũkinya. Nĩ ũndũ ũcio nĩtũtigane na maũndũ ma nduma na twĩohe indo cia mbaara, o iria cia ũtheri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.12",
+            "verseOrgIds": [
+              "ROM.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩtũthiiage na mĩthiĩre mĩagĩrĩru, o ĩrĩa yagĩrĩire gũikarwo nayo mũthenya, tũtigatoonye maruga-inĩ mooru marĩ na nyĩmbo njũru na ũrĩĩu, na tũtigatoonye ũtharia-inĩ kana maũndũ ma ũũra-thoni, na tũtikagĩage na njũgitano na kũiguanĩra ũiru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.13",
+            "verseOrgIds": [
+              "ROM.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ROM 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, mwĩhumbei Mwathani Jesũ Kristũ, na mũtigatũũre mwĩciiragia o ũrĩa mũngĩhingia merirĩria ma mĩĩrĩ ĩno ya mehia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.13.14",
+            "verseOrgIds": [
+              "ROM.13.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ROM.14",
+    "number": "14",
+    "bookId": "ROM"
+  },
+  "previous": {
+    "id": "ROM.12",
+    "number": "12",
+    "bookId": "ROM"
+  }
+}

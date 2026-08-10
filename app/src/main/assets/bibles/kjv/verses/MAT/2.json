@@ -1,0 +1,762 @@
+{
+  "id": "MAT.2",
+  "number": "2",
+  "bookId": "MAT",
+  "reference": "Matthew 2",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "MAT 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.1",
+            "verseOrgIds": [
+              "MAT.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.2",
+            "verseOrgIds": [
+              "MAT.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When Herod the king had heard",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.3",
+            "verseOrgIds": [
+              "MAT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "these things",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.2.3",
+                "verseOrgIds": [
+                  "MAT.2.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", he was troubled, and all Jerusalem with him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.3",
+            "verseOrgIds": [
+              "MAT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.4",
+            "verseOrgIds": [
+              "MAT.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.5",
+            "verseOrgIds": [
+              "MAT.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And thou Bethlehem,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.6",
+            "verseOrgIds": [
+              "MAT.2.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "in",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.2.6",
+                "verseOrgIds": [
+                  "MAT.2.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.6",
+            "verseOrgIds": [
+              "MAT.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.7",
+            "verseOrgIds": [
+              "MAT.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.8",
+            "verseOrgIds": [
+              "MAT.2.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.2.8",
+                "verseOrgIds": [
+                  "MAT.2.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", bring me word again, that I may come and worship him also.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.8",
+            "verseOrgIds": [
+              "MAT.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.9",
+            "verseOrgIds": [
+              "MAT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When they saw the star, they rejoiced with exceeding great joy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.10",
+            "verseOrgIds": [
+              "MAT.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.11",
+            "verseOrgIds": [
+              "MAT.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.12",
+            "verseOrgIds": [
+              "MAT.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.13",
+            "verseOrgIds": [
+              "MAT.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.14",
+            "verseOrgIds": [
+              "MAT.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.15",
+            "verseOrgIds": [
+              "MAT.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.16",
+            "verseOrgIds": [
+              "MAT.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.17",
+            "verseOrgIds": [
+              "MAT.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.18",
+            "verseOrgIds": [
+              "MAT.2.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.2.18",
+                "verseOrgIds": [
+                  "MAT.2.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "her children, and would not be comforted, because they are not.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.18",
+            "verseOrgIds": [
+              "MAT.2.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.19",
+            "verseOrgIds": [
+              "MAT.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.20",
+            "verseOrgIds": [
+              "MAT.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he arose, and took the young child and his mother, and came into the land of Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.21",
+            "verseOrgIds": [
+              "MAT.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.22",
+            "verseOrgIds": [
+              "MAT.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.2.23",
+            "verseOrgIds": [
+              "MAT.2.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.3",
+    "number": "3",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.1",
+    "number": "1",
+    "bookId": "MAT"
+  }
+}

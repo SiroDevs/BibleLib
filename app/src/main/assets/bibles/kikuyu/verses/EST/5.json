@@ -1,0 +1,428 @@
+{
+  "id": "EST.5",
+  "number": "5",
+  "bookId": "EST",
+  "reference": "Esiteri 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "EST 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ihooya rĩa Esiteri kũrĩ Mũthamaki",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya wa gatatũ wakinya-rĩ, Esiteri akĩĩhumba nguo ciake cia ũthamaki na akĩrũgama nja ya na thĩinĩ wa nyũmba ya ũthamaki, mbere ya nyũmba nene ya mũthamaki. Nake mũthamaki aikarĩire gĩtĩ gĩake kĩa ũnene nyũmba-inĩ ĩyo nene, angʼetheire itoonyero rĩayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.1",
+            "verseOrgIds": [
+              "EST.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa onire Esiteri, mũtumia wa mũthamaki arũngiĩ hau nja, akĩmũkenera na akĩmũtambũrũkĩria rũthanju rwake rwa ũnene rwa thahabu rũrĩa aanyiitĩte. Nĩ ũndũ ũcio Esiteri agĩkuhĩrĩria, akĩhutia mũthia waruo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.2",
+            "verseOrgIds": [
+              "EST.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthamaki akĩmũũria atĩrĩ, “Esiteri, mũtumia ũyũ mũthamaki, ũbatairio nĩ kĩĩ? Ihooya rĩaku nĩ rĩrĩkũ? O na wahooya ũheo nuthu ya kũrĩa guothe thamakaga, nĩũkũheo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.3",
+            "verseOrgIds": [
+              "EST.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esiteri akĩmũcookeria akĩmwĩra atĩrĩ, “Mũthamaki angĩona kwagĩrĩire, nĩetĩkĩre moke marĩ na Hamani ũmũthĩ iruga-inĩ rĩrĩa ngũrugithĩirie.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.4",
+            "verseOrgIds": [
+              "EST.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki akiuga atĩrĩ, “Gĩĩrai Hamani o rĩu, nĩgeetha twĩke o ũguo Esiteri orĩtie.” Nĩ ũndũ ũcio mũthamaki marĩ na Hamani magĩthiĩ iruga-inĩ rĩrĩa Esiteri aahaarĩirie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.5",
+            "verseOrgIds": [
+              "EST.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa maanyuuaga ndibei-rĩ, mũthamaki akĩũria Esiteri o ro rĩngĩ atĩrĩ, “Ihooya rĩaku nĩ rĩrĩkũ? Nĩũkũhingĩrio. Na nĩ kĩĩ ũrooria ũheo? O na wahooya ũheo nuthu ya kũrĩa guothe thamakaga-rĩ, nĩũkũheo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.6",
+            "verseOrgIds": [
+              "EST.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esiteri agĩcookia atĩrĩ, “Ũndũ ũrĩa ndĩrooria, o na ihooya rĩakwa nĩ rĩĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.7",
+            "verseOrgIds": [
+              "EST.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũngĩkorwo nĩnjĩtĩkĩrĩkĩte nĩ mũthamaki, na akorwo mũthamaki no etĩkĩre ihooya rĩakwa na aahingĩrie ũrĩa ndĩrooria-rĩ, mũthamaki na Hamani nĩmagooka rũciũ iruga-inĩ rĩrĩa ngaamarugithĩria. Hĩndĩ ĩyo nĩguo ngaacookia kĩũria kĩa mũthamaki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.8",
+            "verseOrgIds": [
+              "EST.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hamani Kũrakarĩra Moridekai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya ũcio Hamani nĩoimire kũu akenete na agacanjamũka ngoro. No hĩndĩ ĩrĩa onire Moridekai hau kĩhingo-inĩ kĩa mũciĩ wa mũthamaki na akĩona atĩ ndaramũrũgamĩra kana akamwĩtigĩra, akĩngʼũrĩka mũno nĩ ũndũ wa Moridekai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.9",
+            "verseOrgIds": [
+              "EST.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, Hamani nĩerigĩrĩirie gwĩka ũndũ, na akĩinũka mũciĩ. Hamani agĩĩta arata ake hamwe na mũtumia wake, Zereshu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.10",
+            "verseOrgIds": [
+              "EST.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akĩmarahĩra ũhoro wa ũtonga wake mũingĩ, na ariũ ake aingĩ, na njĩra ciothe iria mũthamaki aamũtĩĩte nacio, na ũrĩa aamũtũũgĩrĩtie gũkĩra andũ arĩa angĩ maarĩ igweta na anene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.11",
+            "verseOrgIds": [
+              "EST.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani agĩthiĩ na mbere kuuga atĩrĩ, “O na to ũguo wiki, niĩ no niĩ nyiki Esiteri mũtumia wa mũthamaki egwĩtĩte tũthiĩ na mũthamaki iruga-inĩ rĩrĩa ekũrugithĩtie. Na nĩanjĩtĩte tũthiĩ na mũthamaki rũciũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.12",
+            "verseOrgIds": [
+              "EST.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No maũndũ macio mothe, matiratũma njiganĩre rĩrĩa rĩothe ndĩrona Moridekai, Mũyahudi ũcio, aikarĩte kĩhingo-inĩ kĩa mũciĩ wa mũthamaki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.13",
+            "verseOrgIds": [
+              "EST.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zereshu mũtumia wake marĩ na arata ake othe makĩmwĩra atĩrĩ, “Thondekithia mũtĩ wa gũcuuria mũndũ wa buti mĩrongo mũgwanja na ithanokũraiha na igũrũ, na rũciũ rũciinĩ ũrooke ũrie mũthamaki etĩkĩre Moridekai acuurio hau mũtĩ-igũrũ. Ũcooke ũthiĩ mũrĩ na mũthamaki iruga-inĩ ũrĩ mũkenu.” Rĩciiria rĩĩrĩ nĩrĩakenirie Hamani, nake agĩthondekithia mũtĩ ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.5.14",
+            "verseOrgIds": [
+              "EST.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.6",
+    "number": "6",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.4",
+    "number": "4",
+    "bookId": "EST"
+  }
+}

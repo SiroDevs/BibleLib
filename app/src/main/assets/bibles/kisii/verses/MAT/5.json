@@ -1,0 +1,1598 @@
+{
+  "id": "MAT.5",
+  "number": "5",
+  "bookId": "MAT",
+  "reference": "Matayo 5",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 48,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "MAT 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorandia kwa Yeso ase egetunwa igoro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Luk 6:20-23)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso agachia korora emeganda eria y’abanto, agatiira gochia egetunwa igoro; na ekero aikaransire, aborokigwa baye bakamochiera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.1",
+            "verseOrgIds": [
+              "MAT.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agachaaka koborokereria, ogoteeba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.2",
+            "verseOrgIds": [
+              "MAT.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abare abataka ase omoika, ekiagera oborwoti bwa igoro nobwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.3",
+            "verseOrgIds": [
+              "MAT.5.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abaichanete, ekiagera inabaache koremigwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.4",
+            "verseOrgIds": [
+              "MAT.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abare noboitongo, ekiagera barabwo ’nabaire omwando bw’ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.5",
+            "verseOrgIds": [
+              "MAT.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abare nenchara na erang’o y’okonyora okogania kwa Nyasae, ekiagera barabwo ’nabaigotigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.6",
+            "verseOrgIds": [
+              "MAT.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abakororera abande amaabera, ekiagera barabwo ’nabarorerwe amaabera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.7",
+            "verseOrgIds": [
+              "MAT.5.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abare abachenu ase chinkoro, ekiagera barabwo ’nabarore Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.8",
+            "verseOrgIds": [
+              "MAT.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abagokora omorembe, ekiagera barabwo ’nabarokwe abana ba Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.9",
+            "verseOrgIds": [
+              "MAT.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbasesenirie abagochandwa ase engencho y’oboronge, ekiagera oborwoti bwa igoro nobwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.10",
+            "verseOrgIds": [
+              "MAT.5.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Imosesenirie inwe, ekero abanto bakobarama na kobachaanda, na kobateebera kera ring’ana riibe ase oborimo, ase engencho y’ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.11",
+            "verseOrgIds": [
+              "MAT.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Goka na gochenga, ekiagera eng’eria yaino n’enene igoro. Inaki naboigo bachaandete ababani abarengeo ritang’ani konya motarabao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.12",
+            "verseOrgIds": [
+              "MAT.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omoonyo n’oborabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mar 9:50; 4:21; Luk 14:34-35; 8:16; 11:33)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe nomonyoo bw’ense; korende omoonyo korasirie obwansu bwaye, ninki orabekwe bwanse? Togwenereti gento kende otatiga ogotugutwa isiko, otirindachwe n’abanto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.13",
+            "verseOrgIds": [
+              "MAT.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe noborabu bw’ense. Omochie tokobiseka koagachire ase egetunwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.14",
+            "verseOrgIds": [
+              "MAT.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nonya n’abanto tibagotongia etaya na koyemumeka negetonga, korende nigo bakoyebeeka igoro ase egetangora, ebae oborabu bonsi abare nyomba ime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.15",
+            "verseOrgIds": [
+              "MAT.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase enchera eyio eyio, tiga omobaso oino obare boigo ase abanto, erio barore emeremo yaino emiya, batogie Iso oino ore igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.16",
+            "verseOrgIds": [
+              "MAT.5.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amorokererio korwa ase ogochika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timokaga ng’a nigo nachire gosaria amachiiko, gose amang’ana y’ababani; tincheti kobisaria, korende ase okobiikerania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.17",
+            "verseOrgIds": [
+              "MAT.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekeene nabateebirie ng’a, goika igoro na ense biete, korende tegoeta enuguta eyemo gose agatone akamo ase amachiiko, goika bionsi biikerane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.18",
+            "verseOrgIds": [
+              "MAT.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo monto onde bwensi orasarie richiiko erimo erire rike ase amachiiko aya, na kworokereria abanto kogosaria okwo, oyio narokwe omoke mono ase oborwoti bwa igoro, korende oyorayakore na koyorokereria, oyio nere orarokwe omonene ase oborwoti bwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.19",
+            "verseOrgIds": [
+              "MAT.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki nabateebirie inwe, onye oboronge bwaino tibokobua obw’aborokia b’amariiko na Abafarisai, timogosoa nonya ng’ake ase oborwoti bwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.20",
+            "verseOrgIds": [
+              "MAT.5.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amorokererio igoro y’obororo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Luk 12:57-59)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaigwete ng’a abanto ba kare ’mbateebetigwe: Toita; na oyoraite nabe omonto okonacherwa ekiina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.21",
+            "verseOrgIds": [
+              "MAT.5.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie ng’a onde bwensi orageeche oyomwabo, nabe omonto okonacherwa ekiina, na oyoramogorere oyomwabo nabe omonto okoirwa ase ekegaambero, na oyoramoroke oyonde Omoriri! Nagwenere omorero o kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.22",
+            "verseOrgIds": [
+              "MAT.5.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 5:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo gokorenta okorua kwao ase egesasiimero, korainyore ng’a oyomino nare ne ring’ana ase ore,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.23",
+            "verseOrgIds": [
+              "MAT.5.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "otige okorwa kwao agwo ase egesasiimero, ogende ritang’ani mwanchane noyomino, erio oirane ase okorua kwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.24",
+            "verseOrgIds": [
+              "MAT.5.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwatana nomosoeri oo bwango, ekero more nere inchera gochia ase ekegaambero, erinde omosoeri oo tabaisa gokobeeka ase okoboko kw’omogaambi, na omogambi akobeke ase omorendi bw’echela, naye norutwe ime yechela.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.25",
+            "verseOrgIds": [
+              "MAT.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nekeene nagoteebirie: Tokorwa aroro nonya ng’ake goika oakane ebesa y’omoerio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.26",
+            "verseOrgIds": [
+              "MAT.5.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obotomani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 18:8-9; Mar 9:43-48; Mat 19:9; Mar 10:11-12; Luk 16:18)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaigwete ng’a ndiateebetwe: Totomana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.27",
+            "verseOrgIds": [
+              "MAT.5.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 5:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie, ng’a onde bwensi orarigererie omokungu na korengereria gotomana nere otomanire nere ime ase enkoro yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.28",
+            "verseOrgIds": [
+              "MAT.5.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MAT 5:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye eriiso riao ria borio rikogera okore ebibe, rirusie, oritugute are, ekiagera mbuya ase ore ekiimo kiao ekemo gesire, kobua omobere oo omogima gotugutwa ase omorero o kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.29",
+            "verseOrgIds": [
+              "MAT.5.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MAT 5:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye nokoboko kwao gw’okorio gokogera okore ebibe, konache, ogotugute are, ekiagera mbuya ase ore ekiimo kiao ekemo gesire, kobua omobere oo omogima gotugutwa ase omorero o kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.30",
+            "verseOrgIds": [
+              "MAT.5.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MAT 5:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende ndiateebetwe; Oyoratige mok’aye, tiga amoe riruube ri’ogotigana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.31",
+            "verseOrgIds": [
+              "MAT.5.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MAT 5:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie, ng’a onde bwensi oratige mok’aye, otatiga ase engencho y’obotomani, ogerire abe omotomani; na oyoramonyuome oyotigirwe, oyio otomanire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.32",
+            "verseOrgIds": [
+              "MAT.5.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Chimuma na obwegenwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MAT 5:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende mwaigwete ng’a abanto ba kare mbateebetigwe: Totiana bosa, korende oikeranerie ase Omonene chiira chiao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.33",
+            "verseOrgIds": [
+              "MAT.5.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MAT 5:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie: Totiana ase egento kende gionsi; nonya nase igoro, ekiagera nao ekerogo ki’obonene kia Nyasae;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.34",
+            "verseOrgIds": [
+              "MAT.5.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MAT 5:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gose ase ense, ekiagera nao ekerogo",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.35",
+            "verseOrgIds": [
+              "MAT.5.35"
+            ]
+          }
+        },
+        {
+          "text": "kiaye gi’okobekerera amagoro; gose ase Yerusalemu, ekiagera n’oro omochie bw’Omorwoti omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.35",
+            "verseOrgIds": [
+              "MAT.5.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MAT 5:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na totiana ase omotwe oo, ekiagera tokonyara gokora agatukia akamo kabe akarabu gose akamwamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.36",
+            "verseOrgIds": [
+              "MAT.5.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MAT 5:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana aino abe: Ee, gose: Yaaya; naki ayakomenteka ase aya, nigo akorwa ase oria omobe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.37",
+            "verseOrgIds": [
+              "MAT.5.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amorokererio igoro yokorusia egesiomba",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Luk 6:29-30)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MAT 5:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaigwete ng’a ndiateebetwe: “Eriso ase eriiso, na erino ase erino.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.38",
+            "verseOrgIds": [
+              "MAT.5.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MAT 5:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie: Timobaisa koamererania noyore omobe. Korende omonto karagoake orosea rwa borio, omoonchorere norw’okobee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.39",
+            "verseOrgIds": [
+              "MAT.5.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MAT 5:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na omonto karigetie gokoira ase ekegambero kogosoera na koira eyanga yao ya ime, omotigere neya isiko boigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.40",
+            "verseOrgIds": [
+              "MAT.5.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MAT 5:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na onye omonto ogokobetereria kogenda nere emaeli eyemo, genda nere goika chimaeli ibere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.41",
+            "verseOrgIds": [
+              "MAT.5.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MAT 5:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyokogosaba, moe; na oyorigetie singo, tomorina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.42",
+            "verseOrgIds": [
+              "MAT.5.42"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obwanchani ase Ababisa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Luk 6:27-28,32-36)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MAT 5:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaigwete ng’a ndiateebetwe: “Ancha omogisangio oo, na ogeche omobisa oo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.43",
+            "verseOrgIds": [
+              "MAT.5.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MAT 5:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nabateebirie: Ancha ababisa baino, mobasabere abakobachanda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.44",
+            "verseOrgIds": [
+              "MAT.5.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MAT 5:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nario moranyare koba abana ba Iso oino ore igoro, ekiagera ere nigo akobabareria omobaso oye ababe na abaya, obatweria embura abakori oboronge, na abatari gokora oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.45",
+            "verseOrgIds": [
+              "MAT.5.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "MAT 5:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki komoranche abaabanchete inwe, ing’eria ki more nero? Inee! Nonya mbaria bakorusia ebango tibari gokora bo?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.46",
+            "verseOrgIds": [
+              "MAT.5.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "MAT 5:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na inwe komorakwanie abamino boka, mbuya ki mwakora kobua abande? Nonya n’abanto b’Ebisaku tibari gokora boigo?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.47",
+            "verseOrgIds": [
+              "MAT.5.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "MAT 5:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki inwe mobe abaikeranu buna Iso oino ore igoro are omoikeranu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.5.48",
+            "verseOrgIds": [
+              "MAT.5.48"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.6",
+    "number": "6",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.4",
+    "number": "4",
+    "bookId": "MAT"
+  }
+}

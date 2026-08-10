@@ -1,0 +1,951 @@
+{
+  "id": "EPH.2",
+  "number": "2",
+  "bookId": "EPH",
+  "reference": "Ephesians 2",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "EPH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EPH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And you",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.1",
+            "verseOrgIds": [
+              "EPH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "hath he quickened",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.1",
+                "verseOrgIds": [
+                  "EPH.2.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", who were dead in trespasses and sins;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.1",
+            "verseOrgIds": [
+              "EPH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EPH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.2",
+            "verseOrgIds": [
+              "EPH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EPH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.3",
+            "verseOrgIds": [
+              "EPH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EPH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.4",
+            "verseOrgIds": [
+              "EPH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EPH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.5",
+            "verseOrgIds": [
+              "EPH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EPH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And hath raised",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.6",
+            "verseOrgIds": [
+              "EPH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "us",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.6",
+                "verseOrgIds": [
+                  "EPH.2.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "up together, and made",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.6",
+            "verseOrgIds": [
+              "EPH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "us",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.6",
+                "verseOrgIds": [
+                  "EPH.2.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sit together in heavenly",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.6",
+            "verseOrgIds": [
+              "EPH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "places",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.6",
+                "verseOrgIds": [
+                  "EPH.2.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in Christ Jesus:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.6",
+            "verseOrgIds": [
+              "EPH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EPH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That in the ages to come he might shew the exceeding riches of his grace in",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.7",
+            "verseOrgIds": [
+              "EPH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.7",
+                "verseOrgIds": [
+                  "EPH.2.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "kindness toward us through Christ Jesus.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.7",
+            "verseOrgIds": [
+              "EPH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EPH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For by grace are ye saved through faith; and that not of yourselves:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.8",
+            "verseOrgIds": [
+              "EPH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.8",
+                "verseOrgIds": [
+                  "EPH.2.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the gift of God:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.8",
+            "verseOrgIds": [
+              "EPH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EPH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Not of works, lest any man should boast.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.9",
+            "verseOrgIds": [
+              "EPH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EPH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.10",
+            "verseOrgIds": [
+              "EPH.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EPH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherefore remember, that ye",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.11",
+            "verseOrgIds": [
+              "EPH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "being",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.11",
+                "verseOrgIds": [
+                  "EPH.2.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.11",
+            "verseOrgIds": [
+              "EPH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EPH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.12",
+            "verseOrgIds": [
+              "EPH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EPH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.13",
+            "verseOrgIds": [
+              "EPH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EPH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.14",
+            "verseOrgIds": [
+              "EPH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "between us",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.14",
+                "verseOrgIds": [
+                  "EPH.2.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.14",
+            "verseOrgIds": [
+              "EPH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EPH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Having abolished in his flesh the enmity,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.15",
+            "verseOrgIds": [
+              "EPH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.15",
+                "verseOrgIds": [
+                  "EPH.2.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the law of commandments",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.15",
+            "verseOrgIds": [
+              "EPH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "contained",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.15",
+                "verseOrgIds": [
+                  "EPH.2.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in ordinances; for to make in himself of twain one new man,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.15",
+            "verseOrgIds": [
+              "EPH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "so",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.15",
+                "verseOrgIds": [
+                  "EPH.2.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "making peace;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.15",
+            "verseOrgIds": [
+              "EPH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EPH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.16",
+            "verseOrgIds": [
+              "EPH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EPH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And came and preached peace to you which were afar off, and to them that were nigh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.17",
+            "verseOrgIds": [
+              "EPH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EPH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For through him we both have access by one Spirit unto the Father.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.18",
+            "verseOrgIds": [
+              "EPH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EPH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.19",
+            "verseOrgIds": [
+              "EPH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EPH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.20",
+            "verseOrgIds": [
+              "EPH.2.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "stone",
+              "type": "text",
+              "attrs": {
+                "verseId": "EPH.2.20",
+                "verseOrgIds": [
+                  "EPH.2.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.20",
+            "verseOrgIds": [
+              "EPH.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EPH 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.21",
+            "verseOrgIds": [
+              "EPH.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EPH 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In whom ye also are builded together for an habitation of God through the Spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.2.22",
+            "verseOrgIds": [
+              "EPH.2.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EPH.3",
+    "number": "3",
+    "bookId": "EPH"
+  },
+  "previous": {
+    "id": "EPH.1",
+    "number": "1",
+    "bookId": "EPH"
+  }
+}

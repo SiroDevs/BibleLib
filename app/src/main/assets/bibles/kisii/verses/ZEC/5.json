@@ -1,0 +1,427 @@
+{
+  "id": "ZEC.5",
+  "number": "5",
+  "bookId": "ZEC",
+  "reference": "Zakaria 5",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "ZEC 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorora igoro y’egetabu okoiruruka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaimokia amaiso aane naende, nkarora egetabu eringanirie ekoiruruka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.1",
+            "verseOrgIds": [
+              "ZEC.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika oria akamboria, “Ninki orooche?” Nkairaneria, nkamoteebia, “Nigo ndoche egetabu eringanirie ekoiruruka; obotambe bwaye nobw’amaboko emerongo ebere, na obogare bwaye amaboko ikomi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.2",
+            "verseOrgIds": [
+              "ZEC.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio aganteebia, “Okwo nokoragererigwa gwachiereire ense yonsi. Kera oyokoiba narusigwe korwa aiga, buna koreng’ana ariikire ase egetabu eyio, na kera oyogotiana narusigwe boigo korwa aiga, buna koreng’ana ariikire ase egetabu eyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.3",
+            "verseOrgIds": [
+              "ZEC.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene bw’Emeganda nigo agoteeba iga: Nintome egetabu eyio ase enyomba y’omoibi, na ase enyomba y’oyo ogotiana kw’oborimo ase erieta riane; egetabu eyio nebeere ase chinyomba chi’abaanto abwo echisirie kegima, chibao chiabo amo namagena abo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.4",
+            "verseOrgIds": [
+              "ZEC.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorora igoro y’omokuungu ore egetonga ime",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika oria orenge gokwana nainche agacha naende, aganteebia, “Imokia amaiso ao, orore ngento ki keria kegocha.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.5",
+            "verseOrgIds": [
+              "ZEC.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkamoboria, “Ngento ki keria?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.6",
+            "verseOrgIds": [
+              "ZEC.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Akang’iraneria aganteebia, “Keria negetonga gi’okorenga kegocha; kerokio nigo getenenerete obobe bw’abaanto b’ense yonsi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.6",
+            "verseOrgIds": [
+              "ZEC.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkarigereria, nkarora ekemumeko kiaroiseirie risasi gekomumoka, na omokungu oikaransete ase egetonga keria ime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.7",
+            "verseOrgIds": [
+              "ZEC.5.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika oria agateeba, “Obo nabwo Obobe.” Erio akaigatera omokungu oria ime ase egetonga keria, agakong’ontera ekemumeko igoro ase omonwa bw’egetonga keria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.8",
+            "verseOrgIds": [
+              "ZEC.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio nkaimokia amaiso aane, nkarora abakungu babere bakooroka. Embeo egasoa ase chimbaaba chiabo chiarenge buna echie riagonga. Abakungu abwo bakaimokia egetonga keria, bakairuruka nakerokio gochia gati‐gati y’ense na igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.9",
+            "verseOrgIds": [
+              "ZEC.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaboria omomalaika oria orenge gokwana nainche, “Ng’ai bakoira egetonga keria?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.10",
+            "verseOrgIds": [
+              "ZEC.5.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akairaneria, aganteebia, “Nigo bagokeira ase ense ya Sinari, na aroro agwo baagachere omokungu oria enyomba, erinde ekoera bamobekeo, abeere aase aye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.5.11",
+            "verseOrgIds": [
+              "ZEC.5.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.6",
+    "number": "6",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.4",
+    "number": "4",
+    "bookId": "ZEC"
+  }
+}

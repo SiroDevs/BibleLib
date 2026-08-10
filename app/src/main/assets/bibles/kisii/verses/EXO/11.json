@@ -1,0 +1,325 @@
+{
+  "id": "EXO.11",
+  "number": "11",
+  "bookId": "EXO",
+  "reference": "Okong’anya 11",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "EXO 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s2"
+      },
+      "items": [
+        {
+          "text": "Ogokwa kw’abatangi ne chintangi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agateebia Musa, “Ngotigarete ogoakwa okomo ndarente igoro ya Farao na ense ya Misiri. Magega y’okwo nabae ribaga mogende; na ekero arabae ribaga mogende nigo arabaserie kegima morueo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.1",
+            "verseOrgIds": [
+              "EXO.11.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 11:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono genda okwane na Abaisraeli, ng’a kera oyomo ase abasacha na ase abakungu asabe ebinto bie chifeta, na ebie chitaabu korwa ase omoamate oye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.2",
+            "verseOrgIds": [
+              "EXO.11.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akaa abanto baye ogwancherwa ase amasio y’Abamisiri; kobua ayio Musa nigo arenge omonto omonene mono ase ense ya Misiri ase amasio ’abasomba ba Farao, na ase abanto baye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.3",
+            "verseOrgIds": [
+              "EXO.11.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 11:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agateebia Farao, “Aya nar’Omonene agoteeba: Botuko gati ninche ng’ete egati y’Abamisiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.4",
+            "verseOrgIds": [
+              "EXO.11.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 11:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abana abatangi bonsi ase ense ya Misiri mbakwe, amo ne ching’iti chintangi chionsi; omwana omotangi o Farao, oyogoikaransa ase ekerogo kiaye ki’obogambi, na omwana omotangi bw’omokuungu omosomba ore rogena gosia, ne ching’iti chintangi chionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.5",
+            "verseOrgIds": [
+              "EXO.11.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 11:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio ebirero ebinene inabibe ase ense yonsi ya Misiri, binde bitana koba bo, gose tibigocha koba bo naende nonya ng’ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.6",
+            "verseOrgIds": [
+              "EXO.11.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 11:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ase Abaisraeli, nonya nesese tegokogera omonto gose etugo. Erio momanye ng’a Omonene okorire ogwatananeka ase Abamisiri na Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.7",
+            "verseOrgIds": [
+              "EXO.11.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na abasomba aba bao bonsi nabatirimboke gocha ase ’nde na batung’ameo, bakobora: Genda, karue aa, aye na abanto bao bonsi bakobwatie. Magega y’ayio nindue aa!” Erio agwo Musa akarua o Farao ore nekeririanda ekenene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.8",
+            "verseOrgIds": [
+              "EXO.11.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agateebia Musa. “Farao nagenderere gotabaigwa inwe; ase ayio ning’orokie amakumia ande ase ense ya Misiri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.9",
+            "verseOrgIds": [
+              "EXO.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa na Aroni bagakora amakumia ayio onsi ase obosio bwa Farao, korende Omonene agakong’ia enkoro ya Farao, na ere taa Abaisraeli ribaga barue ase ense yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.11.10",
+            "verseOrgIds": [
+              "EXO.11.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.12",
+    "number": "12",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.10",
+    "number": "10",
+    "bookId": "EXO"
+  }
+}

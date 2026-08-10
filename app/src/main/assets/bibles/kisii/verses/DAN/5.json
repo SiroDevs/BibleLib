@@ -1,0 +1,957 @@
+{
+  "id": "DAN.5",
+  "number": "5",
+  "bookId": "DAN",
+  "reference": "Danieli 5",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "DAN 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Belisasari ogokora omoyega",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti Belisasari agakora omoyega omonene, akarangeria abanto abanene koreng’ana elifu eyemo b’oborwoti bwaye, akaba okonywa edivai amo n’abanto abwo elifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.1",
+            "verseOrgIds": [
+              "DAN.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero anyure edivai atindire, agachiika ng’a ebikorero biria bie chitaabu na ebie chifeta ebio Nebukadinesaro ise asakorete korwa ase Hekalu agwo Yerusalemu, birentwe, erinde ere, na abanene b’oborwoti bwaye, na abakungu baye, na abakungu baye ba sere‐sere, banywere ebikorero ebio edivai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.2",
+            "verseOrgIds": [
+              "DAN.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio bakarenta ebikorero biria bie chitaabu na ebie chifeta, ebio biasakoretwe korwa ase Hekalu, enyomba eria ya Nyasae agwo Yerusalemu; omorwoti, na abanene baria, na abakungu baye, na abakungu baye ba sere‐sere, bakabinywera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.3",
+            "verseOrgIds": [
+              "DAN.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakanywa edivai na bagatogia chinyasae chiroisirie korwa ase chitaabu, ne chifeta, ne chitaai, na ebioma, na emete, na amagena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.4",
+            "verseOrgIds": [
+              "DAN.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobosokano ebiara bi’okoboko kw’omonto bikaoroka, bikariika ase rioomo ri’enyasi y’enyomba y’omorwoti kororia ase ekebekerero gi’etaya, na omorwoti akarora okoboko koria gokorika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.5",
+            "verseOrgIds": [
+              "DAN.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio agwo obosio bw’omorwoti bokaonchoka bokarachoka",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.6",
+            "verseOrgIds": [
+              "DAN.5.6"
+            ]
+          }
+        },
+        {
+          "text": ", na ebirengererio biaye bikamochanda; ebiimo bi’omobere oye bikororoba, na amaru aye agaakana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.6",
+            "verseOrgIds": [
+              "DAN.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti agaaka eriogi rinene, agachiika ng’a abaragori na Abakalidayo bamanyete oborogi, na abamanyete igoro ye ching’enang’eni, barentwe. Agateebia abang’aini baria ba Babiloni, “Omonto onde bwensi orasome amariiko aya, naende anteebie engencho yaye, ere nabeekerwe eanga emonyinga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.7",
+            "verseOrgIds": [
+              "DAN.5.7"
+            ]
+          }
+        },
+        {
+          "text": "naende abeekerwe chisonoi chi’echitaabu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.7",
+            "verseOrgIds": [
+              "DAN.5.7"
+            ]
+          }
+        },
+        {
+          "text": "igoti riaye, ere oyio nabekwe abe omogambi o gatato ase oborwoti obo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.7",
+            "verseOrgIds": [
+              "DAN.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio abanto abang’aini bonsi b’omorwoti bagasoa ime, korende tibanyarete gosoma amariiko aria, gose goteebia omorwoti engencho yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.8",
+            "verseOrgIds": [
+              "DAN.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Belisasari omorwoti agachandeka mono ore nomoondoko, na obosio bwaye bokaonchoka bokarachoka, na abanene b’oborwoti bwaye bakaondoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.9",
+            "verseOrgIds": [
+              "DAN.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eting’ana, ng’ina omorwoti, akaigwa amang’ana aya omorwoti na abanene baria barenge gokwana, erio agasoa ase enyomba eria y’omoyega agateeba, “Aye omorwoti ochie kare! Tobaisa gochandeka ase ebirengererio biao, gose obosio bwao boonchoke borachoke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.10",
+            "verseOrgIds": [
+              "DAN.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oyomo nare aiga ase oborwoti bwao, omoika bwe chinyasae chinchenu ore ime yaye. Ase engaki eria iso arenge kogamba, omonto oyio akarorekana ore noborabu, na okomanya, na obong’aini bore buna obwe chinyasae, ime yaye. Omorwoti Nebukadinesaro iso akamobeka akaba omonene bw’abaringoria, na abarogi, na Abakalidayo bamanyete oborogi, na abamanyete igoro ye ching’enang’eni, ee, nabo omorwoti iso akorete,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.11",
+            "verseOrgIds": [
+              "DAN.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera omoika omuya mono, na okomanya, na obong’aini bw’okomanya engencho ye chindoto, na koorokia engencho y’emebayeno, na korongeyia obokong’u, biarenge ime ase omonto oria Danieli, oria omorwoti arogete Beli‐Tesasari. Bono tiga Danieli arangerigwe, nere oratebe engencho y’amariko aya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.12",
+            "verseOrgIds": [
+              "DAN.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Danieli okoorokia engencho y’amariko aria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Danieli akarentwa ase obosio bw’omorwoti, na omorwoti akamobooria: “Inee! Naye Danieli oria, oyomo bw’ abanto baria boosetwe",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.13",
+            "verseOrgIds": [
+              "DAN.5.13"
+            ]
+          }
+        },
+        {
+          "text": "korwa ase ense y’Abayuda, oria omorwoti tata arentete korwa ase ense eria?",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.13",
+            "verseOrgIds": [
+              "DAN.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DAN 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naigure igoro yao ng’a omoika bwe chinyasae chinchenu nigo ore ime yao, naende ng’a oborabu, na okomanya, na obong’aini obuya mono, nigo bikonyorekana ime yao",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.14",
+            "verseOrgIds": [
+              "DAN.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DAN 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono abanto abang’aini na abarogi mbarentwa ase obosio bwane basome amariiko aya, naende banteebie engencho yaye, korende tibanyarete gonteebia engencho y’amang’ana aya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.15",
+            "verseOrgIds": [
+              "DAN.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DAN 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende naigure ng’a aye nonyare koorokia engencho y’amang’ana, na korongeyia obokong’u. Bono koranyare gosoma amariiko ayio na komanyia engencho yaye, rirorio nobekerwe eanga emonyinga, na obekerwe chisonoi chi’echitaabu igoti ria’o, aye n’obe omogambi o gatato ase oborwoti obo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.16",
+            "verseOrgIds": [
+              "DAN.5.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DAN 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio agwo Danieli akairaneria omorwoti, akamoteebia, “Gacha ebiegwa biao, na kae omonto omoao ebio oganetie kong’a. Korende nonya naboigo, inche ningosomere aye omorwoti amariiko aya, naende ngoteebie engencho yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.17",
+            "verseOrgIds": [
+              "DAN.5.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DAN 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Aye omorwoti, Nyasae Ore Igoro Mono naete Nebukadinesaro iso oborwoti, na obonene, na ogotogigwa, na okobua okonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.18",
+            "verseOrgIds": [
+              "DAN.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DAN 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ase engencho y’obonene obwo amoete, abanto bonsi, na ebisaku, na abanto b’emenwa ao ao, bakaba bagotengechigwa na koiroka ase obosio bwaye. Omonto onde bwensi ere aganetie goita, nigo arenge komoita, na oyo aganetie gotiga abe moyo, nigo arenge komotiga oba moyo; na oyo aganetie gokinia abe omonene, nigo arenge komokinia, na oyo aganetie gokeyia, nigo arenge komokeyia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.19",
+            "verseOrgIds": [
+              "DAN.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DAN 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ekero enkoro yaye yeimokereretie igoro, na omoika oye okong’ete na koenena, nigo aseretigwe korwa ase ekerogo kiaye ki’oborwoti, akaurwa obonene bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.20",
+            "verseOrgIds": [
+              "DAN.5.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DAN 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo aseretigwe korwa ase Mwanyabaanto, na enkoro yaye ekaonchorwa ekaba buna eye ching’iti, akabetererigwa komenya amo ne chitigere chi’orosana na korisia obonyansi buna eng’ombe; omobere oye okanyirirerwa ne riime rikorwa igoro, goika ekereo amanyete ng’a Nyasae Ore Igoro Mono nere okogambera oborwoti bwa Mwanyabaanto, na nere okobeeka onde bwensi anchire abe omogambi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.21",
+            "verseOrgIds": [
+              "DAN.5.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DAN 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Aye Belisasari ore omwana oye, tibwekeeti ase enkoro yao nonya kwamanyete amang’ana ayio onsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.22",
+            "verseOrgIds": [
+              "DAN.5.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DAN 5:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende kweimokereirie igoro mamincha y’Omonene ore igoro. Ebikorero bi’enyomba yaye biarentirwe ase obosio bwao; aye amo nabaanto b’oborwoti bwao, na abakungu bao, na abakungu bao ba sere‐sere, babinywereire edivai. Aye kwabeire kogotogia chinyasae chiroisirie korwa ase chitaabu, ne chifeta, ne chitaai, na ebioma, na emete na amagena, echio chitari korora, gose koigwa, gose chitamanyeti gento, korende Nyasae oria obomoyo bwao bore ase okoboko kwaye, ne chinchera chiao chionsi chire ase okobua kwaye, tomotogeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.23",
+            "verseOrgIds": [
+              "DAN.5.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DAN 5:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ayio naro agerete Nyasae agatoma okoboko koria gokarika amariko aya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.24",
+            "verseOrgIds": [
+              "DAN.5.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DAN 5:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Amariko arigetwe naro aya: MENE, MENE, TEKELI, NA‐PARISINI.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.25",
+            "verseOrgIds": [
+              "DAN.5.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DAN 5:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Engencho y’amang’ana ayio nero eye: MENE, engencho yaye: Nyasae obarire amatuko y’oborwoti bwao obokoorire;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.26",
+            "verseOrgIds": [
+              "DAN.5.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DAN 5:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "TEKELI, engencho yaye: kwarengirwe ase ekerengero na kwanyorekanire noremeire;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.27",
+            "verseOrgIds": [
+              "DAN.5.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DAN 5:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "PARISINI, engencho yaye: oborwoti bwao bwatananirwe, bwaeirwe Abamedi na Abaayemi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.28",
+            "verseOrgIds": [
+              "DAN.5.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DAN 5:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Belisasari akarua ogochika ng’a Danieli abeekerwe eanga emonyinga, ne chisonoi chi’echitaabu igoti riaye, na ararigwe ng’a ere nomogambi o gatato ase obogambi obo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.29",
+            "verseOrgIds": [
+              "DAN.5.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "DAN 5:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase obotuko obwo obwo Belisasari, omorwoti bw’Abakalidayo, agaitwa agakwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.30",
+            "verseOrgIds": [
+              "DAN.5.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "DAN 5:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na Dario Omomedi akaira oborwoti obwo. Ere nigo arenge n’emiaka emerongo etan’omo, n’ebere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.5.31",
+            "verseOrgIds": [
+              "DAN.5.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DAN.6",
+    "number": "6",
+    "bookId": "DAN"
+  },
+  "previous": {
+    "id": "DAN.4",
+    "number": "4",
+    "bookId": "DAN"
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "id": "JON.2",
+  "number": "2",
+  "bookId": "JON",
+  "reference": "Yona 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "JON 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosaba kwa Yona",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Yona arenge ime ase enda y’enswe eria, akaba ogosa Omonene, Nyasae oye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.1",
+            "verseOrgIds": [
+              "JON.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agateeba, “Ekero narenge ase emechando, aye Omonene, ngakorangeria naye okangiraneria inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.2",
+            "verseOrgIds": [
+              "JON.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Korwa ase endiba y’ense y’abakuure ’nkarera onkoye naye okanyigwa inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.2",
+            "verseOrgIds": [
+              "JON.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye nigo kwandutete gochia ase chindiba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.3",
+            "verseOrgIds": [
+              "JON.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "inse kegima y’enyancha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.3",
+            "verseOrgIds": [
+              "JON.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ne chiooro chi’enyancha chiang’etananete inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.3",
+            "verseOrgIds": [
+              "JON.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Na emerindo yao yonsi emetindi ekaimokerera igoro egantuba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.3",
+            "verseOrgIds": [
+              "JON.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio inche nkarengereria ng’a natugutirwe korwa ase obosio bwao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.4",
+            "verseOrgIds": [
+              "JON.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "naende ng’a tikonyara koyerora Hekalu yao Enchenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.4",
+            "verseOrgIds": [
+              "JON.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amache agacha agantuba naende agantokeria inche; enyancha egantuba inche kegima enderema ya nyancha ekarandererwa omotwe one.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.5",
+            "verseOrgIds": [
+              "JON.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo nagendete inse kegima goika ase emeri y’ebitunwa agwo ase ense eyio ebisiekero bi’ebiita biaye bigosieka kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.6",
+            "verseOrgIds": [
+              "JON.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nonya naboigo, aye Omonene, Nyasae one,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.6",
+            "verseOrgIds": [
+              "JON.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo kwangiranetie korwa ase chindiba inde moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.6",
+            "verseOrgIds": [
+              "JON.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero obomoyo bwane bwachagete gosoka gochia aria are erio aye Omonene ngasaba gocha ase ore na korwa ime y’Hekalu yao enchenu okanyigwa inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.7",
+            "verseOrgIds": [
+              "JON.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo bagosasiima emegwekano eyio ere bosa barabwo batigire oboigweri gocha ase ore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.8",
+            "verseOrgIds": [
+              "JON.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche ningoterere ’ngokobaka aye; nikoruere aye ekengwanso na goikerania aria nakoriereire chiira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.9",
+            "verseOrgIds": [
+              "JON.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ogotooreka nigo gokorwa ase Omonene!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.9",
+            "verseOrgIds": [
+              "JON.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eri’Omonene akayechiika enswe eria emoroke Yona, igoro ase engegu, nero egakora boigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.2.10",
+            "verseOrgIds": [
+              "JON.2.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JON.3",
+    "number": "3",
+    "bookId": "JON"
+  },
+  "previous": {
+    "id": "JON.1",
+    "number": "1",
+    "bookId": "JON"
+  }
+}

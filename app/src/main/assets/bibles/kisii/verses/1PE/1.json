@@ -1,0 +1,835 @@
+{
+  "id": "1PE.1",
+  "number": "1",
+  "bookId": "1PE",
+  "reference": "1 Petero 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1PE 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korwa ase Petero, omotomwa o Yeso Kristo, gochia ase abachore ba Nyasae, abamwatananekire gochia komenya buna abamenyi ase Ponto, na Galatia, na Kapadokia, na Asia, na Bitinia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.1",
+            "verseOrgIds": [
+              "1PE.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe nigo mwachoretwe koreng’ana buna Nyasae Tata amanyete korwa kare, na mogachenwa n’Omoika, monyare koigwera Yeso Kristo, na konyororokerigwa namanyinga aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.2",
+            "verseOrgIds": [
+              "1PE.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Obuya na omorembe bimenteke ase oboikeranu bwonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.2",
+            "verseOrgIds": [
+              "1PE.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosemeria kore moyo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakwe Nyasae, ise Omonene oito Yeso Kristo! Ase amaabera aye amange atoiboire eria kabere, erinde tonyore ogosemeria kore moyo goetera ase okobokigwa kwa Yeso Kristo korwa ase abakuure,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.3",
+            "verseOrgIds": [
+              "1PE.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ase igo intwe ntonyore omwando oyio Nyasae agacherete abanto baye aaria igoro. Omwando oyio otagosareka, otari na komocha, otari gosiria obonene bwaye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.4",
+            "verseOrgIds": [
+              "1PE.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "inwe abamorendire nokobua kwa Nyasae ase enchera y’okwegena, monyore ogotooreka kore ang’e koorokigwa ase ekero ki’omoerio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.5",
+            "verseOrgIds": [
+              "1PE.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engencho y’ayio monyare kogoka mono, nonya mbono ase ekero egeke inamochandeke ase amateemwa a kera engencho, onye egwenerete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.6",
+            "verseOrgIds": [
+              "1PE.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igo okwegena kwaino, gakoratenene ase ogoteemwa, kore kwe rigori rinene kobua etaabu egosira (nonya egoteemwa ase omorero) naende konyorekane kogwenerete ogotogigwa, na obonene, na ogosikwa ase okoorokigwa kwa Yeso Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.7",
+            "verseOrgIds": [
+              "1PE.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere oyo mwamwanchire, nonya timomoorochi, mwamwegenire, nonya timoramorora, na igo moragoke ase omogooko otari gotebeka oichire nobonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.8",
+            "verseOrgIds": [
+              "1PE.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekero moranyore oboikeranu bw’okwegena kwaino, engencho yaye ogotooreka kw’emioyo yaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.9",
+            "verseOrgIds": [
+              "1PE.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igoro ase amang’ana ogotooreka okwo ababani, baria baabaanete obuya obo borache kobacheera, bakariga‐rigia na kounenkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.10",
+            "verseOrgIds": [
+              "1PE.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakarigia nkero ki, naende nkero kenga buna kere ki, Omoika o Kristo, oyorenge ime yabo, oorogetie, ekero otang’anete koba kirori igoro y’ogochandwa gwa Kristo, na obonene obwo borache koba magega y’ayio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.11",
+            "verseOrgIds": [
+              "1PE.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae nigo abamaanorerete ng’a baabakorere inwe ase amang’ana ayio, gose tari barabwo abanyene. Ayio bono araaretigwe ase more nabaria baabaranderetie inwe enchiri ase Omoika Omochenu, oyotometwe korwa igoro. Amang’ana ayio abamalaika bare namaiga kona‐koyasiomeria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.12",
+            "verseOrgIds": [
+              "1PE.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorangeria gw’okoba norogendo oroochenu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, eboyie bokong’u ebinema bi’ebirengererio biaino, mobe aberiti, mobe nogosemeria ogoikeranu ase obuya boria moraarenterwe ase okoorokigwa kwa Yeso Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.13",
+            "verseOrgIds": [
+              "1PE.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna abana ba Nyasae abaigweri timwereng’ania nokogania kwaino okobe kw’eritang’ani, ekero mware motamanyete gento,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.14",
+            "verseOrgIds": [
+              "1PE.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1PE 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende buna ere, oyobarangeirie, are omochenu, naboigo nainwe mobe abachenu ase orogendo rwaino rwonsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.15",
+            "verseOrgIds": [
+              "1PE.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1PE 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "amariiko nigo agoteeba, mobe abachenu ekiagera inche nomochenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.16",
+            "verseOrgIds": [
+              "1PE.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1PE 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye mokomooroka Tata, ere oyoragambie kera omonto koreng’ana nogokora kwaye atari nogwanchereria, mogenderere nokoiroka ase ekero kiaino gi’okomenya aiga buna abaeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.17",
+            "verseOrgIds": [
+              "1PE.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1PE 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Momanye ng’a nigo mwaboorigwe korwa ase orogendo rwaino rotagwenereti, orwo mwanyorete korwa ase chisokoro chiaino, tari ase ebinto bigosareka, buna chifeta gose chitaabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.18",
+            "verseOrgIds": [
+              "1PE.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1PE 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende ase amanyinga e rigori rinene, buna ay’emanwa y’eng’ondi etari na komocha, gose na kemoa, engencho yaye amanyinga a Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.19",
+            "verseOrgIds": [
+              "1PE.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1PE 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nigo achoretwe na Nyasae korwa kare, ritang’ani ense etarabekwa oboroso, korende oorokigwe ase amatuko aya ay’omoerio ase engencho yaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.20",
+            "verseOrgIds": [
+              "1PE.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1PE 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Goetera asare ere mwamwegenire Nyasae, oyomobogetie korwa ase abakuure na akamoa obonene, erinde okwegena kwaino na ogosemeria kwaino kobe ase Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.21",
+            "verseOrgIds": [
+              "1PE.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1PE 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Komwaikire gwechena emioyo yaino ase okoigwera ekeene, goikera obwanchani bw’abamino botari nobong’ainereria, gaki bono mogenderere nobwanchani inwe ase inwe bokorwa ase enkoro y’ekeene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.22",
+            "verseOrgIds": [
+              "1PE.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1PE 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera mwaiboirwe eria kabere, tari ase embusuro egosareka, korende ase eyetari gosareka, goetera ase ring’ana ria Nyasae rinyene obogima, erikobao goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.23",
+            "verseOrgIds": [
+              "1PE.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1PE 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki igo eriikire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Mwanyabaanto bonsi nigo banga buna obonyansi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na obonene bwabo nigo bonga buna ebisicha bire mogondo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Obonyansi nigo bokwoma, na ebisicha boigo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1PE 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende ring’ana ri’Omonene nigo rirabeo goika kare na kare.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.25",
+            "verseOrgIds": [
+              "1PE.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "text": "Ne ring’ana eri nario enchiri eye mwaranderetigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.25",
+            "verseOrgIds": [
+              "1PE.1.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1PE.2",
+    "number": "2",
+    "bookId": "1PE"
+  },
+  "previous": {
+    "id": "1PE.intro",
+    "number": "intro",
+    "bookId": "1PE"
+  }
+}

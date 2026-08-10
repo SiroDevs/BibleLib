@@ -1,0 +1,614 @@
+{
+  "id": "PSA.52",
+  "number": "52",
+  "bookId": "PSA",
+  "reference": "Zaburi 52",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "52",
+        "style": "c",
+        "sid": "PSA 52"
+      },
+      "items": [
+        {
+          "text": "52",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ekiina kia Nyasae, na obuya bwaye bw’amaabera",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gwa Daudi ekero Doegi Omoedomu achierete Saulo komotebia ng’a Daudi ochire mw’Abimeleki)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 52:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye omonto ore nokobua, nase ki ogwetogeria amabe aya ogokora?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Obwanchani bwa Nyasae nigo bogendererete kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 52:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye omong’ainereria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oromeme rwao nigo rokoroberia amang’ana ’ogosaria;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo ronga buna omoyio otukia omwoge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 52:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye nigo bwanchete amabe kobua amaya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bwanchete gokwana oborimo kobua ekeene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 52:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye ore noromeme rw’obong’ainereria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bwanchete gokwana amang’ana agosaria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 52:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae nakoiyerie inse kare na kare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nakobwate na kogotaboria korwa nyomba mwao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nagosimore korwa ase ense y’abare moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 52:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanyene oboronge mbarore ayio boboe, bamosekerere bateebe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.6",
+            "verseOrgIds": [
+              "PSA.52.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 52:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Rora, omonto oyo bwangete gokora Nyasae abe obotamero bwaye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo egenete obonge bw’obonda bwaye omonyene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na akeenenia ase chinguru chiaye chi’ogosaria.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 52:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende inche nigo inga buna omozeituni osebogete ase enyomba ya Nyasae ime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nigo nsemeretie obwanchani bwa Nyasae botari koera goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 52:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Nyasae, ngokoiraneria ng’a mbuya mono kare na kare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekiagera gwakorire ayio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ase amasio ’abaanto bao bare abegenwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nindarie erieta riao, ekiagera nerigiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  }
+}

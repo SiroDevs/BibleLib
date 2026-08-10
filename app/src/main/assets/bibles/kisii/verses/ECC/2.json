@@ -1,0 +1,758 @@
+{
+  "id": "ECC.2",
+  "number": "2",
+  "bookId": "ECC",
+  "reference": "Omorandia 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 26,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "ECC 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngakwana nenkoro yane, ngateba, “Bono ninteeme ndore naki omogooko ore, imbe nkwegokia omonyene.” Korende nonya nayio onsi nigo arenge bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.1",
+            "verseOrgIds": [
+              "ECC.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkanyora ng’a amaseko nigo are obobarimo, na omogooko tori gokora gento kende ekiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.2",
+            "verseOrgIds": [
+              "ECC.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero ebirengererio biane biarenge koraagwa nobong’aini, nkagania kogokia omobere one nekenyugwa ki’edivai, nkarigia kobwatia oboriri obwo, erinde ndore ayare amaya agwenerete Mwanyabaanto bakore inse y’erioba, ase amatuko ayio amake bagendererete koba moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.3",
+            "verseOrgIds": [
+              "ECC.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngakora emeremo emenene; nkeagachera chinyomba na gwesimekera emesabibu ase emegondo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.4",
+            "verseOrgIds": [
+              "ECC.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkeroiseria emegondo na emegondo ende y’amatunda, erio ngasimeka emete y’amatunda ao ao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.5",
+            "verseOrgIds": [
+              "ECC.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkeroiseria amatibo ase nare korusia amaache nasiarera emete egokina ase rinani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.6",
+            "verseOrgIds": [
+              "ECC.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkagora abasomba, abasacha na abakungu; abwo bakanyiborera abasomba bande ase enka yane; nigo nabwate amaicho amange e chiombe, ne chimbori, ne ching’ondi, nkabua abwo bonsi bantang’anerete kogamba agwo Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.7",
+            "verseOrgIds": [
+              "ECC.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boigo ngasangereria chifeta ne chitaabu, amo ne chimonga chi’abarwoti na echie chingongo chi’oborwoti bwane; ngatwara abateeri, abasacha na abakungu, naende ngatwara abakungu abange Mwanyabaanto bagosanera",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.8",
+            "verseOrgIds": [
+              "ECC.2.8"
+            ]
+          }
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.8",
+            "verseOrgIds": [
+              "ECC.2.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio nkaba omonto bw’amasikani amanene, nkabua abwo bantang’anerete kogamba agwo Yerusalemu; boigo obong’aini bwane bogantigarera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.9",
+            "verseOrgIds": [
+              "ECC.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Egento kende gionsi narenge korora na gokegania tinare gwetanga gokenyora, gose tinarinete enkoro yane omogooko onde bwensi, ekiagera enkoro yane nigo yagokerete aya onsi nechanderete, na omogooko oyio noro orenge eng’eria yane y’emeremo yonsi nechanderete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.10",
+            "verseOrgIds": [
+              "ECC.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega y’ayio nkarengereria igoro y’emeremo eyio nakorete namaboko aane, na buna nayiechanderete. Naama! Ayio onsi nigo arenge bosa, na aya naminyokerete konyora nigo are buna embeo bosa, gose bitoki binde tibiri konyorekana inse y’erioba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.11",
+            "verseOrgIds": [
+              "ECC.2.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaonchora ebirengererio biane korigereria obong’aini na obobarimo, na oboriri. Omonto oyio okobekwa oborwoti ribaga ri’oyio orengeo, ninki arakore? Tagokora kende otatiga keria oyio omotang’ani akorete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.12",
+            "verseOrgIds": [
+              "ECC.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio nkamanya ng’a obong’aini nigo bobuete oboriri, buna oborabu bobuete omosunte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.13",
+            "verseOrgIds": [
+              "ECC.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ECC 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto omong’aini nigo abwate amaiso ase omotwe oye, korende omonto omoriri nigo agotaara ase omosunte; nonya naboigo, nkarora ng’a bonsi nigo bakonyorwa negento ekemo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.14",
+            "verseOrgIds": [
+              "ECC.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ECC 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio nkebooria, “Ande, amang’ana akomonyoora omoriri naro aranyore nainche, nase ki rende inche nabeire nobong’aini obonge?” Ase ayio ngeteebia ng’a aya boigo mbosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.15",
+            "verseOrgIds": [
+              "ECC.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ECC 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna ere ase omonto omong’aini, naboigo ere nase omoriri, onde takogenderera koinyorwa; bonsi nigo barabe bebirwe kegima ase amatuko agochi‐gocha. Inee! Omonto omong’aini tagokwa buna oria omoriri agokwa?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.16",
+            "verseOrgIds": [
+              "ECC.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ECC 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio nkagecha obogima, ekiagera emeremo egokorwa inse y’erioba, nigo ekorenta obororo ase ’nde. Ayio onsi mbosa, na aya akominyokerwa konyorwa nigo are buna embeo bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.17",
+            "verseOrgIds": [
+              "ECC.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ECC 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkagecha emeremo yonsi, eyio nabeete ngwechandera inse y’erioba, ekiagera goika ntigere omonto orambwatie ebinto ebio nakorire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.18",
+            "verseOrgIds": [
+              "ECC.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ECC 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ning’o omanyete gose omonto oyio nigo arabe omong’aini, gose nigo arabe omoriri? Korende oyio goika aire ebinto ebio bionsi nechandeire inde nobong’aini kobinyora inse y’erioba. Ayio boigo mbosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.19",
+            "verseOrgIds": [
+              "ECC.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ECC 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio ngachaka goichana na gokwa omoyo ase engencho y’emeremo yonsi nechanderete inse y’erioba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.20",
+            "verseOrgIds": [
+              "ECC.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ECC 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto nigo agokora emeremo emekong’u nobong’aini bwaye, ne chisemi, na okomanya kwaye, konyora ebinto, korende magega yaye atigera omonto omoao otabiechanderete okwegokia nabirobio. Ayio boigo mbosa, naende mbobe mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.21",
+            "verseOrgIds": [
+              "ECC.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ECC 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngento ki omonto aranyore ekero akorire emeremo emekong’u na kwerosia mono inse y’erioba?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.22",
+            "verseOrgIds": [
+              "ECC.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ECC 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo akoba nobokong’u ase amatuko aye onsi are moyo, na emeremo yaye emekong’u nigo ere ey’omoichano; nonya nase obotuko obogima ebirengererio biaye tibiri gotimoka. Ayio boigo mbosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.23",
+            "verseOrgIds": [
+              "ECC.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ECC 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Egento ekiya omonto aranyare gokora nokoria na konywa, na kogokera ebinto ebio echandeire kobinyora. Nkamanya ng’a nonya nayio nigo akorwa ase okoboko kwa Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.24",
+            "verseOrgIds": [
+              "ECC.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ECC 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ning’o oranyare koria, gose konyora omogooko, onye tari amo n’Omonene?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.25",
+            "verseOrgIds": [
+              "ECC.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ECC 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae nigo akoa omonto oyo okomogokia obong’aini, naende omoa okomanya, na omogooko, korende nigo akoa omonyabibe emeremo y’ogosangereria ebinto na kobigacha, korende omonto oria abie oria ogogetie Nyasae. Ayio boigo mbosa, na aya akominyokerwa konyorwa nigo are buna embeo bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.2.26",
+            "verseOrgIds": [
+              "ECC.2.26"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.3",
+    "number": "3",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.1",
+    "number": "1",
+    "bookId": "ECC"
+  }
+}

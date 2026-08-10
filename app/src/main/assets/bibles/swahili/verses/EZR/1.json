@@ -1,0 +1,879 @@
+{
+  "id": "EZR.1",
+  "number": "1",
+  "bookId": "EZR",
+  "reference": "Ezra 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EZR 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Koreshi Asaidia Watu Kurudi Kutoka Uhamishoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZR 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mwaka wa kwanza wa utawala wa Koreshi mfalme wa Uajemi, ili kulitimiza neno la",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.1",
+            "verseOrgIds": [
+              "EZR.1.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.1",
+                "verseOrgIds": [
+                  "EZR.1.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lililosemwa na nabii Yeremia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.1",
+            "verseOrgIds": [
+              "EZR.1.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.1",
+                "verseOrgIds": [
+                  "EZR.1.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "aliusukuma moyo wa Koreshi mfalme wa Uajemi kutangaza katika himaya yake yote kwa maandishi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.1",
+            "verseOrgIds": [
+              "EZR.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pmo"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZR 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Hili ndilo asemalo Koreshi mfalme wa Uajemi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.2",
+            "verseOrgIds": [
+              "EZR.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "pm",
+        "vid": "EZR 1:2"
+      },
+      "items": [
+        {
+          "text": "\" '",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.2",
+            "verseOrgIds": [
+              "EZR.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.2",
+                "verseOrgIds": [
+                  "EZR.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Mungu wa mbinguni, amenipa falme zote duniani, na ameniagiza kumjengea Hekalu huko Yerusalemu katika Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.2",
+            "verseOrgIds": [
+              "EZR.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EZR 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeyote wa watu wake miongoni mwenu, Mungu wake na awe pamoja naye, wacha apande kwenda Yerusalemu katika Yuda na kujenga Hekalu la",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.3",
+            "verseOrgIds": [
+              "EZR.1.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.3",
+                "verseOrgIds": [
+                  "EZR.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Mungu wa Israeli, Mungu aliyeko huko Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.3",
+            "verseOrgIds": [
+              "EZR.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EZR 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao watu wa mahali popote wale walionusurika wanapoishi sasa, watu hao wampe fedha na dhahabu, pamoja na vifaa na mifugo, mbali na sadaka za hiari kwa ajili ya Hekalu la Mungu huko Yerusalemu.' \"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.4",
+            "verseOrgIds": [
+              "EZR.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EZR 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha viongozi wa jamaa ya Yuda na Benyamini na makuhani na Walawi kila mmoja ambaye moyo wake ulisukumwa na Mungu, akajiandaa kupanda ili kuijenga nyumba ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.5",
+            "verseOrgIds": [
+              "EZR.1.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.5",
+                "verseOrgIds": [
+                  "EZR.1.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "huko Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.5",
+            "verseOrgIds": [
+              "EZR.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EZR 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Majirani zao wote wakawasaidia vyombo vya fedha na dhahabu, pamoja na vifaa na mifugo, pia na zawadi za thamani, pamoja na sadaka zote za hiari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.6",
+            "verseOrgIds": [
+              "EZR.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EZR 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zaidi ya hayo, Mfalme Koreshi akavitoa vyombo vilivyokuwa mali ya Hekalu la",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.7",
+            "verseOrgIds": [
+              "EZR.1.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "EZR.1.7",
+                "verseOrgIds": [
+                  "EZR.1.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", ambavyo Nebukadneza alikuwa amevichukua kutoka Yerusalemu na kuviweka katika hekalu la mungu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.7",
+            "verseOrgIds": [
+              "EZR.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EZR 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Koreshi mfalme wa Uajemi akavitoa kwa mkono wa Mithredathi mtunza hazina, aliyevihesabu mbele ya Sheshbaza mkuu wa Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.8",
+            "verseOrgIds": [
+              "EZR.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EZR 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hii ilikuwa ndio orodha ya vifaa:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.9",
+            "verseOrgIds": [
+              "EZR.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "EZR 1:9"
+      },
+      "items": []
+    },
+    {
+      "name": "table",
+      "type": "tag",
+      "attrs": {},
+      "items": [
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "text": "masinia ya dhahabu yalikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "30",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "text": "masinia ya fedha yalikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "1,000",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "text": "vyetezo vya fedha vilikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "29",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "name": "verse",
+                  "type": "tag",
+                  "attrs": {
+                    "number": "10",
+                    "style": "v",
+                    "sid": "EZR 1:10"
+                  },
+                  "items": [
+                    {
+                      "text": "10",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "text": "mabakuli ya dhahabu yalikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "30",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "text": "mabakuli ya fedha yanayofanana yalikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "410",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "row",
+          "type": "tag",
+          "attrs": {
+            "style": "tr"
+          },
+          "items": [
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tc1",
+                "align": "start"
+              },
+              "items": [
+                {
+                  "text": "vifaa vingine vilikuwa",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "name": "cell",
+              "type": "tag",
+              "attrs": {
+                "style": "tcr2",
+                "align": "end"
+              },
+              "items": [
+                {
+                  "text": "1,000.",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "EZR.1.10",
+                    "verseOrgIds": [
+                      "EZR.1.10"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "EZR 1:10"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EZR 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ujumla, kulikuwa na vyombo 5,400 vya dhahabu na vya fedha. Sheshbaza akavileta hivi vyote wakati watu walipotoka uhamishoni Babeli kwenda Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.1.11",
+            "verseOrgIds": [
+              "EZR.1.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZR.2",
+    "number": "2",
+    "bookId": "EZR"
+  },
+  "previous": {
+    "id": "EZR.intro",
+    "number": "intro",
+    "bookId": "EZR"
+  }
+}

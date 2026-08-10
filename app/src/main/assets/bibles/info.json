@@ -1,0 +1,106 @@
+[
+  {
+    "name": "King James Version",
+    "description": "King James (Authorised) Version",
+    "abbreviation": "kjv",
+    "tagline": "",
+    "language": {
+      "id": "eng",
+      "name": "English",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "GB",
+        "name": "UK"
+      }
+    ],
+    "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+    "info": "<p>This historical translation of the Holy Bible is brought to you in quality digital format by the <a href=\"https://crosswire.org/\">Crosswire Bible Society</a> and <a href=\"https://eBible.org\">eBible.org</a>.</p>"
+  },
+  {
+    "name": "Biblia Takatifu",
+    "description": "Open Kiswahili Contemporary Version (Neno) 2015",
+    "abbreviation": "swahili",
+    "tagline": "",
+    "language": {
+      "id": "swh",
+      "name": "Kiswahili",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      },
+      {
+        "id": "TZ",
+        "name": "Tanzania"
+      }
+    ],
+    "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. “Biblica” ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+    "info": "<p>Kazi hii imewezeshwa kupitia idhini ya kundi la the Creative Commons Attribution. International License (CC BY-SA).</p> <p>Biblica® ni alama ya biashara iliyosajilishwa na shirika la Biblica, Inc; unahitaji ruhusa ya kimaandiko kutoka kwa Biblica, Inc. ili kutumia alama ya biashara ya Biblica®. Kulingana na makubaliano ya leseni ya CC BY-SA, unaweza kutoa nakala na kusambaza kazi hii bila kuibadilisha kamwe, mradi tu udumishe alama ya biashara ya Biblica®. Ukibadilisha au kufasiri kazi hii, na hivyo ukanyambua kazi tofauti, sharti uondoe alama ya biashara ya Biblica®. Katika kazi uliyonyambua, sharti uarifu mabadiliko yako, na kutambua kazi yako hivi: “Kazi ya asili ya Biblica, Inc. inapatikana bila bei katika tovuti za www.biblica.com na open.bible.”</p>"
+  },
+  {
+    "name": "New International Version",
+    "description": "New International Version 2011",
+    "abbreviation": "niv",
+    "tagline": "",
+    "language": {
+      "id": "eng",
+      "name": "English",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "US",
+        "name": "USA"
+      }
+    ],
+    "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+    "info": "<h3>About Biblica</h3> <p>Biblica is a global ministry innovating new ways to reach people with the Bible. Now in its third century of mission, Biblica continues to produce Bible translations and resources that power hundreds of Gospel ministries worldwide — all so that more people can discover the love of Jesus Christ.</p> <p>To learn more, visit <a href=\"http://biblica.com\">biblica.com</a> and <a href=\"http://facebook.com/Biblica\">facebook.com/Biblica</a>.</p>"
+  },
+  {
+    "name": "Kiugo Gĩtheru Kĩa Ngai Kĩhingũre",
+    "description": "Open Kikuyu Contemporary Bible™",
+    "abbreviation": "kikuyu",
+    "tagline": "Kikuyu Bible",
+    "language": {
+      "id": "kik",
+      "name": "Kikuyu",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "copyright": "Biblica® Kiugo Gĩtheru Kĩa Ngai Kĩhingũre. Biblica® Open Kikuyu Contemporary Bible™ Copyright © 2005, 2018 by Biblica, Inc.",
+    "info": "https://ebible.org/Scriptures/details.php?id=kik"
+  },
+  {
+    "name": "Ebibilia Enchenu",
+    "description": "Ekegusii Revised Bible",
+    "abbreviation": "kisii",
+    "tagline": "Kikuyu Bible",
+    "language": {
+      "id": "guz",
+      "name": "Ekegusii",
+      "script": "Latin",
+      "scriptDirection": "LTR"
+    },
+    "countries": [
+      {
+        "id": "KE",
+        "name": "Kenya"
+      }
+    ],
+    "copyright": "Ekegusii Revised Bible. Copyright © 2021 Bible Society of Kenya",
+    "info": "https://ebible.org/Scriptures/details.php?id=guz"
+  }
+]

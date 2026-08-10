@@ -1,0 +1,1011 @@
+{
+  "id": "PSA.80",
+  "number": "80",
+  "bookId": "PSA",
+  "reference": "Psalms 80",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 19,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "80",
+        "style": "c",
+        "sid": "PSA 80"
+      },
+      "items": [
+        {
+          "text": "80",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician upon Shoshannim-eduth, A Psalm of Asaph.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 80:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.1",
+            "verseOrgIds": [
+              "PSA.80.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "between",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.1",
+                "verseOrgIds": [
+                  "PSA.80.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the cherubims, shine forth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.1",
+            "verseOrgIds": [
+              "PSA.80.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 80:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.2",
+            "verseOrgIds": [
+              "PSA.80.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.2",
+                "verseOrgIds": [
+                  "PSA.80.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "save us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.2",
+            "verseOrgIds": [
+              "PSA.80.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 80:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn us again, O God, and cause thy face to shine; and we shall be saved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.3",
+            "verseOrgIds": [
+              "PSA.80.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 80:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.4",
+            "verseOrgIds": [
+              "PSA.80.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.4",
+                "verseOrgIds": [
+                  "PSA.80.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God of hosts, how long wilt thou be angry against the prayer of thy people?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.4",
+            "verseOrgIds": [
+              "PSA.80.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 80:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou feedest them with the bread of tears; and givest them tears to drink in great measure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.5",
+            "verseOrgIds": [
+              "PSA.80.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 80:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.6",
+            "verseOrgIds": [
+              "PSA.80.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 80:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.7",
+            "verseOrgIds": [
+              "PSA.80.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 80:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.8",
+            "verseOrgIds": [
+              "PSA.80.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 80:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou preparedst",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.9",
+            "verseOrgIds": [
+              "PSA.80.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "room",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.9",
+                "verseOrgIds": [
+                  "PSA.80.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "before it, and didst cause it to take deep root, and it filled the land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.9",
+            "verseOrgIds": [
+              "PSA.80.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 80:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The hills were covered with the shadow of it, and the boughs thereof",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.10",
+            "verseOrgIds": [
+              "PSA.80.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "were like",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.10",
+                "verseOrgIds": [
+                  "PSA.80.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the goodly cedars.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.10",
+            "verseOrgIds": [
+              "PSA.80.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 80:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She sent out her boughs unto the sea, and her branches unto the river.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.11",
+            "verseOrgIds": [
+              "PSA.80.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 80:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why hast thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.12",
+            "verseOrgIds": [
+              "PSA.80.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "then",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.12",
+                "verseOrgIds": [
+                  "PSA.80.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "broken down her hedges, so that all they which pass by the way do pluck her?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.12",
+            "verseOrgIds": [
+              "PSA.80.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 80:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The boar out of the wood doth waste it, and the wild beast of the field doth devour it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.13",
+            "verseOrgIds": [
+              "PSA.80.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 80:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.14",
+            "verseOrgIds": [
+              "PSA.80.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 80:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the vineyard which thy right hand hath planted, and the branch",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.15",
+            "verseOrgIds": [
+              "PSA.80.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.15",
+                "verseOrgIds": [
+                  "PSA.80.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou madest strong for thyself.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.15",
+            "verseOrgIds": [
+              "PSA.80.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 80:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "It is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.16",
+                "verseOrgIds": [
+                  "PSA.80.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "burned with fire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.16",
+            "verseOrgIds": [
+              "PSA.80.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.16",
+                "verseOrgIds": [
+                  "PSA.80.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "cut down: they perish at the rebuke of thy countenance.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.16",
+            "verseOrgIds": [
+              "PSA.80.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 80:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let thy hand be upon the man of thy right hand, upon the son of man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.17",
+            "verseOrgIds": [
+              "PSA.80.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "whom",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.17",
+                "verseOrgIds": [
+                  "PSA.80.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou madest strong for thyself.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.17",
+            "verseOrgIds": [
+              "PSA.80.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 80:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So will not we go back from thee: quicken us, and we will call upon thy name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.18",
+            "verseOrgIds": [
+              "PSA.80.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 80:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn us again, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.19",
+            "verseOrgIds": [
+              "PSA.80.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.80.19",
+                "verseOrgIds": [
+                  "PSA.80.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God of hosts, cause thy face to shine; and we shall be saved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.80.19",
+            "verseOrgIds": [
+              "PSA.80.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.81",
+    "number": "81",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.79",
+    "number": "79",
+    "bookId": "PSA"
+  }
+}

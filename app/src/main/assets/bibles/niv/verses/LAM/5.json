@@ -1,0 +1,1318 @@
+{
+  "id": "LAM.5",
+  "number": "5",
+  "bookId": "LAM",
+  "reference": "Lamentations 5",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "LAM 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LAM 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Remember,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.1",
+            "verseOrgIds": [
+              "LAM.5.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "LAM.5.1",
+                "verseOrgIds": [
+                  "LAM.5.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", what has happened to us;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.1",
+            "verseOrgIds": [
+              "LAM.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:1"
+      },
+      "items": [
+        {
+          "text": "look, and see our disgrace.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.1",
+            "verseOrgIds": [
+              "LAM.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LAM 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our inheritance has been turned over to strangers,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.2",
+            "verseOrgIds": [
+              "LAM.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:2"
+      },
+      "items": [
+        {
+          "text": "our homes to foreigners.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.2",
+            "verseOrgIds": [
+              "LAM.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LAM 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We have become fatherless,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.3",
+            "verseOrgIds": [
+              "LAM.5.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:3"
+      },
+      "items": [
+        {
+          "text": "our mothers are widows.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.3",
+            "verseOrgIds": [
+              "LAM.5.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LAM 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We must buy the water we drink;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.4",
+            "verseOrgIds": [
+              "LAM.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:4"
+      },
+      "items": [
+        {
+          "text": "our wood can be had only at a price.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.4",
+            "verseOrgIds": [
+              "LAM.5.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LAM 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Those who pursue us are at our heels;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.5",
+            "verseOrgIds": [
+              "LAM.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:5"
+      },
+      "items": [
+        {
+          "text": "we are weary and find no rest.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.5",
+            "verseOrgIds": [
+              "LAM.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LAM 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We submitted to Egypt and Assyria",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.6",
+            "verseOrgIds": [
+              "LAM.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:6"
+      },
+      "items": [
+        {
+          "text": "to get enough bread.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.6",
+            "verseOrgIds": [
+              "LAM.5.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LAM 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our ancestors sinned and are no more,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.7",
+            "verseOrgIds": [
+              "LAM.5.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:7"
+      },
+      "items": [
+        {
+          "text": "and we bear their punishment.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.7",
+            "verseOrgIds": [
+              "LAM.5.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LAM 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Slaves rule over us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.8",
+            "verseOrgIds": [
+              "LAM.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:8"
+      },
+      "items": [
+        {
+          "text": "and there is no one to free us from their hands.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.8",
+            "verseOrgIds": [
+              "LAM.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LAM 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We get our bread at the risk of our lives",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.9",
+            "verseOrgIds": [
+              "LAM.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:9"
+      },
+      "items": [
+        {
+          "text": "because of the sword in the desert.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.9",
+            "verseOrgIds": [
+              "LAM.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LAM 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our skin is hot as an oven,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.10",
+            "verseOrgIds": [
+              "LAM.5.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:10"
+      },
+      "items": [
+        {
+          "text": "feverish from hunger.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.10",
+            "verseOrgIds": [
+              "LAM.5.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LAM 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Women have been violated in Zion,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.11",
+            "verseOrgIds": [
+              "LAM.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:11"
+      },
+      "items": [
+        {
+          "text": "and virgins in the towns of Judah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.11",
+            "verseOrgIds": [
+              "LAM.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LAM 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Princes have been hung up by their hands;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.12",
+            "verseOrgIds": [
+              "LAM.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:12"
+      },
+      "items": [
+        {
+          "text": "elders are shown no respect.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.12",
+            "verseOrgIds": [
+              "LAM.5.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LAM 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Young men toil at the millstones;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.13",
+            "verseOrgIds": [
+              "LAM.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:13"
+      },
+      "items": [
+        {
+          "text": "boys stagger under loads of wood.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.13",
+            "verseOrgIds": [
+              "LAM.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LAM 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The elders are gone from the city gate;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.14",
+            "verseOrgIds": [
+              "LAM.5.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:14"
+      },
+      "items": [
+        {
+          "text": "the young men have stopped their music.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.14",
+            "verseOrgIds": [
+              "LAM.5.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LAM 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joy is gone from our hearts;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.15",
+            "verseOrgIds": [
+              "LAM.5.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:15"
+      },
+      "items": [
+        {
+          "text": "our dancing has turned to mourning.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.15",
+            "verseOrgIds": [
+              "LAM.5.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LAM 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The crown has fallen from our head.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.16",
+            "verseOrgIds": [
+              "LAM.5.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:16"
+      },
+      "items": [
+        {
+          "text": "Woe to us, for we have sinned!",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.16",
+            "verseOrgIds": [
+              "LAM.5.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LAM 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because of this our hearts are faint,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.17",
+            "verseOrgIds": [
+              "LAM.5.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:17"
+      },
+      "items": [
+        {
+          "text": "because of these things our eyes grow dim",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.17",
+            "verseOrgIds": [
+              "LAM.5.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LAM 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "for Mount Zion, which lies desolate,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.18",
+            "verseOrgIds": [
+              "LAM.5.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:18"
+      },
+      "items": [
+        {
+          "text": "with jackals prowling over it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.18",
+            "verseOrgIds": [
+              "LAM.5.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LAM 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.19",
+            "verseOrgIds": [
+              "LAM.5.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "LAM.5.19",
+                "verseOrgIds": [
+                  "LAM.5.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", reign forever;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.19",
+            "verseOrgIds": [
+              "LAM.5.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:19"
+      },
+      "items": [
+        {
+          "text": "your throne endures from generation to generation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.19",
+            "verseOrgIds": [
+              "LAM.5.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LAM 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why do you always forget us?",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.20",
+            "verseOrgIds": [
+              "LAM.5.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:20"
+      },
+      "items": [
+        {
+          "text": "Why do you forsake us so long?",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.20",
+            "verseOrgIds": [
+              "LAM.5.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LAM 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Restore us to yourself,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.21",
+            "verseOrgIds": [
+              "LAM.5.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "LAM.5.21",
+                "verseOrgIds": [
+                  "LAM.5.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", that we may return;",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.21",
+            "verseOrgIds": [
+              "LAM.5.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:21"
+      },
+      "items": [
+        {
+          "text": "renew our days as of old",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.21",
+            "verseOrgIds": [
+              "LAM.5.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LAM 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "unless you have utterly rejected us",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.22",
+            "verseOrgIds": [
+              "LAM.5.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LAM 5:22"
+      },
+      "items": [
+        {
+          "text": "and are angry with us beyond measure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LAM.5.22",
+            "verseOrgIds": [
+              "LAM.5.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.intro",
+    "number": "intro",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "LAM.4",
+    "number": "4",
+    "bookId": "LAM"
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "id": "1CH.13",
+  "number": "13",
+  "bookId": "1CH",
+  "reference": "1 Nyakati 13",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "1CH 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kurudishwa Kwa Sanduku La Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "2SA.6.1-2SA.6.11"
+          },
+          "items": [
+            {
+              "text": "2 Samweli 6:1-11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CH 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi alishauriana na kila afisa wake, majemadari wa maelfu na majemadari wa mamia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.1",
+            "verseOrgIds": [
+              "1CH.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CH 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Daudi akaliambia kusanyiko lote la Israeli, \"Kama mkiona ni vyema, na kama ni mapenzi ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.2",
+            "verseOrgIds": [
+              "1CH.13.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CH.13.2",
+                "verseOrgIds": [
+                  "1CH.13.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wetu, tupeleke ujumbe kwa ndugu zetu wengine walio mbali na walio karibu katika nchi yote ya Israeli, pia kwa makuhani na Walawi walio pamoja nao katika miji yao na katika sehemu zao za malisho yao, waje waungane na sisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.2",
+            "verseOrgIds": [
+              "1CH.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CH 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sisi na tulirudishe Sanduku la Mungu wetu kwetu kwa maana hatukujali wakati wa utawala wa Sauli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.3",
+            "verseOrgIds": [
+              "1CH.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CH 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kusanyiko lote likakubaliana kufanya hivyo, kwa sababu ilionekana vyema kwa watu wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.4",
+            "verseOrgIds": [
+              "1CH.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CH 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Daudi akawakusanya Waisraeli wote, kuanzia Mto Shihori ulioko Misri hadi Lebo-Hamathi, ili kulileta Sanduku la Mungu kutoka Kiriath-Yearimu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.5",
+            "verseOrgIds": [
+              "1CH.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CH 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akiwa pamoja na Waisraeli wote wakaenda Baala ya Yuda (yaani Kiriath-Yearimu) kulipandisha Sanduku la Mungu",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.6",
+            "verseOrgIds": [
+              "1CH.13.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CH.13.6",
+                "verseOrgIds": [
+                  "1CH.13.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", yeye anayeketi katika kiti cha enzi kati ya makerubi: Sanduku linaloitwa kwa Jina lake, kutoka huko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.6",
+            "verseOrgIds": [
+              "1CH.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CH 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakalisafirisha Sanduku la Mungu kwa gari jipya la kukokotwa na maksai kutoka nyumba ya Abinadabu, Uza na Ahio wakiliongoza gari hilo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.7",
+            "verseOrgIds": [
+              "1CH.13.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CH 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi pamoja na Waisraeli wote walikuwa wanasifu kwa nguvu zao zote mbele za Mungu, kwa nyimbo na kwa vinubi, zeze, matari, matoazi na tarumbeta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.8",
+            "verseOrgIds": [
+              "1CH.13.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CH 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipofika kwenye uwanja wa kupuria nafaka wa Kidoni, Uza akaunyoosha mkono wake ili kulizuia Sanduku, kwa sababu maksai walijikwaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.9",
+            "verseOrgIds": [
+              "1CH.13.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CH 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hasira ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.10",
+            "verseOrgIds": [
+              "1CH.13.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CH.13.10",
+                "verseOrgIds": [
+                  "1CH.13.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ikawaka dhidi ya Uza, akampiga kwa sababu aliuweka mkono wake kwenye Sanduku. Kwa hiyo akafa pale mbele za Mungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.10",
+            "verseOrgIds": [
+              "1CH.13.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CH 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Daudi akakasirika kwa sababu ghadhabu ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.11",
+            "verseOrgIds": [
+              "1CH.13.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CH.13.11",
+                "verseOrgIds": [
+                  "1CH.13.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ilifurika dhidi ya Uza, mahali pale pakaitwa Peres-Uza",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.11",
+            "verseOrgIds": [
+              "1CH.13.11"
+            ]
+          }
+        },
+        {
+          "text": "hadi leo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.11",
+            "verseOrgIds": [
+              "1CH.13.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CH 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ile Daudi akamwogopa Mungu naye akauliza. \"Nitawezaje kulichukua Sanduku la Mungu kwangu?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.12",
+            "verseOrgIds": [
+              "1CH.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CH 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakulichukua hilo Sanduku akae nalo katika Mji wa Daudi. Badala yake, akalipeleka nyumbani kwa Obed-Edomu, Mgiti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.13",
+            "verseOrgIds": [
+              "1CH.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1CH 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sanduku la Mungu likabaki pamoja na jamaa ya Obed-Edomu, nyumbani kwake kwa miezi mitatu, naye",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.14",
+            "verseOrgIds": [
+              "1CH.13.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CH.13.14",
+                "verseOrgIds": [
+                  "1CH.13.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akaibariki nyumba yake pamoja na kila kitu alichokuwa nacho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CH.13.14",
+            "verseOrgIds": [
+              "1CH.13.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CH.14",
+    "number": "14",
+    "bookId": "1CH"
+  },
+  "previous": {
+    "id": "1CH.12",
+    "number": "12",
+    "bookId": "1CH"
+  }
+}

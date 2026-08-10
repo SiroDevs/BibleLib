@@ -1,0 +1,945 @@
+{
+  "id": "GEN.12",
+  "number": "12",
+  "bookId": "GEN",
+  "reference": "Mwanzo 12",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "GEN 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wito Wa Abramu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.1",
+                "verseOrgIds": [
+                  "GEN.12.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akawa amemwambia Abramu, \"Ondoka kutoka nchi yako, uache jamii yako na nyumba ya baba yako, uende hadi nchi nitakayokuonyesha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.1",
+            "verseOrgIds": [
+              "GEN.12.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Mimi nitakufanya taifa kubwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.2",
+            "verseOrgIds": [
+              "GEN.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 12:2"
+      },
+      "items": [
+        {
+          "text": "na nitakubariki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.2",
+            "verseOrgIds": [
+              "GEN.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "GEN 12:2"
+      },
+      "items": [
+        {
+          "text": "Nitalikuza jina lako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.2",
+            "verseOrgIds": [
+              "GEN.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 12:2"
+      },
+      "items": [
+        {
+          "text": "nawe utakuwa baraka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.2",
+            "verseOrgIds": [
+              "GEN.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitawabariki wale wanaokubariki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.3",
+            "verseOrgIds": [
+              "GEN.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 12:3"
+      },
+      "items": [
+        {
+          "text": "na yeyote akulaaniye nitamlaani;",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.3",
+            "verseOrgIds": [
+              "GEN.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "GEN 12:3"
+      },
+      "items": [
+        {
+          "text": "na kupitia kwako mataifa yote duniani",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.3",
+            "verseOrgIds": [
+              "GEN.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 12:3"
+      },
+      "items": [
+        {
+          "text": "yatabarikiwa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.3",
+            "verseOrgIds": [
+              "GEN.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Abramu akaondoka kama",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.4",
+            "verseOrgIds": [
+              "GEN.12.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.4",
+                "verseOrgIds": [
+                  "GEN.12.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "alivyokuwa amemwambia; naye Loti akaondoka pamoja naye. Wakati Abramu alipoitwa aondoke Harani, alikuwa na miaka sabini na mitano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.4",
+            "verseOrgIds": [
+              "GEN.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abramu akamchukua Sarai mkewe pamoja na Loti mwana wa ndugu yake, mali zote walizokuwa nazo pamoja na watu aliokuwa amewapata huko Harani, wakasafiri mpaka nchi ya Kanaani, wakafika huko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.5",
+            "verseOrgIds": [
+              "GEN.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abramu akasafiri katika nchi hiyo akafika huko Shekemu, mahali penye mti wa mwaloni ulioko More. Wakati huo Wakanaani walikuwa wanaishi katika nchi hiyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.6",
+            "verseOrgIds": [
+              "GEN.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.7",
+                "verseOrgIds": [
+                  "GEN.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamtokea Abramu, akamwambia, \"Nitawapa uzao wako nchi hii.\" Hivyo hapa akamjengea madhabahu",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.7",
+            "verseOrgIds": [
+              "GEN.12.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.7",
+                "verseOrgIds": [
+                  "GEN.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "aliyekuwa amemtokea.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.7",
+            "verseOrgIds": [
+              "GEN.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kutoka huko Abramu akasafiri kuelekea kwenye vilima mashariki ya Betheli, naye akapiga hema huko, Betheli ikiwa upande wa magharibi na Ai upande wa mashariki. Huko alimjengea",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.8",
+            "verseOrgIds": [
+              "GEN.12.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.8",
+                "verseOrgIds": [
+                  "GEN.12.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "madhabahu na akaliitia jina la",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.8",
+            "verseOrgIds": [
+              "GEN.12.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.8",
+                "verseOrgIds": [
+                  "GEN.12.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.8",
+            "verseOrgIds": [
+              "GEN.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Abramu akasafiri kuelekea upande wa Negebu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.9",
+            "verseOrgIds": [
+              "GEN.12.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Abramu Katika Nchi Ya Misri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi kulikuwako na njaa katika nchi, naye Abramu akashuka kwenda Misri kukaa huko kwa muda, kwa maana njaa ilikuwa kali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.10",
+            "verseOrgIds": [
+              "GEN.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipokuwa karibu kuingia Misri, akamwambia Sarai mkewe, \"Ninajua ya kwamba wewe ni mwanamke mzuri wa sura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.11",
+            "verseOrgIds": [
+              "GEN.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati Wamisri watakapokuona, watasema, 'Huyu ni mke wake.' Ndipo wataniua, lakini wewe watakuacha hai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.12",
+            "verseOrgIds": [
+              "GEN.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sema wewe ni dada yangu, ili nitendewe mema kwa ajili yako, na maisha yangu yatahifadhiwa kwa sababu yako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.13",
+            "verseOrgIds": [
+              "GEN.12.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abramu alipoingia Misri, Wamisri wakamwona Sarai kuwa ni mwanamke mzuri sana wa sura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.14",
+            "verseOrgIds": [
+              "GEN.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maafisa wa Farao walipomwona, wakamsifia kwa Farao; ndipo Sarai akapelekwa kwa nyumba ya mfalme.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.15",
+            "verseOrgIds": [
+              "GEN.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ajili ya Sarai, Farao akamtendea Abramu mema, naye Abramu akapata kondoo, ngʼombe, punda, ngamia na watumishi wa kiume na wa kike.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.16",
+            "verseOrgIds": [
+              "GEN.12.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.17",
+            "verseOrgIds": [
+              "GEN.12.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.12.17",
+                "verseOrgIds": [
+                  "GEN.12.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwadhibu Farao na nyumba yake kwa maradhi ya kufisha kwa sababu ya kumchukua Sarai, mke wa Abramu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.17",
+            "verseOrgIds": [
+              "GEN.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Farao akamwita Abramu, akamuuliza, \"Umenifanyia nini? Kwa nini hukuniambia ni mke wako?",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.18",
+            "verseOrgIds": [
+              "GEN.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa nini ulisema, 'Yeye ni dada yangu,' hata nikamchukua kuwa mke wangu? Sasa basi, mke wako huyu hapa. Mchukue uende zako!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.19",
+            "verseOrgIds": [
+              "GEN.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Farao akawapa watu wake amri kuhusu Abramu, wakamsindikiza pamoja na mke wake na kila alichokuwa nacho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.12.20",
+            "verseOrgIds": [
+              "GEN.12.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.13",
+    "number": "13",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.11",
+    "number": "11",
+    "bookId": "GEN"
+  }
+}

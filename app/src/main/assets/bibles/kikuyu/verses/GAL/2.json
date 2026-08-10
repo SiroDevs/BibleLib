@@ -1,0 +1,603 @@
+{
+  "id": "GAL.2",
+  "number": "2",
+  "bookId": "GAL",
+  "reference": "Agalatia 2",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "GAL 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paũlũ Gwĩtĩkĩrwo nĩ Atũmwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GAL 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mĩaka ikũmi na ĩna yathira nĩndambatire rĩngĩ Jerusalemu, na ihinda rĩĩrĩ tũgĩthiĩ hamwe na Baranaba o na tũgĩthiĩ na Tito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.1",
+            "verseOrgIds": [
+              "GAL.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GAL 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndathiire tondũ Ngai nĩanguũrĩirie thiĩ kuo, na nĩguo ngataarĩrie atũmwo Ũhoro-ũrĩa-Mwega ũrĩa hunjagĩria andũ-a-Ndũrĩrĩ. No ndataarĩirie o arĩa monekaga marĩ atongoria hatarĩ andũ angĩ, nĩgeetha gũtigatuĩke atĩ ihenya rĩrĩa ndatengʼeraga, o na kana rĩrĩa ndatengʼerete, rĩarĩ rĩa tũhũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.2",
+            "verseOrgIds": [
+              "GAL.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GAL 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No o na Tito, ũrĩa warĩ hamwe na niĩ, ndaringĩrĩirio kũrua, o na gũtuĩka aarĩ Mũyunani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.3",
+            "verseOrgIds": [
+              "GAL.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GAL 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro ũyũ wa kũrua wagĩire ho tondũ nĩ kwarĩ na ariũ na aarĩ a Ithe witũ a maheeni arĩa maatoonyete gatagatĩ gaitũ na hitho marĩ athigaani nĩguo matuĩrie ũhoro wa wĩyathi ũrĩa tũkoragwo naguo tũrĩ thĩinĩ wa Kristũ Jesũ, makĩenda gũtũtua ngombo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.4",
+            "verseOrgIds": [
+              "GAL.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GAL 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tũtietĩkĩrire ũhoro wao o na hanini, nĩgeetha ma ya Ũhoro-ũrĩa-Mwega ĩtũũre na inyuĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.5",
+            "verseOrgIds": [
+              "GAL.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GAL 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ arĩa moonekaga taarĩ o anene-rĩ, (harĩ niĩ hatiarĩ na ũtiganu o ũrĩa mangĩakorirwo marĩ, nĩgũkorwo Ngai ndaroraga mũndũ ũrĩa ahaana) andũ acio gũtirĩ ũndũ moongereire harĩ ndũmĩrĩri yakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.6",
+            "verseOrgIds": [
+              "GAL.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GAL 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na rĩrĩ, o nĩmoonire atĩ niĩ nĩndehokeirwo wĩra wa kũhunjia Ũhoro-ũrĩa-Mwega kũrĩ andũ-a-Ndũrĩrĩ, o ta ũrĩa Petero eehokeirwo wĩra wa kũhunjĩria Ayahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.7",
+            "verseOrgIds": [
+              "GAL.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GAL 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo Ngai ũrĩa warutaga wĩra thĩinĩ wa ũtungata wa Petero arĩ mũtũmwo kũrĩ Ayahudi, nowe warutaga wĩra ũtungata-inĩ wakwa ndĩ mũtũmwo kũrĩ andũ-a-Ndũrĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.8",
+            "verseOrgIds": [
+              "GAL.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GAL 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jakubu, na Petero, na Johana, arĩa moonagwo marĩ itugĩ cia gũtiira kanitha-rĩ, nĩmatwamũkĩrire tũrĩ hamwe na Baranaba na guoko kwa ũrĩo kwa ngwatanĩro, rĩrĩa maamenyire wega wa Ngai ũrĩa ndaaheetwo. Nĩmetĩkĩrire atĩ ithuĩ tũthiĩ tũkahunjĩrie andũ-a-Ndũrĩrĩ, nao mathiĩ kũrĩ Ayahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.9",
+            "verseOrgIds": [
+              "GAL.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GAL 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũrĩa maatwĩrire twĩkage nĩ atĩ tũririkanage athĩĩni na noguo ũndũ ũrĩa niĩ mwene ndaarĩ na kĩyo gĩa gwĩka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.10",
+            "verseOrgIds": [
+              "GAL.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paũlũ Gũkararia Petero",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GAL 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, hĩndĩ ĩrĩa Petero ookire Antiokia,nĩndamũkararirie mbere ya andũ tondũ nĩahĩtĩtie mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.11",
+            "verseOrgIds": [
+              "GAL.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GAL 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ amwe moimĩte kũrĩ Jakubu matanakinya-rĩ, Petero nĩarĩĩanagĩra na andũ-a-Ndũrĩrĩ, no rĩrĩa maakinyire, akĩmeherera, na akĩĩamũrania na andũ-a-Ndũrĩrĩ tondũ nĩetigagĩra andũ arĩa maarĩ a gĩkundi kĩa andũ arĩa maruaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.12",
+            "verseOrgIds": [
+              "GAL.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GAL 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na Ayahudi arĩa angĩ makĩnyiitanĩra na Petero ũhinga-inĩ wake, o nginya o na Baranaba akĩhĩtithio nĩ ũhinga ũcio wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.13",
+            "verseOrgIds": [
+              "GAL.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GAL 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa ndonire atĩ matiekaga kũringana na ma ya Ũhoro-ũrĩa-Mwega, ngĩĩra Petero atĩrĩ, andũ othe makĩiguaga, “Angĩkorwo wee ũrĩ Mũyahudi, ũtũũraga na mĩtugo ya andũ-a-Ndũrĩrĩ na ti ta Mũyahudi-rĩ, ũngĩkĩhota atĩa kũhatĩrĩria andũ-a-Ndũrĩrĩ atĩ nĩguo marũmĩrĩre mĩtugo ya Ayahudi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.14",
+            "verseOrgIds": [
+              "GAL.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GAL 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ithuĩ arĩa tũciarĩtwo tũrĩ Ayahudi na tũtarĩ ehia ta andũ-a-Ndũrĩrĩ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.15",
+            "verseOrgIds": [
+              "GAL.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GAL 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩtũũĩ atĩ mũndũ ndatuĩkaga mũthingu nĩ ũndũ wa gwathĩkĩra watho, no atuĩkaga mũthingu nĩ ũndũ wa gwĩtĩkia Jesũ Kristũ. Nĩ ũndũ ũcio o na ithuĩ twĩtĩkĩtie Kristũ Jesũ nĩguo tũtuuo athingu nĩ ũndũ wa gwĩtĩkia Kristũ, no ti ũndũ wa gwathĩkĩra watho, tondũ gũtirĩ mũndũ ũgaatuuo mũthingu nĩ ũndũ wa gwathĩkĩra watho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.16",
+            "verseOrgIds": [
+              "GAL.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GAL 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Angĩgĩkorwo rĩrĩa tũgũcaria gũtuuo athingu nĩ Kristũ kuonanagia atĩ ithuĩ ene tũrĩ ehia-rĩ, ũguo nĩ kuuga atĩ Kristũ atungatagĩra mehia? Hĩ! Kũroaga gũtuĩka ũguo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.17",
+            "verseOrgIds": [
+              "GAL.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GAL 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angĩkorwo nĩ ngwaka rĩngĩ kĩrĩa ndaanangire-rĩ, nĩkuonania atĩ niĩ nĩnyunĩte watho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.18",
+            "verseOrgIds": [
+              "GAL.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GAL 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo na ũndũ wa watho nĩndakuĩrĩire watho ũcio nĩguo ndũũre muoyo ndĩ wa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.19",
+            "verseOrgIds": [
+              "GAL.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GAL 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ nĩndĩkĩtie kwambanĩrio hamwe na Kristũ, na rĩu ti niĩ ndũũraga muoyo, no Kristũ nĩwe ũtũũraga muoyo thĩinĩ wakwa. Muoyo ũrĩa ndũũraga mwĩrĩ-inĩ ũyũ ndũũraga na ũndũ wa gwĩtĩkia Mũrũ wa Ngai, ũrĩa wanyendire na akĩĩruta nĩ ũndũ wakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.20",
+            "verseOrgIds": [
+              "GAL.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GAL 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndingĩĩtĩkĩra gũtua wega wa Ngai kĩndũ gĩa tũhũ, tondũ kũngĩtuĩka atĩ ũthingu wonekaga nĩ ũndũ wa watho-rĩ, Kristũ aakuire tũhũ!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GAL.2.21",
+            "verseOrgIds": [
+              "GAL.2.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GAL.3",
+    "number": "3",
+    "bookId": "GAL"
+  },
+  "previous": {
+    "id": "GAL.1",
+    "number": "1",
+    "bookId": "GAL"
+  }
+}

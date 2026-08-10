@@ -1,0 +1,875 @@
+{
+  "id": "ISA.62",
+  "number": "62",
+  "bookId": "ISA",
+  "reference": "Isaiah 62",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "62",
+        "style": "c",
+        "sid": "ISA 62"
+      },
+      "items": [
+        {
+          "text": "62",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 62:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For Zion's sake will I not hold my peace, and for Jerusalem's sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.1",
+            "verseOrgIds": [
+              "ISA.62.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.1",
+                "verseOrgIds": [
+                  "ISA.62.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "burneth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.1",
+            "verseOrgIds": [
+              "ISA.62.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 62:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.2",
+            "verseOrgIds": [
+              "ISA.62.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.2",
+                "verseOrgIds": [
+                  "ISA.62.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.2",
+            "verseOrgIds": [
+              "ISA.62.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 62:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou shalt also be a crown of glory in the hand of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.3",
+            "verseOrgIds": [
+              "ISA.62.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.3",
+                "verseOrgIds": [
+                  "ISA.62.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and a royal diadem in the hand of thy God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.3",
+            "verseOrgIds": [
+              "ISA.62.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 62:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzi-bah, and thy land Beulah: for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.4",
+            "verseOrgIds": [
+              "ISA.62.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.4",
+                "verseOrgIds": [
+                  "ISA.62.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "delighteth in thee, and thy land shall be married.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.4",
+            "verseOrgIds": [
+              "ISA.62.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 62:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ For",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.5",
+            "verseOrgIds": [
+              "ISA.62.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.5",
+                "verseOrgIds": [
+                  "ISA.62.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a young man marrieth a virgin,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.5",
+            "verseOrgIds": [
+              "ISA.62.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "so",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.5",
+                "verseOrgIds": [
+                  "ISA.62.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall thy sons marry thee: and",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.5",
+            "verseOrgIds": [
+              "ISA.62.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.5",
+                "verseOrgIds": [
+                  "ISA.62.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the bridegroom rejoiceth over the bride,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.5",
+            "verseOrgIds": [
+              "ISA.62.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "so",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.5",
+                "verseOrgIds": [
+                  "ISA.62.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall thy God rejoice over thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.5",
+            "verseOrgIds": [
+              "ISA.62.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 62:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have set watchmen upon thy walls, O Jerusalem,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.6",
+            "verseOrgIds": [
+              "ISA.62.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.6",
+                "verseOrgIds": [
+                  "ISA.62.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall never hold their peace day nor night: ye that make mention of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.6",
+            "verseOrgIds": [
+              "ISA.62.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.6",
+                "verseOrgIds": [
+                  "ISA.62.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", keep not silence,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.6",
+            "verseOrgIds": [
+              "ISA.62.6"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.6",
+            "verseOrgIds": [
+              "ISA.62.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 62:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.7",
+            "verseOrgIds": [
+              "ISA.62.7"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.7",
+            "verseOrgIds": [
+              "ISA.62.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 62:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.8",
+            "verseOrgIds": [
+              "ISA.62.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.8",
+                "verseOrgIds": [
+                  "ISA.62.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.8",
+            "verseOrgIds": [
+              "ISA.62.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "to be",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.8",
+                "verseOrgIds": [
+                  "ISA.62.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.8",
+            "verseOrgIds": [
+              "ISA.62.8"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.8",
+            "verseOrgIds": [
+              "ISA.62.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 62:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But they that have gathered it shall eat it, and praise the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.9",
+            "verseOrgIds": [
+              "ISA.62.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.9",
+                "verseOrgIds": [
+                  "ISA.62.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; and they that have brought it together shall drink it in the courts of my holiness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.9",
+            "verseOrgIds": [
+              "ISA.62.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 62:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.10",
+            "verseOrgIds": [
+              "ISA.62.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 62:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.11",
+            "verseOrgIds": [
+              "ISA.62.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.11",
+                "verseOrgIds": [
+                  "ISA.62.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.11",
+            "verseOrgIds": [
+              "ISA.62.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.11",
+                "verseOrgIds": [
+                  "ISA.62.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with him, and his work before him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.11",
+            "verseOrgIds": [
+              "ISA.62.11"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.11",
+            "verseOrgIds": [
+              "ISA.62.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 62:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And they shall call them, The holy people, The redeemed of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.12",
+            "verseOrgIds": [
+              "ISA.62.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.62.12",
+                "verseOrgIds": [
+                  "ISA.62.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": and thou shalt be called, Sought out, A city not forsaken.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.62.12",
+            "verseOrgIds": [
+              "ISA.62.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.63",
+    "number": "63",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  }
+}

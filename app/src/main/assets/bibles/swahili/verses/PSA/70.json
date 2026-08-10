@@ -1,0 +1,560 @@
+{
+  "id": "PSA.70",
+  "number": "70",
+  "bookId": "PSA",
+  "reference": "Zaburi 70",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "70",
+        "style": "c",
+        "sid": "PSA 70"
+      },
+      "items": [
+        {
+          "text": "70",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 70",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuomba Msaada",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "PSA.40.13-PSA.40.17"
+          },
+          "items": [
+            {
+              "text": "Zaburi 40:13-17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Kwa mwimbishaji. Zaburi ya Daudi. Maombi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 70:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mungu, ufanye haraka kuniokoa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.1",
+            "verseOrgIds": [
+              "PSA.70.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:1"
+      },
+      "items": [
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.1",
+            "verseOrgIds": [
+              "PSA.70.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.70.1",
+                "verseOrgIds": [
+                  "PSA.70.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", njoo hima unisaidie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.1",
+            "verseOrgIds": [
+              "PSA.70.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 70:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale wanaotafuta kuuondoa uhai wangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.2",
+            "verseOrgIds": [
+              "PSA.70.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:2"
+      },
+      "items": [
+        {
+          "text": "waaibishwe na kufadhaishwa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.2",
+            "verseOrgIds": [
+              "PSA.70.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 70:2"
+      },
+      "items": [
+        {
+          "text": "wote wanaotamani kuangamizwa kwangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.2",
+            "verseOrgIds": [
+              "PSA.70.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:2"
+      },
+      "items": [
+        {
+          "text": "warudishwe nyuma kwa aibu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.2",
+            "verseOrgIds": [
+              "PSA.70.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 70:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale waniambiao, \"Aha! Aha!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.3",
+            "verseOrgIds": [
+              "PSA.70.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:3"
+      },
+      "items": [
+        {
+          "text": "warudi nyuma kwa sababu ya aibu yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.3",
+            "verseOrgIds": [
+              "PSA.70.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 70:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wote wakutafutao",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.4",
+            "verseOrgIds": [
+              "PSA.70.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:4"
+      },
+      "items": [
+        {
+          "text": "washangilie na kukufurahia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.4",
+            "verseOrgIds": [
+              "PSA.70.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 70:4"
+      },
+      "items": [
+        {
+          "text": "wale wapendao wokovu wako siku zote waseme,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.4",
+            "verseOrgIds": [
+              "PSA.70.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:4"
+      },
+      "items": [
+        {
+          "text": "\"Mungu na atukuzwe!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.4",
+            "verseOrgIds": [
+              "PSA.70.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 70:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini bado mimi ni maskini na mhitaji;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.5",
+            "verseOrgIds": [
+              "PSA.70.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:5"
+      },
+      "items": [
+        {
+          "text": "Ee Mungu, unijie haraka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.5",
+            "verseOrgIds": [
+              "PSA.70.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 70:5"
+      },
+      "items": [
+        {
+          "text": "Wewe ndiwe msaada wangu na mwokozi wangu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.5",
+            "verseOrgIds": [
+              "PSA.70.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 70:5"
+      },
+      "items": [
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.5",
+            "verseOrgIds": [
+              "PSA.70.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.70.5",
+                "verseOrgIds": [
+                  "PSA.70.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", usikawie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.70.5",
+            "verseOrgIds": [
+              "PSA.70.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.71",
+    "number": "71",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.69",
+    "number": "69",
+    "bookId": "PSA"
+  }
+}

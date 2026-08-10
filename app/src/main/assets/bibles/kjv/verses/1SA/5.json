@@ -1,0 +1,749 @@
+{
+  "id": "1SA.5",
+  "number": "5",
+  "bookId": "1SA",
+  "reference": "1 Samuel 5",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1SA 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.1",
+            "verseOrgIds": [
+              "1SA.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.2",
+            "verseOrgIds": [
+              "1SA.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ And when they of Ashdod arose early on the morrow, behold, Dagon",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.3",
+            "verseOrgIds": [
+              "1SA.5.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "was",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.3",
+                "verseOrgIds": [
+                  "1SA.5.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "fallen upon his face to the earth before the ark of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.3",
+            "verseOrgIds": [
+              "1SA.5.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.3",
+                "verseOrgIds": [
+                  "1SA.5.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". And they took Dagon, and set him in his place again.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.3",
+            "verseOrgIds": [
+              "1SA.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when they arose early on the morrow morning, behold, Dagon",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "was",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.4",
+                "verseOrgIds": [
+                  "1SA.5.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "fallen upon his face to the ground before the ark of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.4",
+                "verseOrgIds": [
+                  "1SA.5.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; and the head of Dagon and both the palms of his hands",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "were",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.4",
+                "verseOrgIds": [
+                  "1SA.5.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "cut off upon the threshold; only",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "the stump of",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.4",
+                "verseOrgIds": [
+                  "1SA.5.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Dagon was left to him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.4",
+            "verseOrgIds": [
+              "1SA.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore neither the priests of Dagon, nor any that come into Dagon's house, tread on the threshold of Dagon in Ashdod unto this day.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.5",
+            "verseOrgIds": [
+              "1SA.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the hand of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.6",
+                "verseOrgIds": [
+                  "1SA.5.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "was heavy upon them of Ashdod, and he destroyed them, and smote them with emerods,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.6",
+                "verseOrgIds": [
+                  "1SA.5.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Ashdod and the coasts thereof.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.6",
+            "verseOrgIds": [
+              "1SA.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when the men of Ashdod saw that",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.7",
+            "verseOrgIds": [
+              "1SA.5.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it was",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.7",
+                "verseOrgIds": [
+                  "1SA.5.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.7",
+            "verseOrgIds": [
+              "1SA.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.8",
+            "verseOrgIds": [
+              "1SA.5.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thither",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.8",
+                "verseOrgIds": [
+                  "1SA.5.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.8",
+            "verseOrgIds": [
+              "1SA.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And it was",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.9",
+            "verseOrgIds": [
+              "1SA.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "so",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.9",
+                "verseOrgIds": [
+                  "1SA.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", that, after they had carried it about, the hand of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.9",
+            "verseOrgIds": [
+              "1SA.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.5.9",
+                "verseOrgIds": [
+                  "1SA.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.9",
+            "verseOrgIds": [
+              "1SA.5.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Therefore they sent the ark of God to Ekron. And it came to pass, as the ark of God came to Ekron, that the Ekronites cried out, saying, They have brought about the ark of the God of Israel to us, to slay us and our people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.10",
+            "verseOrgIds": [
+              "1SA.5.10"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.10",
+            "verseOrgIds": [
+              "1SA.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.11",
+            "verseOrgIds": [
+              "1SA.5.11"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.11",
+            "verseOrgIds": [
+              "1SA.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the men that died not were smitten with the emerods: and the cry of the city went up to heaven.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.5.12",
+            "verseOrgIds": [
+              "1SA.5.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.6",
+    "number": "6",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.4",
+    "number": "4",
+    "bookId": "1SA"
+  }
+}

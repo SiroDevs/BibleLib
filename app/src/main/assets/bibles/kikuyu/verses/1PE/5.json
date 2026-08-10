@@ -1,0 +1,428 @@
+{
+  "id": "1PE.5",
+  "number": "5",
+  "bookId": "1PE",
+  "reference": "1 Petero 5",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "1PE 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ũhoro kũrĩ Athuuri na Aanake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndĩ na ũhoro ngwenda gũthaitha athuuri a Kanitha arĩa marĩ hamwe na inyuĩ, ndĩ mũthuuri wa Kanitha o tao, na ndĩ mũira wa kũnyariirwo gwa Kristũ, o na ndĩ ũmwe wa gũkaagaĩrwo riiri ũrĩa ũkaaguũranĩrio:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.1",
+            "verseOrgIds": [
+              "1PE.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atĩrĩrĩ, tuĩkai arĩithi a rũũru rwa Ngai rũrĩa mwĩhokeirwo, mũgĩtungataga mũrĩ arori, na ti tondũ wa kũringĩrĩrio, no nĩ ũndũ wa kwĩyendera, o ta ũrĩa Ngai endaga mũtuĩke; mũtegũkorokera mbeeca, no mũtungatage mũrĩ na kĩyo mũno;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.2",
+            "verseOrgIds": [
+              "1PE.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mũtigetue anene a andũ arĩa mwĩhokeirwo, no mũtuĩke cionereria njega kũrĩ rũũru rũu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.3",
+            "verseOrgIds": [
+              "1PE.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na hĩndĩ ĩrĩa Mũrĩithi Ũrĩa Mũnene akaaguũranĩrio-rĩ, nĩmũkaheo thũmbĩ ya riiri ĩrĩa ĩtagatheũka o na rĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.4",
+            "verseOrgIds": [
+              "1PE.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ũguo no taguo o na inyuĩ aanake mwagĩrĩirwo nĩ gwathĩkĩra andũ arĩa akũrũ. Inyuĩ othe-rĩ, ikaragai mwĩnyiihanĩirie mũndũ na ũrĩa ũngĩ, tondũ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.5",
+            "verseOrgIds": [
+              "1PE.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mwĩnyiihagiei, mũrĩ guoko-inĩ kwa Ngai kũrĩa kũrĩ hinya, nĩguo akaamũtũũgĩria hĩndĩ ĩrĩa njagĩrĩru yakinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.6",
+            "verseOrgIds": [
+              "1PE.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mũmũrekagĩrĩrie maũndũ manyu mothe marĩa mamũtangaga, tondũ nĩwe ũmũrũmbũyagia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.7",
+            "verseOrgIds": [
+              "1PE.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ikaragai mwĩiguĩte na mwĩhũgage. Tondũ-rĩ, thũ yanyu mũcukani ĩcangacangaga ta mũrũũthi ũkũrarama ũgĩcaria mũndũ wa gũtambuura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.8",
+            "verseOrgIds": [
+              "1PE.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, mũmwĩtiirie, mwĩhaandĩte wega thĩinĩ wa wĩtĩkio, tondũ nĩmũmenyete atĩ ariũ na aarĩ a Ithe wanyu gũkũ thĩ guothe maranyariirĩka o ta inyuĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.9",
+            "verseOrgIds": [
+              "1PE.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai mwene wega wothe, o we ũrĩa wamwĩtire riiri-inĩ wake wa tene na tene thĩinĩ wa Kristũ, we mwene nĩakamũcookereria, na amwĩkĩre hinya, na amũtue arũmu na mũtangĩenyenyeka, thuutha wa kũnyariirĩka kahinda kanini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.10",
+            "verseOrgIds": [
+              "1PE.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo hinya ũrotuĩka wake tene na tene. Ameni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.11",
+            "verseOrgIds": [
+              "1PE.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngeithi cia Mũthia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndamwandĩkĩra marũa maya makuhĩ ndeithĩtio nĩ Silivano, ũrĩa nduaga mũrũ wa Ithe witũ mwĩhokeku, nĩguo ndĩmũmĩrĩrie, na heane ũira na ma atĩ ũhoro ũyũ nĩguo wega wa Ngai ũrĩa wa ma. Mwĩhaandei wega thĩinĩ waguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.12",
+            "verseOrgIds": [
+              "1PE.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kanitha ũrĩa ũrĩ gũkũ Babuloni, ũrĩa ũthuurĩtwo hamwe na inyuĩ, nĩwamũgeithia, o nake mũrũ wakwa Mariko nĩamũgeithia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.13",
+            "verseOrgIds": [
+              "1PE.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Geithaniai mũndũ na ũrĩa ũngĩ na ngeithi cia kĩmumunyano iria cia wendo. Thayũ ũrogĩa na inyuĩ inyuothe arĩa mũrĩ thĩinĩ wa Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.5.14",
+            "verseOrgIds": [
+              "1PE.5.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2PE.intro",
+    "number": "intro",
+    "bookId": "2PE"
+  },
+  "previous": {
+    "id": "1PE.4",
+    "number": "4",
+    "bookId": "1PE"
+  }
+}

@@ -1,0 +1,950 @@
+{
+  "id": "GEN.25",
+  "number": "25",
+  "bookId": "GEN",
+  "reference": "Kĩambĩrĩria 25",
+  "verseCount": 34,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "GEN 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gĩkuũ kĩa Iburahĩmu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha ũcio Iburahĩmu nĩ aahikirie mũtumia ũngĩ, wetagwo Ketura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.1",
+            "verseOrgIds": [
+              "GEN.25.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 25:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmũciarĩra ariũ atandatũ, na nĩo Zimirani, na Jokishani, na Medani, na Midiani, na Ishibaku na Shua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.2",
+            "verseOrgIds": [
+              "GEN.25.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 25:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jokishani nĩwe warĩ ithe wa Sheba na Dedani; nacio njiaro cia Dedani nĩcio ciarĩ Aashuri, na Aletushi na Aleumi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.3",
+            "verseOrgIds": [
+              "GEN.25.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 25:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao ariũ a Midiani maarĩ Efa, na Eferi, na Hanoku, na Abida na Elidaha. Acio othe maarĩ njiaro cia Ketura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.4",
+            "verseOrgIds": [
+              "GEN.25.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 25:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Iburahĩmu akĩgaĩra Isaaka indo ciothe iria aarĩ nacio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.5",
+            "verseOrgIds": [
+              "GEN.25.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 25:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No arĩ o muoyo-rĩ, akĩhe ariũ a thuriyaciake iheo, agĩcooka akĩmeheranĩria na mũriũ Isaaka magĩthiĩ na kũu bũrũri wa irathĩro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.6",
+            "verseOrgIds": [
+              "GEN.25.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 25:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mĩaka yothe ĩrĩa Iburahĩmu aatũũrire muoyo yarĩ mĩaka igana rĩmwe na mĩrongo mũgwanja na ĩtano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.7",
+            "verseOrgIds": [
+              "GEN.25.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 25:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iburahĩmu agĩtuĩkana na agĩkua arĩ mũthuuri mũniaru, arĩ mũkũrũ na akaingĩhia mĩaka, agĩthikwo hamwe na andũ ao arĩa maakuĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.8",
+            "verseOrgIds": [
+              "GEN.25.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 25:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao ariũ ake, Isaaka na Ishumaeli, makĩmũthika ngurunga-inĩ ya Makipela hakuhĩ na Mamure, gĩthaka-inĩ kĩa Efironi mũrũ wa Zoharu ũrĩa Mũhiti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.9",
+            "verseOrgIds": [
+              "GEN.25.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 25:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gĩthaka kĩrĩa Iburahĩmu aagũrĩte kuuma kũrĩ Ahiti. Hau nĩho Iburahĩmu aathikirwo hamwe na Sara mũtumia wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.10",
+            "verseOrgIds": [
+              "GEN.25.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 25:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa gĩkuũ kĩa Iburahĩmu-rĩ, Ngai nĩarathimire mũriũ Isaaka ũrĩa watũũraga hakuhĩ na Biri-Lahai-Roi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.11",
+            "verseOrgIds": [
+              "GEN.25.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ariũ a Ishumaeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 25:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo ũhoro wa Ishumaeli mũrũ wa Iburahĩmu, ũrĩa waciarĩirwo Iburahĩmu nĩ Hagari ũrĩa Mũmisiri, ndungata ya Sara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.12",
+            "verseOrgIds": [
+              "GEN.25.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 25:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maya nĩmo marĩĩtwa ma ariũ a Ishumaeli, maandĩkĩtwo kũringana na ũrĩa maarũmanĩrĩire gũciarwo: Irigithathi rĩa Ishumaeli rĩarĩ Nebaiothu, rĩkarũmĩrĩrwo nĩ Kedari, na Adubeeli, na Mibisamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.13",
+            "verseOrgIds": [
+              "GEN.25.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 25:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na Mishima, na Duma, na Masa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.14",
+            "verseOrgIds": [
+              "GEN.25.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 25:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na Hadadi, na Tema, na Jeturu, na Nafishu, na Kedema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.15",
+            "verseOrgIds": [
+              "GEN.25.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 25:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acio nĩo maarĩ ariũ a Ishumaeli, na macio nĩmo marĩĩtwa ma aathani ikũmi na eerĩ a mĩhĩrĩga yao kũringana na kũrĩa maatũũraga na kambĩ ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.16",
+            "verseOrgIds": [
+              "GEN.25.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 25:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mĩaka yothe ĩrĩa Ishumaeli aatũũrire muoyo yarĩ mĩaka igana rĩmwe na mĩrongo ĩtatũ na mũgwanja. Agĩcooka agĩtuĩkana agĩkua, na agĩthikwo hamwe na andũ ao arĩa maakuĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.17",
+            "verseOrgIds": [
+              "GEN.25.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 25:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njiaro cia Ishumaeli igĩtũũra kuuma Havila nginya Shuri, gũkuhĩ na mũhaka wa Misiri werekeire bũrũri wa Ashuri. Nao magĩtũũra na rũmena na ariũ arĩa angĩ othe a ithe wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.18",
+            "verseOrgIds": [
+              "GEN.25.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jakubu na Esaũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 25:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo ũhoro wa Isaaka mũrũ wa Iburahĩmu.\nIburahĩmu nĩwe waciarire Isaaka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.19",
+            "verseOrgIds": [
+              "GEN.25.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 25:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nake Isaaka aarĩ na mĩaka mĩrongo ĩna rĩrĩa aahikirie Rebeka, mwarĩ wa Bethueli ũrĩa Mũsuriata wa Padani-Aramu, na aarĩ mwarĩ wa nyina na Labani ũrĩa Mũsuriata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.20",
+            "verseOrgIds": [
+              "GEN.25.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 25:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isaaka agĩthaitha Jehova nĩ ũndũ wa mũtumia wake tondũ aarĩ thaata. Nake Jehova akĩigua mahooya make, na Rebeka mũtumia wake akĩgĩa nda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.21",
+            "verseOrgIds": [
+              "GEN.25.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 25:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Natuo twana tũu tũkĩgianĩra kũu nda yake, nake akĩĩyũria atĩrĩ, “Ũndũ ũyũ ũrekĩka kũrĩ niĩ nĩkĩ?” Nĩ ũndũ ũcio agĩthiĩ gũtuĩria ũhoro harĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.22",
+            "verseOrgIds": [
+              "GEN.25.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 25:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩmwĩra atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.23",
+            "verseOrgIds": [
+              "GEN.25.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 25:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa ihinda rĩake rĩakinyire rĩa gũciara, agĩkorwo nĩ tũhĩĩ twa mahatha aarĩ natuo nda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.24",
+            "verseOrgIds": [
+              "GEN.25.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 25:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Karĩa kaambire gũciarwo kaarĩ gatune na mwĩrĩ wako wothe wahaanaga ta nguo ya maguoya; tondũ ũcio magĩgatua Esaũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.25",
+            "verseOrgIds": [
+              "GEN.25.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "GEN 25:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha ũcio mũrũ wa nyina agĩciarwo guoko gwake kũnyiitĩte ndiira ya Esaũ; tondũ ũcio agĩtuuo Jakubu. Isaaka aarĩ na mĩaka mĩrongo ĩtandatũ rĩrĩa Rebeka aaciarire twana tũu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.26",
+            "verseOrgIds": [
+              "GEN.25.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "GEN 25:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Natuo tũmwana tũu tũgĩkũra, nake Esaũ agĩtuĩka mũguĩmi mũũgĩ, mũndũ wa werũ, no Jakubu aarĩ mũndũ mũhooreri, waikaraga hakuhĩ na mũciĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.27",
+            "verseOrgIds": [
+              "GEN.25.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "GEN 25:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isaaka eendete Esaũ tondũ nĩ eendete nyama cia ũguĩmi, no Rebeka eendete Jakubu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.28",
+            "verseOrgIds": [
+              "GEN.25.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "GEN 25:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya ũmwe Jakubu nĩarugaga gĩtoero kĩa ndengũ ndune, nake Esaũ agĩũka kuuma werũ-inĩ ahũtiĩ mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.29",
+            "verseOrgIds": [
+              "GEN.25.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "GEN 25:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩĩra Jakubu atĩrĩ, “Ta he gĩtoero kĩu ũraruga! Ndĩ mũhũtu mũno!” (Nĩkĩo gĩatũmire acooke gwĩtwo Edomu.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.30",
+            "verseOrgIds": [
+              "GEN.25.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "GEN 25:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jakubu akĩmũcookeria atĩrĩ, “Amba ũnyenderie ũrigithathi waku!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.31",
+            "verseOrgIds": [
+              "GEN.25.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "GEN 25:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Esaũ akiuga atĩrĩ, “Ngirie gũkua, ũrigithathi ũyũ ũkaangʼuna na kĩ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.32",
+            "verseOrgIds": [
+              "GEN.25.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "GEN 25:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jakubu akĩmwĩra atĩrĩ, “Amba wĩhĩte kũrĩ niĩ.” Nake akĩĩhĩta na mwĩhĩtwa, akĩenderia Jakubu ũrigithathi wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.33",
+            "verseOrgIds": [
+              "GEN.25.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "GEN 25:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jakubu akĩhe Esaũ mũgate na gĩtoero kĩa ndengũ. Nake akĩrĩa na akĩnyua, agĩcooka agĩũkĩra agĩĩthiĩra. Tondũ ũcio Esaũ akĩnyarara ũrigithathi wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.25.34",
+            "verseOrgIds": [
+              "GEN.25.34"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.26",
+    "number": "26",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.24",
+    "number": "24",
+    "bookId": "GEN"
+  }
+}

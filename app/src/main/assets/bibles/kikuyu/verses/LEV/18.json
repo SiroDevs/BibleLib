@@ -1,0 +1,806 @@
+{
+  "id": "LEV.18",
+  "number": "18",
+  "bookId": "LEV",
+  "reference": "Alawii 18",
+  "verseCount": 30,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "18",
+        "style": "c",
+        "sid": "LEV 18"
+      },
+      "items": [
+        {
+          "text": "18",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gũkomania kũrĩa Kũgirie",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LEV 18:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩĩra Musa atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.1",
+            "verseOrgIds": [
+              "LEV.18.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LEV 18:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Arĩria andũ a Isiraeli, ũmeere atĩrĩ: ‘Niĩ nĩ niĩ Jehova Ngai wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.2",
+            "verseOrgIds": [
+              "LEV.18.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LEV 18:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtikaneke maũndũ marĩa andũ a Misiri, kũrĩa mwatũũraga, meekaga, na mũtikaneke maũndũ marĩa mekagwo bũrũri wa Kaanani, kũrĩa ndĩramũtwara. Mũtikarũmĩrĩre mĩthiĩre yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.3",
+            "verseOrgIds": [
+              "LEV.18.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LEV 18:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nginya mwathĩkagĩre mawatho makwa na mũmenyagĩrĩre gwathĩkĩra kĩrĩra kĩa watho wakwa wa kũrũmĩrĩrwo. Niĩ nĩ niĩ Jehova Ngai wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.4",
+            "verseOrgIds": [
+              "LEV.18.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LEV 18:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tũũrai mũrũmĩtie kĩrĩra kĩa watho wakwa wa kũrũmĩrĩrwo, na mawatho makwa, nĩgũkorwo mũndũ ũrĩa ũrĩĩmathĩkagĩra nĩarĩtũũrio muoyo nĩmo. Niĩ nĩ niĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.5",
+            "verseOrgIds": [
+              "LEV.18.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LEV 18:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Gũtirĩ mũndũ o na ũrĩkũ ũgaathengerera mũndũ wa nyũmba yake nĩguo makomanie; niĩ nĩ niĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.6",
+            "verseOrgIds": [
+              "LEV.18.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LEV 18:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanaconorithie thoguo nĩ ũndũ wa gũkoma na nyũkwa. Ũcio nĩ nyũkwa; ndũkanakome nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.7",
+            "verseOrgIds": [
+              "LEV.18.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LEV 18:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũtumia wa thoguo; ũguo nĩ gũconorithia thoguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.8",
+            "verseOrgIds": [
+              "LEV.18.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LEV 18:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mwarĩ wa nyũkwa, kana mwarĩ wa thoguo ũrĩa mũciarĩtwo nĩ ithe ũmwe kana mwarĩ wa nyũkwa ũrĩa mũtarĩ a ithe ũmwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.9",
+            "verseOrgIds": [
+              "LEV.18.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LEV 18:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mwarĩ wa mũrũguo kana mwarĩ wa mwarĩguo; ũguo nĩ gwĩconorithia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.10",
+            "verseOrgIds": [
+              "LEV.18.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LEV 18:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mwarĩ wa mũndũ-wa-nja wa thoguo, ũrĩa ũciarĩtwo nĩ thoguo; ũcio no ta mwarĩ wa nyũkwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.11",
+            "verseOrgIds": [
+              "LEV.18.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LEV 18:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mwarĩ wa nyina na thoguo; ũcio nĩ mũndũ wa nyũmba ya thoguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.12",
+            "verseOrgIds": [
+              "LEV.18.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LEV 18:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na tataguo, ũcio nĩ mũndũ wa nyũmba ĩmwe na nyũkwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.13",
+            "verseOrgIds": [
+              "LEV.18.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LEV 18:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanaconorithie mũrũ wa nyina na thoguo, na ũndũ wa gũthengerera mũtumia wake nĩguo mũkomanie; ũcio nĩ tataguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.14",
+            "verseOrgIds": [
+              "LEV.18.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LEV 18:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũtumia wa mũrũguo. Ũcio nĩ mũtumia wa mũrũguo; ndũkanakome nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.15",
+            "verseOrgIds": [
+              "LEV.18.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LEV 18:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũtumia wa mũrũ wa nyũkwa; ũguo nĩgũconorithia mũrũ wa nyũkwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.16",
+            "verseOrgIds": [
+              "LEV.18.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LEV 18:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũndũ-wa-nja ũcooke ũkome na mwarĩ. Ndũkanakome na mwarĩ wa mũriũ, kana mwarĩ wa mwarĩ; acio nĩ andũ a nyũmba yake. Ũcio nĩ waganu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.17",
+            "verseOrgIds": [
+              "LEV.18.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LEV 18:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanahikie mwarĩ wa nyina na mũtumia waku atuĩke mũiru wa mũtumia waku, ũkomage nake mũtumia waku arĩ muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.18",
+            "verseOrgIds": [
+              "LEV.18.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LEV 18:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanathengerere mũndũ-wa-nja mũkomanie rĩrĩa arĩ na thaahu wa hĩndĩ yake ya mweri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.19",
+            "verseOrgIds": [
+              "LEV.18.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LEV 18:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũtumia wa mũndũ ũngĩ, ndũgethaahie nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.20",
+            "verseOrgIds": [
+              "LEV.18.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LEV 18:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũtikananeane ciana cianyu irutĩrwo Moleku igongona, mũtikanathaahie rĩĩtwa rĩa Ngai wanyu. Niĩ nĩ niĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.21",
+            "verseOrgIds": [
+              "LEV.18.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LEV 18:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na mũndũ mũrũme ta ũrĩa mũndũ akomaga na mũndũ-wa-nja; ũndũ ũcio ũrĩ magigi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.22",
+            "verseOrgIds": [
+              "LEV.18.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "LEV 18:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ndũkanakome na nyamũ nawe wĩthaahie nayo. Mũndũ-wa-nja ndakanetware harĩ nyamũ akome nayo; gwĩka ũguo nĩ waganu mũkĩru njano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.23",
+            "verseOrgIds": [
+              "LEV.18.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "LEV 18:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũtikanethaahie na ũndũ o na ũmwe wa macio, tondũ ũguo nĩguo ndũrĩrĩ iria ngũingata imweherere ciethaahirie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.24",
+            "verseOrgIds": [
+              "LEV.18.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "LEV 18:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O naguo bũrũri nĩwathaahirio; nĩ ũndũ ũcio ngĩũherithĩria mehia maguo, naguo bũrũri ũcio ũgĩtahĩka arĩa maatũũraga kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.25",
+            "verseOrgIds": [
+              "LEV.18.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LEV 18:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No inyuĩ, no nginya mũrũmie kĩrĩra kĩa watho wa kũrũmĩrĩrwo, na mawatho makwa. Andũ arĩa maciarĩirwo bũrũri wanyu, kana ageni arĩa matũũranagia na inyuĩ, matikaneke ũndũ o na ũrĩkũ wa macio marĩ magigi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.26",
+            "verseOrgIds": [
+              "LEV.18.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LEV 18:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩgũkorwo maũndũ macio mothe nĩmo meekagwo nĩ andũ arĩa maatũũraga bũrũri ũcio mbere yanyu, naguo bũrũri ũcio ũkĩnyiitwo nĩ thaahu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.27",
+            "verseOrgIds": [
+              "LEV.18.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LEV 18:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na inyuĩ mũngĩgwatia bũrũri ũcio thaahu, nĩũkamũtahĩka o ta ũrĩa watahĩkire arĩa maatũũraga kuo mbere yanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.28",
+            "verseOrgIds": [
+              "LEV.18.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LEV 18:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũndũ o wothe ũngĩka ũndũ o na ũmwe wa maũndũ macio marĩ magigi, andũ ta acio no nginya maingatwo kuuma kũrĩ andũ ao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.29",
+            "verseOrgIds": [
+              "LEV.18.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LEV 18:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũmiai maũndũ marĩa ndĩmwathĩte na mũtikanarũmĩrĩre mĩtugo ĩyo ĩrĩ magigi, ĩrĩa yekagwo mũtaanoka, na mũtikanethaahie nayo. Niĩ nĩ niĩ Jehova Ngai wanyu.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.18.30",
+            "verseOrgIds": [
+              "LEV.18.30"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LEV.19",
+    "number": "19",
+    "bookId": "LEV"
+  },
+  "previous": {
+    "id": "LEV.17",
+    "number": "17",
+    "bookId": "LEV"
+  }
+}

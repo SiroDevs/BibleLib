@@ -1,5 +1,7 @@
 package com.biblelib.core.network.di
 
+import android.content.Context
+import com.biblelib.core.network.services.AssetBibleLibService
 import com.biblelib.core.network.services.PaystackService
 import com.biblelib.core.network.services.BibleLibService
 import com.biblelib.core.common.utils.ApiConstants
@@ -7,6 +9,7 @@ import dagger.Module
 import dagger.Provides
 import dagger.Reusable
 import dagger.hilt.InstallIn
+import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
@@ -47,18 +50,28 @@ object NetworkModule {
             .build()
     }
 
-    @Provides
-    @Reusable
-    @Named("bibleLibApi")
-    fun provideBibleLibRetrofit(okHttpClient: OkHttpClient): Retrofit =
-        Retrofit.Builder()
-            .baseUrl(ApiConstants.BIBLELIB_BASE)
-            .addConverterFactory(GsonConverterFactory.create())
-            .client(okHttpClient)
-            .build()
+    // --- BibleLib API access disabled -------------------------------------------------------
+    // Remote Bible downloads were failing in prod, so for this release BibleLibService is backed
+    // by bundled assets instead (see AssetBibleLibService). The Retrofit-based provider below is
+    // kept for reference and can be swapped back in once the download bugs are fixed post-launch.
+    //
+    // @Provides
+    // @Reusable
+    // @Named("bibleLibApi")
+    // fun provideBibleLibRetrofit(okHttpClient: OkHttpClient): Retrofit =
+    //     Retrofit.Builder()
+    //         .baseUrl(ApiConstants.BIBLELIB_BASE)
+    //         .addConverterFactory(GsonConverterFactory.create())
+    //         .client(okHttpClient)
+    //         .build()
+    //
+    // @Provides
+    // @Reusable
+    // fun provideBibleLibService(@Named("bibleLibApi") retrofit: Retrofit): BibleLibService =
+    //     retrofit.create(BibleLibService::class.java)
 
     @Provides
     @Reusable
-    fun provideBibleLibService(@Named("bibleLibApi") retrofit: Retrofit): BibleLibService =
-        retrofit.create(BibleLibService::class.java)
+    fun provideBibleLibService(@ApplicationContext context: Context): BibleLibService =
+        AssetBibleLibService(context)
 }

@@ -1,0 +1,361 @@
+{
+  "id": "1TH.1",
+  "number": "1",
+  "bookId": "1TH",
+  "reference": "1 Thes. 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1TH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "po"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paul, Silas",
+          "type": "text"
+        },
+        {
+          "text": "and Timothy,",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "po",
+        "vid": "1TH 1:1"
+      },
+      "items": [
+        {
+          "text": "To the church of the Thessalonians in God the Father and the Lord Jesus Christ:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "po",
+        "vid": "1TH 1:1"
+      },
+      "items": [
+        {
+          "text": "Grace and peace to you.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Thanksgiving for the Thessalonians' Faith",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We always thank God for all of you and continually mention you in our prayers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.2",
+            "verseOrgIds": [
+              "1TH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.3",
+            "verseOrgIds": [
+              "1TH.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For we know, brothers and sisters",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.4",
+            "verseOrgIds": [
+              "1TH.1.4"
+            ]
+          }
+        },
+        {
+          "text": "loved by God, that he has chosen you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.4",
+            "verseOrgIds": [
+              "1TH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "because our gospel came to you not simply with words but also with power, with the Holy Spirit and deep conviction. You know how we lived among you for your sake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.5",
+            "verseOrgIds": [
+              "1TH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You became imitators of us and of the Lord, for you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.6",
+            "verseOrgIds": [
+              "1TH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And so you became a model to all the believers in Macedonia and Achaia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.7",
+            "verseOrgIds": [
+              "1TH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The Lord's message rang out from you not only in Macedonia and Achaia—your faith in God has become known everywhere. Therefore we do not need to say anything about it,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.8",
+            "verseOrgIds": [
+              "1TH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.9",
+            "verseOrgIds": [
+              "1TH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.10",
+            "verseOrgIds": [
+              "1TH.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.2",
+    "number": "2",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "1TH.intro",
+    "number": "intro",
+    "bookId": "1TH"
+  }
+}

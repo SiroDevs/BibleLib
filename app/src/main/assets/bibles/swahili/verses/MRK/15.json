@@ -1,0 +1,2019 @@
+{
+  "id": "MRK.15",
+  "number": "15",
+  "bookId": "MRK",
+  "reference": "Marko 15",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 47,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "MRK 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Mbele Ya Pilato",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.1-MAT.27.14"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:1-14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.23.1-LUK.23.5"
+          },
+          "items": [
+            {
+              "text": "Luka 23:1-5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.18.28-JHN.18.38"
+          },
+          "items": [
+            {
+              "text": "Yohana 18:28-38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Asubuhi na mapema, viongozi wa makuhani, pamoja na wazee, walimu wa sheria na Baraza lote, wakafikia uamuzi. Wakamfunga Yesu, wakamchukua na kumkabidhi kwa Pilato.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.1",
+            "verseOrgIds": [
+              "MRK.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato akamuuliza, \"Je, wewe ndiye Mfalme wa Wayahudi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.2",
+            "verseOrgIds": [
+              "MRK.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "MRK 15:2"
+      },
+      "items": [
+        {
+          "text": "Yesu akajibu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.2",
+            "verseOrgIds": [
+              "MRK.15.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Wewe umesema.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.15.2",
+                "verseOrgIds": [
+                  "MRK.15.2"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MRK 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Viongozi wa makuhani wakamshtaki kwa mambo mengi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.3",
+            "verseOrgIds": [
+              "MRK.15.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MRK 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato akamuuliza tena, \"Je, huna la kujibu? Tazama ni mashtaka mangapi wanayaleta juu yako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.4",
+            "verseOrgIds": [
+              "MRK.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Yesu hakujibu lolote, hivyo Pilato akashangaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.5",
+            "verseOrgIds": [
+              "MRK.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Pilato Amtoa Yesu Asulubiwe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.15-MAT.27.26"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:15-26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.23.13-LUK.23.25"
+          },
+          "items": [
+            {
+              "text": "Luka 23:13-25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.18.39-JHN.19.16"
+          },
+          "items": [
+            {
+              "text": "Yohana 18:39–19:16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MRK 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ilikuwa desturi wakati wa Sikukuu ya Pasaka kumfungulia mfungwa yeyote ambaye watu wangemtaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.6",
+            "verseOrgIds": [
+              "MRK.15.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MRK 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo, mtu aliyeitwa Baraba alikuwa amefungwa gerezani pamoja na waasi wengine waliokuwa wametekeleza uuaji wakati wa maasi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.7",
+            "verseOrgIds": [
+              "MRK.15.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ule umati wa watu ukamjia Pilato na kumwomba awafanyie kama ilivyokuwa desturi yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.8",
+            "verseOrgIds": [
+              "MRK.15.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 15:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato akawauliza, \"Mnataka niwafungulie huyu Mfalme wa Wayahudi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.9",
+            "verseOrgIds": [
+              "MRK.15.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 15:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana yeye alitambua kuwa viongozi wa makuhani walikuwa wamemtia Yesu mikononi mwake kwa ajili ya wivu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.10",
+            "verseOrgIds": [
+              "MRK.15.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 15:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini viongozi wa makuhani wakauchochea ule umati wa watu wamwombe awafungulie Baraba badala yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.11",
+            "verseOrgIds": [
+              "MRK.15.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 15:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato akawauliza tena, \"Basi mnataka nifanye nini na huyu mtu mnayemwita Mfalme wa Wayahudi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.12",
+            "verseOrgIds": [
+              "MRK.15.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 15:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakapiga kelele wakisema, \"Msulubishe!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.13",
+            "verseOrgIds": [
+              "MRK.15.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 15:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato akawauliza, \"Kwa nini? Amefanya kosa gani?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.14",
+            "verseOrgIds": [
+              "MRK.15.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "MRK 15:14"
+      },
+      "items": [
+        {
+          "text": "Lakini wao wakapiga kelele kwa nguvu zaidi, wakisema, \"Msulubishe!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.14",
+            "verseOrgIds": [
+              "MRK.15.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 15:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato, akitaka kuuridhisha ule umati wa watu, akawafungulia Baraba. Naye baada ya kuamuru Yesu achapwe mijeledi, akamtoa ili asulubishwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.15",
+            "verseOrgIds": [
+              "MRK.15.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Askari Wamdhihaki Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.27-MAT.27.31"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:27-31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.19.2-JHN.19.3"
+          },
+          "items": [
+            {
+              "text": "Yohana 19:2-3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 15:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Askari wakampeleka Yesu hadi kwenye ukumbi wa ndani wa jumba la kifalme, ndio Praitorio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.16",
+            "verseOrgIds": [
+              "MRK.15.16"
+            ]
+          }
+        },
+        {
+          "text": "wakakusanya kikosi kizima cha askari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.16",
+            "verseOrgIds": [
+              "MRK.15.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 15:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakamvalisha Yesu joho la zambarau, wakasokota taji ya miiba, wakamvika kichwani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.17",
+            "verseOrgIds": [
+              "MRK.15.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 15:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakaanza kumsalimu kwa dhihaka, \"Salamu, mfalme wa Wayahudi!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.18",
+            "verseOrgIds": [
+              "MRK.15.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 15:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakampiga kwa fimbo ya mwanzi tena na tena kichwani na kumtemea mate. Wakapiga magoti mbele yake, wakamsujudia kwa kumdhihaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.19",
+            "verseOrgIds": [
+              "MRK.15.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 15:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipokwisha kumdhihaki, wakamvua lile joho la zambarau, wakamvika tena nguo zake. Kisha wakamtoa nje ili wakamsulubishe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.20",
+            "verseOrgIds": [
+              "MRK.15.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kusulubiwa Kwa Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.32-MAT.27.44"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:32-44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.23.26-LUK.23.43"
+          },
+          "items": [
+            {
+              "text": "Luka 23:26-43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.19.17-JHN.19.27"
+          },
+          "items": [
+            {
+              "text": "Yohana 19:17-27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 15:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mtu mmoja kutoka Kirene, jina lake Simoni, baba yao Aleksanda na Rufo, alikuwa anapita zake kuingia mjini kutoka shamba, nao wakamlazimisha kuubeba ule msalaba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.21",
+            "verseOrgIds": [
+              "MRK.15.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 15:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha wakampeleka Yesu mpaka mahali palipoitwa Golgotha (maana yake ni Mahali pa Fuvu la Kichwa).",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.22",
+            "verseOrgIds": [
+              "MRK.15.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 15:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao wakampa divai iliyochanganywa na manemane, lakini hakuinywa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.23",
+            "verseOrgIds": [
+              "MRK.15.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 15:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi wakamsulubisha, nazo nguo zake wakagawana miongoni mwao kwa kuzipigia kura ili kuamua ni gani kila mtu ataichukua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.24",
+            "verseOrgIds": [
+              "MRK.15.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 15:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ilikuwa yapata saa tatu asubuhi walipomsulubisha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.25",
+            "verseOrgIds": [
+              "MRK.15.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 15:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tangazo likaandikwa la mashtaka dhidi yake lenye maneno haya: \"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.26",
+            "verseOrgIds": [
+              "MRK.15.26"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "sc"
+          },
+          "items": [
+            {
+              "text": "Mfalme wa Wayahudi",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.15.26",
+                "verseOrgIds": [
+                  "MRK.15.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.26",
+            "verseOrgIds": [
+              "MRK.15.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 15:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pamoja naye walisulubiwa wanyangʼanyi wawili, mmoja upande wake wa kuume na mwingine upande wa kushoto. [",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.27",
+            "verseOrgIds": [
+              "MRK.15.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 15:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nayo maandiko yakatimizwa, yale yasemayo, \"Alihesabiwa pamoja na watenda dhambi.]\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.28",
+            "verseOrgIds": [
+              "MRK.15.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 15:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu waliokuwa wakipita njiani wakamtukana huku wakitikisa vichwa vyao na kusema, \"Aha! Wewe ambaye utalivunja Hekalu na kulijenga kwa siku tatu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.29",
+            "verseOrgIds": [
+              "MRK.15.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 15:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "basi shuka kutoka msalabani na ujiokoe mwenyewe!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.30",
+            "verseOrgIds": [
+              "MRK.15.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 15:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vivyo hivyo, viongozi wa makuhani pamoja na walimu wa sheria wakamdhihaki miongoni mwao wakisema, \"Aliwaokoa wengine, lakini hawezi kujiokoa mwenyewe!",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.31",
+            "verseOrgIds": [
+              "MRK.15.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 15:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi huyu Kristo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.32",
+            "verseOrgIds": [
+              "MRK.15.32"
+            ]
+          }
+        },
+        {
+          "text": "huyu Mfalme wa Israeli, ashuke sasa kutoka msalabani, ili tupate kuona na kuamini.\" Wale waliosulubiwa pamoja naye pia wakamtukana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.32",
+            "verseOrgIds": [
+              "MRK.15.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kifo Cha Yesu Msalabani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.45-MAT.27.56"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:45-56",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.23.44-LUK.23.49"
+          },
+          "items": [
+            {
+              "text": "Luka 23:44-49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.19.28-JHN.19.30"
+          },
+          "items": [
+            {
+              "text": "Yohana 19:28-30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 15:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ilipofika saa sita, giza liliifunika nchi yote hadi saa tisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.33",
+            "verseOrgIds": [
+              "MRK.15.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 15:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mnamo saa tisa, Yesu akapaza sauti, akalia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.34",
+            "verseOrgIds": [
+              "MRK.15.34"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "wj"
+              },
+              "items": [
+                {
+                  "text": "\"Eloi, Eloi, lama sabakthani?\"",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MRK.15.34",
+                    "verseOrgIds": [
+                      "MRK.15.34"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "(maana yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.34",
+            "verseOrgIds": [
+              "MRK.15.34"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Mungu wangu, Mungu wangu, mbona umeniacha?\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.15.34",
+                "verseOrgIds": [
+                  "MRK.15.34"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.34",
+            "verseOrgIds": [
+              "MRK.15.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 15:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baadhi ya watu waliokuwa wamesimama karibu waliposikia hayo, wakasema, \"Msikieni, anamwita Eliya.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.35",
+            "verseOrgIds": [
+              "MRK.15.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 15:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mtu mmoja akaenda mbio, akachovya sifongo kwenye siki, akaiweka kwenye mwanzi na akampa Yesu ili anywe, akisema, \"Basi mwacheni. Hebu tuone kama Eliya atakuja kumshusha kutoka hapo msalabani.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.36",
+            "verseOrgIds": [
+              "MRK.15.36"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 15:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Yesu akatoa sauti kuu, akakata roho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.37",
+            "verseOrgIds": [
+              "MRK.15.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 15:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pazia la Hekalu likachanika vipande viwili kuanzia juu hadi chini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.38",
+            "verseOrgIds": [
+              "MRK.15.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 15:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi yule jemadari aliyekuwa amesimama hapo mbele ya msalaba wa Yesu aliposikia ile sauti yake na kuona jinsi alivyokata roho, akasema, \"Hakika mtu huyu alikuwa Mwana wa Mungu!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.39",
+            "verseOrgIds": [
+              "MRK.15.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 15:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walikuwepo pia wanawake waliokuwa wakiangalia kwa mbali. Miongoni mwao walikuwepo Maria Magdalene, na Maria mama yao Yakobo mdogo na Yose, pia na Salome.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.40",
+            "verseOrgIds": [
+              "MRK.15.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 15:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hawa walifuatana na Yesu na kushughulikia mahitaji yake alipokuwa Galilaya. Pia walikuwepo wanawake wengine wengi waliokuwa wamekuja pamoja naye Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.41",
+            "verseOrgIds": [
+              "MRK.15.41"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maziko Ya Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.27.57-MAT.27.61"
+          },
+          "items": [
+            {
+              "text": "Mathayo 27:57-61",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.23.50-LUK.23.56"
+          },
+          "items": [
+            {
+              "text": "Luka 23:50-56",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.19.38-JHN.19.42"
+          },
+          "items": [
+            {
+              "text": "Yohana 19:38-42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 15:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ilipofika jioni, kwa kuwa ilikuwa Siku ya Maandalizi, yaani siku moja kabla ya Sabato,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.42",
+            "verseOrgIds": [
+              "MRK.15.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 15:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yosefu wa Arimathaya, mtu aliyeheshimiwa katika Baraza, na ambaye alikuwa anautarajia Ufalme wa Mungu, akamwendea Pilato kwa ujasiri na kumwomba mwili wa Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.43",
+            "verseOrgIds": [
+              "MRK.15.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 15:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pilato alikuwa akijiuliza kama Yesu alikuwa amekwisha kufa. Hivyo akamwita yule jemadari, akamuuliza iwapo Yesu alikuwa amekwisha kufa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.44",
+            "verseOrgIds": [
+              "MRK.15.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 15:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya kupata habari kutoka kwa yule jemadari kwamba kweli amekwisha kufa, Pilato akampa Yosefu ruhusa ya kuuchukua huo mwili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.45",
+            "verseOrgIds": [
+              "MRK.15.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "MRK 15:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Yosefu akanunua kitambaa cha kitani safi, akaushusha mwili kutoka msalabani, akaufunga katika kile kitambaa cha kitani, na kuuweka ndani ya kaburi lililochongwa kwenye mwamba. Kisha akavingirisha jiwe kwenye ingilio la kaburi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.46",
+            "verseOrgIds": [
+              "MRK.15.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "MRK 15:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maria Magdalene na Maria mamaye Yose walipaona mahali pale alipolazwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.15.47",
+            "verseOrgIds": [
+              "MRK.15.47"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.16",
+    "number": "16",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.14",
+    "number": "14",
+    "bookId": "MRK"
+  }
+}

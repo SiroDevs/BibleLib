@@ -1,0 +1,1793 @@
+{
+  "id": "PSA.34",
+  "number": "34",
+  "bookId": "PSA",
+  "reference": "Psalms 34",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "34",
+        "style": "c",
+        "sid": "PSA 34"
+      },
+      "items": [
+        {
+          "text": "34",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 34:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will bless the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.1",
+            "verseOrgIds": [
+              "PSA.34.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.1",
+                "verseOrgIds": [
+                  "PSA.34.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "at all times: his praise",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.1",
+            "verseOrgIds": [
+              "PSA.34.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.1",
+                "verseOrgIds": [
+                  "PSA.34.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "continually",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.1",
+            "verseOrgIds": [
+              "PSA.34.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.1",
+                "verseOrgIds": [
+                  "PSA.34.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in my mouth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.1",
+            "verseOrgIds": [
+              "PSA.34.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 34:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My soul shall make her boast in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.2",
+            "verseOrgIds": [
+              "PSA.34.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.2",
+                "verseOrgIds": [
+                  "PSA.34.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": the humble shall hear",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.2",
+            "verseOrgIds": [
+              "PSA.34.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thereof",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.2",
+                "verseOrgIds": [
+                  "PSA.34.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and be glad.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.2",
+            "verseOrgIds": [
+              "PSA.34.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 34:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O magnify the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.3",
+            "verseOrgIds": [
+              "PSA.34.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.3",
+                "verseOrgIds": [
+                  "PSA.34.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with me, and let us exalt his name together.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.3",
+            "verseOrgIds": [
+              "PSA.34.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 34:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I sought the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.4",
+            "verseOrgIds": [
+              "PSA.34.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.4",
+                "verseOrgIds": [
+                  "PSA.34.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and he heard me, and delivered me from all my fears.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.4",
+            "verseOrgIds": [
+              "PSA.34.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 34:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They looked unto him, and were lightened: and their faces were not ashamed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.5",
+            "verseOrgIds": [
+              "PSA.34.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 34:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This poor man cried, and the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.6",
+            "verseOrgIds": [
+              "PSA.34.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.6",
+                "verseOrgIds": [
+                  "PSA.34.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "heard",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.6",
+            "verseOrgIds": [
+              "PSA.34.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.6",
+                "verseOrgIds": [
+                  "PSA.34.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and saved him out of all his troubles.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.6",
+            "verseOrgIds": [
+              "PSA.34.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 34:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The angel of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.7",
+            "verseOrgIds": [
+              "PSA.34.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.7",
+                "verseOrgIds": [
+                  "PSA.34.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "encampeth round about them that fear him, and delivereth them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.7",
+            "verseOrgIds": [
+              "PSA.34.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 34:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O taste and see that the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.8",
+            "verseOrgIds": [
+              "PSA.34.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.8",
+                "verseOrgIds": [
+                  "PSA.34.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.8",
+            "verseOrgIds": [
+              "PSA.34.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.8",
+                "verseOrgIds": [
+                  "PSA.34.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good: blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.8",
+            "verseOrgIds": [
+              "PSA.34.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.8",
+                "verseOrgIds": [
+                  "PSA.34.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.8",
+            "verseOrgIds": [
+              "PSA.34.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.8",
+                "verseOrgIds": [
+                  "PSA.34.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "trusteth in him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.8",
+            "verseOrgIds": [
+              "PSA.34.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 34:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O fear the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.9",
+            "verseOrgIds": [
+              "PSA.34.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.9",
+                "verseOrgIds": [
+                  "PSA.34.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", ye his saints: for",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.9",
+            "verseOrgIds": [
+              "PSA.34.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.9",
+                "verseOrgIds": [
+                  "PSA.34.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no want to them that fear him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.9",
+            "verseOrgIds": [
+              "PSA.34.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 34:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The young lions do lack, and suffer hunger: but they that seek the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.10",
+            "verseOrgIds": [
+              "PSA.34.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.10",
+                "verseOrgIds": [
+                  "PSA.34.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall not want any good",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.10",
+            "verseOrgIds": [
+              "PSA.34.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thing",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.10",
+                "verseOrgIds": [
+                  "PSA.34.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.10",
+            "verseOrgIds": [
+              "PSA.34.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 34:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Come, ye children, hearken unto me: I will teach you the fear of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.11",
+            "verseOrgIds": [
+              "PSA.34.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.11",
+                "verseOrgIds": [
+                  "PSA.34.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.11",
+            "verseOrgIds": [
+              "PSA.34.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 34:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.12",
+            "verseOrgIds": [
+              "PSA.34.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is he that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.12",
+                "verseOrgIds": [
+                  "PSA.34.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "desireth life,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.12",
+            "verseOrgIds": [
+              "PSA.34.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.12",
+                "verseOrgIds": [
+                  "PSA.34.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "loveth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.12",
+            "verseOrgIds": [
+              "PSA.34.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "many",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.12",
+                "verseOrgIds": [
+                  "PSA.34.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "days, that he may see good?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.12",
+            "verseOrgIds": [
+              "PSA.34.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 34:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.13",
+            "verseOrgIds": [
+              "PSA.34.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 34:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Depart from evil, and do good; seek peace, and pursue it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.14",
+            "verseOrgIds": [
+              "PSA.34.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 34:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The eyes of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.15",
+            "verseOrgIds": [
+              "PSA.34.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.15",
+                "verseOrgIds": [
+                  "PSA.34.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.15",
+            "verseOrgIds": [
+              "PSA.34.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.15",
+                "verseOrgIds": [
+                  "PSA.34.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon the righteous, and his ears",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.15",
+            "verseOrgIds": [
+              "PSA.34.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are open",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.15",
+                "verseOrgIds": [
+                  "PSA.34.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto their cry.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.15",
+            "verseOrgIds": [
+              "PSA.34.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 34:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The face of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.16",
+            "verseOrgIds": [
+              "PSA.34.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.16",
+                "verseOrgIds": [
+                  "PSA.34.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.16",
+            "verseOrgIds": [
+              "PSA.34.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.16",
+                "verseOrgIds": [
+                  "PSA.34.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "against them that do evil, to cut off the remembrance of them from the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.16",
+            "verseOrgIds": [
+              "PSA.34.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 34:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "The righteous",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.17",
+                "verseOrgIds": [
+                  "PSA.34.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "cry, and the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.17",
+            "verseOrgIds": [
+              "PSA.34.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.17",
+                "verseOrgIds": [
+                  "PSA.34.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "heareth, and delivereth them out of all their troubles.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.17",
+            "verseOrgIds": [
+              "PSA.34.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 34:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.18",
+            "verseOrgIds": [
+              "PSA.34.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.18",
+                "verseOrgIds": [
+                  "PSA.34.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.18",
+            "verseOrgIds": [
+              "PSA.34.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.18",
+                "verseOrgIds": [
+                  "PSA.34.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.18",
+            "verseOrgIds": [
+              "PSA.34.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 34:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Many",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.19",
+            "verseOrgIds": [
+              "PSA.34.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.19",
+                "verseOrgIds": [
+                  "PSA.34.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the afflictions of the righteous: but the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.19",
+            "verseOrgIds": [
+              "PSA.34.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.19",
+                "verseOrgIds": [
+                  "PSA.34.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "delivereth him out of them all.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.19",
+            "verseOrgIds": [
+              "PSA.34.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 34:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He keepeth all his bones: not one of them is broken.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.20",
+            "verseOrgIds": [
+              "PSA.34.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 34:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.21",
+            "verseOrgIds": [
+              "PSA.34.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 34:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.22",
+            "verseOrgIds": [
+              "PSA.34.23"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.34.22",
+                "verseOrgIds": [
+                  "PSA.34.23"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.34.22",
+            "verseOrgIds": [
+              "PSA.34.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.35",
+    "number": "35",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.33",
+    "number": "33",
+    "bookId": "PSA"
+  }
+}

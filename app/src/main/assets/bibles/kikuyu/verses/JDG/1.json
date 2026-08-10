@@ -1,0 +1,956 @@
+{
+  "id": "JDG.1",
+  "number": "1",
+  "bookId": "JDG",
+  "reference": "Atiirĩrĩri 1",
+  "verseCount": 36,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JDG 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Andũ a Isiraeli Kũhũũrana na Andũ a Kaanani arĩa Maatigaire",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JDG 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa Joshua gũkua, andũ a Isiraeli makĩũria Jehova atĩrĩ, “Nĩ a mekwambata mathiĩ mbere magatũhũũranĩre kũrĩ andũ a Kaanani?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.1",
+            "verseOrgIds": [
+              "JDG.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JDG 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova agĩcookia atĩrĩ, “Andũ a Juda nĩo megũthiĩ, tondũ nĩneanĩte bũrũri ũcio moko-inĩ mao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.2",
+            "verseOrgIds": [
+              "JDG.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JDG 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo andũ a Juda makĩĩra andũ a Simeoni, ariũ a ithe wao,atĩrĩ, “Ũkai mwambatanie na ithuĩ tũtoonye bũrũri ũrĩa twagaĩirwo, tũkahũũrane na andũ a Kaanani, na ithuĩ nĩtũgaacooka tũthiĩ na inyuĩ tũkahũũranĩre igai rĩanyu.” Nĩ ũndũ ũcio andũ a Simeoni magĩthiĩ hamwe nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.3",
+            "verseOrgIds": [
+              "JDG.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JDG 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa andũ a Juda maamatharĩkĩire-rĩ, Jehova akĩneana andũ a Kaanani na Aperizi moko-inĩ mao, nao andũ a Juda makĩũraga arũme 10,000 kũu Bezeki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.4",
+            "verseOrgIds": [
+              "JDG.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JDG 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũu nĩkuo maakorire Adoni-Bezeki, makĩhũũrana nake, magĩtooria andũ a Kaanani na Aperizi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.5",
+            "verseOrgIds": [
+              "JDG.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JDG 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adoni-Bezeki akĩũra, no makĩmũtengʼeria, makĩmũnyiita, makĩmũtinia ciara iria nene cia moko na iria nene cia magũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.6",
+            "verseOrgIds": [
+              "JDG.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JDG 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Adoni-Bezeki akiuga atĩrĩ, “Athamaki mĩrongo mũgwanjamatinĩtio ciara ciao iria nene cia moko na iria nene cia magũrũ, moonganagia rũitĩki rwa irio rungu rwa metha yakwa. Na rĩrĩ, Ngai nĩandĩhĩte nĩ ũndũ wa ũrĩa ndeekire.” Nao makĩmũtwara Jerusalemu, na agĩkuĩra kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.7",
+            "verseOrgIds": [
+              "JDG.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JDG 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ andũ a Juda magĩtharĩkĩra itũũra rĩa Jerusalemu, o narĩo makĩrĩtunyana, makĩũraga andũ a itũũra rĩu na hiũ cia njora, magĩcooka makĩrĩcina na mwaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.8",
+            "verseOrgIds": [
+              "JDG.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JDG 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa ũguo, andũ a Juda magĩikũrũka makahũũrane na andũ a Kaanani arĩa maatũũraga bũrũri ũrĩa ũrĩ irĩma wa Negevu na magũrũ-inĩ ma irĩma cia mwena wa ithũĩro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.9",
+            "verseOrgIds": [
+              "JDG.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JDG 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ magĩthiĩ kũhũũrana na andũ a Kaanani arĩa maatũũraga kũu Hebironi (kũrĩa tene gwetagwo Kiriathu-Ariba) maathiĩ makĩhoota Sheshai, na Ahimani, na Talimai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.10",
+            "verseOrgIds": [
+              "JDG.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JDG 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma kũu magĩthiĩ kũrũa na andũ arĩa maatũũraga Debiri (kũrĩa tene gwetagwo Kiriathu-Sefari.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.11",
+            "verseOrgIds": [
+              "JDG.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JDG 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Kalebu akiuga atĩrĩ, “Mũndũ ũrĩa ũgũtharĩkĩra na atunyane Kiriathu-Sefari-rĩ, ũcio nĩwe ngũhe mwarĩ wakwa Akisa, amũhikie.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.12",
+            "verseOrgIds": [
+              "JDG.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JDG 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Othinieli, mũrũ wa Kenazu, mũrũ wa ithe na Kalebu ũrĩa mũnini, nĩwe watunyanire itũũra rĩu. Nĩ ũndũ ũcio Kalebu akĩmũhe mwarĩ Akisa atuĩke mũtumia wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.13",
+            "verseOrgIds": [
+              "JDG.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JDG 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya ũmwe Akisa nĩathiire kũrĩ Othinieli, nake akĩringĩrĩria Akisa ahooe mũgũnda kũrĩ ithe Kalebu. Aarĩkia kuuma igũrũ rĩa ndigiri yake, Kalebu akĩũria mwarĩ atĩrĩ, “Ũkwenda ngwĩkĩre atĩa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.14",
+            "verseOrgIds": [
+              "JDG.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JDG 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmũcookeria atĩrĩ, “Ndagũthaitha ũndathime. Tondũ nĩũũheete bũrũri wa Negevu, he ithima cia maaĩ o nacio.” Nĩ ũndũ ũcio Kalebu akĩmũhe ithima cia mwena wa rũgongo na cia mwena wa kĩanda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.15",
+            "verseOrgIds": [
+              "JDG.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JDG 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nacio njiaro cia mũthoni-we wa Musa, ũrĩa Mũkeni, ikĩambata ikiuma Itũũra Inene rĩa Mĩkĩndũ irĩ hamwe na andũ a Juda, igĩthiĩ gũtũũrania na andũ a werũ wa Juda ũrĩa ũrĩ Negevu gũkuhĩ na Aradi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.16",
+            "verseOrgIds": [
+              "JDG.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JDG 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ a Juda magĩthiĩ hamwe na andũ a Simeoni ariũ a ithe wao, na magĩtharĩkĩra andũ a Kaanani arĩa maatũũraga Zefathu, nao makĩananga itũũra rĩu inene biũ. Nĩ ũndũ ũcio rĩgĩtwo Horoma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.17",
+            "verseOrgIds": [
+              "JDG.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JDG 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na ningĩ andũ a Juda magĩtunyana matũũra manene ma Gaza, na Ashikeloni, na Ekironi, o itũũra inene na bũrũri warĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.18",
+            "verseOrgIds": [
+              "JDG.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JDG 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova aarĩ hamwe na andũ a Juda. Magĩkĩĩnyiitĩra bũrũri ũrĩa ũrĩ irĩma, no matiahotire kũingata andũ arĩa maatũũraga kũrĩa kwaraganu, nĩgũkorwo maarĩ na ngaari cia ita cia igera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.19",
+            "verseOrgIds": [
+              "JDG.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JDG 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na o ta ũrĩa Musa eeranĩire, Hebironi kwaheirwo Kalebu, nake akĩingata ariũ atatũ a Anaki kuuma kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.20",
+            "verseOrgIds": [
+              "JDG.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JDG 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, andũ a Benjamini nĩmaremirwo nĩ kũingata andũ a Jebusi arĩa maatũũraga Jerusalemu. Andũ a Jebusi matũũranagia na andũ a Benjamini kũu Jerusalemu nginya ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.21",
+            "verseOrgIds": [
+              "JDG.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JDG 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, andũ a nyũmba ya Jusufu magĩtharĩkĩra Betheli, nake Jehova aarĩ hamwe nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.22",
+            "verseOrgIds": [
+              "JDG.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JDG 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa maatũmire andũ magathigaane Betheli (kũrĩa mbere ĩyo gwetagwo Luzu),",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.23",
+            "verseOrgIds": [
+              "JDG.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JDG 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "athigaani acio makĩona mũndũ akiuma kũu itũũra-inĩ rĩu inene, makĩmwĩra atĩrĩ, “Tuonie ũrĩa tũngĩtoonya itũũra rĩĩrĩ inene, na nĩtũgaagwĩka maũndũ mega.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.24",
+            "verseOrgIds": [
+              "JDG.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JDG 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio akĩmoonia, nao makĩũraga andũ a itũũra rĩu inene na rũhiũ rwa njora, no makĩhonokia mũndũ ũcio na nyũmba yake yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.25",
+            "verseOrgIds": [
+              "JDG.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JDG 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio agĩcooka agĩthiĩ bũrũri wa Ahiti, kũrĩa aakire itũũra inene, na akĩrĩĩta Luzu, na nĩrĩo rĩĩtwa rĩarĩo o na ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.26",
+            "verseOrgIds": [
+              "JDG.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JDG 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No andũ a Manase matiaingatire andũ a Bethi-Shani, kana andũ a Taanaka, kana andũ a Dori kana andũ a Ibileamu, kana andũ a Megido na matũũra marĩa maamarigiicĩirie, tondũ andũ a Kaanani nĩmatuĩte itua rĩa gũtũũra bũrũri ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.27",
+            "verseOrgIds": [
+              "JDG.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JDG 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, rĩrĩa andũ a Isiraeli maagĩire na hinya, makĩrutithia andũ a Kaanani wĩra wa hinya, no matiigana kũmaingata biũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.28",
+            "verseOrgIds": [
+              "JDG.1.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JDG 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O nao andũ a Efiraimu matiigana kũingata andũ a Kaanani arĩa maatũũraga kũu Gezeri, no andũ acio a Kaanani maathiire o na mbere gũtũũrania hamwe nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.29",
+            "verseOrgIds": [
+              "JDG.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JDG 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O nao andũ a Zebuluni matiigana kũingata andũ a Kaanani arĩa maatũũraga kũu Kitironi kana Nahaloli, arĩa maatigaire gatagatĩ kao; no nĩmamarutithirie wĩra na hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.30",
+            "verseOrgIds": [
+              "JDG.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JDG 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na andũ a Asheri matiigana kũingata andũ othe arĩa maatũũraga Ako, kana arĩa matũũraga Sidoni, kana arĩa maatũũraga Ahalabu, kana arĩa maatũũraga Akizibu, kana arĩa maatũũraga Heliba, kana arĩa maatũũraga Afeku, kana arĩa maatũũraga Rehobu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.31",
+            "verseOrgIds": [
+              "JDG.1.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JDG 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na tondũ wa ũguo andũ a Asheri magĩtũũrania na andũ a Kaanani arĩa maatũũraga bũrũri ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.32",
+            "verseOrgIds": [
+              "JDG.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JDG 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O nao andũ a Nafitali matiigana kũingata andũ arĩa maatũũraga kũu Bethi-Shemeshu, o na kana arĩa maatũũraga Bethi-Anathu; no andũ a Nafitali o nao maatũũranirie na andũ a Kaanani arĩa maatũũraga bũrũri ũcio, nao andũ arĩa maatũũraga Bethi-Shemeshu na Bethi-Anathu magĩtuĩka andũ ao a kũrutithagio wĩra wa hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.33",
+            "verseOrgIds": [
+              "JDG.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "JDG 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ a Aamori makĩhingĩrĩria andũ a Dani kũu bũrũri ũrĩa ũrĩ irĩma, makĩmagirĩrĩria gũikũrũka kũrĩa kwaraganu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.34",
+            "verseOrgIds": [
+              "JDG.1.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "JDG 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Aamori nĩmatuĩte itua rĩa gũtũũra Kĩrĩma-inĩ kĩa Herezu, na kĩa Aijaloni, na kĩa Shaalubimu, no rĩrĩa andũ a nyũmba ya Jusufu maagĩire na hinya, o nao Aamori magĩtuĩka a kũrutithio wĩra wa hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.35",
+            "verseOrgIds": [
+              "JDG.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "JDG 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũhaka wa Aamori woimĩte Ituĩkanĩrio rĩa Akirabimu, ũgakinya Sela na ũkahĩtũka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.1.36",
+            "verseOrgIds": [
+              "JDG.1.36"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JDG.2",
+    "number": "2",
+    "bookId": "JDG"
+  },
+  "previous": {
+    "id": "JDG.intro",
+    "number": "intro",
+    "bookId": "JDG"
+  }
+}

@@ -1,0 +1,669 @@
+{
+  "id": "PSA.52",
+  "number": "52",
+  "bookId": "PSA",
+  "reference": "Psalms 52",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "52",
+        "style": "c",
+        "sid": "PSA 52"
+      },
+      "items": [
+        {
+          "text": "52",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, Maschil,",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 52:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why boastest thou thyself in mischief, O mighty man? the goodness of God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "endureth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.1",
+                "verseOrgIds": [
+                  "PSA.52.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "continually.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 52:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 52:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou lovest evil more than good;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.3",
+                "verseOrgIds": [
+                  "PSA.52.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lying rather than to speak righteousness. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 52:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou lovest all devouring words, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thou",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.4",
+                "verseOrgIds": [
+                  "PSA.52.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "deceitful tongue.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 52:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thy",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.5",
+                "verseOrgIds": [
+                  "PSA.52.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "dwelling place, and root thee out of the land of the living. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 52:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The righteous also shall see, and fear, and shall laugh at him:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.6",
+            "verseOrgIds": [
+              "PSA.52.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 52:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "this is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.7",
+                "verseOrgIds": [
+                  "PSA.52.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.7",
+                "verseOrgIds": [
+                  "PSA.52.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "made not God his strength; but trusted in the abundance of his riches,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.7",
+                "verseOrgIds": [
+                  "PSA.52.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "strengthened himself in his wickedness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 52:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But I",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.8",
+                "verseOrgIds": [
+                  "PSA.52.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 52:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will praise thee for ever, because thou hast done",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it:",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.9",
+                "verseOrgIds": [
+                  "PSA.52.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "and I will wait on thy name; for",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.52.9",
+                "verseOrgIds": [
+                  "PSA.52.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good before thy saints.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  }
+}

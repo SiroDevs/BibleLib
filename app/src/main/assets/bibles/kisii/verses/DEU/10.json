@@ -1,0 +1,660 @@
+{
+  "id": "DEU.10",
+  "number": "10",
+  "bookId": "DEU",
+  "reference": "Okoiranerera 10",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "DEU 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Musa okoegwa amachiiko naende",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Okong’ 34:1-10)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Erio naende Omonene agakwana nainche, aganteebia: Baacha chibao chi’amagena ibere chire buna chiria chi’eritang’ani. Oroisie n’Esanduki ye’chibao chi’emete. Erio otiire goocha aa ase ’nde egetunwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.1",
+            "verseOrgIds": [
+              "DEU.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche nindike ase chibao echio amang’ana aria aria arenge ase chibao chiria chi’eritang’ani gwatete, naye ochibeeke ime y’Esanduki eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.2",
+            "verseOrgIds": [
+              "DEU.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Erio ’nkaroisia Esanduki ye’chibao chi’omokonge, na ’nkabaacha chibao chi’amagena ibere chiagwekaine chiria chi’eritang’ani; nkabogoria chibao chiria ibere ase okoboko kwane, ngatiira gochia ase egetunwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.3",
+            "verseOrgIds": [
+              "DEU.10.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akariika ase chibao chiria amang’ana aria aria ariigete engaki eria entang’ani, amachiiko ikomi aria konya akwanire nainwe agwo ase egetunwa, korwa ase egati‐gati y’omorero, ase rituko riria mwasangererekanete aroro. Eri’Omonene akang’a chibao chiria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.4",
+            "verseOrgIds": [
+              "DEU.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nainche ’nkeonchora, ’ngatirimboka korwa ase egetunwa, ’nkabeeka chibao chiria ime ase Esanduki eria konya naroisirie buna Omonene anchiigete; nao chire goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.5",
+            "verseOrgIds": [
+              "DEU.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Abaisraeli bakaimoka bakageenda orogeendo rwabo korwa Beeroti‐Bene‐Yakani, bagaika Mosera. Aroni agakwera aroro na agatindekwao. Eleazari, omomura oye, akaba Omokuani ribaga riaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.6",
+            "verseOrgIds": [
+              "DEU.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakarua aroro, bakageenda bagaika Gudigoda, naende bakarua Gudigoda, bakageenda bagaika Yotibata, ense yabwate ebirooche ebinge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.7",
+            "verseOrgIds": [
+              "DEU.10.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eri’Omonene agaatanana abanto b’egesaku kia Lawi babe bakobogoria Esanduki eria ere ne chibao chiriikire okobwatana kw’ogotianania kw’Omonene, naende akabakora bakaba bagotenena ase obosio bw’Omonene komokorera, na gosesenia abanto ase erieta riaye. Naboigo baagokora goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.8",
+            "verseOrgIds": [
+              "DEU.10.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engencho eyio Abalawi tibaetwe omwando bw’orogongo amo n’abanto bamwabo. Omonene nere omwando obo, buna Ere Omonene Nyasae oino, abateebetie.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.9",
+            "verseOrgIds": [
+              "DEU.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nkagenderera kobeera igoro ase egetunwa ase engaki y’amatuko emerongo ene, omobaso n’obotuko, buna ekero keria kie ritang’ani, n’Omonene akanyigwa ase engaki eyio boigo, agatiga tabasiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.10",
+            "verseOrgIds": [
+              "DEU.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio aganteebia: Imoka ochaake orogeendo, otang’ane abanto abwo, erinde bagende koira ense eria narierete chisokoro chiabo eira ng’a nimbayee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.11",
+            "verseOrgIds": [
+              "DEU.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Aya Nyasae aganetie",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inwe Abaisraeli, ’ngento ki Omonene Nyasae oino, aganetie korwa ase more? Goika moiroke Omonene Nyasae oino, momoigwere na kobwatia chinchera chiaye chionsi; momwanche na komokorera Omonene Nyasae oino, ne’chinkoro chiaino chionsi, n’emioyo yaino yonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.12",
+            "verseOrgIds": [
+              "DEU.10.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobwate amachiiko aye, n’emeroberio yaye echiikire, eyio nkobaa ase rituko ria reero, erinde ebe buya ase more.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.13",
+            "verseOrgIds": [
+              "DEU.10.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rigereria, igoro ne y’Omonene Nyasae oino, na igoro ya igoro mono n’eyaaye boigo, na ense na ebinto bionsi bireo n’ebiaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.14",
+            "verseOrgIds": [
+              "DEU.10.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Omonene nigo ang’usegete ne’chisokoro chiaino na gochiancha, na magega yabo akabachoora inwe, ororeeria rwabo, ase egati y’ebisaku binde. Naboigo more abaaye goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.15",
+            "verseOrgIds": [
+              "DEU.10.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, arokia chinkoro chiaino na motige koba abanyabigoti bikong’u.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.16",
+            "verseOrgIds": [
+              "DEU.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene Nyasae oino, nere Nyasae oyobuete chinyasae, n’Omonene bw’abanene, nere Nyasae bw’obonene, na bw’okobua, na bw’okoirokia; tari n’ogwanchereria, na tari gwancha riaaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.17",
+            "verseOrgIds": [
+              "DEU.10.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo akonacha ekiina kia boronge ase chintakana, na ase ababoraka; ere nigo anchete omomenyi, amoa endagera ne’chianga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.18",
+            "verseOrgIds": [
+              "DEU.10.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio ancha abamenyi, ekiagera nainwe nabo mwarenge abamenyi ase ense ya Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.19",
+            "verseOrgIds": [
+              "DEU.10.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moiroke Omonene Nyasae oino, momokorere ere bweka. Momobwaterere mono, naende mobe mogotiana ase erieta riaye rioka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.20",
+            "verseOrgIds": [
+              "DEU.10.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 10:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nere ogotogia kwaino, nere Nyasae oino, okorire ebinto ebinene n’amakumia ase more, ebio mwarorire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.21",
+            "verseOrgIds": [
+              "DEU.10.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 10:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chisokoro chiaino chiria chiatirimbogete gochia Misiri nigo chiarenge abanto emerongo etano n’ebere, na b’Omonene Nyasae oino, obamentekanirie, mwabeire abange buna ching’enang’eni chia igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.10.22",
+            "verseOrgIds": [
+              "DEU.10.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.11",
+    "number": "11",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.9",
+    "number": "9",
+    "bookId": "DEU"
+  }
+}

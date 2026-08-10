@@ -1,0 +1,556 @@
+{
+  "id": "EZK.42",
+  "number": "42",
+  "bookId": "EZK",
+  "reference": "Ezekieli 42",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "42",
+        "style": "c",
+        "sid": "EZK 42"
+      },
+      "items": [
+        {
+          "text": "42",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Tũnyũmba twa Athĩnjĩri-Ngai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZK 42:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ mũndũ ũcio akĩndongoria, akĩndwara mwena wa gathigathini o nginya nja ĩyo ya nyumĩrĩra, akĩnginyia tũnyũmba-inĩ tũrĩa twangʼetheire nja ya hekarũ na tũkangʼethera rũthingo rwa na nja rwa mwena wa gathigathini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.1",
+            "verseOrgIds": [
+              "EZK.42.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZK 42:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyũmba ĩrĩa mũrango wayo werekeire mwena wa gathigathini yarĩ ya ũraihu wa mĩkono iganana wariĩ wa mĩkono mĩrongo ĩtano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.2",
+            "verseOrgIds": [
+              "EZK.42.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EZK 42:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gĩcigo kĩrĩa kĩarĩ kĩa mĩkono mĩrongo ĩĩrĩkuuma nja ya na thĩinĩ, na gĩcigo kĩrĩa kĩangʼetheire harĩa haarĩtwo mahiga nja ya nyumĩrĩra-rĩ, nĩ kwarĩ na ithaku ciakĩtwo ngoroba ithatũ, na o gĩthaku kĩangʼetheire kĩrĩa kĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.3",
+            "verseOrgIds": [
+              "EZK.42.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EZK 42:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hau mbere ya tũnyũmba tũu nĩ haarĩ na gacĩra ga thĩinĩ karĩ na wariĩ wa mĩkono ikũmi,na ũraihu wa mĩkono igana. Mĩrango yatuo yekĩrĩtwo mwena wa gathigathini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.4",
+            "verseOrgIds": [
+              "EZK.42.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EZK 42:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, tũnyũmba tũu twarĩ igũrũ twarĩ tũkundakundeeru, nĩ ũndũ ithaku nĩcioete handũ hanene gũkĩra tũnyũmba tũrĩa twakĩtwo ngoroba ĩyo yarĩ mũhuro na ya gatagatĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.5",
+            "verseOrgIds": [
+              "EZK.42.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EZK 42:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tũnyũmba twa ngoroba ya gatatũ tũtiekĩrĩtwo itugĩ ta iria ciekĩrĩtwo nja; nĩ ũndũ ũcio tũnyũmba tũu tũgakĩnyiiha thĩ gũkĩra twa ngoroba ĩrĩa yarĩ thĩ, na ya gatagatĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.6",
+            "verseOrgIds": [
+              "EZK.42.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EZK 42:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ haarĩ na rũthingo rwa mwena wa na nja rwathiĩte rũigananĩirie na tũnyũmba tũu na kũu nja ya nyumĩrĩra; rwatambũrũkĩte mbere ya tũnyũmba tũu mĩkono mĩrongo ĩtano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.7",
+            "verseOrgIds": [
+              "EZK.42.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EZK 42:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũhari wa tũnyũmba twa mwena ũrĩa wariganĩtie na nja ya nyumĩrĩra warĩ wa ũraihu wa mĩkono mĩrongo ĩtano, naguo mũhari ũrĩa wakuhĩrĩirie handũ-harĩa-hatheru warĩ wa ũraihu wa mĩkono igana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.8",
+            "verseOrgIds": [
+              "EZK.42.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EZK 42:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tũnyũmba tũrĩa twarĩ mũhuro mwena wa irathĩro nĩ twarĩ na itoonyero mũndũ agĩtoonya kuo oimĩte nja ya nyumĩrĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.9",
+            "verseOrgIds": [
+              "EZK.42.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EZK 42:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ mwena wa gũthini, gũtwarana na mwena ũrĩa mũraihu wa rũthingo rũu rwa nja ya nyumĩrĩra, kũnyiitana na mwena wa nja ya hekarũ, na kũngʼethera rũthingo rwa nja, nĩ haarĩ na tũnyũmba",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.10",
+            "verseOrgIds": [
+              "EZK.42.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EZK 42:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "twarĩ na gacĩra mbere yatuo. Tũnyũmba tũu twahaanaga o ta tũrĩa twarĩ mwena wa gathigathini; twarĩ na ũraihu na wariĩ waiganaine, nacio nyumĩrĩra ciatuo nĩciaringaine na ikaiganania ithimo. Namo matoonyero ma mwena wa gathigathini",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.11",
+            "verseOrgIds": [
+              "EZK.42.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EZK 42:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩmahaanaine na matoonyero ma tũnyũmba twa mwena wa gũthini. Ningĩ nĩ haarĩ na itoonyero kĩambĩrĩria-inĩ gĩa gacĩra karĩa gaatwaranĩte na rũthingo rũu rwerekeire mwena wa irathĩro, na nĩko mũndũ aageraga agĩtoonya tũnyũmba tũu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.12",
+            "verseOrgIds": [
+              "EZK.42.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EZK 42:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agĩcooka akĩnjĩĩra atĩrĩ, “Tũnyũmba tũu tũrĩ mwena wa gathigathini na tũu tũrĩ mwena wa gũthini, tũu tũngʼetheire nja ya hekarũ, nĩtuo twa athĩnjĩri-Ngai, na nĩkuo athĩnjĩri-Ngai arĩa megũkuhĩrĩria Jehova makarĩĩagĩra indo cia maruta marĩa matheru mũno. Kũu nĩkuo makaigaga indo cia maruta iria theru mũno, nacio nĩ maruta ma ngano, o na maruta ma mehia, na maruta ma mahĩtia, nĩgũkorwo handũ hau nĩ hatheru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.13",
+            "verseOrgIds": [
+              "EZK.42.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EZK 42:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Athĩnjĩri-Ngai rĩrĩa maatoonya handũ hau haamũre-rĩ, matingĩcooka kuuma nja ya mwena wa nyumĩrĩra, nginya marute nguo icio cia ũtungata, nĩ ũndũ nĩ nyamũre. No nginya mehumbe nguo ingĩ matanakuhĩrĩria kũrĩa andũ maikaraga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.14",
+            "verseOrgIds": [
+              "EZK.42.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EZK 42:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa aarĩkirie gũthima kĩrĩa kĩarĩ mwena wa na thĩinĩ wa hekarũ, akĩnyumia na nja tũgereire kĩhingo kĩa mwena wa irathĩro, agĩthima mũigana wa handũ hau mĩena yothe:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.15",
+            "verseOrgIds": [
+              "EZK.42.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EZK 42:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩathimire mwena wa irathĩro na rũthanju rwa gũthima; mũigana waho warĩ mĩkono magana matano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.16",
+            "verseOrgIds": [
+              "EZK.42.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EZK 42:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ agĩthima mwena wa gathigathini; mũigana waho warĩ mĩkono magana matano ũthimĩtwo na rũthanju rũu rwa gũthima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.17",
+            "verseOrgIds": [
+              "EZK.42.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EZK 42:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na agĩthima mwena wa gũthini; mũigana waho warĩ mĩkono magana matano ũthimĩtwo na rũthanju rũu rwa gũthima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.18",
+            "verseOrgIds": [
+              "EZK.42.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EZK 42:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ agĩcooka agĩthima mwena wa ithũĩro; mũigana waho warĩ mĩkono magana matano ũthimĩtwo na rũthanju rũu rwa gũthima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.19",
+            "verseOrgIds": [
+              "EZK.42.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EZK 42:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũguo nĩguo aathimire handũ hau mĩena ĩyo yothe ĩna. Handũ hau haarigiicĩirio na rũthingo, naruo rwarĩ na ũraihu wa mĩkono magana matano, na wariĩ wa mĩkono magana matano, rwa kũhakania handũ harĩa hatheru na harĩa hatarĩ haamũre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.42.20",
+            "verseOrgIds": [
+              "EZK.42.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.43",
+    "number": "43",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.41",
+    "number": "41",
+    "bookId": "EZK"
+  }
+}

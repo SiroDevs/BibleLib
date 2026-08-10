@@ -1,0 +1,358 @@
+{
+  "id": "1JN.1",
+  "number": "1",
+  "bookId": "1JN",
+  "reference": "1 John 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1JN 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The Incarnation of the Word of Life",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1JN 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched—this we proclaim concerning the Word of life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.1",
+            "verseOrgIds": [
+              "1JN.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1JN 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.2",
+            "verseOrgIds": [
+              "1JN.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1JN 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.3",
+            "verseOrgIds": [
+              "1JN.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We write this to make our",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        },
+        {
+          "text": "joy complete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.4",
+            "verseOrgIds": [
+              "1JN.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Light and Darkness, Sin and Forgiveness",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1JN 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.5",
+            "verseOrgIds": [
+              "1JN.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1JN 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If we claim to have fellowship with him and yet walk in the darkness, we lie and do not live out the truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.6",
+            "verseOrgIds": [
+              "1JN.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1JN 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.7",
+            "verseOrgIds": [
+              "1JN.1.7"
+            ]
+          }
+        },
+        {
+          "text": "sin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.7",
+            "verseOrgIds": [
+              "1JN.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1JN 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If we claim to be without sin, we deceive ourselves and the truth is not in us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.8",
+            "verseOrgIds": [
+              "1JN.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1JN 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.9",
+            "verseOrgIds": [
+              "1JN.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1JN 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If we claim we have not sinned, we make him out to be a liar and his word is not in us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.1.10",
+            "verseOrgIds": [
+              "1JN.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1JN.2",
+    "number": "2",
+    "bookId": "1JN"
+  },
+  "previous": {
+    "id": "1JN.intro",
+    "number": "intro",
+    "bookId": "1JN"
+  }
+}

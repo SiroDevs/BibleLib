@@ -1,0 +1,516 @@
+{
+  "id": "PSA.15",
+  "number": "15",
+  "bookId": "PSA",
+  "reference": "Psalm 15",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "PSA 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.15.1",
+                "verseOrgIds": [
+                  "PSA.15.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", who may dwell in your sacred tent?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.1",
+            "verseOrgIds": [
+              "PSA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:1"
+      },
+      "items": [
+        {
+          "text": "Who may live on your holy mountain?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.1",
+            "verseOrgIds": [
+              "PSA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The one whose walk is blameless,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.2",
+            "verseOrgIds": [
+              "PSA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:2"
+      },
+      "items": [
+        {
+          "text": "who does what is righteous,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.2",
+            "verseOrgIds": [
+              "PSA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:2"
+      },
+      "items": [
+        {
+          "text": "who speaks the truth from their heart;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.2",
+            "verseOrgIds": [
+              "PSA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "whose tongue utters no slander,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.3",
+            "verseOrgIds": [
+              "PSA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:3"
+      },
+      "items": [
+        {
+          "text": "who does no wrong to a neighbor,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.3",
+            "verseOrgIds": [
+              "PSA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:3"
+      },
+      "items": [
+        {
+          "text": "and casts no slur on others;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.3",
+            "verseOrgIds": [
+              "PSA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who despises a vile person",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.4",
+            "verseOrgIds": [
+              "PSA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:4"
+      },
+      "items": [
+        {
+          "text": "but honors those who fear the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.4",
+            "verseOrgIds": [
+              "PSA.15.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.15.4",
+                "verseOrgIds": [
+                  "PSA.15.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.4",
+            "verseOrgIds": [
+              "PSA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 15:4"
+      },
+      "items": [
+        {
+          "text": "who keeps an oath even when it hurts,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.4",
+            "verseOrgIds": [
+              "PSA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:4"
+      },
+      "items": [
+        {
+          "text": "and does not change their mind;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.4",
+            "verseOrgIds": [
+              "PSA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who lends money to the poor without interest;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.5",
+            "verseOrgIds": [
+              "PSA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:5"
+      },
+      "items": [
+        {
+          "text": "who does not accept a bribe against the innocent.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.5",
+            "verseOrgIds": [
+              "PSA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 15:5"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 15:5"
+      },
+      "items": [
+        {
+          "text": "Whoever does these things",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.5",
+            "verseOrgIds": [
+              "PSA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 15:5"
+      },
+      "items": [
+        {
+          "text": "will never be shaken.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.15.5",
+            "verseOrgIds": [
+              "PSA.15.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.16",
+    "number": "16",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.14",
+    "number": "14",
+    "bookId": "PSA"
+  }
+}

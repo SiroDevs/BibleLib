@@ -1,0 +1,622 @@
+{
+  "id": "AMO.7",
+  "number": "7",
+  "bookId": "AMO",
+  "reference": "Amosi 7",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "AMO 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amaroro igoro ye chingige",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro Omonene anyorogetie ase amaroro: Nkamorora ogotonga chingige ekero obonyansi bwachagete goseboka; okwo nogoseboka gwa kabere ekero obonyansi bw’omorwoti konya bwagekirwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.1",
+            "verseOrgIds": [
+              "AMO.7.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero chingige chiria chiakoorire koria ebimeri bionsi bi’ense, inche ngasaba, ngateba, “Aye Omonene, nagosoroire bwabere! Naki abanto b’ororeria rwa Yakobo baranyare koba moyo, ekero bare abake iga?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.2",
+            "verseOrgIds": [
+              "AMO.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "AMO 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, Omonene akaonchora ebirengererio biaye, agateeba, “Ayio bono takoba bo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.3",
+            "verseOrgIds": [
+              "AMO.7.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amaroro igoro y’omorero",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "AMO 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya nar’Omonene anyorogetie ase amaroro: Nkarora Omonene ogocha korua egesusuro goetera ase omorero; omorero oyio ogasamba chindiba chinene, naende ogaachaka gosamba nense ekoremwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.4",
+            "verseOrgIds": [
+              "AMO.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "AMO 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio nkamotebia, “Aye Omonene, nagosoroire, tiga tobaisa gokora ayio. Naki abanto b’ororeria rwa Yakobo baranyare koba moyo ekero bare abake iga?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.5",
+            "verseOrgIds": [
+              "AMO.7.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Omonene akaonchora ebirengererio biaye, agateeba, “Naya boigo takoba bo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.6",
+            "verseOrgIds": [
+              "AMO.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amaroro igoro y’ekebiro gi’okorengera",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "AMO 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro Omonene anyorogetie ase amaroro: Nkamorora oteneine igoro y’orwaki rwaagachetwe ase okorengwa nekebiro, na ase okoboko kwaye nabwate ekebiro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.7",
+            "verseOrgIds": [
+              "AMO.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akamboria, “Amos, ngento ki eke orooche?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.8",
+            "verseOrgIds": [
+              "AMO.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Nkamoiraneria, nkamotebia, “Eke nekebiro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.8",
+            "verseOrgIds": [
+              "AMO.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Erio Omonene agantebia, “Rora, nindenge abanto bane Abaisraeli nekebiro eke. Tinkobaetania nonya ng’ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.8",
+            "verseOrgIds": [
+              "AMO.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aase aimokererete igoro, ase abanto b’ororeria rwa Isaka bagosasiimera bosa, na aase ande onsi Abaisraeli bagosasiimera natagorwe abe bosa. Ning’ite abanto b’enyomba ya Yeroboamu nemioro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.9",
+            "verseOrgIds": [
+              "AMO.7.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amos na Amasia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Amasia, Omokuani o Beteli, agatoma amang’ana ase Yeroboamu, omorwoti bw’Abaisraeli, komoteebia, “Amos oseegetire Abaisraeli bonsi babe mamincha yao; na ense eye tekonyara koremereria amang’ana aye onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.10",
+            "verseOrgIds": [
+              "AMO.7.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana aya naro akwanire: Yeroboamu naitwe nemioro, na Abaisraeli mbarusigwe ase ense yabo bairwe ase obosomba.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.11",
+            "verseOrgIds": [
+              "AMO.7.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende Amasia agateebia Amos, “Aye omoorori, tama ogende ase ense y’Abayuda; aroro agwo nonyore endagera okoria, na obe gokobaanera aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.12",
+            "verseOrgIds": [
+              "AMO.7.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "AMO 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende tobaisa kobaanera aiga Beteli naende nonya ng’ake, ekiagera aiga nase aachenu a omorwoti, naende aa nao Hekalu y’obogambi bwonsi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.13",
+            "verseOrgIds": [
+              "AMO.7.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "AMO 7:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Amos akairaneria Amasia, akamoteebia, “Inche tindi omobani, gose omwana bw’omobani bworokereretigwe obobani, nigo narenge omorisia, naende omorendi bw’emeko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.14",
+            "verseOrgIds": [
+              "AMO.7.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "AMO 7:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Omonene akandusia korwa ase narenge korisia ching’ondi, agantebia: Genda obanere abanto bane Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.15",
+            "verseOrgIds": [
+              "AMO.7.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "AMO 7:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, igwa ring’ana ri’Omonene. Aye nigo ogonkania ng’a timbaisa kobana mamincha y’Abaisraeli na tindandia mamincha y’ororeria rwa Isaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.16",
+            "verseOrgIds": [
+              "AMO.7.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "AMO 7:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, aya naro amang’an’Omonene agoteeba: Mokao nabe omotayayi, abe ogokora obonyaka ase omochie omonene, na abana bao, abamura na abaiseke, ’mbakenywe nemioro. Oboremo bwao mbwatananwe ase okorengwa nengori; aye omonyene nokwere ase ense etachenegeti. Abaisraeli goika barusigwe ase ense yabo, bairwe ase obosomba.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.7.17",
+            "verseOrgIds": [
+              "AMO.7.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.8",
+    "number": "8",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.6",
+    "number": "6",
+    "bookId": "AMO"
+  }
+}

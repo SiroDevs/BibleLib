@@ -1,0 +1,503 @@
+{
+  "id": "MAL.1",
+  "number": "1",
+  "bookId": "MAL",
+  "reference": "Malaki 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MAL 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amang’an’Omonene atomerete Abaisraeli goetera ase Malaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.1",
+            "verseOrgIds": [
+              "MAL.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obwanchani bw’Omonene ase Abaisraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nigo agoteeba iga: “Inche nimbanchete inwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Korende inwe nigo mokoboria: “Inaki otwanchete?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Omonene nigo akoiraneria, “Inee! Esau tarenge oyomwabo Yakobo? Inche nigo namwanchete Yakobo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.2",
+            "verseOrgIds": [
+              "MAL.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na nkaba ’ngechete Esau na ’ngasaria ense yaye y’ebitunwa ekaba erooro, na omwando oye ’nkaa chisese chi’orosana chikamenyao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.3",
+            "verseOrgIds": [
+              "MAL.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaedomu kobarateebe: “Nonya twaakirwe, ngochia tore koagaacha naende aase aria asaretigwe agatigara bosa.” Korende Omonene bw’Emeganda nigo agoteeba iga: “Nabo baranyare koagaacha naende, korende inche goika ’ntagore amaagacho ayio, erinde ense eyio erokwe ey’abakori amabe, abwo inche Omonene inde nendamwamu ase bare kogenderera botambe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.4",
+            "verseOrgIds": [
+              "MAL.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namwerorere amang’ana ayio namaiso aino; erio moteebe: “Omonene nigo are omonene nonya nisiko y’ense y’Abaisraeli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.5",
+            "verseOrgIds": [
+              "MAL.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omonene ogotogonyera abakuani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene Nyasae bw’Emeganda nigo agoteeba iga: “Omwana nigo asigete ise, na omosomba nairogete omonene oye. Onye inche inde iso oino, amasikani aino ase ’nde, ng’ai are? Na onye inde omonene, okonyiroka kwaino, ng’ai kore? Inwe abakuani nigo mochaayete erieta riane, naende nigo mokoboria: Nase enchera ki tochaayete erieta riao?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.6",
+            "verseOrgIds": [
+              "MAL.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAL 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimbatebie: Nigo mokorenta ase egesasiimero kiane okoruegwa kw’endagera gotari ogochenu. Erio mwaboria: Nase inchera ki twagokorire oyotachenegeti. Nimbairanerie: Nase okorengereria ng’a emesa y’ane inche Omonene ney’ogochaaywa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.7",
+            "verseOrgIds": [
+              "MAL.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAL 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Ekero mokorua eng’iti eukorete koba ekeng’wanso, ayio tari bobe? Gose ekero mokorua eye eremarete, gose endwaire, ayio tari bobe? Moraisa korua eng’iti buna eyio ase omogabana oino, Inee, nagokigwe nainwe, gose abanchererie?” Nabo Omonene bw’Emeganda akoboria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.8",
+            "verseOrgIds": [
+              "MAL.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAL 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inwe abakuani, sorora Nyasae, erinde atororere amaabera. Inee! Naroreire onde bwensi oino amaabera, ekero mokorua okoruegwa konga buna okwo korwa ase amaboko aino?” Nabo Omonene bw’Emeganda akoboria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.9",
+            "verseOrgIds": [
+              "MAL.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAL 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende Omonene bw’Emeganda nigo agoteeba iga: Onye ndiria arenge gotoka omonto nonya noyomo korwa ase more asieke ebisieri bie Hekalu, erinde timobaisa kogenderera gouta omorero ase egesasiimero kiane bosa, ekiagera tingokiri nainwe, gose tingwancha ebing’wanso korwa ase amaboko aino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.10",
+            "verseOrgIds": [
+              "MAL.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAL 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korwa ekero erioba rigosoka goika ekero rikorimera, erieta riane nigo rigendererete koba rinene ase egati y’ abanto b’ebisaku, na ase kera aase ubani egosambwa ase erieta riane, na okoruegwa gochenegete gokorentwa. Ee, erieta riane nigo rigendererete koba rinene ase egati y’ abanto b’ebisaku. Nabo Omonene bw’Emeganda agoteeba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.11",
+            "verseOrgIds": [
+              "MAL.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAL 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korende inwe nigo mokorikora ribe eritachenegeti ekero mogoteeba ng’a emesa y’ane yakorirwe koba eyetachenegeti na gochaaya okoruegwa gokorentwa aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.12",
+            "verseOrgIds": [
+              "MAL.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAL 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe nigo mogoteeba: Amang’ana aya atorosirie, naende mwagenderera gonchaaya inche Omonene bw’Emeganda. Nigo mokondetera eng’iti eurereirie, gose eye eremarete, gose erwarete, ebe ekeng’wanso. Inee! Ninyare gwanchera ebinto buna ebio korwa ase amaboko aino?” Nabo Omonene akoboria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.13",
+            "verseOrgIds": [
+              "MAL.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAL 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Oragereriigwe omonto oria omong’ainereria obwate emingichi ase riicho riaye, eyio ariete eira ng’a ayerue, korende orenta ase ’nde inche Omonene eng’iti eng’ao ere n’ekemocho ase omobere oye. Inche nigo inde omorwoti omonene, na erieta riane nigo rire eri’okoirokwa ase egati y’ abanto b’ebisaku.” Nabo Omonene bw’Emeganda agoteeba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.1.14",
+            "verseOrgIds": [
+              "MAL.1.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAL.2",
+    "number": "2",
+    "bookId": "MAL"
+  },
+  "previous": {
+    "id": "MAL.intro",
+    "number": "intro",
+    "bookId": "MAL"
+  }
+}

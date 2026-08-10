@@ -1,0 +1,481 @@
+{
+  "id": "LEV.3",
+  "number": "3",
+  "bookId": "LEV",
+  "reference": "Alawii 3",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "LEV 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Iruta rĩa Ũiguano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LEV 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Iruta rĩa mũndũ rĩngĩkorwo nĩ iruta rĩa ũiguano-rĩ, nake arute nyamũ rũũru-inĩ rwa ngʼombe, ĩrĩ ya njamba kana ya nga, nĩakĩnengere Jehova nyamũ ĩtarĩ na kaũũgũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.1",
+            "verseOrgIds": [
+              "LEV.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LEV 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio nĩaigĩrĩre guoko gwake igũrũ rĩa mũtwe wa nyamũ ĩyo ya iruta rĩake, na acooke amĩthĩnjĩre hau mũromo-inĩ wa Hema-ya-Gũtũnganwo. Nao ariũ a Harũni, athĩnjĩri-Ngai, nĩmakaminjaminjĩria kĩgongona thakame yayo mĩena yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.2",
+            "verseOrgIds": [
+              "LEV.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LEV 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma iruta-inĩ rĩu rĩa ũiguano, nĩakarutĩra Jehova nyama imwe cia gũcinwo na mwaki: nacio nĩ rũambũ rũrĩa ruothe rũhumbĩire nyama cia nda na rũrĩa rũnyiitaine nacio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.3",
+            "verseOrgIds": [
+              "LEV.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LEV 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "higo cierĩ hamwe na maguta marĩa macihumbĩire hakuhĩ na honge, na maguta marĩa mahumbĩire ini, amarutanĩrie na higo icio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.4",
+            "verseOrgIds": [
+              "LEV.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LEV 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao ariũ a Harũni macicinĩre kĩgongona-inĩ igũrũ, ciigĩrĩirwo igũrũ rĩa iruta rĩu rĩa njino rĩrĩa narĩo rĩigĩrĩirwo igũrũ rĩa ngũ irakana, rĩrĩ iruta rĩa gũcinwo na mwaki, rĩrĩ na mũtararĩko mwega wa gũkenia Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.5",
+            "verseOrgIds": [
+              "LEV.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LEV 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũndũ angĩkaaruta nyamũ rũũru-inĩ rwa mbũri, ĩrĩ ya kũrutĩra Jehova iruta rĩa ũiguano, nĩakaruta ndũrũme kana mwatĩ itarĩ na kaũũgũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.6",
+            "verseOrgIds": [
+              "LEV.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LEV 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Angĩkaaruta gatũrũme-rĩ, nĩagakaneana mbere ya Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.7",
+            "verseOrgIds": [
+              "LEV.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LEV 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩakaigĩrĩra guoko gwake igũrũ rĩa mũtwe wa nyamũ ĩyo ya iruta rĩake, na acooke amĩthĩnjĩre mbere ya Hema-ya-Gũtũnganwo. Nao ariũ a Harũni moe thakame yako mamĩminjaminjĩrie kĩgongona kĩu mĩena yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.8",
+            "verseOrgIds": [
+              "LEV.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LEV 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma harĩ iruta rĩu rĩa ũiguano, nĩakarutĩra Jehova nyama imwe cia gũcinwo na mwaki: nacio nĩ maguta mako, na mũtingʼoe wothe ũrĩa mũnoru ũtinĩirio gĩtina-inĩ kĩa rũcuthĩ, na maguta ma rũambũ mothe marĩa mahumbĩire nyama cia nda, na marĩa manyiitaine nacio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.9",
+            "verseOrgIds": [
+              "LEV.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LEV 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "higo cierĩ hamwe na maguta marĩa macihumbĩire hakuhĩ na honge, na marĩa mahumbĩire ini, amarutanĩrie na higo icio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.10",
+            "verseOrgIds": [
+              "LEV.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LEV 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthĩnjĩri-Ngai nĩagacicinĩra kĩgongona-inĩ irĩ irio, rĩĩrĩ nĩ iruta rĩrutĩirwo Jehova rĩa gũcinwo na mwaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.11",
+            "verseOrgIds": [
+              "LEV.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LEV 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Na angĩkorwo iruta rĩake nĩ mbũri, nĩamĩneane mbere ya Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.12",
+            "verseOrgIds": [
+              "LEV.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LEV 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩaigĩrĩre guoko gwake igũrũ rĩa mũtwe wayo, na acooke amĩthĩnjĩre mbere ya Hema-ya-Gũtũnganwo. Nao ariũ a Harũni moe thakame yayo, mamĩminjaminjĩrie kĩgongona mĩena yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.13",
+            "verseOrgIds": [
+              "LEV.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LEV 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma harĩ kĩrĩa akaaheana, nĩakarutĩra Jehova iruta rĩa gũcinwo na mwaki: na nĩ maguta mothe ma rũambũ marĩa mahumbĩrĩte nyama ciothe cia nda na marĩa manyiitaine nacio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.14",
+            "verseOrgIds": [
+              "LEV.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LEV 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "higo cierĩ na maguta marĩa macihumbĩire hakuhĩ na honge, na maguta marĩa mahumbĩire ini, amarutanĩrie na higo icio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.15",
+            "verseOrgIds": [
+              "LEV.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LEV 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthĩnjĩri-Ngai nĩagacicinĩra kĩgongona-inĩ irĩ irio, rĩĩrĩ nĩ iruta rĩa gũcinwo na mwaki, rĩrĩ na mũtararĩko mwega. Maguta mothe nĩ ma Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.16",
+            "verseOrgIds": [
+              "LEV.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LEV 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ũndũ ũyũ ũgaatuĩka watho wa gũtũũra ũrũmagĩrĩrwo nĩ njiaro iria igooka, kũrĩa guothe mũgaatũũra: Mũtikanarĩe maguta kana thakame.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.3.17",
+            "verseOrgIds": [
+              "LEV.3.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LEV.4",
+    "number": "4",
+    "bookId": "LEV"
+  },
+  "previous": {
+    "id": "LEV.2",
+    "number": "2",
+    "bookId": "LEV"
+  }
+}

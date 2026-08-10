@@ -1,0 +1,219 @@
+{
+  "id": "PSA.117",
+  "number": "117",
+  "bookId": "PSA",
+  "reference": "Psalms 117",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "117",
+        "style": "c",
+        "sid": "PSA 117"
+      },
+      "items": [
+        {
+          "text": "117",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 117:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O praise the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.1",
+                "verseOrgIds": [
+                  "PSA.117.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", all ye nations: praise him, all ye people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 117:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For his merciful kindness is great toward us: and the truth of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "endureth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "for ever. Praise ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.118",
+    "number": "118",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.116",
+    "number": "116",
+    "bookId": "PSA"
+  }
+}

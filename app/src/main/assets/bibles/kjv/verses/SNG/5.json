@@ -1,0 +1,1450 @@
+{
+  "id": "SNG.5",
+  "number": "5",
+  "bookId": "SNG",
+  "reference": "Song of Solomon 5",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "SNG 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am come into my garden, my sister,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.1",
+            "verseOrgIds": [
+              "SNG.5.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "my",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.1",
+                "verseOrgIds": [
+                  "SNG.5.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.1",
+            "verseOrgIds": [
+              "SNG.5.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "SNG 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ I sleep, but my heart waketh:",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.2",
+            "verseOrgIds": [
+              "SNG.5.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.2",
+                "verseOrgIds": [
+                  "SNG.5.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the voice of my beloved that knocketh,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.2",
+            "verseOrgIds": [
+              "SNG.5.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "saying",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.2",
+                "verseOrgIds": [
+                  "SNG.5.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.2",
+            "verseOrgIds": [
+              "SNG.5.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.2",
+                "verseOrgIds": [
+                  "SNG.5.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my locks with the drops of the night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.2",
+            "verseOrgIds": [
+              "SNG.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "SNG 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.3",
+            "verseOrgIds": [
+              "SNG.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "SNG 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My beloved put in his hand by the hole",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.4",
+            "verseOrgIds": [
+              "SNG.5.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of the door",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.4",
+                "verseOrgIds": [
+                  "SNG.5.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and my bowels were moved for him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.4",
+            "verseOrgIds": [
+              "SNG.5.4"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.4",
+            "verseOrgIds": [
+              "SNG.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "SNG 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I rose up to open to my beloved; and my hands dropped",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.5",
+            "verseOrgIds": [
+              "SNG.5.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.5",
+                "verseOrgIds": [
+                  "SNG.5.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "myrrh, and my fingers",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.5",
+            "verseOrgIds": [
+              "SNG.5.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.5",
+                "verseOrgIds": [
+                  "SNG.5.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sweet smelling myrrh, upon the handles of the lock.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.5",
+            "verseOrgIds": [
+              "SNG.5.5"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.5",
+            "verseOrgIds": [
+              "SNG.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "SNG 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I opened to my beloved; but my beloved had withdrawn himself,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.6",
+            "verseOrgIds": [
+              "SNG.5.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.6",
+                "verseOrgIds": [
+                  "SNG.5.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.6",
+            "verseOrgIds": [
+              "SNG.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "SNG 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.7",
+            "verseOrgIds": [
+              "SNG.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "SNG 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.8",
+            "verseOrgIds": [
+              "SNG.5.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.8",
+                "verseOrgIds": [
+                  "SNG.5.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sick of love.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.8",
+            "verseOrgIds": [
+              "SNG.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "SNG 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ What",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.9",
+            "verseOrgIds": [
+              "SNG.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.9",
+                "verseOrgIds": [
+                  "SNG.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy beloved more than",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.9",
+            "verseOrgIds": [
+              "SNG.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "another",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.9",
+                "verseOrgIds": [
+                  "SNG.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "beloved, O thou fairest among women? what",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.9",
+            "verseOrgIds": [
+              "SNG.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.9",
+                "verseOrgIds": [
+                  "SNG.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy beloved more than",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.9",
+            "verseOrgIds": [
+              "SNG.5.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "another",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.9",
+                "verseOrgIds": [
+                  "SNG.5.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "beloved, that thou dost so charge us?",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.9",
+            "verseOrgIds": [
+              "SNG.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "SNG 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My beloved",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.10",
+            "verseOrgIds": [
+              "SNG.5.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.10",
+                "verseOrgIds": [
+                  "SNG.5.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "white and ruddy, the chiefest among ten thousand.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.10",
+            "verseOrgIds": [
+              "SNG.5.10"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.10",
+            "verseOrgIds": [
+              "SNG.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "SNG 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His head",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.11",
+            "verseOrgIds": [
+              "SNG.5.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is as",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.11",
+                "verseOrgIds": [
+                  "SNG.5.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the most fine gold, his locks",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.11",
+            "verseOrgIds": [
+              "SNG.5.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.11",
+                "verseOrgIds": [
+                  "SNG.5.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "bushy,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.11",
+            "verseOrgIds": [
+              "SNG.5.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.11",
+                "verseOrgIds": [
+                  "SNG.5.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "black as a raven.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.11",
+            "verseOrgIds": [
+              "SNG.5.11"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.11",
+            "verseOrgIds": [
+              "SNG.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "SNG 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His eyes",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.12",
+            "verseOrgIds": [
+              "SNG.5.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.12",
+                "verseOrgIds": [
+                  "SNG.5.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.12",
+            "verseOrgIds": [
+              "SNG.5.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "the eyes",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.12",
+                "verseOrgIds": [
+                  "SNG.5.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of doves by the rivers of waters, washed with milk,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.12",
+            "verseOrgIds": [
+              "SNG.5.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.12",
+                "verseOrgIds": [
+                  "SNG.5.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "fitly set.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.12",
+            "verseOrgIds": [
+              "SNG.5.12"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.12",
+            "verseOrgIds": [
+              "SNG.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "SNG 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His cheeks",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.13",
+            "verseOrgIds": [
+              "SNG.5.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.13",
+                "verseOrgIds": [
+                  "SNG.5.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a bed of spices,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.13",
+            "verseOrgIds": [
+              "SNG.5.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.13",
+                "verseOrgIds": [
+                  "SNG.5.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sweet flowers: his lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.13",
+            "verseOrgIds": [
+              "SNG.5.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "like",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.13",
+                "verseOrgIds": [
+                  "SNG.5.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lilies, dropping sweet smelling myrrh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.13",
+            "verseOrgIds": [
+              "SNG.5.13"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.13",
+            "verseOrgIds": [
+              "SNG.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "SNG 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His hands",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.14",
+            "verseOrgIds": [
+              "SNG.5.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are as",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.14",
+                "verseOrgIds": [
+                  "SNG.5.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "gold rings set with the beryl: his belly",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.14",
+            "verseOrgIds": [
+              "SNG.5.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is as",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.14",
+                "verseOrgIds": [
+                  "SNG.5.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "bright ivory overlaid",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.14",
+            "verseOrgIds": [
+              "SNG.5.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.14",
+                "verseOrgIds": [
+                  "SNG.5.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sapphires.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.14",
+            "verseOrgIds": [
+              "SNG.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "SNG 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His legs",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.15",
+            "verseOrgIds": [
+              "SNG.5.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are as",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.15",
+                "verseOrgIds": [
+                  "SNG.5.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "pillars of marble, set upon sockets of fine gold: his countenance",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.15",
+            "verseOrgIds": [
+              "SNG.5.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.15",
+                "verseOrgIds": [
+                  "SNG.5.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as Lebanon, excellent as the cedars.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.15",
+            "verseOrgIds": [
+              "SNG.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "SNG 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His mouth",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.16",
+            "verseOrgIds": [
+              "SNG.5.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.16",
+                "verseOrgIds": [
+                  "SNG.5.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "most sweet: yea, he",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.16",
+            "verseOrgIds": [
+              "SNG.5.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.16",
+                "verseOrgIds": [
+                  "SNG.5.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "altogether lovely. This",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.16",
+            "verseOrgIds": [
+              "SNG.5.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.16",
+                "verseOrgIds": [
+                  "SNG.5.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my beloved, and this",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.16",
+            "verseOrgIds": [
+              "SNG.5.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.5.16",
+                "verseOrgIds": [
+                  "SNG.5.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my friend, O daughters of Jerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.5.16",
+            "verseOrgIds": [
+              "SNG.5.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.6",
+    "number": "6",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.4",
+    "number": "4",
+    "bookId": "SNG"
+  }
+}

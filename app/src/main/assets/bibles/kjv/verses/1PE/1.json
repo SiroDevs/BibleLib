@@ -1,0 +1,968 @@
+{
+  "id": "1PE.1",
+  "number": "1",
+  "bookId": "1PE",
+  "reference": "1 Peter 1",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1PE 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1PE 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.1",
+            "verseOrgIds": [
+              "1PE.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1PE 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.2",
+            "verseOrgIds": [
+              "1PE.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1PE 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.3",
+            "verseOrgIds": [
+              "1PE.1.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.3",
+                "verseOrgIds": [
+                  "1PE.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.3",
+            "verseOrgIds": [
+              "1PE.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1PE 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.4",
+            "verseOrgIds": [
+              "1PE.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1PE 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.5",
+            "verseOrgIds": [
+              "1PE.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1PE 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.6",
+            "verseOrgIds": [
+              "1PE.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1PE 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.7",
+            "verseOrgIds": [
+              "1PE.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1PE 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whom having not seen, ye love; in whom, though now ye see",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.8",
+            "verseOrgIds": [
+              "1PE.1.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.8",
+                "verseOrgIds": [
+                  "1PE.1.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.8",
+            "verseOrgIds": [
+              "1PE.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1PE 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Receiving the end of your faith,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.9",
+            "verseOrgIds": [
+              "1PE.1.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.9",
+                "verseOrgIds": [
+                  "1PE.1.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the salvation of",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.9",
+            "verseOrgIds": [
+              "1PE.1.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "your",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.9",
+                "verseOrgIds": [
+                  "1PE.1.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "souls.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.9",
+            "verseOrgIds": [
+              "1PE.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1PE 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.10",
+            "verseOrgIds": [
+              "1PE.1.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that should come",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.10",
+                "verseOrgIds": [
+                  "1PE.1.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto you:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.10",
+            "verseOrgIds": [
+              "1PE.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1PE 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.11",
+            "verseOrgIds": [
+              "1PE.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1PE 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.12",
+            "verseOrgIds": [
+              "1PE.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1PE 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.13",
+            "verseOrgIds": [
+              "1PE.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1PE 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.14",
+            "verseOrgIds": [
+              "1PE.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1PE 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.15",
+            "verseOrgIds": [
+              "1PE.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1PE 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because it is written, Be ye holy; for I am holy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.16",
+            "verseOrgIds": [
+              "1PE.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1PE 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.17",
+            "verseOrgIds": [
+              "1PE.1.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "here",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.17",
+                "verseOrgIds": [
+                  "1PE.1.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in fear:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.17",
+            "verseOrgIds": [
+              "1PE.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1PE 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Forasmuch as ye know that ye were not redeemed with corruptible things,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.18",
+            "verseOrgIds": [
+              "1PE.1.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.18",
+                "verseOrgIds": [
+                  "1PE.1.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "silver and gold, from your vain conversation",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.18",
+            "verseOrgIds": [
+              "1PE.1.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "received",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.18",
+                "verseOrgIds": [
+                  "1PE.1.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "by tradition from your fathers;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.18",
+            "verseOrgIds": [
+              "1PE.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1PE 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.19",
+            "verseOrgIds": [
+              "1PE.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1PE 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.20",
+            "verseOrgIds": [
+              "1PE.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1PE 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.21",
+            "verseOrgIds": [
+              "1PE.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1PE 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.22",
+            "verseOrgIds": [
+              "1PE.1.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "see that ye",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.22",
+                "verseOrgIds": [
+                  "1PE.1.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "love one another with a pure heart fervently:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.22",
+            "verseOrgIds": [
+              "1PE.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1PE 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.23",
+            "verseOrgIds": [
+              "1PE.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1PE 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For all flesh",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "1PE.1.24",
+                "verseOrgIds": [
+                  "1PE.1.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.24",
+            "verseOrgIds": [
+              "1PE.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1PE 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1PE.1.25",
+            "verseOrgIds": [
+              "1PE.1.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1PE.2",
+    "number": "2",
+    "bookId": "1PE"
+  },
+  "previous": {
+    "id": "1PE.intro",
+    "number": "intro",
+    "bookId": "1PE"
+  }
+}

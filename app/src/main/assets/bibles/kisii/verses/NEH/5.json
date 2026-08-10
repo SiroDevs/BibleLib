@@ -1,0 +1,627 @@
+{
+  "id": "NEH.5",
+  "number": "5",
+  "bookId": "NEH",
+  "reference": "Nehemia 5",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 19,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "NEH 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogochandwa kw’Abataka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bande, abasacha na abakungu babo, bakarera na kwemurungania ase Abayahudi bamwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.1",
+            "verseOrgIds": [
+              "NEH.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abande bagateeba, “Intwe amo nabana baito, abamura na abaiseke, nigo tore abange, ntoganetie tonyore endagera torie, erinde togenderere koba moyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.2",
+            "verseOrgIds": [
+              "NEH.5.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boigo abande bagateeba, “Intwe nkobeeka tore amaremo aito, na emegondo yaito y’emesabibu, ne chinyomba chiaito, bionsi bibe intenenera; bono otoe endagera, ekiagera tore nenchara.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.3",
+            "verseOrgIds": [
+              "NEH.5.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na abande bagateeba, “Twasabire chitaabu singo igoro y’amaremo aito, na emegondo yaito y’emesabibu, ase ogoakana ebango ase omorwoti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.4",
+            "verseOrgIds": [
+              "NEH.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono emebere yaito nabo ere nengencho enene buna ey’abaminto, na abana baito nigo bare nengencho enene buna ababo, ko bono rora, yatobetereirie kobeeka abana baito, abamura na abaiseke, ase obosomba. Abaiseke baito bande baikire koba abasomba, korende intwe titobwati okobua kw’ogotanga ring’ana erio tiriba bo, ekiagera abanto abaao nabwo babwate amaremo aito amo nemegondo yaito y’emesabibu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.5",
+            "verseOrgIds": [
+              "NEH.5.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero naigwete amang’ana ’ebirero biabo nkaba nendamwamu enene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.6",
+            "verseOrgIds": [
+              "NEH.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkarengereria inche omonyene gokora egento ase engencho y’ayio. Ngasoera abanto basikire na abatang’ani, nkabateebia, “Inwe nigo mokwenyorera ebitoki korwa ase abamino.” Erio nkarangeria omoganda omonene gocha kogamba igoro y’amang’ana ayio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.7",
+            "verseOrgIds": [
+              "NEH.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nkayoteebia, “Intwe ase okonyara gwaito twabooririe Abayahudi baminto tokabairania korwa ase abanto b’ebisaku ebio ase baoonetigwe gochia, korende inwe nigo mokoonia abanto bamino, erinde intwe tobaboorie korwa ase more tobairanie.” Abaanene baria tibabwate nonya nering’ana erimo baare kobairaneria, korende nigo bakirete-kiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.8",
+            "verseOrgIds": [
+              "NEH.5.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio naende nkabateebia, “Amang’ana aya mogokora tari amaya. Inee! Tebagwenereti momoiroke Nyasae oito ase orogendo rwaino, erio nario abanto b’ebisaku, ababisa baito, batabe nengencho y’ogotochaya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.9",
+            "verseOrgIds": [
+              "NEH.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche omonyene amo nabaminto, na abasomba baane, twarure chitaabu na endagera singo; bono totige koboria ebinto ebio, titoakanwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.10",
+            "verseOrgIds": [
+              "NEH.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono rituko ria reero bairanerie ebio bionsi baboreretigwe baakane: amaremo abo, na emegondo y’emesabibu na ey’emezeituni, edivai, ne chinyomba amo nebitoki bie chitaabu mwabeire mokoboria.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.11",
+            "verseOrgIds": [
+              "NEH.5.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio abatang’ani abwo bakairaneria, bagateeba, “Goika toiranie ebinto ebio, gose titoboria ebitoki korwa ase bare; ntokore buna gwateebire.” Agwo nkarangeria abakuani batianie abatang’ani abwo barie eira ng’a bakore buna bateebetigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.12",
+            "verseOrgIds": [
+              "NEH.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio ngasamunsa omoringo bw’omwambaro one, ngateba, “Naboigo kera oyomo oyotaikerania eira yaye, Nyasae amosamunse korwa ase abanto b’enyomba yaye, na korwa ase ebinto babwate. Ee, asamunswe abe bosa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.13",
+            "verseOrgIds": [
+              "NEH.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Omoganda bwonsi okairaneria, ogateba, “Amina,” na bakamotogia Omonene. Abanto baria bagakora buna bariete eira ng’a mbakore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.13",
+            "verseOrgIds": [
+              "NEH.5.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Enkoro endabu ya Nehemia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eria yonsi y’emiaka ikomi na ebere, ekero narenge omogabana bw’ense ya Yuda, korwa omwaka bw’emerongo ebere, goika omwaka bw’emerongo etato na ebere, bw’okogamba kw’Aritasasita, inche gose abanto baminto titwariete endagera omogabana agwenerete koegwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.14",
+            "verseOrgIds": [
+              "NEH.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera omogambi ontang’anerete kogamba nigo arenge kobeeka egurube endito igoro ase abanto na kobaboria barue endagera, na edivai, amo ne chitaabu chisekeli chi’echifeta emerongo ene. Nonya nabasomba babo nabo bakorerete abanto. Inche tinakorete buna abagaambi abwo, ekiagera nigo namoirogete Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.15",
+            "verseOrgIds": [
+              "NEH.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche nigo nakorete omokia, nkagenderera koagacha orwaki, gose titwagorete oboremo bonde, na abasomba baane nigo babete amo nainche ase ogokora emeremo eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.16",
+            "verseOrgIds": [
+              "NEH.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abayahudi amo nabatang’ani babo abarenge koragera amo nainche nigo barenge rigana erimo, na emerongo etano. Naende abanto b’ebisaku binde abamenyete ase chinsemo chiaito chionsi nigo barenge gocha baragera amo nainche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.17",
+            "verseOrgIds": [
+              "NEH.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera rituko endagera narenge korua neng’ombe eyemo, ne ching’ondi chinoru isano nemo, amo ne chingoko; na kera rituko ria ikomi nigo narenge korua ebirandi ebinge biroisirie korwa ase amasankwa, bire nedivai. Ase ebinto ebio bionsi tinarenge gosaba endagera eria abagaambi bagwenerete koegwa, ekiagera abanto abwo nigo babogoretie egurube endito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.18",
+            "verseOrgIds": [
+              "NEH.5.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Nyasae one, ong’inyore ong’e amaya koreng’ana buna amaya nakoreire abanto aba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.5.19",
+            "verseOrgIds": [
+              "NEH.5.19"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.6",
+    "number": "6",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.4",
+    "number": "4",
+    "bookId": "NEH"
+  }
+}

@@ -1,0 +1,767 @@
+{
+  "id": "ACT.12",
+  "number": "12",
+  "bookId": "ACT",
+  "reference": "Ogokora Kw’abatomwa 12",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ACT 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Herode ogochanda abanto b’ekanisa. Okorusigwa gwa Petero korwa ase echela",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo ase engaki eria, omorwoti Herode akarambora amaboko aye agachanda abanto bande b’ekanisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.1",
+            "verseOrgIds": [
+              "ACT.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agaita Yakobo omwabo Yohana nomoyio o birende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.2",
+            "verseOrgIds": [
+              "ACT.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero aroche ng’a aya agweneire Abayahudi, akagenderera, Petero nere akabwatwa. Amatuko ayio naro amatuko emegati etabekiri memera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.3",
+            "verseOrgIds": [
+              "ACT.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akamobwata akamobeka echela ime. Akamobeka ase ebiombe bine bi’abarwani; kera ekeombe nigo kiare nabarwani bane. Barabwo bakamorenda. Akarigia komosokia ase abanto magega y’Epasaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.4",
+            "verseOrgIds": [
+              "ACT.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo Petero arendetwe ase echela ime, abanto b’ekanisa bakamosabera ase Nyasae nomoyo bw’omokia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.5",
+            "verseOrgIds": [
+              "ACT.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase obotuko boria bwatang’anerete rituko riria Herode arengereretie komoira ase ekegambero, Petero nigo arenge oraire gati y’abarendi babere, osibire nebinyuri bibere, na abarwani nigo barenge gesieri barendete echela.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.6",
+            "verseOrgIds": [
+              "ACT.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rora, omomalaika bw’Omonene akamoorokera, na amasase akamoreka akanyomba ime. Omomalaika oria agaaka Petero rikere riaye, akamotura, agateeba: “Imoka bwango!” Ebinyuri bigasansoka korwa ase amaboko aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.7",
+            "verseOrgIds": [
+              "ACT.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika akamoteebia: “Eboyie, obeke ebikoroto biao.” Agakora bo. Naende akamoteebia: “Beka eganchwa yao, ontunyane!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.8",
+            "verseOrgIds": [
+              "ACT.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agasoka, akamotunyana, gose tamanyete ng’a ayakoretwe nomomalaika nay’ekeene, korende agakaga ng’a nokorora arorire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.9",
+            "verseOrgIds": [
+              "ACT.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero bachia goetania ensemo ye ritang’ani na ensemo ya kabere ase abarendi barendete, bagaika egeita ki’ebioma kegosoerwa omochie ime. Eke gekabaigokera, na barabwo bagaeta ase enchera eyemo. Erio kegima omomalaika oria agatiga Petero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.10",
+            "verseOrgIds": [
+              "ACT.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Petero achia komanya, agateeba: “Bono namanyire bori ng’a Omonene nere otoma omomalaika oye ochia kondusia ase okoboko kwa Herode, na korwa ase ogosemeria gwonsi kw’abaanto b’Abayahudi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.11",
+            "verseOrgIds": [
+              "ACT.12.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio kayarengereretie aya, agaika ase enyomba ya Mariamu ng’ina Yohana, oyokorokwa naende Mariko; na abanto abange nao basangererekanete gosaba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.12",
+            "verseOrgIds": [
+              "ACT.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ekero Petero achia gotura egesieri kia geita, omoiseke omosomba, okorokwa Roda, agaacha koigwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.13",
+            "verseOrgIds": [
+              "ACT.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kamanyire eriogi ria Petero, akaba nomogooko, taigora egesieri, korende akaminyoka, agasoa nyomba, akabateebia ng’a Petero ngesieri ateneine.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.14",
+            "verseOrgIds": [
+              "ACT.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakamoteebia: “Nebarimo ore!” Korende akaamereria mono, agateeba ng’a naboigo are. Bakaboora: “Nomomalaika oye!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.15",
+            "verseOrgIds": [
+              "ACT.12.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ACT 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Petero akagenderera gokong’onta egesieri. Erio bakamoigorera, bakamorora, bagakumia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.16",
+            "verseOrgIds": [
+              "ACT.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere akabakania nokoboko, ng’a bakire, tibakwana, akabateebereria buna Omonene amosokia korwa ase echela. Akabora: “Genda, moteebie Yakobo na abaminto amang’ana aya.” Agasoka, akagenda ensemo ende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.17",
+            "verseOrgIds": [
+              "ACT.12.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ACT 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero bwachia gokia abarendi bagasogwa nomoondoko omonge igoro ya Petero, naki abeete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.18",
+            "verseOrgIds": [
+              "ACT.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ACT 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Herode akamorigia, tamonyora. Akana‐kounia abarendi, agachiika ng’a baitwe. Erio agatirimboka korwa Boyahudi, akagenda Kaisaria, akamenya aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.19",
+            "verseOrgIds": [
+              "ACT.12.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogokwa kwa Herode",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Herode nigo abeete mono abanto ba Turo na Sidoni. Korende barabwo bakamochiera ase obomo, na ekero baebereirie Blasto, oyorenge korenda enyomba y’omorwoti, bakarigia omorembe, ekiagera ense yabo nigo yare konyora endagera korwa ase ense y’omorwoti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.20",
+            "verseOrgIds": [
+              "ACT.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ACT 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase rituko erimo eriabekire, Herode akeboyia chianga chi’oborwoti, agaikaransa ase ekerogo ki’oborwoti, agakwana ase bare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.21",
+            "verseOrgIds": [
+              "ACT.12.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ACT 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bagaaka eriogi, bagateeba: “Eri neriogi ri’enyasae, tari eri’omonto!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.22",
+            "verseOrgIds": [
+              "ACT.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ACT 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio bwango omomalaika bw’Omonene akamoaka ekiagera atasigete Nyasae; akariegwa namakonde, agatweka mo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.23",
+            "verseOrgIds": [
+              "ACT.12.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ACT 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ring’ana ria Nyasae rikagenderera komentekana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.24",
+            "verseOrgIds": [
+              "ACT.12.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ACT 12:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barnaba na Saulo, ekero bakoorire obotomwa bwabo, bakairana korwa Yerusalemu, bakarentana Yohana ore korokwa Mariko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.12.25",
+            "verseOrgIds": [
+              "ACT.12.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.13",
+    "number": "13",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.11",
+    "number": "11",
+    "bookId": "ACT"
+  }
+}

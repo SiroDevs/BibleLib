@@ -1,0 +1,595 @@
+{
+  "id": "PSA.100",
+  "number": "100",
+  "bookId": "PSA",
+  "reference": "Psalms 100",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "100",
+        "style": "c",
+        "sid": "PSA 100"
+      },
+      "items": [
+        {
+          "text": "100",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of praise.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 100:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Make a joyful noise unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.1",
+            "verseOrgIds": [
+              "PSA.100.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.1",
+                "verseOrgIds": [
+                  "PSA.100.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", all ye lands.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.1",
+            "verseOrgIds": [
+              "PSA.100.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 100:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Serve the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.2",
+            "verseOrgIds": [
+              "PSA.100.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.2",
+                "verseOrgIds": [
+                  "PSA.100.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with gladness: come before his presence with singing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.2",
+            "verseOrgIds": [
+              "PSA.100.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 100:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Know ye that the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hath made us, and not we ourselves;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "we are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "his people, and the sheep of his pasture.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 100:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enter into his gates with thanksgiving,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.4",
+                "verseOrgIds": [
+                  "PSA.100.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "into his courts with praise: be thankful unto him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.4",
+                "verseOrgIds": [
+                  "PSA.100.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "bless his name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 100:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.5",
+                "verseOrgIds": [
+                  "PSA.100.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.5",
+                "verseOrgIds": [
+                  "PSA.100.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good; his mercy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.5",
+                "verseOrgIds": [
+                  "PSA.100.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "everlasting; and his truth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "endureth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.5",
+                "verseOrgIds": [
+                  "PSA.100.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to all generations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.101",
+    "number": "101",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.99",
+    "number": "99",
+    "bookId": "PSA"
+  }
+}

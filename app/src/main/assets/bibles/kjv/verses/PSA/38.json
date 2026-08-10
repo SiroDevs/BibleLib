@@ -1,0 +1,1461 @@
+{
+  "id": "PSA.38",
+  "number": "38",
+  "bookId": "PSA",
+  "reference": "Psalms 38",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "38",
+        "style": "c",
+        "sid": "PSA 38"
+      },
+      "items": [
+        {
+          "text": "38",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David, to bring to remembrance.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 38:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.1",
+            "verseOrgIds": [
+              "PSA.38.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.1",
+                "verseOrgIds": [
+                  "PSA.38.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.1",
+            "verseOrgIds": [
+              "PSA.38.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 38:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.2",
+            "verseOrgIds": [
+              "PSA.38.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 38:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "There is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.3",
+                "verseOrgIds": [
+                  "PSA.38.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no soundness in my flesh because of thine anger; neither",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.3",
+            "verseOrgIds": [
+              "PSA.38.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is there any",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.3",
+                "verseOrgIds": [
+                  "PSA.38.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "rest in my bones because of my sin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.3",
+            "verseOrgIds": [
+              "PSA.38.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 38:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.4",
+            "verseOrgIds": [
+              "PSA.38.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 38:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My wounds stink",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.5",
+            "verseOrgIds": [
+              "PSA.38.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.5",
+                "verseOrgIds": [
+                  "PSA.38.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "are corrupt because of my foolishness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.5",
+            "verseOrgIds": [
+              "PSA.38.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 38:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.6",
+            "verseOrgIds": [
+              "PSA.38.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 38:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For my loins are filled with a loathsome",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.7",
+            "verseOrgIds": [
+              "PSA.38.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "disease:",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.7",
+                "verseOrgIds": [
+                  "PSA.38.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.7",
+            "verseOrgIds": [
+              "PSA.38.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.7",
+                "verseOrgIds": [
+                  "PSA.38.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no soundness in my flesh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.7",
+            "verseOrgIds": [
+              "PSA.38.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 38:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.8",
+            "verseOrgIds": [
+              "PSA.38.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 38:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lord, all my desire",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.9",
+            "verseOrgIds": [
+              "PSA.38.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.9",
+                "verseOrgIds": [
+                  "PSA.38.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "before thee; and my groaning is not hid from thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.9",
+            "verseOrgIds": [
+              "PSA.38.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 38:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.10",
+            "verseOrgIds": [
+              "PSA.38.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 38:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.11",
+            "verseOrgIds": [
+              "PSA.38.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 38:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They also that seek after my life lay snares",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.12",
+            "verseOrgIds": [
+              "PSA.38.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for me:",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.12",
+                "verseOrgIds": [
+                  "PSA.38.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.12",
+            "verseOrgIds": [
+              "PSA.38.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 38:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But I, as a deaf",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.13",
+            "verseOrgIds": [
+              "PSA.38.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "man",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.13",
+                "verseOrgIds": [
+                  "PSA.38.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", heard not; and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.13",
+            "verseOrgIds": [
+              "PSA.38.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "I was",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.13",
+                "verseOrgIds": [
+                  "PSA.38.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a dumb man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.13",
+            "verseOrgIds": [
+              "PSA.38.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.13",
+                "verseOrgIds": [
+                  "PSA.38.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "openeth not his mouth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.13",
+            "verseOrgIds": [
+              "PSA.38.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 38:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thus I was as a man that heareth not, and in whose mouth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.14",
+            "verseOrgIds": [
+              "PSA.38.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.14",
+                "verseOrgIds": [
+                  "PSA.38.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no reproofs.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.14",
+            "verseOrgIds": [
+              "PSA.38.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 38:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For in thee, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.15",
+            "verseOrgIds": [
+              "PSA.38.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.15",
+                "verseOrgIds": [
+                  "PSA.38.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", do I hope: thou wilt hear, O Lord my God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.15",
+            "verseOrgIds": [
+              "PSA.38.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 38:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For I said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.16",
+            "verseOrgIds": [
+              "PSA.38.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "Hear me",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.16",
+                "verseOrgIds": [
+                  "PSA.38.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", lest",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.16",
+            "verseOrgIds": [
+              "PSA.38.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "otherwise",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.16",
+                "verseOrgIds": [
+                  "PSA.38.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they should rejoice over me: when my foot slippeth, they magnify",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.16",
+            "verseOrgIds": [
+              "PSA.38.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "themselves",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.16",
+                "verseOrgIds": [
+                  "PSA.38.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "against me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.16",
+            "verseOrgIds": [
+              "PSA.38.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 38:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For I",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.17",
+            "verseOrgIds": [
+              "PSA.38.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.17",
+                "verseOrgIds": [
+                  "PSA.38.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ready to halt, and my sorrow",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.17",
+            "verseOrgIds": [
+              "PSA.38.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.17",
+                "verseOrgIds": [
+                  "PSA.38.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "continually before me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.17",
+            "verseOrgIds": [
+              "PSA.38.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 38:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For I will declare mine iniquity; I will be sorry for my sin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.18",
+            "verseOrgIds": [
+              "PSA.38.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 38:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But mine enemies",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.19",
+            "verseOrgIds": [
+              "PSA.38.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.19",
+                "verseOrgIds": [
+                  "PSA.38.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lively,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.19",
+            "verseOrgIds": [
+              "PSA.38.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.19",
+                "verseOrgIds": [
+                  "PSA.38.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they are strong: and they that hate me wrongfully are multiplied.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.19",
+            "verseOrgIds": [
+              "PSA.38.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 38:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They also that render evil for good are mine adversaries; because I follow",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.20",
+            "verseOrgIds": [
+              "PSA.38.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "the thing that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.20",
+                "verseOrgIds": [
+                  "PSA.38.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.20",
+            "verseOrgIds": [
+              "PSA.38.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.20",
+                "verseOrgIds": [
+                  "PSA.38.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.20",
+            "verseOrgIds": [
+              "PSA.38.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 38:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Forsake me not, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.21",
+            "verseOrgIds": [
+              "PSA.38.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.38.21",
+                "verseOrgIds": [
+                  "PSA.38.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": O my God, be not far from me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.21",
+            "verseOrgIds": [
+              "PSA.38.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 38:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Make haste to help me, O Lord my salvation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.38.22",
+            "verseOrgIds": [
+              "PSA.38.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.39",
+    "number": "39",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.37",
+    "number": "37",
+    "bookId": "PSA"
+  }
+}

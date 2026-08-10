@@ -1,0 +1,685 @@
+{
+  "id": "SNG.3",
+  "number": "3",
+  "bookId": "SNG",
+  "reference": "Song of Solomon 3",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "SNG 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.1",
+            "verseOrgIds": [
+              "SNG.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "SNG 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.2",
+            "verseOrgIds": [
+              "SNG.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "SNG 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The watchmen that go about the city found me:",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.3",
+            "verseOrgIds": [
+              "SNG.3.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "to whom I said",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.3",
+                "verseOrgIds": [
+                  "SNG.3.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Saw ye him whom my soul loveth?",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.3",
+            "verseOrgIds": [
+              "SNG.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "SNG 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "It was",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.4",
+                "verseOrgIds": [
+                  "SNG.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.4",
+            "verseOrgIds": [
+              "SNG.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "SNG 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.5",
+            "verseOrgIds": [
+              "SNG.3.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "my",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.5",
+                "verseOrgIds": [
+                  "SNG.3.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "love, till he please.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.5",
+            "verseOrgIds": [
+              "SNG.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "SNG 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Who",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.6",
+            "verseOrgIds": [
+              "SNG.3.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.6",
+                "verseOrgIds": [
+                  "SNG.3.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.6",
+            "verseOrgIds": [
+              "SNG.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "SNG 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold his bed, which",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.7",
+            "verseOrgIds": [
+              "SNG.3.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.7",
+                "verseOrgIds": [
+                  "SNG.3.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Solomon's; threescore valiant men",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.7",
+            "verseOrgIds": [
+              "SNG.3.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.7",
+                "verseOrgIds": [
+                  "SNG.3.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "about it, of the valiant of Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.7",
+            "verseOrgIds": [
+              "SNG.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "SNG 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They all hold swords,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.8",
+            "verseOrgIds": [
+              "SNG.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "being",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.8",
+                "verseOrgIds": [
+                  "SNG.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "expert in war: every man",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.8",
+            "verseOrgIds": [
+              "SNG.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "hath",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.8",
+                "verseOrgIds": [
+                  "SNG.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "his sword upon his thigh because of fear in the night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.8",
+            "verseOrgIds": [
+              "SNG.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "SNG 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "King Solomon made himself a chariot of the wood of Lebanon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.9",
+            "verseOrgIds": [
+              "SNG.3.9"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.9",
+            "verseOrgIds": [
+              "SNG.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "SNG 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He made the pillars thereof",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.10",
+            "verseOrgIds": [
+              "SNG.3.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.10",
+                "verseOrgIds": [
+                  "SNG.3.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "silver, the bottom thereof",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.10",
+            "verseOrgIds": [
+              "SNG.3.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.10",
+                "verseOrgIds": [
+                  "SNG.3.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "gold, the covering of it",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.10",
+            "verseOrgIds": [
+              "SNG.3.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.10",
+                "verseOrgIds": [
+                  "SNG.3.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "purple, the midst thereof being paved",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.10",
+            "verseOrgIds": [
+              "SNG.3.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.3.10",
+                "verseOrgIds": [
+                  "SNG.3.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "love, for the daughters of Jerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.10",
+            "verseOrgIds": [
+              "SNG.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "SNG 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.3.11",
+            "verseOrgIds": [
+              "SNG.3.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.4",
+    "number": "4",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.2",
+    "number": "2",
+    "bookId": "SNG"
+  }
+}

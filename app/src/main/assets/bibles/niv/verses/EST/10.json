@@ -1,0 +1,132 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Esther 10",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The Greatness of Mordecai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "King Xerxes imposed tribute throughout the empire, to its distant shores.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And all his acts of power and might, together with a full account of the greatness of Mordecai, whom the king had promoted, are they not written in the book of the annals of the kings of Media and Persia?",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mordecai the Jew was second in rank to King Xerxes, preeminent among the Jews, and held in high esteem by his many fellow Jews, because he worked for the good of his people and spoke up for the welfare of all the Jews.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

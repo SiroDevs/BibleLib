@@ -1,0 +1,666 @@
+{
+  "id": "PSA.4",
+  "number": "4",
+  "bookId": "PSA",
+  "reference": "Psalms 4",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "PSA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician on Neginoth, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "when I was",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.1",
+                "verseOrgIds": [
+                  "PSA.4.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in distress; have mercy upon me, and hear my prayer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ye sons of men, how long",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "will ye turn",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.2",
+                "verseOrgIds": [
+                  "PSA.4.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my glory into shame?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "how long",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.2",
+                "verseOrgIds": [
+                  "PSA.4.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will ye love vanity,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.2",
+                "verseOrgIds": [
+                  "PSA.4.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "seek after leasing? Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But know that the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.3",
+                "verseOrgIds": [
+                  "PSA.4.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hath set apart him that is godly for himself: the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.3",
+                "verseOrgIds": [
+                  "PSA.4.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will hear when I call unto him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.4",
+            "verseOrgIds": [
+              "PSA.4.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Offer the sacrifices of righteousness, and put your trust in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.5",
+            "verseOrgIds": [
+              "PSA.4.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.5",
+                "verseOrgIds": [
+                  "PSA.4.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.5",
+            "verseOrgIds": [
+              "PSA.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "There be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.6",
+                "verseOrgIds": [
+                  "PSA.4.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "many that say, Who will shew us",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "any",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.6",
+                "verseOrgIds": [
+                  "PSA.4.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.6",
+                "verseOrgIds": [
+                  "PSA.4.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", lift thou up the light of thy countenance upon us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou hast put gladness in my heart, more than in the time",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.7",
+            "verseOrgIds": [
+              "PSA.4.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.7",
+                "verseOrgIds": [
+                  "PSA.4.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "their corn and their wine increased.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.7",
+            "verseOrgIds": [
+              "PSA.4.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will both lay me down in peace, and sleep: for thou,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.8",
+                "verseOrgIds": [
+                  "PSA.4.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", only makest me dwell in safety.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.3",
+    "number": "3",
+    "bookId": "PSA"
+  }
+}

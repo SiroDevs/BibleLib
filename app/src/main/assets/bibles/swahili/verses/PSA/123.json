@@ -1,0 +1,436 @@
+{
+  "id": "PSA.123",
+  "number": "123",
+  "bookId": "PSA",
+  "reference": "Zaburi 123",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "123",
+        "style": "c",
+        "sid": "PSA 123"
+      },
+      "items": [
+        {
+          "text": "123",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 123",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuomba Rehema",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 123:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninayainua macho yangu kwako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.1",
+            "verseOrgIds": [
+              "PSA.123.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:1"
+      },
+      "items": [
+        {
+          "text": "kwako wewe ambaye kiti chako cha enzi kiko mbinguni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.1",
+            "verseOrgIds": [
+              "PSA.123.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 123:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama vile macho ya watumwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "yatazamavyo mkono wa bwana wao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "kama vile macho ya mtumishi wa kike",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "yatazamavyo mkono wa bibi yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "ndivyo macho yetu yamtazamavyo",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wetu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "mpaka atakapotuhurumia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 123:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Uturehemu, Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.3",
+                "verseOrgIds": [
+                  "PSA.123.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", uturehemu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:3"
+      },
+      "items": [
+        {
+          "text": "kwa maana tumevumilia dharau nyingi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 123:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tumevumilia dhihaka nyingi kutoka kwa wenye kiburi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:4"
+      },
+      "items": [
+        {
+          "text": "dharau nyingi kutoka kwa wenye majivuno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  }
+}

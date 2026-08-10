@@ -1,0 +1,1025 @@
+{
+  "id": "DAN.4",
+  "number": "4",
+  "bookId": "DAN",
+  "reference": "Danieli 4",
+  "verseCount": 37,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "DAN 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kĩroto gĩa Keerĩ kĩa Nebukadinezaru",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ niĩ Mũthamaki Nebukadinezaru,\nNdĩramwandĩkĩra marũa maya inyuĩ andũ a iruka ciothe, na ndũrĩrĩ, na andũ a rwario o ruothe arĩa matũũraga thĩ yothe:\nMũrogaacĩra makĩria!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.1",
+            "verseOrgIds": [
+              "DAN.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndĩ na gĩkeno ngĩmũmenyithia morirũ na maũndũ ma kũgegania marĩa Ngai-ũrĩa-ũrĩ-Igũrũ mũno anjĩkĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.2",
+            "verseOrgIds": [
+              "DAN.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ morirũ make nĩ manene-ĩ! O namo maũndũ make ma kũgegania kaĩ nĩ ma hinya-ĩ! Ũthamaki wake nĩ wa tene na tene, naguo wathani wake ũkinyagĩra njiarwa na njiarwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.3",
+            "verseOrgIds": [
+              "DAN.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atĩrĩrĩ, niĩ Nebukadinezaru ndarĩ gwakwa mũciĩ, njiganĩire na ngagaacĩra nyũmba-inĩ yakwa ya ũthamaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.4",
+            "verseOrgIds": [
+              "DAN.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, ũtukũ ũmwe ndarootire kĩroto kĩrĩa kĩamakirie mũno. Ngomete ũrĩrĩ-inĩ wakwa-rĩ, maũndũ marĩa mahĩtũkagĩra meciiria-inĩ makwa na cioneki ikĩndua nda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.5",
+            "verseOrgIds": [
+              "DAN.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ngĩathana ngiuga atĩ andũ arĩa othe oogĩ a Babuloni mareehwo mbere yakwa nĩguo mandaũrĩre kĩroto kĩu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.6",
+            "verseOrgIds": [
+              "DAN.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa ago, na aragũri, na arori a njata na arathi mohoro mookire, ngĩmeera ũrĩa ndarooteete, no nĩmaremirwo nĩ kũndaũrĩra kĩroto kĩu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.7",
+            "verseOrgIds": [
+              "DAN.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No thuutha wao, Danieli agĩũka mbere yakwa, na niĩ ngĩmwĩra ũrĩa ndarooteete. (Nĩwe wĩtagwo Beliteshazaru tondũ etanĩtio na ngai yakwa, nake akoragwo na roho wa ngai iria theru thĩinĩ wake.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.8",
+            "verseOrgIds": [
+              "DAN.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩĩra Beliteshazaru, mũnene wa ago othe atĩrĩ, “Nĩnjũũĩ atĩ roho wa ngai iria theru ũrĩ thĩinĩ waku, na gũtirĩ ũndũ ũrĩ hitho-inĩ ũngĩkũrema. Gĩkĩ nĩkĩo kĩroto gĩakwa; nawe he ũtaũri wakĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.9",
+            "verseOrgIds": [
+              "DAN.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ici nĩcio cioneki iria ndonire rĩrĩa ndaakomete ũrĩrĩ-inĩ wakwa: Ndarorire ngĩona hau mbere yakwa harũngiĩ mũtĩ ũrĩ bũrũri gatagatĩ. Naguo warĩ mũraihu mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.10",
+            "verseOrgIds": [
+              "DAN.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtĩ ũcio ũkĩneneha ũkĩgĩa na hinya nako gacũmbĩrĩ kaguo gakahutia matu mairũ; naguo wonekaga nginya ituri ciothe cia thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.11",
+            "verseOrgIds": [
+              "DAN.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mathangũ maguo maarĩ mathaka, na maciaro maguo makaingĩha warĩ na irio cia kũhũũnia andũ othe. Nyamũ cia gĩthaka ciaikaraga kĩĩruru-inĩ kĩaguo, nacio nyoni cia rĩera-inĩ igaikaraga honge-inĩ ciaguo; indo ciothe iria irĩ muoyo ciarĩĩaga maciaro maguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.12",
+            "verseOrgIds": [
+              "DAN.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ o ngomete ũrĩrĩ-inĩ wakwa ngĩrora ngĩona cioneki-inĩ icio, na hau mbere yakwa harĩ na mũrangĩri, mũndũ mũtheru, agĩikũrũka oimĩte igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.13",
+            "verseOrgIds": [
+              "DAN.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DAN 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩanĩrĩra na mũgambo mũnene, akiuga atĩrĩ: Temai mũtĩ ũcio na mũhũrũre honge ciaguo; itithiai mathangũ maguo, na mũhurunje maciaro maguo. Nyamũ nacio ciũre ciehere rungu waguo, o na nyoni ciume honge-inĩ ciaguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.14",
+            "verseOrgIds": [
+              "DAN.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DAN 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, mũreke gĩthukĩ na mĩri yakĩo ciohwo na kĩgera na gĩcango, nacio itigwo tĩĩri-inĩ, kũu nyeki-inĩ ya gĩthaka. “Nĩaihũgagio nĩ ime rĩa igũrũ, na atũũranagie na nyamũ kũu nyeki-inĩ ĩrĩa nduru ya gĩthaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.15",
+            "verseOrgIds": [
+              "DAN.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DAN 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Meciiria make nĩmagarũrwo matige gũtuĩka ta ma mũndũ, nake agĩe na meciiria ta ma nyamũ, ihinda ta rĩa mĩaka mũgwanja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.16",
+            "verseOrgIds": [
+              "DAN.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DAN 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Itua rĩu rĩanĩrĩirwo nĩ arangĩri, narĩo rĩgekĩrwo hinya nĩ arĩa atheru, nĩgeetha arĩa marĩ muoyo mamenye atĩ Ũrĩa-ũrĩ-Igũrũ-Mũno nĩwe wathaga mothamaki ma andũ, naguo ũthamaki aũheaga o ũrĩa angĩenda kũũhe, na agatũũgĩria mũndũ ũtarĩ igweta o na hanini nĩguo ũtuĩke wake.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.17",
+            "verseOrgIds": [
+              "DAN.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DAN 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kĩu nĩkĩo kĩroto kĩrĩa niĩ, Mũthamaki Nebukadinezaru ndarootire. Atĩrĩrĩ, wee Beliteshazaru, ta njĩĩra ũrĩa kiugĩte kuona atĩ andũ arĩa angĩ othe oogĩ a ũthamaki wakwa nĩmaremetwo nĩkũndaũrĩra. No rĩrĩ, wee no ũhote tondũ roho wa ngai iria theru ũrĩ thĩinĩ waku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.18",
+            "verseOrgIds": [
+              "DAN.4.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Danieli Gũtaũra Kĩroto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DAN 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Danieli (na nowe wĩtagwo Beliteshazaru) akĩamba gũtangĩka mũno kwa ihinda, na akĩmaka mũno meciiria-inĩ make. Nĩ ũndũ ũcio mũthamaki akĩmwĩra atĩrĩ, “Beliteshazaru, tiga kũmakio nĩ kĩroto kĩu kana ũtaũri wakĩo.” Beliteshazaru agĩcookia atĩrĩ, “Mwathi wakwa, naarĩ korwo kĩroto kĩu kĩerekererio thũ ciaku, o na ũtaũri wakĩo wathĩrĩrio andũ arĩa magũthũire!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.19",
+            "verseOrgIds": [
+              "DAN.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DAN 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtĩ ũcio wonire, ũrĩa wanenehire na ũkĩgĩa na hinya, nako gacũmbĩrĩ kaguo gakahutia matu mairũ, na ũkoonekaga nĩ thĩ yothe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.20",
+            "verseOrgIds": [
+              "DAN.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DAN 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ũrĩ na mathangũ mathaka na maciaro maingĩ, na ũkaheaga andũ othe irio, na nyamũ cia gĩthaka cikaarahaga kĩĩruru-inĩ kĩaguo, na ũkagĩa na itara honge-inĩ ciaguo cia nyoni cia rĩera-inĩ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.21",
+            "verseOrgIds": [
+              "DAN.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DAN 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wee mũthamaki, nĩwe mũtĩ ũcio! Nĩũnenehete na ũkagĩa na hinya; ũnene waku ũgakũra nginya ũkahutia matu mairũ, naguo wathani waku ũgatambũrũka ũgakinya kũndũ kũraya gũkũ thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.22",
+            "verseOrgIds": [
+              "DAN.4.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DAN 4:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Wee, mũthamaki-rĩ, Nĩwonire mũrangĩri, mũndũ mũtheru, agĩikũrũka oimĩte matu-inĩ, akiugaga atĩrĩ, ‘Temai mũtĩ ũcio na mũwanange, no mũtige gĩthukĩ kĩohetwo na kĩgera na gĩcango, kũu nyeki-inĩ ya gĩthaka nayo mĩri yakĩo ĩtigwo tĩĩri-inĩ. Nake nĩaihũgagio nĩ ime rĩa matu-inĩ; nĩaikarage ta nyamũ cia gĩthaka ihinda rĩa mĩaka mũgwanja.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.23",
+            "verseOrgIds": [
+              "DAN.4.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DAN 4:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Atĩrĩrĩ, wee mũthamaki, ũtaũri wa kĩroto kĩu nĩguo ũyũ, narĩo ituĩro rĩrĩa rĩtuĩtwo nĩ Ũrĩa-ũrĩ-Igũrũ-Mũno nĩguo rĩgũkore wee, mũthamaki, mwathi wakwa, nĩrĩo rĩĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.24",
+            "verseOrgIds": [
+              "DAN.4.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DAN 4:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atĩrĩrĩ, nĩũkaingatwo weherio kuuma kũrĩ andũ, ũgatũũranagie na nyamũ cia gĩthaka; ũkaarĩĩaga nyeki ta ngʼombe, na ũihũgagio nĩ ime rĩa kuuma igũrũ. Mĩaka mũgwanja nĩĩgathira, o nginya ũmenye atĩ Ũrĩa-ũrĩ-Igũrũ-Mũno nĩwe ũthamakagĩra mothamaki mothe ma andũ, na akamaheana kũrĩ o ũrĩa angĩenda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.25",
+            "verseOrgIds": [
+              "DAN.4.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DAN 4:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watho ũrĩa woigire gĩthukĩ na mĩri yakĩo gĩtigwo, nĩ kuuga atĩ nĩũgacookerio ũthamaki waku rĩrĩa ũkaamenya atĩ wathani uumaga Igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.26",
+            "verseOrgIds": [
+              "DAN.4.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DAN 4:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, wee mũthamaki, ĩtĩkĩra kũigua ũtaaro wakwa: Tigana na mehia maku, wĩkage maũndũ marĩa magĩrĩire, na ũtige waganu waku, na ũndũ wa kũiguĩra arĩa ahinyĩrĩrie tha. Hihi kwahoteka ũgaacĩru waku ũthiĩ na mbere.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.27",
+            "verseOrgIds": [
+              "DAN.4.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũhinga gwa Kĩroto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DAN 4:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, maũndũ macio mothe nĩmakorire Mũthamaki Nebukadinezaru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.28",
+            "verseOrgIds": [
+              "DAN.4.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DAN 4:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa mĩeri ikũmi na ĩĩrĩ, rĩrĩa mũthamaki aaceerangaga arĩ nyũmba igũrũ ya ũthamaki kũu Babuloni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.29",
+            "verseOrgIds": [
+              "DAN.4.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "DAN 4:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akiuga atĩrĩ, “Githĩ ĩno tiyo Babuloni, itũũra inene rĩrĩa njakĩte rĩrĩ gĩikaro kĩa mũthamaki, na ũndũ wa ũhoti wakwa mũingĩ, na nĩ ũndũ wa riiri wa ũnene wakwa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.30",
+            "verseOrgIds": [
+              "DAN.4.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "DAN 4:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kahinda o kau aaragia, mũgambo ũkiuma igũrũ, ũkiuga atĩrĩ, “Rĩĩrĩ nĩrĩo ituĩro rĩrĩa ũtuĩrĩirwo, Mũthamaki Nebukadinezaru: Atĩrĩrĩ, nĩwehererio ũhoti wa ũthamaki waku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.31",
+            "verseOrgIds": [
+              "DAN.4.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "DAN 4:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩũkũingatwo weherio kuuma kũrĩ andũ, ũgatũũranagie na nyamũ cia gĩthaka; ũrĩrĩĩaga nyeki ta ngʼombe. Mĩaka mũgwanja nĩĩgũthira, o nginya ũmenye atĩ, Ũrĩa-ũrĩ-Igũrũ-Mũno nĩwe ũthamakagĩra mothamaki mothe ma andũ, na akamaheana kũrĩ o ũrĩa angĩenda.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.32",
+            "verseOrgIds": [
+              "DAN.4.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "DAN 4:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O hĩndĩ ĩyo ituĩro rĩrĩa rĩatuĩrĩirwo Nebukadinezaru rĩkĩhinga. Akĩingatwo, akĩeherio kuuma kũrĩ andũ, na akĩrĩa nyeki ta ngʼombe. Mwĩrĩ wake waihũgagio nĩ ime rĩa igũrũ, o nginya njuĩrĩ yake ĩkĩraiha o ta njoya cia nderi, na ndwara ciake ikĩraiha o ta cia nyoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.33",
+            "verseOrgIds": [
+              "DAN.4.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "DAN 4:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, mĩaka ĩyo yathira-rĩ, niĩ, Nebukadinezaru, ngĩtiira maitho makwa na igũrũ, na ngĩcookererwo nĩ ũgima wa meciiria makwa. Ningĩ ngĩgooca Ũrĩa-ũrĩ-Igũrũ-Mũno; ngĩmũtĩĩa na ngĩkumia ũcio ũtũũraga muoyo tene na tene. Wathani wake nĩ wathani wa gũtũũra tene na tene; ũthamaki wake ũkinyagĩra njiarwa na njiarwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.34",
+            "verseOrgIds": [
+              "DAN.4.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "DAN 4:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ othe a gũkũ thĩ amonaga ta matarĩ bata. Nake ekaga ũrĩa ekwenda na mbũtũ cia kũu igũrũ, na andũ arĩa matũũraga gũkũ thĩ. Na gũtirĩ mũndũ ũngĩhota kũgirĩrĩria guoko gwake, kana amũũrie atĩrĩ: “Nĩatĩa ũguo weka?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.35",
+            "verseOrgIds": [
+              "DAN.4.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "DAN 4:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ihinda-inĩ o rĩu ndaacookereirwo nĩ ũgima wa meciiria makwa-rĩ, norĩo ndaacookeirio gĩtĩĩo gĩakwa na ũkaru wakwa nĩgeetha ũthamaki wakwa ũgĩe na riiri. Ningĩ ataari akwa na andũ arĩa maarĩ igweta makĩĩnyamũkĩra, ngĩcookio gĩtĩ-inĩ gĩakwa kĩa ũnene, na ngĩneneha gũkĩra mbere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.36",
+            "verseOrgIds": [
+              "DAN.4.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "DAN 4:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, niĩ Nebukadinezaru-rĩ, nĩngũkumia, na ndũũgĩrie, na ngooce Mũthamaki wa igũrũ, nĩgũkorwo maũndũ marĩa mothe ekaga nĩmagĩrĩire, na mĩthiĩre yake yothe nĩ ya kĩhooto. Nao arĩa mathiiaga na mwĩgaatho nĩahotaga kũmanyiihia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.4.37",
+            "verseOrgIds": [
+              "DAN.4.37"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DAN.5",
+    "number": "5",
+    "bookId": "DAN"
+  },
+  "previous": {
+    "id": "DAN.3",
+    "number": "3",
+    "bookId": "DAN"
+  }
+}

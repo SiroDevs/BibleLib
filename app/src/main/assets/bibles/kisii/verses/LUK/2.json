@@ -1,0 +1,1647 @@
+{
+  "id": "LUK.2",
+  "number": "2",
+  "bookId": "LUK",
+  "reference": "Luka 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 52,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "LUK 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okoiborwa kwa Yeso",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 1:18-25)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LUK 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase amatuko aria, ogochika gokarua ase Kaisari Augusto, ng’a omobaro bw’abaanto oriikwe ase ense yonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.1",
+            "verseOrgIds": [
+              "LUK.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LUK 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyo noro orenge omobaro bw’eritang’ani oriigetwe ekero Kurenio arenge gabana o Siiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.2",
+            "verseOrgIds": [
+              "LUK.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LUK 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bonsi bakagenda koriikwa, kera omonto ase omochie oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.3",
+            "verseOrgIds": [
+              "LUK.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LUK 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Yusufu nere akaimoka korwa Galili korwa ase omochie o Nazareti, agatiira kogenda Boyahudi, goika Omochie o Daudi, okorokwa Bethlehemu, ekiagera nigo arenge oyo bw’enyomba na eamate ya Daudi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.4",
+            "verseOrgIds": [
+              "LUK.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LUK 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "erinde ariikwe amo na Mariamu, ekiagera konya omoriereire boko, na Mariamu nigo arenge morito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.5",
+            "verseOrgIds": [
+              "LUK.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LUK 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero barenge aroro engaki yaye y’okoibora egaika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.6",
+            "verseOrgIds": [
+              "LUK.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LUK 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akaibora omwana oye omoisia omotangi, akamobekera chianga chi’obwana, akamwareria ase orotuba chiombe chiare koriera, ekiagera batanyorete ribaga ase enyomba y’abageni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.7",
+            "verseOrgIds": [
+              "LUK.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abarisia na Abamalaika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LUK 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ense eyio mbarengeo abarisia baikaransete ase ebitii, bakorenda amaicho abo botuko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.8",
+            "verseOrgIds": [
+              "LUK.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LUK 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika bw’Omonene akabaorokera, na obonene bw’Omonene bokabaabarera; bagasogwa nomoondoko omonge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.9",
+            "verseOrgIds": [
+              "LUK.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LUK 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omomalaika akabateebia, “Timoiroka, ekiagera nabarenteire amang’ana amaya ay’omogooko omonene, oraabe ase abanto bonsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.10",
+            "verseOrgIds": [
+              "LUK.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LUK 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naki reero ase Omochie o Daudi oiboirwe Omotooria ase engencho yaino, nere Kristo Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.11",
+            "verseOrgIds": [
+              "LUK.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LUK 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na eke nekemanyererio ase more: Namonyore omwana ekeng’werere obekeire chianga chi’obwana, bwareirie ase orotuba.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.12",
+            "verseOrgIds": [
+              "LUK.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LUK 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bwango igo mbarengeo amo nomomalaika oria omoganda o igoro, bagotogia Nyasae, bakoboora,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.13",
+            "verseOrgIds": [
+              "LUK.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LUK 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Obonene ase Nyasae ore Igoro Mono,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.14",
+            "verseOrgIds": [
+              "LUK.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ase ense omorembe, ase abanto abwo bancheirwe nere.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.14",
+            "verseOrgIds": [
+              "LUK.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LUK 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abamalaika abwo bachia koimoka kogenda igoro, abarisia baria bagateebania, “Gaki togende goika Bethlehemu, torore ring’ana eri riakorekire, eri Omonene atomanyirie.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.15",
+            "verseOrgIds": [
+              "LUK.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LUK 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakagenda nomoayerero, bakanyora Mariamu na Yusufu, na omwana oria ekeng’werere bwareirie ase orotuba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.16",
+            "verseOrgIds": [
+              "LUK.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LUK 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagachia komorora, bakaorokia ring’ana bateebetigwe igoro y’omwana oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.17",
+            "verseOrgIds": [
+              "LUK.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LUK 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bonsi abaigwete bagakumia ase aria bateebetigwe nabarisia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.18",
+            "verseOrgIds": [
+              "LUK.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LUK 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Mariamu akagacha amang’ana aya onsi, okoyarengereria ase enkoro yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.19",
+            "verseOrgIds": [
+              "LUK.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LUK 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abarisia bakairana, bagotogia Nyasae na komobaka ase amang’ana onsi baigwete, na ayabaroche, buna bateebetigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.20",
+            "verseOrgIds": [
+              "LUK.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yeso Okorokwa Erieta",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LUK 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rigachia goika rituko ria gatano na gatato, rituko ri’okomwarokia, akarokwa erieta riaye Yeso, riria riatoretwe nomomalaika ritang’ani atarabogorigwa oborito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.21",
+            "verseOrgIds": [
+              "LUK.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okoirwa kwa Yeso ase Hekalu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LUK 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ekero amatuko ogwesibia kwabo achia goika, ayachikiire ase amachiiko a Musa, bakamoira Yerusalemu, bamobeke ase Omonene",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.22",
+            "verseOrgIds": [
+              "LUK.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "LUK 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(buna ariikire ase amachiiko y’Omonene, “Kera omoisia omotangi okoigora enda ya ng’ina narokwe omochenu ase Omonene”),",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.23",
+            "verseOrgIds": [
+              "LUK.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "LUK 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "barue ekeng’wanso buna ariikire ase amachiiko o Omonene, “Amaruma abere, gose amage ’amaruma abere.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.24",
+            "verseOrgIds": [
+              "LUK.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "LUK 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rora narengeo omonto Yerusalemu, erieta riaye Simioni",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.25",
+            "verseOrgIds": [
+              "LUK.2.25"
+            ]
+          }
+        },
+        {
+          "text": ". Oyio nigo arenge omonto omooronge, na nigo asigete Nyasae, ere nigo aganyete ogosemeria kw’Abaisraeli; na Omoika Omochenu nigo orenge igoro asare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.25",
+            "verseOrgIds": [
+              "LUK.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LUK 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nigo aorokereretigwe n’Omoika Omochenu, ng’a takorora amakweri atararora Kristo Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.26",
+            "verseOrgIds": [
+              "LUK.2.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LUK 2:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo akaraagwa n’Omoika gocha ase Hekalu ime; na ekero abaibori bachia korenta omwana Yeso, bamokorere buna yarenge engencho y’amachiiko,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.27",
+            "verseOrgIds": [
+              "LUK.2.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LUK 2:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simioni akamonyora, akamoagata ase amaboko aye, agatogia Nyasae, akabora,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.28",
+            "verseOrgIds": [
+              "LUK.2.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LUK 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omonene, bono otige omosomba oo agende nomorembe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.29",
+            "verseOrgIds": [
+              "LUK.2.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "koreng’ana nering’ana riao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.29",
+            "verseOrgIds": [
+              "LUK.2.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LUK 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekiagera amaiso aane arorire ogotooreka kwao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.30",
+            "verseOrgIds": [
+              "LUK.2.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "LUK 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "oko kwabekire ase amaiso y’abanto bonsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.31",
+            "verseOrgIds": [
+              "LUK.2.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "LUK 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omobaso okomorekera abanto b’Ebisaku,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.32",
+            "verseOrgIds": [
+              "LUK.2.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na obonene bw’abaanto bao Abaisraeli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.32",
+            "verseOrgIds": [
+              "LUK.2.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "LUK 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ise na ng’ina bagakumia ase aria akwanwa igoro asare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.33",
+            "verseOrgIds": [
+              "LUK.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "LUK 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simioni akabasesenia, agateebia Mariamu ng’ina, “Rora, Omwana oyo otenenigwe ase ogosira na ogotoreka ase abange b’Abaisraeli, abe ekiorokererio kerabe kegokwanwa mamincha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.34",
+            "verseOrgIds": [
+              "LUK.2.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "LUK 2:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "erinde ebirengererio bie chinkoro chinyinge biorokigwe. Boigo omoro nokobete omoyo oo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.35",
+            "verseOrgIds": [
+              "LUK.2.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "LUK 2:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Narengeo omokungu omobani, Anna, omoiseke o Fanueli, bw’egesaku ki’Asheri. Ere nomong’ina bw’amatuko amange, obete nomosaacha oye emiaka etano na ebere magega y’okoera kw’oboiseke bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.36",
+            "verseOrgIds": [
+              "LUK.2.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "LUK 2:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere agatigara ore omoboraka goika emiaka emerongo etano etato na ene (84), atana korua ase Hekalu ime, korende akaba okweng’ata, na ogosaba, na ogosasiima obotuko na omobaso.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.37",
+            "verseOrgIds": [
+              "LUK.2.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "LUK 2:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ekero keria ere akaoroka, agatogia Nyasae, agateebia abanto bonsi abarenge baganyete okoboorigwa kwa Yerusalemu amang’ana igoro y’Omwana oria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.38",
+            "verseOrgIds": [
+              "LUK.2.38"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Koirana gochia Nazareti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "LUK 2:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagachia gokoora goikerania onsi koreng’ana namachiiko Omonene, bakairana Galili goika omochie obo Nazareti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.39",
+            "verseOrgIds": [
+              "LUK.2.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "LUK 2:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omwana oria agakiina, akamenteka chinguru, agaichorwa nobong’aini ne chisemi; na akanyora ogwancherwa ase Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.40",
+            "verseOrgIds": [
+              "LUK.2.40"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omwana Yeso ase Hekalu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "LUK 2:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo abaibori baye barenge kogenda Yerusalemu kera omwaka ase rituko rinene ri’Epasaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.41",
+            "verseOrgIds": [
+              "LUK.2.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "LUK 2:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Goika agachia koba nemiaka ikomi na ebere, bagatiira kogenda aroro, buna yarenge engencho ye Rituko Rinene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.42",
+            "verseOrgIds": [
+              "LUK.2.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "LUK 2:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Epasaka yaera, ekero barenge koirana, omwana Yeso agatigara magega agwo Yerusalemu, na abaibori baye tibamanya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.43",
+            "verseOrgIds": [
+              "LUK.2.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "LUK 2:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagakaga ng’a nigo are ase omoganda obo, bakagenda orogendo rw’omobaso oyomo, bakamorigia ase abairi babo boigo nabasani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.44",
+            "verseOrgIds": [
+              "LUK.2.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "LUK 2:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero batamonyorete, bakairana Yerusalemu, bakamorigia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.45",
+            "verseOrgIds": [
+              "LUK.2.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "LUK 2:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase rituko riagatato bakamonyora Hekalu ime, oikaransete gati ase aborokia, obategererete na kobaboria amaborio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.46",
+            "verseOrgIds": [
+              "LUK.2.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "LUK 2:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na bonsi abamoigwete bagakumia ase okomanya kwaye na okoiraneria kwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.47",
+            "verseOrgIds": [
+              "LUK.2.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "LUK 2:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaibori baye bagachia komoorora bagaichana mono. Ng’ina akamoteebia, “Omwana one, naki gwatokorire iga? Rora, iso na inche twarenge gokorigia nomoichano.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.48",
+            "verseOrgIds": [
+              "LUK.2.48"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "LUK 2:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akabateebia, “Naki mokondigia? Timomanyeti ng’a nengwenerete koba ase enyomba ya Tata one",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.49",
+            "verseOrgIds": [
+              "LUK.2.49"
+            ]
+          }
+        },
+        {
+          "text": "?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.49",
+            "verseOrgIds": [
+              "LUK.2.49"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "LUK 2:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tibamanya ring’ana riria abateebia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.50",
+            "verseOrgIds": [
+              "LUK.2.50"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "LUK 2:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agatirimboka amo nabarabwo, agaika Nazareti, akaba nkobaigwera are. Ng’ina akagacha amang’ana aya onsi ase enkoro yaye ime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.51",
+            "verseOrgIds": [
+              "LUK.2.51"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "LUK 2:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso akamenteka gokina ase obong’aini ne chisemi, na ase omobere, akanyora ogwancherwa ase Nyasae na Mwanyabaanto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.52",
+            "verseOrgIds": [
+              "LUK.2.52"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LUK.3",
+    "number": "3",
+    "bookId": "LUK"
+  },
+  "previous": {
+    "id": "LUK.1",
+    "number": "1",
+    "bookId": "LUK"
+  }
+}

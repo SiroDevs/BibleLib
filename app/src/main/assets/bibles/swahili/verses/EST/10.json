@@ -1,0 +1,132 @@
+{
+  "id": "EST.10",
+  "number": "10",
+  "bookId": "EST",
+  "reference": "Esta 10",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EST 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ukuu Wa Mordekai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme Ahasuero alitoza ushuru katika ufalme wake wote hadi kwenye miambao yake ya mbali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.1",
+            "verseOrgIds": [
+              "EST.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Matendo yake yote ya nguvu na uwezo, pamoja na habari zote za ukuu wa Mordekai ambao mfalme alikuwa amemkuza, je, hayakuandikwa katika kitabu cha kumbukumbu za wafalme wa Umedi na Uajemi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.2",
+            "verseOrgIds": [
+              "EST.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mordekai Myahudi alikuwa wa pili kwa cheo kutoka Mfalme Ahasuero, naye alikuwa bora kabisa miongoni mwa Wayahudi, akipandishwa katika heshima ya juu na ndugu zake Wayahudi kwa sababu aliwatendea mema watu wake, na alizungumza kwa ajili ya ustawi wa Wayahudi wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.10.3",
+            "verseOrgIds": [
+              "EST.10.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "EST.9",
+    "number": "9",
+    "bookId": "EST"
+  }
+}

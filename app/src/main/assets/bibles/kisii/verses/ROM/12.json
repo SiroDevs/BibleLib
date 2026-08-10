@@ -1,0 +1,635 @@
+{
+  "id": "ROM.12",
+  "number": "12",
+  "bookId": "ROM",
+  "reference": "Abarumi 12",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "ROM 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obogima oboyia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ROM 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki baminto, nabasoroire mono ase amaabera a Nyasae, morue emebere yaino ebe ekeng’wanso kere moyo, egechenu, ekeranyare gwanchwa na Nyasae, nakio ogosasiima kwaino gw’ekeene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.1",
+            "verseOrgIds": [
+              "ROM.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ROM 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gose timwereng’ania ne chingencho chi’ense eye; korende moonchorwe, mokorwe koba abayia ase emioyo yaino, monyare korigia na komanya boronge ogwancha kwa Nyasae, na erire rigiya, na eriranchwe, na oboikeranu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.2",
+            "verseOrgIds": [
+              "ROM.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Buna etogwenerete tokore nebiegwa bi’Omoika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ROM 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki ase obuya naetwe nigo ngoteebia kera omonto oyore ase more, tabaisa kweenenia ere omonyene ase ebirengererio biaye kobua buna emogwenerete korengereria; korende abe n’ebirengererio ebironge koreng’ana buna Nyasae aeire kera omonto ekerengo gi’okwegena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.3",
+            "verseOrgIds": [
+              "ROM.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki buna ase omobere tore nebiimo ebinge, na birobio tibiri gokora omoremo oyomo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.4",
+            "verseOrgIds": [
+              "ROM.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ROM 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naboigo naintwe, nonya tore abange, nigo tore omobere oyomo ase Kristo, na intwe twensi nigo tore buna ebiimo kera oyomo ase oy’omwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.5",
+            "verseOrgIds": [
+              "ROM.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ROM 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo tore nebiegwa ao ao koreng’ana n’obuya twaeirwe; onye n’obobani tobane koreng’ana n’okwegena gwaito;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.6",
+            "verseOrgIds": [
+              "ROM.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ROM 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "onye n’ogokorera, tobeo ase ogokorera gwaito; oyo okworokereria abe ase okworokereria kwaye;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.7",
+            "verseOrgIds": [
+              "ROM.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ROM 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "oyo okoremia abe ase okoremia kwaye; oyo okorua arue ase omoyo omorabu; oyo ogotenenera atenenere ase omokia; oyo okororera amaabera arorere amaabera n’omogooko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.8",
+            "verseOrgIds": [
+              "ROM.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Emeroberio y’obogima bw’obokristo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ROM 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obwanchani bobe botari n’obong’ainereria. Gecha erire riibe, bwatana n’erire rigiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.9",
+            "verseOrgIds": [
+              "ROM.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ROM 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obwanchani bw’obomino bobe ase egati yaino; mobe ab’eritang’ani kworokia abamino amasikani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.10",
+            "verseOrgIds": [
+              "ROM.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ROM 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase omokia oino timoba aboro; mobe n’Omoika ogwoka, mogokorera Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.11",
+            "verseOrgIds": [
+              "ROM.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ROM 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mogoke ase ogosemeria, moremererie ase emechando, mogenderere n’ogosaba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.12",
+            "verseOrgIds": [
+              "ROM.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobe ang’e gokoonya abachenu ase okoremerwa kwabo, mobe abanyamokia ase okoroisia abageni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.13",
+            "verseOrgIds": [
+              "ROM.12.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ROM 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mosesenie abwo bakobachaanda; basesenie, timobaragereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.14",
+            "verseOrgIds": [
+              "ROM.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ROM 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Goka amo nabwo bakogoka; rera amo nabwo bakorera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.15",
+            "verseOrgIds": [
+              "ROM.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ROM 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobe n’omoyo oyomo inwe ase inwe. Timorengereria ayare amanene, korende mosange n’abare n’oboitongo. Timoba abanto bakoenenera obong’aini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.16",
+            "verseOrgIds": [
+              "ROM.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ROM 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timoakana omonto obobe ase obobe, tang’ania ayare amaya ase amasio y’ abanto bonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.17",
+            "verseOrgIds": [
+              "ROM.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ROM 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keranyarekane ase ensemo yaino, mobe n’omorembe n’abanto bonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.18",
+            "verseOrgIds": [
+              "ROM.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ROM 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanchwa, timorigia kweruseria egesiomba, tiga ribaga ase endamwamu ya Nyasae, ekiagera neriikire, “Omonene oteebire: Egesiomba n’ekiane; inche ning’akane.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.19",
+            "verseOrgIds": [
+              "ROM.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ROM 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo, “Omobisa oo karabe nenchara, moragerie, kar’abe n’erang’o, moe anywe, ekiagera korakore ayio, nomobekere amakara y’omorero ase omotwe oye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.20",
+            "verseOrgIds": [
+              "ROM.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ROM 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tobugwa n’obobe, korende obue obobe ase obuya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.12.21",
+            "verseOrgIds": [
+              "ROM.12.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ROM.13",
+    "number": "13",
+    "bookId": "ROM"
+  },
+  "previous": {
+    "id": "ROM.11",
+    "number": "11",
+    "bookId": "ROM"
+  }
+}

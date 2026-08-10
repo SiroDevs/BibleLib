@@ -1,0 +1,583 @@
+{
+  "id": "RUT.3",
+  "number": "3",
+  "bookId": "RUT",
+  "reference": "Rutu 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "RUT 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Rutu okonyora omosacha",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "RUT 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko erimo Naomi agateebia Rutu, moka momura oye, “Narorire ng’a mbuya nkonyorere omosacha, erinde onyore enka yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.1",
+            "verseOrgIds": [
+              "RUT.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "RUT 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nomanyete ng’a Boazi, oria ase konya ogokora emeremo nabasomba baye, nigo are omonyamwando ominto? Naama! Ase omogoroba o reero nache abe okoora esairi ase ekeooreri kiaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.2",
+            "verseOrgIds": [
+              "RUT.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "RUT 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio esibie, bweake amaguta agotioka buya, obeke chianga chiao chingiya. Erio otirimboke gochia ase ekeooreri, korende tobaisa kweorokia ase omonto oria goika ekero akoorire koragera na konywa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.3",
+            "verseOrgIds": [
+              "RUT.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "RUT 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero ararire, origererie omanye aase aria. Erio ogende aroro, otubore ekiebisio kiaye korwa ase amagoro aye maate, oraareo nere nagoteebie aya ogwenerete gokora.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.4",
+            "verseOrgIds": [
+              "RUT.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "RUT 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rutu akairaneria, “Aya onsi gwanteebia ninyakore.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.5",
+            "verseOrgIds": [
+              "RUT.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "RUT 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo Rutu agatirimboka gochia ase ekeooreri, agakora buna ng’ina biara konya amotebirie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.6",
+            "verseOrgIds": [
+              "RUT.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "RUT 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boazi kariire na konywa akaigwa buya ase omoyo oye erio, akagenda ang’e netui y’esairi, akarara aroro. Erio Rutu agachoba ng’ora‐ng’ora, agatubora ekiebisio korwa ase amagoro a Boazi, akarara aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.7",
+            "verseOrgIds": [
+              "RUT.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "RUT 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kobwabeire botuko gati, Boazi agataboboka. Ani! Omokungu naraire magoro aye maate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.8",
+            "verseOrgIds": [
+              "RUT.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "RUT 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boazi akamobooria, “Naye ng’o?” Ere akamoiraneria, “Ninche Rutu omosomba oo, ekiagera aye nigo ore omonyamwando o tata biara. Ase igo koranche nywome.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.9",
+            "verseOrgIds": [
+              "RUT.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "RUT 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Boazi akamoteebia, “Mwana one, Omonene agosesenie. Aye bono kworokirie amasikani kobua buna kworogetie ritang’ani. Aye torarigia abasacha bande, abataka gose abanda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.10",
+            "verseOrgIds": [
+              "RUT.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "RUT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, mwana one, toiroka, ekiagera abanto bonsi ase omochie oyo nigo bamanyete ng’a aye nomokuungu omweriti. Ningokorere ande onsi oraganie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.11",
+            "verseOrgIds": [
+              "RUT.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "RUT 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo nekeene ng’a inche nomonyamwando",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.12",
+            "verseOrgIds": [
+              "RUT.3.12"
+            ]
+          }
+        },
+        {
+          "text": "o iso biara inde, korende nare omonyamwando onde omoao ore ang’e kombua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.12",
+            "verseOrgIds": [
+              "RUT.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "RUT 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono beera aa ase obotuko obo goika mambia, torore gose omonyamwando",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.13",
+            "verseOrgIds": [
+              "RUT.3.13"
+            ]
+          }
+        },
+        {
+          "text": "oria onde ore ang’e kombua nanche gokorenda. Karakore igo mbuya. Onye tagwancha, rirorio ekeene, buna Omonene are moyo, inche ninkorende. Bono rara aiga goika mambia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.13",
+            "verseOrgIds": [
+              "RUT.3.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "RUT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo omokungu oria akarara ase amagoro aye maate goika mambia, korende mambia chuni botarakiamoka akaimoka kogenda, erinde monto onde tamorora, ekiagera Boazi tatagete monto onde amanye ng’a omokungu oria nachete ase ekeooreri kiaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.14",
+            "verseOrgIds": [
+              "RUT.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "RUT 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende Boazi akamoteebia, “Renta egetambaa ekio bwambarete, okiaare.” Na Rutu agakiaara. Erio Boazi akamorengera esairi",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.15",
+            "verseOrgIds": [
+              "RUT.3.15"
+            ]
+          }
+        },
+        {
+          "text": "eisaine ebitita",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.15",
+            "verseOrgIds": [
+              "RUT.3.15"
+            ]
+          }
+        },
+        {
+          "text": "bitano na ekemo, akamoyetweka. Erio omokungu oria akairana gochia ase omochie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.15",
+            "verseOrgIds": [
+              "RUT.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "RUT 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Rutu aigete ase ng’ina biara, ere akamobooria, “Mang’ana ki, omwana one?” Rutu akamoteebia amang’ana onsi Boazi amokorerete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.16",
+            "verseOrgIds": [
+              "RUT.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "RUT 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende agateeba, “Boazi nigo anteebia ng’a tinkonyara koirana gocha asore namaboko amasa. Ase igo ong’a esairi eye ebitita bitano na ekemo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.17",
+            "verseOrgIds": [
+              "RUT.3.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "RUT 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naomi akamoteebia, “Bono omwana one, remereria oganye goika orore aya arabe asore. Boazi tagokira reero goika arore ng’a oroisirie amang’ana ao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.3.18",
+            "verseOrgIds": [
+              "RUT.3.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "RUT.4",
+    "number": "4",
+    "bookId": "RUT"
+  },
+  "previous": {
+    "id": "RUT.2",
+    "number": "2",
+    "bookId": "RUT"
+  }
+}

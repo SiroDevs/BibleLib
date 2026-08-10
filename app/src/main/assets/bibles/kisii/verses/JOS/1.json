@@ -1,0 +1,547 @@
+{
+  "id": "JOS.1",
+  "number": "1",
+  "bookId": "JOS",
+  "reference": "Yoshua 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae ogochika Yoshua arwanie ense ya Kaanani ayebue",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Musa, omosomba bw’Omonene, konya akuure, Omonene agakwana na Yoshua, mosinto o Nuni, oyio orenge omokonyi o Musa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.1",
+            "verseOrgIds": [
+              "JOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akamoteebia, “Musa, omosomba one, okuure. Imoka, bwamboke orooche oro rwa Yorodani, aye na Abaisraeli aba bonsi, mosoe ase ense eria ngochia kobaa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.2",
+            "verseOrgIds": [
+              "JOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabaeire aase onsi morataare namagoro aino, buna narierete Musa eira ng’a nimbayee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.3",
+            "verseOrgIds": [
+              "JOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Orogongo rwaino nigo rorachaakere erooro ya Irianyi, roikere Lebanoni ensemo ya sugusu, naende rochakeere orooche oronene rw’Eufarati, robwateranie ense yonsi y’Abahiti roikere Enyancha Enene ya bosongo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.4",
+            "verseOrgIds": [
+              "JOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase obogima bwao bwonsi, omonto tari orakobue. Buna narenge amo na Musa, nimbe amo naye botambe, tinkogotiga nonya ng’ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.5",
+            "verseOrgIds": [
+              "JOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obe omokong’u na omoremu, ekiagera naye oraikie abanto aba, baire ense eyio narierete chisokoro chiabo eira na gotiana ng’a nimbayee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.6",
+            "verseOrgIds": [
+              "JOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Otenene bokong’u rioka, na obe omoremu! Orende na obwate boronge amachiiko onsi aya omosomba one Musa agochigete. Tobaisa koyatiga, na koonchoka gochia aande onsi ensemo y’okorio gose ey’okobee; erio nario orasesenigwe aande onsi ase ogochia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.7",
+            "verseOrgIds": [
+              "JOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana y’egetabu eke ki’amachiiko oyakwane botambe nomonwa oo, oyairanerere omobaso na obotuko, obwate na okore onsi ayarikireo. Erio nario orasesenigwe mono ase chinchera chiao chionsi na kogenderera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.8",
+            "verseOrgIds": [
+              "JOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Tari inche nagochikiire ng’a otenene bokung’u, obe omoremu? Ase ayio, toondoka, tobaisa gokwa omoyo, ekiagera inche Omonene, Nyasae oo, nigo inde amo naye aande onsi orabe gokogenda.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.9",
+            "verseOrgIds": [
+              "JOS.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yoshua ogochika abanto",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Yoshua agachiika abatang’ani b’abaanto",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.10",
+            "verseOrgIds": [
+              "JOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ng’a baete egati y’ebitwori bachiike abanto ng’a beroiserie endagera, ekiagera ritang’ani amatuko atato ataraera inabamboke orooche oro rwa Yorodani, baire ense eyi’Omonene, Nyasae obo, abaeire ebe eyabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.11",
+            "verseOrgIds": [
+              "JOS.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yoshua agateebia abanto b’egesaku kia Rubeni, na ekia Gadi, amo nekeng’ese ki’egesaku kia Manase,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.12",
+            "verseOrgIds": [
+              "JOS.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOS 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inyora ring’ana riria Musa, omosomba bw’Omonene, abachigete ekero abateebeetie ng’a Omonene, Nyasae oino, nabae obotoereru ase ense eyio arabae momenye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.13",
+            "verseOrgIds": [
+              "JOS.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOS 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakungu baino na abana baino nabatigare, amo namaicho aino, ase ense eye Musa abaete ng’umbu ya Yorodani. Inwe abanyene abamore chituoni chi’esegi goika mwamboke mobogoretie ebirwanero biaino, motang’ane abamino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.14",
+            "verseOrgIds": [
+              "JOS.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOS 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobakoonye goika Omonene abae barabwo obotoereru, buna abaete inwe, nabarabwo mbaire ense eyi’Omonene, Nyasae oino, arabae. Erio momanye koirana ase ense yaino, eye Musa, omosomba bw’Omonene, abaete ng’umbu ya Yorodani.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.15",
+            "verseOrgIds": [
+              "JOS.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOS 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bakairaneria Yoshua, “Onsi ayagwatochikiire natoyakore, na aase aande onsi oratotome natogende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.16",
+            "verseOrgIds": [
+              "JOS.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOS 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna tware koigwera Musa, naye natokoigwere. Omonene, Nyasae oo, abe amo naye buna abeete na Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.17",
+            "verseOrgIds": [
+              "JOS.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOS 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Monto onde bwensi oraange koigwera amachiiko ao na taigwa amang’ana ande onsi orachiike, goika aitwe akwe. Aye otenene bokong’u, obe omoremu!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.18",
+            "verseOrgIds": [
+              "JOS.1.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.2",
+    "number": "2",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.intro",
+    "number": "intro",
+    "bookId": "JOS"
+  }
+}

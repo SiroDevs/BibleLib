@@ -1,0 +1,830 @@
+{
+  "id": "PSA.84",
+  "number": "84",
+  "bookId": "PSA",
+  "reference": "Zaburi 84",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "84",
+        "style": "c",
+        "sid": "PSA 84"
+      },
+      "items": [
+        {
+          "text": "84",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okoba namaiga ase enyomba ya Nyasae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera kwa basinto ba Kora)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 84:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene bw’Emeganda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.1",
+            "verseOrgIds": [
+              "PSA.84.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "naki obomenyo bwao bore oboseera!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.1",
+            "verseOrgIds": [
+              "PSA.84.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 84:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omoyo one nore namaiga amange kobeera ase chigoora chia Omonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.2",
+            "verseOrgIds": [
+              "PSA.84.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "enkoro yane na omobere one nigo bigoterera Nyasae ore moyo nomogooko omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.2",
+            "verseOrgIds": [
+              "PSA.84.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 84:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enchiro nigo ekonyora obomenyo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.3",
+            "verseOrgIds": [
+              "PSA.84.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na egesingororo nigo gekwenyorera egeswa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.3",
+            "verseOrgIds": [
+              "PSA.84.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase amage aye akobeera, agwo ase egesasiimero kiao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.3",
+            "verseOrgIds": [
+              "PSA.84.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "aye Omonene bw’Emeganda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.3",
+            "verseOrgIds": [
+              "PSA.84.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "aye Omorwoti one, na Nyasae one.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.3",
+            "verseOrgIds": [
+              "PSA.84.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 84:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbarenomogooko abanto abwo bamenyete ase enyomba yao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.4",
+            "verseOrgIds": [
+              "PSA.84.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo bakona‐goteera botambe ase okogotogia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.4",
+            "verseOrgIds": [
+              "PSA.84.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 84:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbare nomogooko abanto abwo bakonyora chinguru chiabo korwa asore;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.5",
+            "verseOrgIds": [
+              "PSA.84.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo chinkoro chiabo chiganetie kogenda Sayoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.5",
+            "verseOrgIds": [
+              "PSA.84.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 84:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abanto abwo bagoeta ase Rigoko ria Baka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.6",
+            "verseOrgIds": [
+              "PSA.84.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bakorikora riaba aase e chinsoko chi’amaache;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.6",
+            "verseOrgIds": [
+              "PSA.84.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na embura ye ritang’ani nigo ekorirentera ogosesenigwa okonge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.6",
+            "verseOrgIds": [
+              "PSA.84.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 84:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo mbabe bakomenta koba ne chinguru kogenderera botambe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.7",
+            "verseOrgIds": [
+              "PSA.84.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "mbarore Nyasae ayobuete chinyasae agwo Sayoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.7",
+            "verseOrgIds": [
+              "PSA.84.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 84:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, Nyasae bw’Emeganda, igwa ogosaba kwane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.8",
+            "verseOrgIds": [
+              "PSA.84.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tegerera onyigwe, aye Nyasae o Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.8",
+            "verseOrgIds": [
+              "PSA.84.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 84:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Nyasae ore enguba yaito,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.9",
+            "verseOrgIds": [
+              "PSA.84.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "origererie obosio bw’omoakwa amaguta oo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.9",
+            "verseOrgIds": [
+              "PSA.84.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 84:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbuya kobeera ase enyomba yao rituko erimo rioka",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.10",
+            "verseOrgIds": [
+              "PSA.84.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kobua kobeera amatuko chilifu chinyinge aande onsi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.10",
+            "verseOrgIds": [
+              "PSA.84.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "mbuya koba omorendi bw’egesieri ki’enyomba yao aye Nyasae one,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.10",
+            "verseOrgIds": [
+              "PSA.84.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kobua kobeera ase obomenyo bw’abakori amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.10",
+            "verseOrgIds": [
+              "PSA.84.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 84:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nigo are erioba na enguba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.11",
+            "verseOrgIds": [
+              "PSA.84.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ere nigo agotoa amaabera na obonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.11",
+            "verseOrgIds": [
+              "PSA.84.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ere takorina abare ne chinkoro chindonge gento kende gionsi kere ekiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.11",
+            "verseOrgIds": [
+              "PSA.84.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 84:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene bw’Emeganda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.12",
+            "verseOrgIds": [
+              "PSA.84.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nasesenirie omonto okwegenete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.84.12",
+            "verseOrgIds": [
+              "PSA.84.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.85",
+    "number": "85",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  }
+}

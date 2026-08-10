@@ -1,0 +1,553 @@
+{
+  "id": "PSA.120",
+  "number": "120",
+  "bookId": "PSA",
+  "reference": "Psalm 120",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "120",
+        "style": "c",
+        "sid": "PSA 120"
+      },
+      "items": [
+        {
+          "text": "120",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 120",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A song of ascents.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 120:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I call on the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.1",
+            "verseOrgIds": [
+              "PSA.120.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.120.1",
+                "verseOrgIds": [
+                  "PSA.120.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in my distress,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.1",
+            "verseOrgIds": [
+              "PSA.120.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:1"
+      },
+      "items": [
+        {
+          "text": "and he answers me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.1",
+            "verseOrgIds": [
+              "PSA.120.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 120:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Save me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.120.2",
+                "verseOrgIds": [
+                  "PSA.120.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:2"
+      },
+      "items": [
+        {
+          "text": "from lying lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:2"
+      },
+      "items": [
+        {
+          "text": "and from deceitful tongues.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 120:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What will he do to you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.3",
+            "verseOrgIds": [
+              "PSA.120.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:3"
+      },
+      "items": [
+        {
+          "text": "and what more besides,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.3",
+            "verseOrgIds": [
+              "PSA.120.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:3"
+      },
+      "items": [
+        {
+          "text": "you deceitful tongue?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.3",
+            "verseOrgIds": [
+              "PSA.120.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 120:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He will punish you with a warrior's sharp arrows,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.4",
+            "verseOrgIds": [
+              "PSA.120.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:4"
+      },
+      "items": [
+        {
+          "text": "with burning coals of the broom bush.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.4",
+            "verseOrgIds": [
+              "PSA.120.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 120:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Woe to me that I dwell in Meshek,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.5",
+            "verseOrgIds": [
+              "PSA.120.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:5"
+      },
+      "items": [
+        {
+          "text": "that I live among the tents of Kedar!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.5",
+            "verseOrgIds": [
+              "PSA.120.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 120:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Too long have I lived",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.6",
+            "verseOrgIds": [
+              "PSA.120.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:6"
+      },
+      "items": [
+        {
+          "text": "among those who hate peace.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.6",
+            "verseOrgIds": [
+              "PSA.120.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 120:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am for peace;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.7",
+            "verseOrgIds": [
+              "PSA.120.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 120:7"
+      },
+      "items": [
+        {
+          "text": "but when I speak, they are for war.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.7",
+            "verseOrgIds": [
+              "PSA.120.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.121",
+    "number": "121",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.119",
+    "number": "119",
+    "bookId": "PSA"
+  }
+}

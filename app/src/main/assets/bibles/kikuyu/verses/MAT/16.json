@@ -1,0 +1,822 @@
+{
+  "id": "MAT.16",
+  "number": "16",
+  "bookId": "MAT",
+  "reference": "Mathayo 16",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "MAT 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jesũ Kũũrio Aringe Kĩama",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 16:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Afarisai na Asadukai magĩũka kũrĩ Jesũ, makĩmũgeria na kũmwĩra amaringĩre kĩama kiumĩte igũrũ makĩone.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.1",
+            "verseOrgIds": [
+              "MAT.16.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 16:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmacookeria atĩrĩ, “Hĩndĩ ĩrĩa gwatuka, muugaga atĩrĩ, ‘Kaĩ nĩgũkaara-ĩ, tondũ igũrũ nĩ gũtune’.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.2",
+            "verseOrgIds": [
+              "MAT.16.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 16:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ rũciinĩ muugaga atĩrĩ, ‘Ũmũthĩ nĩgũkũgĩa kĩhuhũkanio, tondũ igũrũ nĩ gũtune na gũgathimba.’ Nĩmũũĩ gũtaũra ũrĩa igũrũ rĩtariĩ, no mũtingĩhota gũtaũra imenyithia cia mahinda maya tũrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.3",
+            "verseOrgIds": [
+              "MAT.16.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 16:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũciaro rũrũ rwaganu na rwa ũtharia rũũragia rũringĩrwo kĩama, no gũtirĩ kĩama rũkũringĩrwo tiga kĩama kĩrĩa kĩa Jona.” Nake Jesũ akĩmatiga, agĩĩthiĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.4",
+            "verseOrgIds": [
+              "MAT.16.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ndawa ya Kũimbia Mĩgate ya Afarisai na Asadukai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 16:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa maaringire iria, arutwo ake magĩkorwo nĩmariganĩirwo nĩgũkuua mĩgate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.5",
+            "verseOrgIds": [
+              "MAT.16.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 16:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmeera atĩrĩ, “Mwĩmenyererei, na mwĩhũgage ndawa ya kũimbia mĩgate ya Afarisai na Asadukai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.6",
+            "verseOrgIds": [
+              "MAT.16.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 16:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makĩaranĩria, makiuga atĩrĩ, “Hihi nĩ tondũ tũtinoka na mĩgate.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.7",
+            "verseOrgIds": [
+              "MAT.16.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 16:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ aamenya ũrĩa meeranaga, akĩmooria atĩrĩ, “Inyuĩ a wĩtĩkio mũnini, nĩ kĩĩ kĩratũma mwaranĩrie ũhoro wa kwaga mĩgate?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.8",
+            "verseOrgIds": [
+              "MAT.16.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 16:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ mũtarĩ mwataũkĩrwo? Mũtingĩririkana mĩgate ĩtano ĩrĩa yarĩirwo nĩ andũ ngiri ithano, na nĩ ciondo ciigana muonganirie?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.9",
+            "verseOrgIds": [
+              "MAT.16.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 16:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kana mĩgate mũgwanja ĩrĩa yarĩirwo nĩ andũ ngiri inya, na nĩ ciondo ciigana muonganirie?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.10",
+            "verseOrgIds": [
+              "MAT.16.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 16:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ kĩĩ kĩragiria mũmenye atĩ ndikwaragia ũhoro wa mĩgate? No mwĩhũgagei ndawa ĩyo ya kũimbia mĩgate ya Afarisai na Asadukai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.11",
+            "verseOrgIds": [
+              "MAT.16.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 16:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo makĩmenya atĩ ndaameeraga mehũũge nĩ ũndũ wa ndawa ya kũimbia mĩgate, no nĩ memenyagĩrĩre ũrutani wa Afarisai na Asadukai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.12",
+            "verseOrgIds": [
+              "MAT.16.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Petero Kuumbũra Kristũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 16:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩa Jesũ aakinyire rũgongo rwa Kaisarea-Filipi, nĩoririe arutwo ake atĩrĩ, “Andũ moigaga Mũrũ wa Mũndũ nũũ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.13",
+            "verseOrgIds": [
+              "MAT.16.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 16:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makĩmũcookeria atĩrĩ, “Amwe moigaga atĩ nĩwe Johana Mũbatithania; angĩ makoiga nĩwe Elija, o na angĩ makoiga nĩwe Jeremia, kana ũmwe wa anabii.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.14",
+            "verseOrgIds": [
+              "MAT.16.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 16:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmooria atĩrĩ, “Inyuĩ na inyuĩ muugaga atĩa? Muugaga niĩ nĩ niĩ ũ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.15",
+            "verseOrgIds": [
+              "MAT.16.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 16:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simoni Petero akĩmũcookeria atĩrĩ, “Wee nĩwe Kristũ, Mũrũ wa Ngai ũrĩa wĩ muoyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.16",
+            "verseOrgIds": [
+              "MAT.16.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 16:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩmwĩra atĩrĩ, “Kũrathimwo-rĩ, nĩwe Simoni mũrũ wa Jona, nĩgũkorwo ndũguũrĩirio ũndũ ũyũ nĩ mũndũ, no nĩ Baba ũrĩa ũrĩ igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.17",
+            "verseOrgIds": [
+              "MAT.16.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 16:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na niĩ ngũkwĩra atĩrĩ, wee nĩwe Petero, na igũrũ rĩa ihiga rĩrĩ nĩngaka kanitha wakwa, nacio ihingo cia kwa ngoma itikaũtooria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.18",
+            "verseOrgIds": [
+              "MAT.16.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 16:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngakũnengera cabi cia ũthamaki wa igũrũ; na kĩrĩa gĩothe ũkooha gũkũ thĩ nĩgĩkoohwo igũrũ, na kĩrĩa gĩothe ũkoohora gũkũ thĩ, nĩgĩkoohorwo igũrũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.19",
+            "verseOrgIds": [
+              "MAT.16.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 16:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agĩcooka agĩkaania arutwo ake matikeere mũndũ o na ũrĩkũ atĩ we nĩwe Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.20",
+            "verseOrgIds": [
+              "MAT.16.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jesũ Kuumbũra Ũhoro wa Gĩkuũ Gĩake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 16:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma hĩndĩ ĩyo Jesũ akĩambĩrĩria gũtaarĩria arutwo ake atĩ no nginya athiĩ Jerusalemu, na athĩĩnio mũno nĩ athuuri, na athĩnjĩri-Ngai arĩa anene, na arutani a watho, na atĩ no nginya ooragwo, na thuutha wa mĩthenya ĩtatũ ariũke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.21",
+            "verseOrgIds": [
+              "MAT.16.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 16:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Petero akĩmũtwara keheri-inĩ, akĩmũkaania, akĩmwĩra atĩrĩ, “Mwathani, kũroaga gũtuĩka ũguo! Ũndũ ũcio ndũkanagũkore!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.22",
+            "verseOrgIds": [
+              "MAT.16.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 16:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jesũ akĩĩhũgũrĩra Petero, akĩmwĩra atĩrĩ, “Cooka thuutha wakwa, Shaitani! Wee wĩ mũhĩnga harĩ niĩ; wee ndwĩciiragia maũndũ moimĩte kũrĩ Ngai, tiga maũndũ moimĩte kũrĩ andũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.23",
+            "verseOrgIds": [
+              "MAT.16.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 16:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Jesũ akĩĩra arutwo ake atĩrĩ, “Mũndũ o wothe ũngĩenda kũnũmĩrĩra, no nginya eerege we mwene, oe mũtharaba wake aanũmĩrĩre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.24",
+            "verseOrgIds": [
+              "MAT.16.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 16:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo mũndũ ũrĩa wothe wendaga kũhonokia muoyo wake nĩakoorwo nĩguo; no ũrĩa wothe ũkoorwo nĩ muoyo wake nĩ ũndũ wakwa nĩakaũhonokia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.25",
+            "verseOrgIds": [
+              "MAT.16.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 16:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ-rĩ, mũndũ angĩĩguna nakĩ o na angĩĩgwatĩra thĩ yothe, na orwo nĩ muoyo wake? Kana nĩ kĩĩ mũndũ angĩkũũrania muoyo wake nakĩo?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.26",
+            "verseOrgIds": [
+              "MAT.16.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 16:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo Mũrũ wa Mũndũ nĩagooka na riiri wa Ithe hamwe na araika ake, na hĩndĩ ĩyo nĩakahe o mũndũ kĩheo gĩake kũringana na ciĩko ciake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.27",
+            "verseOrgIds": [
+              "MAT.16.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 16:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngũmwĩra atĩrĩ na ma, amwe marũngiĩ haha matigacama gĩkuũ matonete Mũrũ wa Mũndũ agĩũka na ũthamaki wake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.16.28",
+            "verseOrgIds": [
+              "MAT.16.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.17",
+    "number": "17",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.15",
+    "number": "15",
+    "bookId": "MAT"
+  }
+}

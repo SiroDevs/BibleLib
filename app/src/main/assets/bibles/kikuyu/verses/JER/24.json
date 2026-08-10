@@ -1,0 +1,306 @@
+{
+  "id": "JER.24",
+  "number": "24",
+  "bookId": "JER",
+  "reference": "Jeremia 24",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "JER 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ikabũ Igĩrĩ cia Ngũyũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa Jekonia mũrũ wa Jehoakimu mũthamaki wa Juda na anene ake, na mabundi na atũũri a Juda gũtahwo, makĩrutwo Jerusalemu magĩtwarwo Babuloni nĩ Nebukadinezaru, mũthamaki wa Babuloni-rĩ, Jehova nĩanyonirie ikabũ igĩrĩ cia ngũyũ ciigĩtwo hau mbere ya hekarũ ya Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.1",
+            "verseOrgIds": [
+              "JER.24.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 24:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gĩkabũ kĩmwe kĩarĩ na ngũyũ njega mũno, ta ngũyũ iria ciambaga kwĩrua; gĩkabũ kĩrĩa kĩngĩ kĩarĩ na ngũyũ njũru mũno, itangĩrĩĩka nĩ ũndũ wa ũrĩa ciathũkĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.2",
+            "verseOrgIds": [
+              "JER.24.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 24:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Jehova akĩnjũũria atĩrĩ, “Jeremia, nĩ kĩĩ ũroona?” Ngĩmũcookeria atĩrĩ, “Nĩ ngũyũ. Iria njega nĩ njega mũno, no iria njũru nĩ njũru mũno ũndũ itangĩrĩĩo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.3",
+            "verseOrgIds": [
+              "JER.24.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 24:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo ndũmĩrĩri ya Jehova ĩkĩnginyĩra, ngĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.4",
+            "verseOrgIds": [
+              "JER.24.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JER 24:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Jehova, Ngai wa Isiraeli ekuuga atĩrĩ: ‘O ta ngũyũ ici imwe njega-rĩ, ũguo noguo nyonaga andũ a Juda marĩ ega arĩa maatahirwo, acio ndaarutire gũkũ ngĩmatwara bũrũri wa Babuloni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.5",
+            "verseOrgIds": [
+              "JER.24.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JER 24:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maitho makwa nĩmakamarora na ndĩmeeke maũndũ mega, na nĩngamacookia gũkũ bũrũri ũyũ. Nĩngamarũgamia na ndikamamomora; nĩngamahaanda na ndigacooka kũmamunya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.6",
+            "verseOrgIds": [
+              "JER.24.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JER 24:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngamahe ngoro ya gũtũma mamenye atĩ nĩ niĩ Jehova. Nĩmagatuĩka andũ akwa na niĩ nduĩke Ngai wao, nĩgũkorwo nĩmakanjookerera na ngoro ciao ciothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.7",
+            "verseOrgIds": [
+              "JER.24.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 24:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘No rĩrĩ, o ta ngũyũ icio njũru, icio itangĩrĩĩka nĩ ũndũ wa ũrĩa ithũkĩte-rĩ,’ Jehova ekuuga atĩrĩ, ‘ũguo no taguo ngeeka Zedekia mũthamaki wa Juda, na anene ake o na matigari ma andũ a Jerusalemu, arĩa magaakorwo matigaire gũkũ bũrũri ũyũ kana arĩa matũũraga bũrũri wa Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.8",
+            "verseOrgIds": [
+              "JER.24.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngatũma mathũũrwo mũno, matuĩke kĩndũ gĩa gũthirĩkia mothamaki mothe ma gũkũ thĩ, na mameneke na matuĩke a kuunagwo thimo, na matũũre mathekagĩrĩrwo na manyiitagwo nĩ kĩrumi kũrĩa guothe ngaamathaamĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.9",
+            "verseOrgIds": [
+              "JER.24.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩngamarehithĩria rũhiũ rwa njora, na ngʼaragu, na mũthiro imokĩrĩre, nginya maniinwo mathire bũrũri-inĩ ũrĩa ndaamaheire o na ngĩhe maithe mao.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.24.10",
+            "verseOrgIds": [
+              "JER.24.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.25",
+    "number": "25",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.23",
+    "number": "23",
+    "bookId": "JER"
+  }
+}

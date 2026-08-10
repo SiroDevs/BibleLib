@@ -1,0 +1,3362 @@
+{
+  "id": "DEU.33",
+  "number": "33",
+  "bookId": "DEU",
+  "reference": "Kumbukumbu 33",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "33",
+        "style": "c",
+        "sid": "DEU 33"
+      },
+      "items": [
+        {
+          "text": "33",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mose Anayabariki Makabila",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 33:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hii ndiyo baraka Mose mtu wa Mungu aliyotamka kwa Waisraeli kabla ya kifo chake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.1",
+            "verseOrgIds": [
+              "DEU.33.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 33:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alisema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.2",
+                "verseOrgIds": [
+                  "DEU.33.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "alikuja kutoka Mlima Sinai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "akachomoza kama jua juu yao",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "kutoka Mlima Seiri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "akaangaza kutoka Mlima Parani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "Alikuja pamoja na watakatifu makumi elfu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "kutoka kusini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:2"
+      },
+      "items": [
+        {
+          "text": "kutoka materemko ya mlima wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.2",
+            "verseOrgIds": [
+              "DEU.33.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 33:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakika ni wewe ambaye huwapenda watu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.3",
+            "verseOrgIds": [
+              "DEU.33.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:3"
+      },
+      "items": [
+        {
+          "text": "watakatifu wako wote wamo mkononi mwako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.3",
+            "verseOrgIds": [
+              "DEU.33.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:3"
+      },
+      "items": [
+        {
+          "text": "Miguuni pako wote wanasujudu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.3",
+            "verseOrgIds": [
+              "DEU.33.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:3"
+      },
+      "items": [
+        {
+          "text": "na kutoka kwako wanapokea mafundisho,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.3",
+            "verseOrgIds": [
+              "DEU.33.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 33:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "sheria ile Mose aliyotupa sisi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.4",
+            "verseOrgIds": [
+              "DEU.33.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:4"
+      },
+      "items": [
+        {
+          "text": "tulio milki ya kusanyiko la Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.4",
+            "verseOrgIds": [
+              "DEU.33.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 33:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alikuwa mfalme juu ya Yeshuruni",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.5",
+            "verseOrgIds": [
+              "DEU.33.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:5"
+      },
+      "items": [
+        {
+          "text": "wakati viongozi wa watu walipokusanyika,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.5",
+            "verseOrgIds": [
+              "DEU.33.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:5"
+      },
+      "items": [
+        {
+          "text": "pamoja na makabila ya Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.5",
+            "verseOrgIds": [
+              "DEU.33.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 33:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Reubeni na aishi, asife,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.6",
+            "verseOrgIds": [
+              "DEU.33.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:6"
+      },
+      "items": [
+        {
+          "text": "wala watu wake wasiwe wachache.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.6",
+            "verseOrgIds": [
+              "DEU.33.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 33:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akasema hili kuhusu Yuda:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:7"
+      },
+      "items": [
+        {
+          "text": "\"Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.7",
+                "verseOrgIds": [
+                  "DEU.33.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", sikia kilio cha Yuda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:7"
+      },
+      "items": [
+        {
+          "text": "mlete kwa watu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:7"
+      },
+      "items": [
+        {
+          "text": "Kwa mikono yake mwenyewe hujitetea.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:7"
+      },
+      "items": [
+        {
+          "text": "Naam, uwe msaada wake",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:7"
+      },
+      "items": [
+        {
+          "text": "dhidi ya adui zake!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.7",
+            "verseOrgIds": [
+              "DEU.33.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 33:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Lawi alisema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:8"
+      },
+      "items": [
+        {
+          "text": "\"Thumimu yako na Urimu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        },
+        {
+          "text": "yako ulimpa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:8"
+      },
+      "items": [
+        {
+          "text": "mtu yule uliyemfadhili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:8"
+      },
+      "items": [
+        {
+          "text": "Ulimjaribu huko Masa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:8"
+      },
+      "items": [
+        {
+          "text": "na kushindana naye",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:8"
+      },
+      "items": [
+        {
+          "text": "kwenye maji ya Meriba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.8",
+            "verseOrgIds": [
+              "DEU.33.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 33:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alinena hivi kuhusu baba yake na mama yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:9"
+      },
+      "items": [
+        {
+          "text": "'Mimi siwahitaji kamwe.'",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:9"
+      },
+      "items": [
+        {
+          "text": "Akawasahau jamaa zake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:9"
+      },
+      "items": [
+        {
+          "text": "asiwatambue hata watoto wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:9"
+      },
+      "items": [
+        {
+          "text": "lakini akaliangalia neno lako",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:9"
+      },
+      "items": [
+        {
+          "text": "na kulilinda Agano lako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.9",
+            "verseOrgIds": [
+              "DEU.33.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 33:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Humfundisha Yakobo mausia yako",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.10",
+            "verseOrgIds": [
+              "DEU.33.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:10"
+      },
+      "items": [
+        {
+          "text": "na Israeli sheria yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.10",
+            "verseOrgIds": [
+              "DEU.33.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:10"
+      },
+      "items": [
+        {
+          "text": "Hufukiza uvumba mbele zako",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.10",
+            "verseOrgIds": [
+              "DEU.33.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:10"
+      },
+      "items": [
+        {
+          "text": "na sadaka nzima za kuteketezwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.10",
+            "verseOrgIds": [
+              "DEU.33.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:10"
+      },
+      "items": [
+        {
+          "text": "juu ya madhabahu yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.10",
+            "verseOrgIds": [
+              "DEU.33.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 33:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.11",
+            "verseOrgIds": [
+              "DEU.33.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.11",
+                "verseOrgIds": [
+                  "DEU.33.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", bariki ustadi wake wote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.11",
+            "verseOrgIds": [
+              "DEU.33.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:11"
+      },
+      "items": [
+        {
+          "text": "nawe upendezwe na kazi ya mikono yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.11",
+            "verseOrgIds": [
+              "DEU.33.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:11"
+      },
+      "items": [
+        {
+          "text": "Vipige viuno vya wale wainukao dhidi yake;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.11",
+            "verseOrgIds": [
+              "DEU.33.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:11"
+      },
+      "items": [
+        {
+          "text": "wapige adui zake hata wasiinuke tena.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.11",
+            "verseOrgIds": [
+              "DEU.33.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 33:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Benyamini akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:12"
+      },
+      "items": [
+        {
+          "text": "\"Mwache mpenzi wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.12",
+                "verseOrgIds": [
+                  "DEU.33.12"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:12"
+      },
+      "items": [
+        {
+          "text": "apumzike salama kwake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:12"
+      },
+      "items": [
+        {
+          "text": "kwa maana humkinga mchana kutwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:12"
+      },
+      "items": [
+        {
+          "text": "na yule",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.12",
+                "verseOrgIds": [
+                  "DEU.33.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ampendaye",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:12"
+      },
+      "items": [
+        {
+          "text": "hupumzika kati ya mabega yake.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.12",
+            "verseOrgIds": [
+              "DEU.33.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 33:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Yosefu akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:13"
+      },
+      "items": [
+        {
+          "text": "\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.13",
+                "verseOrgIds": [
+                  "DEU.33.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "na aibariki nchi yake",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:13"
+      },
+      "items": [
+        {
+          "text": "kwa umande wa thamani",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:13"
+      },
+      "items": [
+        {
+          "text": "kutoka mbinguni juu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:13"
+      },
+      "items": [
+        {
+          "text": "na vilindi vya maji",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:13"
+      },
+      "items": [
+        {
+          "text": "vilivyotulia chini;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.13",
+            "verseOrgIds": [
+              "DEU.33.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 33:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "pamoja na vitu vilivyo bora sana",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.14",
+            "verseOrgIds": [
+              "DEU.33.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:14"
+      },
+      "items": [
+        {
+          "text": "viletwavyo na jua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.14",
+            "verseOrgIds": [
+              "DEU.33.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:14"
+      },
+      "items": [
+        {
+          "text": "na vitu vizuri sana vinavyoweza",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.14",
+            "verseOrgIds": [
+              "DEU.33.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:14"
+      },
+      "items": [
+        {
+          "text": "kutolewa na mwezi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.14",
+            "verseOrgIds": [
+              "DEU.33.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 33:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "pamoja na zawadi bora sana",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.15",
+            "verseOrgIds": [
+              "DEU.33.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:15"
+      },
+      "items": [
+        {
+          "text": "za milima ya zamani",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.15",
+            "verseOrgIds": [
+              "DEU.33.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:15"
+      },
+      "items": [
+        {
+          "text": "na kwa wingi wa baraka",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.15",
+            "verseOrgIds": [
+              "DEU.33.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:15"
+      },
+      "items": [
+        {
+          "text": "za vilima vya milele;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.15",
+            "verseOrgIds": [
+              "DEU.33.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 33:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "pamoja na baraka nzuri mno",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "za ardhi na ukamilifu wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "na upendeleo wake yeye",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "aliyeishi kwenye kichaka",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "kilichokuwa kinawaka moto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "Hivi vyote na vikae juu ya kichwa cha Yosefu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "juu ya paji la uso la aliye mkuu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:16"
+      },
+      "items": [
+        {
+          "text": "miongoni mwa ndugu zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.16",
+            "verseOrgIds": [
+              "DEU.33.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 33:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika fahari yeye ni kama fahali mzaliwa wa kwanza;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:17"
+      },
+      "items": [
+        {
+          "text": "pembe zake ni pembe za nyati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:17"
+      },
+      "items": [
+        {
+          "text": "na kwa pembe hizo atapiga mataifa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:17"
+      },
+      "items": [
+        {
+          "text": "hata yaliyo miisho ya dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:17"
+      },
+      "items": [
+        {
+          "text": "Hivyo ndivyo yalivyo makumi elfu ya Efraimu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:17"
+      },
+      "items": [
+        {
+          "text": "hivyo ndivyo yalivyo maelfu ya Manase.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.17",
+            "verseOrgIds": [
+              "DEU.33.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 33:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Zabuloni akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.18",
+            "verseOrgIds": [
+              "DEU.33.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:18"
+      },
+      "items": [
+        {
+          "text": "\"Shangilia, Zabuloni, wakati wa kutoka nje,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.18",
+            "verseOrgIds": [
+              "DEU.33.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:18"
+      },
+      "items": [
+        {
+          "text": "nawe Isakari, katika mahema yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.18",
+            "verseOrgIds": [
+              "DEU.33.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 33:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watawaita mataifa kwenye mlima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.19",
+            "verseOrgIds": [
+              "DEU.33.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:19"
+      },
+      "items": [
+        {
+          "text": "na huko mtatoa dhabihu za haki;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.19",
+            "verseOrgIds": [
+              "DEU.33.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:19"
+      },
+      "items": [
+        {
+          "text": "watajifurahisha kwa wingi uliojaza bahari,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.19",
+            "verseOrgIds": [
+              "DEU.33.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:19"
+      },
+      "items": [
+        {
+          "text": "kwa hazina zilizofichwa mchangani.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.19",
+            "verseOrgIds": [
+              "DEU.33.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 33:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Gadi akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.20",
+            "verseOrgIds": [
+              "DEU.33.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:20"
+      },
+      "items": [
+        {
+          "text": "\"Atabarikiwa yeye aongezaye milki ya Gadi!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.20",
+            "verseOrgIds": [
+              "DEU.33.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:20"
+      },
+      "items": [
+        {
+          "text": "Gadi huishi huko kama simba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.20",
+            "verseOrgIds": [
+              "DEU.33.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:20"
+      },
+      "items": [
+        {
+          "text": "akirarua kwenye mkono au kichwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.20",
+            "verseOrgIds": [
+              "DEU.33.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 33:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alijichagulia nchi nzuri kuliko zote",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "kwa ajili yake mwenyewe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "fungu la kiongozi lilikuwa limehifadhiwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "kwa ajili yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "Viongozi wa watu walipokusanyika,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "alitimiza haki ya mapenzi ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.21",
+                "verseOrgIds": [
+                  "DEU.33.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:21"
+      },
+      "items": [
+        {
+          "text": "na hukumu zake kuhusu Israeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.21",
+            "verseOrgIds": [
+              "DEU.33.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 33:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Dani akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.22",
+            "verseOrgIds": [
+              "DEU.33.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:22"
+      },
+      "items": [
+        {
+          "text": "\"Dani ni mwana simba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.22",
+            "verseOrgIds": [
+              "DEU.33.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:22"
+      },
+      "items": [
+        {
+          "text": "akiruka kutoka Bashani.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.22",
+            "verseOrgIds": [
+              "DEU.33.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 33:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Naftali akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.23",
+            "verseOrgIds": [
+              "DEU.33.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:23"
+      },
+      "items": [
+        {
+          "text": "\"Naftali amejaa tele upendeleo wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.23",
+            "verseOrgIds": [
+              "DEU.33.23"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.23",
+                "verseOrgIds": [
+                  "DEU.33.23"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.23",
+            "verseOrgIds": [
+              "DEU.33.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:23"
+      },
+      "items": [
+        {
+          "text": "naye amejaa baraka yake;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.23",
+            "verseOrgIds": [
+              "DEU.33.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:23"
+      },
+      "items": [
+        {
+          "text": "atarithi magharibi na kusini.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.23",
+            "verseOrgIds": [
+              "DEU.33.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DEU 33:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhusu Asheri akasema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.24",
+            "verseOrgIds": [
+              "DEU.33.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:24"
+      },
+      "items": [
+        {
+          "text": "\"Aliyebarikiwa zaidi sana katika wana ni Asheri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.24",
+            "verseOrgIds": [
+              "DEU.33.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:24"
+      },
+      "items": [
+        {
+          "text": "yeye na apate upendeleo kwa ndugu zake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.24",
+            "verseOrgIds": [
+              "DEU.33.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:24"
+      },
+      "items": [
+        {
+          "text": "yeye na anawe miguu yake kwenye mafuta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.24",
+            "verseOrgIds": [
+              "DEU.33.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 33:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makomeo ya malango yako yawe chuma na shaba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.25",
+            "verseOrgIds": [
+              "DEU.33.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:25"
+      },
+      "items": [
+        {
+          "text": "nazo nguvu zako zitakuwa sawa na siku zako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.25",
+            "verseOrgIds": [
+              "DEU.33.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DEU 33:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Hakuna mwingine kama Mungu wa Yeshuruni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.26",
+            "verseOrgIds": [
+              "DEU.33.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:26"
+      },
+      "items": [
+        {
+          "text": "ambaye hupanda juu ya mbingu ili akusaidie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.26",
+            "verseOrgIds": [
+              "DEU.33.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:26"
+      },
+      "items": [
+        {
+          "text": "na juu ya mawingu katika utukufu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.26",
+            "verseOrgIds": [
+              "DEU.33.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DEU 33:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu wa milele ni kimbilio lako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.27",
+            "verseOrgIds": [
+              "DEU.33.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:27"
+      },
+      "items": [
+        {
+          "text": "na chini kuna mikono ya milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.27",
+            "verseOrgIds": [
+              "DEU.33.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:27"
+      },
+      "items": [
+        {
+          "text": "Atamfukuza adui yako mbele yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.27",
+            "verseOrgIds": [
+              "DEU.33.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:27"
+      },
+      "items": [
+        {
+          "text": "akisema, 'Mwangamize yeye!'",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.27",
+            "verseOrgIds": [
+              "DEU.33.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DEU 33:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Israeli ataishi salama peke yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.28",
+            "verseOrgIds": [
+              "DEU.33.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:28"
+      },
+      "items": [
+        {
+          "text": "Mzao wa Yakobo ni salama",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.28",
+            "verseOrgIds": [
+              "DEU.33.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:28"
+      },
+      "items": [
+        {
+          "text": "katika nchi ya nafaka na divai mpya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.28",
+            "verseOrgIds": [
+              "DEU.33.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:28"
+      },
+      "items": [
+        {
+          "text": "mahali ambapo mbingu",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.28",
+            "verseOrgIds": [
+              "DEU.33.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:28"
+      },
+      "items": [
+        {
+          "text": "hudondosha umande.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.28",
+            "verseOrgIds": [
+              "DEU.33.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DEU 33:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Israeli, wewe umebarikiwa!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "Ni nani kama wewe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "taifa lililookolewa na",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.33.29",
+                "verseOrgIds": [
+                  "DEU.33.29"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "Yeye ni ngao yako na msaada wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "na upanga wako uliotukuka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "Adui zako watatetemeka mbele yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "nawe utapakanyaga",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "DEU 33:29"
+      },
+      "items": [
+        {
+          "text": "mahali pao pa juu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.33.29",
+            "verseOrgIds": [
+              "DEU.33.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.34",
+    "number": "34",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.32",
+    "number": "32",
+    "bookId": "DEU"
+  }
+}

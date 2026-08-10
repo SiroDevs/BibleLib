@@ -1,0 +1,1856 @@
+{
+  "id": "PSA.22",
+  "number": "22",
+  "bookId": "PSA",
+  "reference": "Zaburi 22",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "PSA 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorera kw’obororo n’ogotera kw’ogotogia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gwa Daudi)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae one, aye Nyasae one, naki gwantigire iga?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nabeire nkorera ontoorie, korende kwambeereire aare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.1",
+            "verseOrgIds": [
+              "PSA.22.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 22:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Nyasae one! Nigo nkorera botuko bokia, korende tori kong’iraneria;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.2",
+            "verseOrgIds": [
+              "PSA.22.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nase obotuko boigo, korende tindi konyora ogotimoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.2",
+            "verseOrgIds": [
+              "PSA.22.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 22:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nonya naboigo, aye nigo ore omochenu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.3",
+            "verseOrgIds": [
+              "PSA.22.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "obonene nobwao, naye ogotogigwa n’Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.3",
+            "verseOrgIds": [
+              "PSA.22.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 22:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chisokoro chiaito nigo chiagosemeretie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.4",
+            "verseOrgIds": [
+              "PSA.22.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, nigo chiagosemeretie, naye ogachitooria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.4",
+            "verseOrgIds": [
+              "PSA.22.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 22:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo nigo barerete asore, bakanyora ogotooreka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.5",
+            "verseOrgIds": [
+              "PSA.22.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo babete bagosemeretie, na tibasoogetigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.5",
+            "verseOrgIds": [
+              "PSA.22.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 22:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche nerikonde, tindi omonto,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.6",
+            "verseOrgIds": [
+              "PSA.22.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo ngochecherigwa na gochaywa n’abanto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.6",
+            "verseOrgIds": [
+              "PSA.22.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 22:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bonsi abakondora nigo bagonchecheria na gonsekerera;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.7",
+            "verseOrgIds": [
+              "PSA.22.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bagoaka eriogi asende na gosinga‐singisia emetwe yabo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.7",
+            "verseOrgIds": [
+              "PSA.22.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 22:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bagoteeba: “Omonto oyo nigo asemeretie Omonene ng’a namotoorie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.8",
+            "verseOrgIds": [
+              "PSA.22.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tiga amotoorie bono, ekiagera agokirie nere!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.8",
+            "verseOrgIds": [
+              "PSA.22.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 22:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, naye kwandusetie ase enda ya baba;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.9",
+            "verseOrgIds": [
+              "PSA.22.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "naye kwabete gokondenda buya ase amaboko a baba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.9",
+            "verseOrgIds": [
+              "PSA.22.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 22:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo narutetwe asore korwa ase okoiborwa kwane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.10",
+            "verseOrgIds": [
+              "PSA.22.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na korwa ekero narenge ase enda ya baba naye kwarenge Nyasae one.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.10",
+            "verseOrgIds": [
+              "PSA.22.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 22:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tobaisa kobeera aare korwa asende, ekiagera emechando nigo ere ange,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.11",
+            "verseOrgIds": [
+              "PSA.22.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na monto onde tari orankonye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.11",
+            "verseOrgIds": [
+              "PSA.22.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 22:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chieri chinyinge nching’etanaine,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.12",
+            "verseOrgIds": [
+              "PSA.22.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, chieri chiria chia Basani chire ne chinguru nigo ching’etanaine.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.12",
+            "verseOrgIds": [
+              "PSA.22.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 22:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baasamirie emenwa yabo gocha asende,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.13",
+            "verseOrgIds": [
+              "PSA.22.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "yabeire buna chindo chikoronya na koruma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.13",
+            "verseOrgIds": [
+              "PSA.22.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 22:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabeire buna amaache aiteirwe ’nse;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.14",
+            "verseOrgIds": [
+              "PSA.22.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "amauga onsi ay’omobere one atengokire na achoga‐chogire;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.14",
+            "verseOrgIds": [
+              "PSA.22.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "enkoro yane yabeire buna obochoe, yanyititokire ime yane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.14",
+            "verseOrgIds": [
+              "PSA.22.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 22:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chinguru chiane chiang’ereire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.15",
+            "verseOrgIds": [
+              "PSA.22.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "omoyo one bwomire pa buna ekegonkorio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.15",
+            "verseOrgIds": [
+              "PSA.22.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oromeme rwane rwabwatanire namang’ang’ura;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.15",
+            "verseOrgIds": [
+              "PSA.22.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "aye kwanyareirie ase amaroba nkwete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.15",
+            "verseOrgIds": [
+              "PSA.22.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 22:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakori amabe nigo bang’etanaine korwa kera aase,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.16",
+            "verseOrgIds": [
+              "PSA.22.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, nigo bang’etanaine korwa chinsemo chionsi buna ekeombe gie chisese;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.16",
+            "verseOrgIds": [
+              "PSA.22.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "bambetire ebisanyi bi’amaboko, na ebi’amagoro boigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.16",
+            "verseOrgIds": [
+              "PSA.22.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 22:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amauga ’omobere one atongororokire nabo ’nkoyabara;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.17",
+            "verseOrgIds": [
+              "PSA.22.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abanto nigo bakondigereria na kogokera obobe bwane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.17",
+            "verseOrgIds": [
+              "PSA.22.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 22:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baatananire chianga chiane ase egati yabo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.18",
+            "verseOrgIds": [
+              "PSA.22.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "baakeire eganchwa yane obomera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.18",
+            "verseOrgIds": [
+              "PSA.22.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 22:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende aye Omonene, tobeera aare korwa asende;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.19",
+            "verseOrgIds": [
+              "PSA.22.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "aye ore chinguru chiane, koranche, ayerera onkonye!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.19",
+            "verseOrgIds": [
+              "PSA.22.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 22:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntoorie korwa ase omoro bw’amakweri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.20",
+            "verseOrgIds": [
+              "PSA.22.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tooria obogima bwane korwa ase okobua gwe chisese chiria!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.20",
+            "verseOrgIds": [
+              "PSA.22.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 22:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ntoorie, ondusie ase emenwa ye chindo chiria;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.21",
+            "verseOrgIds": [
+              "PSA.22.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nkonya korwa ase ching’unchara chie ching’era!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.21",
+            "verseOrgIds": [
+              "PSA.22.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 22:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, nindarie erieta riao ase abanto baminto,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.22",
+            "verseOrgIds": [
+              "PSA.22.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase egati y’omosangererekano ningotogie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.22",
+            "verseOrgIds": [
+              "PSA.22.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "PSA 22:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe abamoirogete Omonene, motogie!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.23",
+            "verseOrgIds": [
+              "PSA.22.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Inwe mwensi ab’ororeria rwa Yakobo, togia obonene bwaye!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.23",
+            "verseOrgIds": [
+              "PSA.22.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Inwe Abaisraeli bonsi, moiroke!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.23",
+            "verseOrgIds": [
+              "PSA.22.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "PSA 22:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene tari gochaaya emechando y’abwo bachandegete, gose koyegecha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.24",
+            "verseOrgIds": [
+              "PSA.22.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "gose tabiseti obosio bwaye korwa ase bare;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.24",
+            "verseOrgIds": [
+              "PSA.22.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korende ekero bamorangeretie nigo abaigwete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.24",
+            "verseOrgIds": [
+              "PSA.22.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "PSA 22:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero ’nde ase omosangererekano omonene ningotogie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.25",
+            "verseOrgIds": [
+              "PSA.22.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Chiira nariete ning’ikeranie agwo ase obosio bw’abaanto bamoirogete Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.25",
+            "verseOrgIds": [
+              "PSA.22.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "PSA 22:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bare abaitongo mbanyore endagera barie baigote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.26",
+            "verseOrgIds": [
+              "PSA.22.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abanto bakorigia Omonene mbabe bakomotogia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.26",
+            "verseOrgIds": [
+              "PSA.22.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ne chinkoro chiaino nchigenderere koba moyo goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.26",
+            "verseOrgIds": [
+              "PSA.22.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "PSA 22:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto b’echinsemo chionsi chi’ense mbainyore Omonene, bamoonchokere;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.27",
+            "verseOrgIds": [
+              "PSA.22.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "chiamate chionsi chi’ebisaku nchimosasime.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.27",
+            "verseOrgIds": [
+              "PSA.22.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "PSA 22:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omogambi Omonene, nere okogamba igoro ase ebisaku bionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.28",
+            "verseOrgIds": [
+              "PSA.22.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "PSA 22:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee, abanto abatenenku bonsi bare ase ense",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.29",
+            "verseOrgIds": [
+              "PSA.22.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "goika batung’ame ase obosio bw’Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.29",
+            "verseOrgIds": [
+              "PSA.22.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo bonsi bakogenda ase chimbeera ime mbatung’ame ase obosio bwaye;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.29",
+            "verseOrgIds": [
+              "PSA.22.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "naboigo nabwo batanyare korenda obogima bwabo bogenderere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.29",
+            "verseOrgIds": [
+              "PSA.22.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "PSA 22:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto b’ororeria rwaye mbabe bakomokorera;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.30",
+            "verseOrgIds": [
+              "PSA.22.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "mbabe bagokwana igoro y’Omonene ase ebiaare bigochi‐gocha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.30",
+            "verseOrgIds": [
+              "PSA.22.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "PSA 22:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oboronge bwaye mbobe bokorarigwa ase abanto bataraiborwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.31",
+            "verseOrgIds": [
+              "PSA.22.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ng’a ere oikeranirie onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.22.31",
+            "verseOrgIds": [
+              "PSA.22.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.21",
+    "number": "21",
+    "bookId": "PSA"
+  }
+}

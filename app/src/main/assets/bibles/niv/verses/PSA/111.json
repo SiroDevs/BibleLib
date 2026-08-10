@@ -1,0 +1,826 @@
+{
+  "id": "PSA.111",
+  "number": "111",
+  "bookId": "PSA",
+  "reference": "Psalm 111",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "111",
+        "style": "c",
+        "sid": "PSA 111"
+      },
+      "items": [
+        {
+          "text": "111",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 111",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 111:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.1",
+            "verseOrgIds": [
+              "PSA.111.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.111.1",
+                "verseOrgIds": [
+                  "PSA.111.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.1",
+            "verseOrgIds": [
+              "PSA.111.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 111:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 111:1"
+      },
+      "items": [
+        {
+          "text": "I will extol the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.1",
+            "verseOrgIds": [
+              "PSA.111.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.111.1",
+                "verseOrgIds": [
+                  "PSA.111.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with all my heart",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.1",
+            "verseOrgIds": [
+              "PSA.111.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:1"
+      },
+      "items": [
+        {
+          "text": "in the council of the upright and in the assembly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.1",
+            "verseOrgIds": [
+              "PSA.111.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 111:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Great are the works of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.2",
+            "verseOrgIds": [
+              "PSA.111.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.111.2",
+                "verseOrgIds": [
+                  "PSA.111.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.2",
+            "verseOrgIds": [
+              "PSA.111.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:2"
+      },
+      "items": [
+        {
+          "text": "they are pondered by all who delight in them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.2",
+            "verseOrgIds": [
+              "PSA.111.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 111:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Glorious and majestic are his deeds,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.3",
+            "verseOrgIds": [
+              "PSA.111.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:3"
+      },
+      "items": [
+        {
+          "text": "and his righteousness endures forever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.3",
+            "verseOrgIds": [
+              "PSA.111.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 111:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He has caused his wonders to be remembered;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.4",
+            "verseOrgIds": [
+              "PSA.111.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:4"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.4",
+            "verseOrgIds": [
+              "PSA.111.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.111.4",
+                "verseOrgIds": [
+                  "PSA.111.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is gracious and compassionate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.4",
+            "verseOrgIds": [
+              "PSA.111.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 111:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He provides food for those who fear him;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.5",
+            "verseOrgIds": [
+              "PSA.111.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:5"
+      },
+      "items": [
+        {
+          "text": "he remembers his covenant forever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.5",
+            "verseOrgIds": [
+              "PSA.111.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 111:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He has shown his people the power of his works,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.6",
+            "verseOrgIds": [
+              "PSA.111.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:6"
+      },
+      "items": [
+        {
+          "text": "giving them the lands of other nations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.6",
+            "verseOrgIds": [
+              "PSA.111.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 111:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The works of his hands are faithful and just;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.7",
+            "verseOrgIds": [
+              "PSA.111.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:7"
+      },
+      "items": [
+        {
+          "text": "all his precepts are trustworthy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.7",
+            "verseOrgIds": [
+              "PSA.111.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 111:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They are established for ever and ever,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.8",
+            "verseOrgIds": [
+              "PSA.111.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:8"
+      },
+      "items": [
+        {
+          "text": "enacted in faithfulness and uprightness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.8",
+            "verseOrgIds": [
+              "PSA.111.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 111:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He provided redemption for his people;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.9",
+            "verseOrgIds": [
+              "PSA.111.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:9"
+      },
+      "items": [
+        {
+          "text": "he ordained his covenant forever—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.9",
+            "verseOrgIds": [
+              "PSA.111.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:9"
+      },
+      "items": [
+        {
+          "text": "holy and awesome is his name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.9",
+            "verseOrgIds": [
+              "PSA.111.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 111:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The fear of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.10",
+            "verseOrgIds": [
+              "PSA.111.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.111.10",
+                "verseOrgIds": [
+                  "PSA.111.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is the beginning of wisdom;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.10",
+            "verseOrgIds": [
+              "PSA.111.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:10"
+      },
+      "items": [
+        {
+          "text": "all who follow his precepts have good understanding.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.10",
+            "verseOrgIds": [
+              "PSA.111.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 111:10"
+      },
+      "items": [
+        {
+          "text": "To him belongs eternal praise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.111.10",
+            "verseOrgIds": [
+              "PSA.111.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.112",
+    "number": "112",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.110",
+    "number": "110",
+    "bookId": "PSA"
+  }
+}

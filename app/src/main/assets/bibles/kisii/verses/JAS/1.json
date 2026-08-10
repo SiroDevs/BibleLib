@@ -1,0 +1,843 @@
+{
+  "id": "JAS.1",
+  "number": "1",
+  "bookId": "JAS",
+  "reference": "Yakobo 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JAS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JAS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korwa ase Yakobo, omosomba o Nyasae na Omonene Yeso Kristo, nabakwanirie inwe abanto ba Nyasae, abamwatananekire gochia chinse chire ao ao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.1",
+            "verseOrgIds": [
+              "JAS.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okwegena na obong’aini",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JAS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaminto, bara ng’a nomogooko bwoka komorasoe ase amateemwa are ao ao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.2",
+            "verseOrgIds": [
+              "JAS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JAS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera momanyete ng’a ekero okwegena kwaino kogoteemwa nigo mokweorokereria oboremereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.3",
+            "verseOrgIds": [
+              "JAS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JAS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tiga oboremereria obwo bobe nemeremo emeikeranu, erinde monyare koba abaikeranu, na abagima, motaremeiri na ing’ana rinde rionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.4",
+            "verseOrgIds": [
+              "JAS.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JAS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende onye monto onde oino oremeire obong’aini, tiga asabe Nyasae, ere nabomoe, ekiagera nigo akoa abanto bonsi ase obonge, gose tari gotogonyera onde.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.5",
+            "verseOrgIds": [
+              "JAS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JAS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende oyogosaba, tiga asabe ase okwegena, taba na tang’u‐tang’u, ekiagera oyore ne chitang’u‐tang’u nigo are buna emerindo y’enyancha ekona‐koirwa nomwaga gochia aaria na aaria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.6",
+            "verseOrgIds": [
+              "JAS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JAS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki omonto oria takaga ng’a nanyore egento korwa ase Omonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.7",
+            "verseOrgIds": [
+              "JAS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JAS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ere nigo are nemioyo ebere, na gotiting’ara ase chinchera chiaye chionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.8",
+            "verseOrgIds": [
+              "JAS.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obotaka na obonda",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JAS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende abakristo abare abataka bagoke, ekiagera Nyasae abaimokereirie igoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.9",
+            "verseOrgIds": [
+              "JAS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JAS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na abakristo abanda, nabarabwo bagoke kobairanigwe inse, ekiagera nigo barasire buna egesicha ki’obonyansi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.10",
+            "verseOrgIds": [
+              "JAS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JAS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki erioba korikooroka nomobaso omoororo, nigo rigosamba na kwomia obonyansi. Egesicha ki’obonyansi kiaroroka, na obuya bw’ekieni kiaye bwasira. Naboigo nomonda nere arasire kagendererete kwerigeria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.11",
+            "verseOrgIds": [
+              "JAS.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Gotema na gotemwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JAS 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nasesenirie omonto oria oremereretie ogoteemwa, ekiagera ekero aikire gwancherwa nanyore obogima buna egutwa y’obobui, obogima obwo Nyasae abarierete eira abwo bamwanchete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.12",
+            "verseOrgIds": [
+              "JAS.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JAS 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto karateemwe, tateeba “Nateemirwe na Nyasae” ekiagera Nyasae tagoteemwa namabe, gose tagoteema omonto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.13",
+            "verseOrgIds": [
+              "JAS.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JAS 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende kera omonto nigo agoteemwa ekero akong’uswa na kong’ainwa nokogania kwaye omonyene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.14",
+            "verseOrgIds": [
+              "JAS.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JAS 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na okogania koria okobe gokwabogoirie oborito kwaibora ebibe, na ebibe biria kobiakiinire, biarenta amakweri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.15",
+            "verseOrgIds": [
+              "JAS.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JAS 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaminto abanchani, timong’aineka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.16",
+            "verseOrgIds": [
+              "JAS.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JAS 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera ekerugwa ekiya, na kera ekeegwa geikeranete nigo gekorwa ase Ise bw’emebaso. Asare koonchoka tikoiyo, gose ekiriri kende gekooncha‐onchoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.17",
+            "verseOrgIds": [
+              "JAS.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JAS 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ogwancha kwaye ere omonyene agatoibora ase ring’ana riaye ri’ekeene, erinde tobe buna ogotongorwa konde kw’ebitongwa biaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.18",
+            "verseOrgIds": [
+              "JAS.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okoigwa ring’ana na korikora",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JAS 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaminto abanchani, momanye ring’ana eri: Kera omonto abe omwango ase okoigwa, korende abe bwe ng’ora ase ogokwana, na bwe ng’ora ase okoba nendamwamu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.19",
+            "verseOrgIds": [
+              "JAS.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JAS 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera endamwamu ya Mwanyabaanto teri gokora ayare boronge ase obosio bwa Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.20",
+            "verseOrgIds": [
+              "JAS.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JAS 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, beka aare ogotacheneka gwonsi, na obonge bw’amabe, na ase obwororo mwanche ring’ana erio riasimekirwe ime yaino, eriranyare kobatooria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.21",
+            "verseOrgIds": [
+              "JAS.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JAS 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timweng’aina inwe abanyene ase okoigwa ring’ana riaye rioka, korende ribeeke ase ebikorwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.22",
+            "verseOrgIds": [
+              "JAS.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JAS 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki omonto karabe omotegereri bw’ering’ana, gose tari omorikori, oyio nigo anga buna omonto oyokwerigereria obosio bwaye omonyene ase ekerore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.23",
+            "verseOrgIds": [
+              "JAS.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JAS 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igo akwerigereria, naende ogenda ase agochia, erio kegima bweba buna erora arenge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.24",
+            "verseOrgIds": [
+              "JAS.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JAS 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende oyorigereretie amachiiko amaikeranu ay’obosibore, na goikaransa aroro, na taba oyokoigwa na kweba, korende abe omokori okoyakora, oyio nabe oyosesenirie ase ogokora kwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.25",
+            "verseOrgIds": [
+              "JAS.1.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JAS 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto karekage ng’a nkomokorera are Nyasae, na ere tagambereti oromeme rwaye, korende nenkoro yaye akong’aina, igo okomokorera Nyasae kwaye nigo kore okwa bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.26",
+            "verseOrgIds": [
+              "JAS.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JAS 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okomokorera Nyasae okore ogochenu, gotari na komocha ase obosio bwa Nyasae Tata noko: Gochia korora chintakana na ababoraka ase obokong’u bwabo, na kwerenda ere omonyene, na igo taba na kemoa gi’ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JAS.1.27",
+            "verseOrgIds": [
+              "JAS.1.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JAS.2",
+    "number": "2",
+    "bookId": "JAS"
+  },
+  "previous": {
+    "id": "JAS.intro",
+    "number": "intro",
+    "bookId": "JAS"
+  }
+}

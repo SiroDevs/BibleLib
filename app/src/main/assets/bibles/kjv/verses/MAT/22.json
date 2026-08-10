@@ -1,0 +1,2458 @@
+{
+  "id": "MAT.22",
+  "number": "22",
+  "bookId": "MAT",
+  "reference": "Matthew 22",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 46,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "22",
+        "style": "c",
+        "sid": "MAT 22"
+      },
+      "items": [
+        {
+          "text": "22",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 22:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And Jesus answered and spake unto them again by parables, and said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.1",
+            "verseOrgIds": [
+              "MAT.22.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 22:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "The kingdom of heaven is like unto a certain king, which made a marriage for his son,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.2",
+                "verseOrgIds": [
+                  "MAT.22.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.2",
+            "verseOrgIds": [
+              "MAT.22.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 22:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And sent forth his servants to call them that were bidden to the wedding: and they would not come.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.3",
+                "verseOrgIds": [
+                  "MAT.22.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.3",
+            "verseOrgIds": [
+              "MAT.22.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 22:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.4",
+                "verseOrgIds": [
+                  "MAT.22.4"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "my",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.4",
+                    "verseOrgIds": [
+                      "MAT.22.4"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "fatlings",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.4",
+                "verseOrgIds": [
+                  "MAT.22.4"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "are",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.4",
+                    "verseOrgIds": [
+                      "MAT.22.4"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "killed, and all things",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.4",
+                "verseOrgIds": [
+                  "MAT.22.4"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "are",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.4",
+                    "verseOrgIds": [
+                      "MAT.22.4"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "ready: come unto the marriage.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.4",
+                "verseOrgIds": [
+                  "MAT.22.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.4",
+            "verseOrgIds": [
+              "MAT.22.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 22:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But they made light of",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.5",
+                "verseOrgIds": [
+                  "MAT.22.5"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "it",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.5",
+                    "verseOrgIds": [
+                      "MAT.22.5"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": ", and went their ways, one to his farm, another to his merchandise:",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.5",
+                "verseOrgIds": [
+                  "MAT.22.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.5",
+            "verseOrgIds": [
+              "MAT.22.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 22:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And the remnant took his servants, and entreated them spitefully, and slew",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.6",
+                "verseOrgIds": [
+                  "MAT.22.6"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "them",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.6",
+                    "verseOrgIds": [
+                      "MAT.22.6"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": ".",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.6",
+                "verseOrgIds": [
+                  "MAT.22.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.6",
+            "verseOrgIds": [
+              "MAT.22.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 22:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But when the king heard",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.7",
+                "verseOrgIds": [
+                  "MAT.22.7"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "thereof",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.7",
+                    "verseOrgIds": [
+                      "MAT.22.7"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": ", he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.7",
+                "verseOrgIds": [
+                  "MAT.22.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.7",
+            "verseOrgIds": [
+              "MAT.22.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 22:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.8",
+                "verseOrgIds": [
+                  "MAT.22.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.8",
+            "verseOrgIds": [
+              "MAT.22.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 22:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.9",
+                "verseOrgIds": [
+                  "MAT.22.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.9",
+            "verseOrgIds": [
+              "MAT.22.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 22:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.10",
+                "verseOrgIds": [
+                  "MAT.22.10"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 22:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "¶ And when the king came in to see the guests, he saw there a man which had not on a wedding garment:",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.11",
+                "verseOrgIds": [
+                  "MAT.22.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.11",
+            "verseOrgIds": [
+              "MAT.22.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 22:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.12",
+                "verseOrgIds": [
+                  "MAT.22.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.12",
+            "verseOrgIds": [
+              "MAT.22.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 22:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.13",
+                "verseOrgIds": [
+                  "MAT.22.13"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "him",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.13",
+                    "verseOrgIds": [
+                      "MAT.22.13"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "into outer darkness; there shall be weeping and gnashing of teeth.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.13",
+                "verseOrgIds": [
+                  "MAT.22.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.13",
+            "verseOrgIds": [
+              "MAT.22.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 22:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For many are called, but few",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.14",
+                "verseOrgIds": [
+                  "MAT.22.14"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "are",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.14",
+                    "verseOrgIds": [
+                      "MAT.22.14"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "chosen.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.14",
+                "verseOrgIds": [
+                  "MAT.22.14"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 22:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Then went the Pharisees, and took counsel how they might entangle him in",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.15",
+            "verseOrgIds": [
+              "MAT.22.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.15",
+                "verseOrgIds": [
+                  "MAT.22.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "talk.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.15",
+            "verseOrgIds": [
+              "MAT.22.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 22:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.16",
+            "verseOrgIds": [
+              "MAT.22.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "man",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.16",
+                "verseOrgIds": [
+                  "MAT.22.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": for thou regardest not the person of men.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.16",
+            "verseOrgIds": [
+              "MAT.22.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 22:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.17",
+            "verseOrgIds": [
+              "MAT.22.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 22:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But Jesus perceived their wickedness, and said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.18",
+            "verseOrgIds": [
+              "MAT.22.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Why tempt ye me,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.18",
+                "verseOrgIds": [
+                  "MAT.22.18"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "ye",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.18",
+                    "verseOrgIds": [
+                      "MAT.22.18"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "hypocrites?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.18",
+                "verseOrgIds": [
+                  "MAT.22.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.18",
+            "verseOrgIds": [
+              "MAT.22.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 22:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Shew me the tribute money.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.19",
+                "verseOrgIds": [
+                  "MAT.22.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "And they brought unto him a penny.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.19",
+            "verseOrgIds": [
+              "MAT.22.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 22:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he saith unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.20",
+            "verseOrgIds": [
+              "MAT.22.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Whose",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.20",
+                "verseOrgIds": [
+                  "MAT.22.20"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "is",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.20",
+                    "verseOrgIds": [
+                      "MAT.22.20"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "this image and superscription?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.20",
+                "verseOrgIds": [
+                  "MAT.22.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.20",
+            "verseOrgIds": [
+              "MAT.22.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 22:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They say unto him, Cæsar's. Then saith he unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.21",
+            "verseOrgIds": [
+              "MAT.22.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Render therefore unto Cæsar the things which are Cæsar's; and unto God the things that are God's.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.21",
+                "verseOrgIds": [
+                  "MAT.22.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.21",
+            "verseOrgIds": [
+              "MAT.22.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 22:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When they had heard",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.22",
+            "verseOrgIds": [
+              "MAT.22.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "these words",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.22",
+                "verseOrgIds": [
+                  "MAT.22.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", they marvelled, and left him, and went their way.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.22",
+            "verseOrgIds": [
+              "MAT.22.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 22:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.23",
+            "verseOrgIds": [
+              "MAT.22.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 22:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.24",
+            "verseOrgIds": [
+              "MAT.22.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 22:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.25",
+            "verseOrgIds": [
+              "MAT.22.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 22:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Likewise the second also, and the third, unto the seventh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.26",
+            "verseOrgIds": [
+              "MAT.22.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 22:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And last of all the woman died also.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.27",
+            "verseOrgIds": [
+              "MAT.22.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 22:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.28",
+            "verseOrgIds": [
+              "MAT.22.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MAT 22:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus answered and said unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.29",
+            "verseOrgIds": [
+              "MAT.22.29"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Ye do err, not knowing the scriptures, nor the power of God.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.29",
+                "verseOrgIds": [
+                  "MAT.22.29"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.29",
+            "verseOrgIds": [
+              "MAT.22.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MAT 22:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.30",
+                "verseOrgIds": [
+                  "MAT.22.30"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.30",
+            "verseOrgIds": [
+              "MAT.22.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MAT 22:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.31",
+                "verseOrgIds": [
+                  "MAT.22.31"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.31",
+            "verseOrgIds": [
+              "MAT.22.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MAT 22:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.32",
+                "verseOrgIds": [
+                  "MAT.22.32"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.32",
+            "verseOrgIds": [
+              "MAT.22.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MAT 22:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And when the multitude heard",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.33",
+            "verseOrgIds": [
+              "MAT.22.33"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "this",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.33",
+                "verseOrgIds": [
+                  "MAT.22.33"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", they were astonished at his doctrine.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.33",
+            "verseOrgIds": [
+              "MAT.22.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MAT 22:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.34",
+            "verseOrgIds": [
+              "MAT.22.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MAT 22:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then one of them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.35",
+            "verseOrgIds": [
+              "MAT.22.35"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which was",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.35",
+                "verseOrgIds": [
+                  "MAT.22.35"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a lawyer, asked",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.35",
+            "verseOrgIds": [
+              "MAT.22.35"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him a question",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.35",
+                "verseOrgIds": [
+                  "MAT.22.35"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", tempting him, and saying,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.35",
+            "verseOrgIds": [
+              "MAT.22.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MAT 22:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Master, which",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.36",
+            "verseOrgIds": [
+              "MAT.22.36"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.36",
+                "verseOrgIds": [
+                  "MAT.22.36"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the great commandment in the law?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.36",
+            "verseOrgIds": [
+              "MAT.22.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MAT 22:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus said unto him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.37",
+            "verseOrgIds": [
+              "MAT.22.37"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.37",
+                "verseOrgIds": [
+                  "MAT.22.37"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.37",
+            "verseOrgIds": [
+              "MAT.22.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MAT 22:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "This is the first and great commandment.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.38",
+                "verseOrgIds": [
+                  "MAT.22.38"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.38",
+            "verseOrgIds": [
+              "MAT.22.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MAT 22:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And the second",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.39",
+                "verseOrgIds": [
+                  "MAT.22.39"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "add"
+              },
+              "items": [
+                {
+                  "text": "is",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.39",
+                    "verseOrgIds": [
+                      "MAT.22.39"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "like unto it, Thou shalt love thy neighbour as thyself.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.39",
+                "verseOrgIds": [
+                  "MAT.22.39"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.39",
+            "verseOrgIds": [
+              "MAT.22.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MAT 22:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "On these two commandments hang all the law and the prophets.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.40",
+                "verseOrgIds": [
+                  "MAT.22.40"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MAT 22:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ While the Pharisees were gathered together, Jesus asked them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.41",
+            "verseOrgIds": [
+              "MAT.22.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MAT 22:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Saying,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.42",
+            "verseOrgIds": [
+              "MAT.22.42"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "What think ye of Christ? whose son is he?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.42",
+                "verseOrgIds": [
+                  "MAT.22.42"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "They say unto him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.42",
+            "verseOrgIds": [
+              "MAT.22.42"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "The Son",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.42",
+                "verseOrgIds": [
+                  "MAT.22.42"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of David.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.42",
+            "verseOrgIds": [
+              "MAT.22.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MAT 22:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He saith unto them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.43",
+            "verseOrgIds": [
+              "MAT.22.43"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "How then doth David in spirit call him Lord, saying,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.43",
+                "verseOrgIds": [
+                  "MAT.22.43"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.43",
+            "verseOrgIds": [
+              "MAT.22.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MAT 22:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "The",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.44",
+                "verseOrgIds": [
+                  "MAT.22.44"
+                ]
+              }
+            },
+            {
+              "name": "char",
+              "type": "tag",
+              "attrs": {
+                "style": "nd"
+              },
+              "items": [
+                {
+                  "text": "LORD",
+                  "type": "text",
+                  "attrs": {
+                    "verseId": "MAT.22.44",
+                    "verseOrgIds": [
+                      "MAT.22.44"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "text": "said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.44",
+                "verseOrgIds": [
+                  "MAT.22.44"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.44",
+            "verseOrgIds": [
+              "MAT.22.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MAT 22:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "If David then call him Lord, how is he his son?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.45",
+                "verseOrgIds": [
+                  "MAT.22.45"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.45",
+            "verseOrgIds": [
+              "MAT.22.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "MAT 22:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And no man was able to answer him a word, neither durst any",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.46",
+            "verseOrgIds": [
+              "MAT.22.46"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "man",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.46",
+                "verseOrgIds": [
+                  "MAT.22.46"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "from that day forth ask him any more",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.22.46",
+            "verseOrgIds": [
+              "MAT.22.46"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "questions.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.22.46",
+                "verseOrgIds": [
+                  "MAT.22.46"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.23",
+    "number": "23",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.21",
+    "number": "21",
+    "bookId": "MAT"
+  }
+}

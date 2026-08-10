@@ -1,0 +1,1347 @@
+{
+  "id": "NUM.4",
+  "number": "4",
+  "bookId": "NUM",
+  "reference": "Ndari 4",
+  "verseCount": 49,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "NUM 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Akohathu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova akĩĩra Musa na Harũni atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.1",
+            "verseOrgIds": [
+              "NUM.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thĩinĩ wa Alawii-rĩ, tarai rũhonge rwa Akohathu kũringana na mbarĩ ciao na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.2",
+            "verseOrgIds": [
+              "NUM.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtare arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.3",
+            "verseOrgIds": [
+              "NUM.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũyũ nĩguo wĩra wa Akohathu thĩinĩ wa Hema-ya-Gũtũnganwo: wĩra wao nĩ kũmenyerera indo iria theru mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.4",
+            "verseOrgIds": [
+              "NUM.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa kambĩ ĩgũthaama-rĩ, Harũni na ariũ ake marĩtoonyaga thĩinĩ wa hema ĩyo makaruta gĩtambaya gĩa gũcuurio gĩa kũhakania na makahumbĩra ithandũkũ rĩa Ũira nakĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.5",
+            "verseOrgIds": [
+              "NUM.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ marĩhumbĩre na gĩthii kĩa njũũa cia pomboo, na maare gĩtambaya kĩa rangi wa bururu mũtheri igũrũ rĩacio, na matoonyie mĩtĩ ya kũrĩkuua handũ hayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.6",
+            "verseOrgIds": [
+              "NUM.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nao maare gĩtambaya kĩa rangi wa bururu igũrũ rĩa metha ya mĩgate ĩrĩa ĩigagwo mbere ya Jehova, na mamĩigĩrĩre thaani, na thaani, nene na mbakũri, na ndigithũ cia magongona ma kũnyuuo; na mĩgate ĩrĩa ĩigagwo hau hĩndĩ ciothe ĩikare o hau igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.7",
+            "verseOrgIds": [
+              "NUM.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Macooke maigĩrĩre gĩtambaya kĩa rangi wa gakarakũ igũrũ rĩa indo icio na ningĩ mahumbĩre gĩtambaya kĩu na njũũa cia pomboo, na matoonyie mĩtĩ ya kũrĩkuua handũ hayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.8",
+            "verseOrgIds": [
+              "NUM.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ moe gĩtambaya kĩa rangi wa bururu, mahumbĩre mũtĩ ũrĩa wa kũigĩrĩrwo matawa marĩa mamũrĩkaga, hamwe na matawa maguo, na magathĩ ma gũtinia ndaambĩ, na thaani cia mũrarĩ wa ndaambĩ, na ndigithũ cia gwĩkĩrwo maguta ma matawa macio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.9",
+            "verseOrgIds": [
+              "NUM.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ makũnje mũtĩ ũcio na indo ciaguo ciothe ciohetwo na gĩthii kĩa njũũa cia pomboo, na macigĩrĩre igũrũ rĩa gĩkuui gĩacio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.10",
+            "verseOrgIds": [
+              "NUM.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ maare gĩtambaya kĩa rangi wa bururu igũrũ rĩa kĩgongona gĩa thahabu, na makĩhumbĩre na gĩthii kĩa njũũa cia pomboo, na matoonyie mĩtĩ ĩrĩa ya gũgĩkuua handũ hayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.11",
+            "verseOrgIds": [
+              "NUM.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ moe indo ciothe iria ihũthagĩrwo ũtungata-inĩ wa handũ-harĩa-haamũre, macikũnje na gĩtambaya kĩa rangi wa bururu, macihumbĩre na gĩthii kĩa njũũa cia pomboo, na maciigĩrĩre igũrũ rĩa gĩkuui gĩacio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.12",
+            "verseOrgIds": [
+              "NUM.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ nĩ marute mũhu kuuma kĩgongona-inĩ gĩa gĩcango, na maare gĩtambaya kĩa rangi wa ndathi igũrũ rĩakĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.13",
+            "verseOrgIds": [
+              "NUM.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ maigĩrĩre indo ciothe iria ihũthagĩrwo gũtungata kĩgongona-inĩ, nacio nĩ hamwe na ngĩo cia mwaki, na njibe, na icakũri, na mbakũri cia kũminjaminjĩria. Igũrũ rĩakĩo nĩ maare gĩthii kĩa njũũa cia pomboo na matoonyie mĩtĩ ya gũgĩkuua handũ hayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.14",
+            "verseOrgIds": [
+              "NUM.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thuutha wa Harũni na ariũ ake kũrĩĩkia kũhumbĩra indo ciothe theru o na indo ciothe nyamũre, na rĩrĩa andũ a kambĩ mehaarĩria gũthaama-rĩ, ariũ a Akohathu nao moke makuue indo icio. No matikanahutie indo icio nyamũre matigakue. Akohathu acio nĩo magaakuua indo iria irĩ thĩinĩ wa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.15",
+            "verseOrgIds": [
+              "NUM.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Eleazaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai, nĩwe ũrĩmenyagĩrĩra maguta ma gwakia tawa, na ũbumba ũrĩa ũnungaga wega, na mũtu ũrĩa ũrutagwo hĩndĩ ciothe, o na maguta marĩa maitanagĩrĩrio. Nĩwe ũrĩmenyagĩrĩra Hema-ĩyo-Nyamũre ĩrĩ yothe na indo iria ciothe irĩ thĩinĩ wayo, nĩcio indo iria nyamũre ciĩkĩrĩtwo kuo, na indo cia wĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.16",
+            "verseOrgIds": [
+              "NUM.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova akĩĩra Musa na Harũni atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.17",
+            "verseOrgIds": [
+              "NUM.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Menyererai mbarĩ cia mũhĩrĩga wa Akohathu matikaneherio kuuma kũrĩ Alawii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.18",
+            "verseOrgIds": [
+              "NUM.4.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩguo matũũre muoyo na matikae gũkua rĩrĩa mangĩkuhĩrĩria indo iria theru mũno-rĩ, mekagĩrei ũũ: Harũni na ariũ ake nĩo marĩtoonyaga handũ harĩa hatheru, na makagaĩra o mũndũ wĩra wake na kĩrĩa egũkuua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.19",
+            "verseOrgIds": [
+              "NUM.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No ariũ a Kohathu matikanatoonye thĩinĩ kuona indo iria theru o na hanini, nĩguo matigaakue.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.20",
+            "verseOrgIds": [
+              "NUM.4.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Agerishoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova akĩĩra Musa atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.21",
+            "verseOrgIds": [
+              "NUM.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tara Agerishoni o nao kũringana na nyũmba ciao na mbarĩ ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.22",
+            "verseOrgIds": [
+              "NUM.4.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 4:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũtare arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.23",
+            "verseOrgIds": [
+              "NUM.4.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 4:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũyũ nĩguo ũtungata wa mbarĩ cia Agerishoni rĩrĩa mekũruta wĩra na gũkuua mĩrigo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.24",
+            "verseOrgIds": [
+              "NUM.4.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 4:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩo marĩkuuaga itambaya cia gũcuurio cia Hema-ĩrĩa-Nyamũre, na Hema-ya-Gũtũnganwo, na indo cia kũmĩhumbĩra, o na gĩthii kĩa njũũa cia pomboo cia kũmĩhumbĩra na igũrũ, na itambaya cia gũcuurio cia itoonyero rĩa Hema-ya-Gũtũnganwo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.25",
+            "verseOrgIds": [
+              "NUM.4.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 4:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na itambaya cia gũcuurio iria cia kũirigĩra nja ĩrĩa ĩthiũrũrũkĩirie Hema-ĩyo-Nyamũre na kĩgongona, na gĩtambaya gĩa gũcuurio gĩa itoonyero-inĩ, na mĩhĩndo na indo ciothe itũmagĩrwo ũtungata-inĩ wayo. Agerishoni acio nĩo marĩrutaga wĩra wothe ũrĩa wagĩrĩire kũrutwo na indo icio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.26",
+            "verseOrgIds": [
+              "NUM.4.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 4:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũtungata wao wothe, ũrĩ wa gũkuua mĩrigo kana wa kũruta wĩra ũngĩ, ũrĩĩrutagwo ũtongoretio nĩ Harũni na ariũ ake. Nĩ inyuĩ mũrĩmagayagĩra wĩra wao wa kĩrĩa gĩothe marĩkuuaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.27",
+            "verseOrgIds": [
+              "NUM.4.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NUM 4:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo ũtungata wa mbarĩ ya Agerishoni Hema-inĩ-ya-Gũtũnganwo. Wĩra wao ũrĩĩrutagwo ũtongoretio nĩ Ithamaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.28",
+            "verseOrgIds": [
+              "NUM.4.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Amerari",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 4:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tara Amerari kũringana na mbarĩ na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.29",
+            "verseOrgIds": [
+              "NUM.4.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NUM 4:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tara arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mokaga gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.30",
+            "verseOrgIds": [
+              "NUM.4.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 4:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo wĩra wao ũrĩa marĩrutaga magĩtungata Hema-inĩ-ya-Gũtũnganwo: wĩra wao nĩ gũkuuaga buremu cia Hema-ĩyo-Nyamũre, na mĩgĩĩko yayo, na itugĩ na itina ciacio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.31",
+            "verseOrgIds": [
+              "NUM.4.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NUM 4:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o ũndũ ũmwe na itugĩ iria ciirigĩte nja hamwe na itina ciacio, na higĩ cia hema na mĩhĩndo, na indo ciothe ciacio na kĩndũ gĩothe gĩkonainie na kũruta wĩra ũcio. Gayagĩra o mũndũ indo iria agĩrĩirwo nĩ gũkuua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.32",
+            "verseOrgIds": [
+              "NUM.4.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 4:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo ũtungata wa mbarĩ ya Amerari rĩrĩa marĩrutaga wĩra Hema-inĩ-ya-Gũtũnganwo, matongoretio nĩ Ithamaru mũrũ wa Harũni, ũrĩa mũthĩnjĩri-Ngai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.33",
+            "verseOrgIds": [
+              "NUM.4.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gũtara Mbarĩ cia Alawii",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NUM 4:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Musa, na Harũni, na atongoria a kĩrĩndĩ nĩmatarire Akohathu acio kũringana na mbarĩ na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.34",
+            "verseOrgIds": [
+              "NUM.4.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "NUM 4:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.35",
+            "verseOrgIds": [
+              "NUM.4.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "NUM 4:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "matarĩtwo na mbarĩ ciao, maarĩ andũ 2,750",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.36",
+            "verseOrgIds": [
+              "NUM.4.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "NUM 4:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo warĩ mũigana wa andũ othe arĩa maarĩ a mbarĩ cia Akohathu arĩa maatungataga thĩinĩ wa Hema-ya-Gũtũnganwo. Musa na Harũni maamatarire kũringana na ũrĩa Jehova aathĩte Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.37",
+            "verseOrgIds": [
+              "NUM.4.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "NUM 4:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agerishoni maatarirwo kũringana na mbarĩ na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.38",
+            "verseOrgIds": [
+              "NUM.4.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "NUM 4:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.39",
+            "verseOrgIds": [
+              "NUM.4.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "NUM 4:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "matarĩtwo na mbarĩ na nyũmba ciao, maarĩ andũ 2,630.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.40",
+            "verseOrgIds": [
+              "NUM.4.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "NUM 4:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo warĩ mũigana wa mbarĩ cia Agerishoni arĩa maatungataga thĩinĩ wa Hema-ya-Gũtũnganwo. Musa na Harũni maamatarire kũringana na watho wa Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.41",
+            "verseOrgIds": [
+              "NUM.4.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "NUM 4:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amerari maatarirwo kũringana na mbarĩ na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.42",
+            "verseOrgIds": [
+              "NUM.4.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "NUM 4:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire gũtungata wĩra-inĩ wa Hema-ya-Gũtũnganwo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.43",
+            "verseOrgIds": [
+              "NUM.4.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "NUM 4:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "matarĩtwo na mbarĩ ciao, maarĩ andũ 3,200.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.44",
+            "verseOrgIds": [
+              "NUM.4.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "NUM 4:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo warĩ mũigana wa mbarĩ cia Amerari. Musa na Harũni maamatarire kũringana na ũrĩa Jehova aathĩte Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.45",
+            "verseOrgIds": [
+              "NUM.4.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "NUM 4:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, Musa na Harũni na atongoria a Isiraeli magĩtara Alawii othe kũringana na mbarĩ ciao na nyũmba ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.46",
+            "verseOrgIds": [
+              "NUM.4.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "NUM 4:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arũme othe a ũkũrũ wa kuuma mĩaka mĩrongo ĩtatũ nginya mĩaka mĩrongo ĩtano arĩa mookire kũruta wĩra wa gũtungata na gũkuua Hema-ya-Gũtũnganwo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.47",
+            "verseOrgIds": [
+              "NUM.4.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "NUM 4:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mũigana wao warĩ andũ 8,580.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.48",
+            "verseOrgIds": [
+              "NUM.4.48"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "NUM 4:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũringana na watho wa Jehova ũrĩa aathĩte Musa, mũndũ o mũndũ nĩagayagĩrwo wĩra wake, na akeerwo kĩrĩa egũkuua. Ũguo nĩguo maatarirwo, o ta ũrĩa Jehova aathĩte Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.4.49",
+            "verseOrgIds": [
+              "NUM.4.49"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.5",
+    "number": "5",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.3",
+    "number": "3",
+    "bookId": "NUM"
+  }
+}

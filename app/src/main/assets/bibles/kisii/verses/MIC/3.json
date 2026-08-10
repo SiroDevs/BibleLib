@@ -1,0 +1,384 @@
+{
+  "id": "MIC.3",
+  "number": "3",
+  "bookId": "MIC",
+  "reference": "Mika 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "MIC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Mika ogotogonyera abatang’ani b’Abaisraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tegerera inwe abarai b’Abaisraeli! Eganga yaino nigo egwenerete koba okorigereria oboronge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende nwe nigo mwangete aria are amaya naende nigo mwanhete ayare amabe. Nigo bogosabora abanto risankwa bare moyo naende mwarusia chinyama korwa amauga abo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.2",
+            "verseOrgIds": [
+              "MIC.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe nigo mokoria abanto baane. Mwabachobora risankwa, mwabuna amauga abo, mwababutorana buna chinyama chikobekwa enyongo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.3",
+            "verseOrgIds": [
+              "MIC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Engaki neike ekero morarere gochia ase Omonene korende takobairaneria inwe. Ere tagotegerera amasabo aino, ekiagera mwakorire amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.4",
+            "verseOrgIds": [
+              "MIC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bane nigo bakong’ainwa n’ababani abwo bakobariera chiira chi’omorembe baria bakobaakana, korende bagosereria baria batari kobaakana egesi. Ase ababani abwo Omonene nigo agoteeba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.5",
+            "verseOrgIds": [
+              "MIC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inwe ababani, amatuko aino igo are ange koera; risase riabarimereire gochia inse. Ase engencho inwe mogosiria abanto bane, inwe timokonyora naende amaroro y’obobani, naende timokonyara kobana kende gionsi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.6",
+            "verseOrgIds": [
+              "MIC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baria bakobana aria agochia gocha mbasokigwe ase ogotaikerana kw’ayio. Abwo bonsi mbasookigwe ekiagera Nyasae takobairaneria barabwo kende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.7",
+            "verseOrgIds": [
+              "MIC.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ase inde inche, Omonene nigo akongichoria n’Omoika oye n’echinguru, naende ong’a inche eki’orokererio ki’oboronge nabo igo oboremu bw’ogotebia abanto ba Israeli keria kere ebibe biabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.8",
+            "verseOrgIds": [
+              "MIC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Integerera inwe abarai b’Abaisraeli, inwe baria mwangete oboronge naende mogonchorana ekeene koba egetari boronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.9",
+            "verseOrgIds": [
+              "MIC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo mogendererete koagacha Yerusalemu omochie omonene o Nyasae, ase oboroso bw’ogoita n’borimo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.10",
+            "verseOrgIds": [
+              "MIC.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abarai b’omochie omonene nigo bakogamba goetera ase amaaki, abakuani b’abana richiiko ase ogoakanwa, ababani barwa amaroro abo ase chitaabu boigo abwo bonsi bataamera buna Omonene nigo are amo na barabwo. Nigo bagoteeba, “bobe bonde tiboiyo boratochere.” Nainde bateeba “Omonene nigo are amo naitwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, ase engencho yaino Sayoni noremwe buna omogondo, Yerusalemu nobe amaturi, na egetunwa gie Hekalu ’nkebe rinani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.12",
+            "verseOrgIds": [
+              "MIC.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  }
+}

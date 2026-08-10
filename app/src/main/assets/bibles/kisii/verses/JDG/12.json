@@ -1,0 +1,490 @@
+{
+  "id": "JDG.12",
+  "number": "12",
+  "bookId": "JDG",
+  "reference": "Abagambi 12",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "JDG 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yefta n’Abaefraimu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JDG 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Efraimu bagasangererekana amo, bakaamboka gochia Safoni, bagakwana na Yefta, bakamoteebia, “Nase ki kwagendete korwania Abaamoni, ko tigwatorangeria togende komo? Bono ntorigetie gosamba enyomba yao, naye boigo togosambereo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.1",
+            "verseOrgIds": [
+              "JDG.12.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JDG 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yefta akabairaneria, “Inche n’abanto bane nigo twabwate eriomana ri’obobisa obonene n’Abaamoni. Inche ’nabarangeretie, korende timwanchete gontooria korwa ase amaboko abo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.2",
+            "verseOrgIds": [
+              "JDG.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JDG 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ekero narooche ng’a timwanchete gontooria tinayierete obogima bwane, ’nkaamboka, ’nkageenda korwania Abaamoni, n’Omonene akababeeka ase amaboko ane. Nase ki mwachire gokora esegi nainche?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.3",
+            "verseOrgIds": [
+              "JDG.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JDG 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Yefta agasangereria abanto bonsi ba Gileadi, bakarwania Abaefraimu, bakababua. Abaefraimu konye bateebire, “Inwe Abagileadi, nigo morwete ase Abaefraimu na ase Abamanase, nigo mwatamete korwa ase Abaefraimu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.4",
+            "verseOrgIds": [
+              "JDG.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JDG 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Gileadi bakabwata ebiambokero bia Yorodani, bagatanga abanto ba Efraimu. Na ekero Omoefraimu onde bwensi oyorenge gotama are gosaba ribaga kwamboka, abanto ba Gileadi nigo baare komobooria, “Aye n’Omoefraimu ore?” Onye omonto oria orenge gokaana oteeba, “Yaya”,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.5",
+            "verseOrgIds": [
+              "JDG.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JDG 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nigo baare komoboria atore ring’ana “Shibolet”. Onye orenge koriatora buna “Sibolet”, ekiagera atarenge konyaara gwatora ring’ana riria boronge, nigo barenge komobwata, bamoitera agwo ase ebiambokero bia Yorodani. Ase engaki eria Abaefraimu chilifu emerongo ene bagaitwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.6",
+            "verseOrgIds": [
+              "JDG.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JDG 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yefta akagaambera Abaisraeli ase engaki y’emiaka etano nomo. Erio Yefta, Omogileadi, agakwa, agatindekwa ase omochie oye agwo Gileadi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.7",
+            "verseOrgIds": [
+              "JDG.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ibasani, na Eloni, n’Abidoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JDG 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega ya Yefta, Ibasani o Bethlehemu akagaambera Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.8",
+            "verseOrgIds": [
+              "JDG.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JDG 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nigo abwate abana abamura emerongo etato, na abaiseke emerongo etato. Agasokia abana baye abaiseke ase abaamate abaao, naende akarenta abaiseke ba isiko emerongo etato, abana baye abamura bakabanyuoma. Ibasani akagaambera Abaisraeli ase engaki y’emiaka etano n’ebere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.9",
+            "verseOrgIds": [
+              "JDG.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JDG 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Ibasani agakwa, agatindekwa agwo Bethlehemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.10",
+            "verseOrgIds": [
+              "JDG.12.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JDG 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega ya Ibasani, Eloni, omoSabuloni, akagaambera Abaisraeli ase engaki y’emiaka ikomi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.11",
+            "verseOrgIds": [
+              "JDG.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JDG 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio agakwa, agatindekwa agwo Ayaloni, ase orogongo rwa Sabuloni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.12",
+            "verseOrgIds": [
+              "JDG.12.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JDG 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega ya Eloni, Abidoni, mosinto o Hileli, Omopiratori, akagaambera Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.13",
+            "verseOrgIds": [
+              "JDG.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JDG 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nigo abwate abana abamura emerongo ene, na abana abamura abaachokoro emerongo etato. Barabwo nigo baare koriina chitigere emerongo etano n’ebere. Abidoni akagaambera Abaisraeli ase engaki y’emiaka etano na etato.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.14",
+            "verseOrgIds": [
+              "JDG.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JDG 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Abidoni, mosinto o Hileli, Omopiratoni, agakwa, agatindekwa agwo Piratoni, ase ense ya Efraimu, ase ense y’ebitunwa y’Abaameleki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JDG.12.15",
+            "verseOrgIds": [
+              "JDG.12.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JDG.13",
+    "number": "13",
+    "bookId": "JDG"
+  },
+  "previous": {
+    "id": "JDG.11",
+    "number": "11",
+    "bookId": "JDG"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "id": "TIT.2",
+  "number": "2",
+  "bookId": "TIT",
+  "reference": "Tito 2",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "TIT 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okworokereria kwa amang’ana y’okwegena",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende aye, nekobetereretie gokwana amang’ana agwenerete okworokereria gw’okwegena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.1",
+            "verseOrgIds": [
+              "TIT.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oorokererie abagaaka babe aberiiti, abare n’ogosika, aberendete ase onsi, babe abagima ase okwegena, ase obwanchani, na ase oboremereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.2",
+            "verseOrgIds": [
+              "TIT.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo oorokererie abakungu abagotu babe norogendo rw’obochenu, tibaaba abang’aachi, gose abasomba gochia ase edivai. Yababetereirie barabwo babe aborokia b’ayare amaya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.3",
+            "verseOrgIds": [
+              "TIT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "erinde borokererie abakungu abake banche abasacha babo, na abana babo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.4",
+            "verseOrgIds": [
+              "TIT.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende babe aberendete ase onsi, abachenu, abagokora emeremo ase chinka chiabo, abaya, abaigwerete abasacha babo abanyene, erinde ring’ana ria Nyasae tiriramwa nonde bwensi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.5",
+            "verseOrgIds": [
+              "TIT.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo, obasorore abamura babe aberiti ase onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.6",
+            "verseOrgIds": [
+              "TIT.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase amang’ana onsi, aye omonyene bweorokie koba ekiorokererio ki’ogokora okuya. Okwane ayare ekeene na kworokereria nokwerwa gwonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.7",
+            "verseOrgIds": [
+              "TIT.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ogokwana kwao kobe ogoikeranu, okwo gotanyaare gosoerwa, erinde omoengereria onde bwensi asooke, taaba ne ring’ana riibe agokwana igoro yaito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.8",
+            "verseOrgIds": [
+              "TIT.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abasomba mbagwenerete baigwere naboigo kobagokia abanene babo ase amang’ana onsi, na tibaaba abakobairaneria bobe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "tibaaba abakobaibera. Korende babaorokie obwegenwa obuya ase onsi, erinde ase amang’ana onsi yogokora kwabo abe ekiorokererio ekiya gi’okworokereria kwa Nyasae, Omotooria oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.10",
+            "verseOrgIds": [
+              "TIT.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki Nyasae oorokriie obuya bwaye ase ogotooreka ase Mwanyabaanto bonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.11",
+            "verseOrgIds": [
+              "TIT.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obo nigo bogotworokereria okwanga amang’ana atari y’obonyasae ase obomenyo bwaito, na okogania okobe gw’ense eye, erinde tonyaare kwerenda ase onsi, na koba noboronge amo ne chingeencho chi’obonyasae ime ase ense eye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.12",
+            "verseOrgIds": [
+              "TIT.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gatoganyete ogoikeranigwa ogosemeria kwe Rituko Risesenirie, na okooroka kw’obonene bwa Nyasae omonene, na Omotooria oito Kristo Yeso,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.13",
+            "verseOrgIds": [
+              "TIT.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere omonyene oyobweruete ase engencho yaito, erinde atoboorie korwa ase ogosaria gwonsi, naboigo gotosibia ere omonyene abanto babe abaye, bare nomokia ase ogokora okuya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.14",
+            "verseOrgIds": [
+              "TIT.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwana amang’ana aya, ase okobua gwonsi ore nakwo, kuurera, na gotogonyera abategereri bao. Tibwanchera omonto onde bwensi agochaaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.15",
+            "verseOrgIds": [
+              "TIT.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.3",
+    "number": "3",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.1",
+    "number": "1",
+    "bookId": "TIT"
+  }
+}

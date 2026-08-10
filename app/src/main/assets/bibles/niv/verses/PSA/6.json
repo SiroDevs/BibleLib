@@ -1,0 +1,893 @@
+{
+  "id": "PSA.6",
+  "number": "6",
+  "bookId": "PSA",
+  "reference": "Psalm 6",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "PSA 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. With stringed instruments. According to",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "sheminith.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.1",
+                "verseOrgIds": [
+                  "PSA.6.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", do not rebuke me in your anger",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.1",
+            "verseOrgIds": [
+              "PSA.6.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:1"
+      },
+      "items": [
+        {
+          "text": "or discipline me in your wrath.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.1",
+            "verseOrgIds": [
+              "PSA.6.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Have mercy on me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.2",
+            "verseOrgIds": [
+              "PSA.6.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.2",
+                "verseOrgIds": [
+                  "PSA.6.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", for I am faint;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.2",
+            "verseOrgIds": [
+              "PSA.6.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:2"
+      },
+      "items": [
+        {
+          "text": "heal me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.2",
+            "verseOrgIds": [
+              "PSA.6.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.2",
+                "verseOrgIds": [
+                  "PSA.6.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", for my bones are in agony.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.2",
+            "verseOrgIds": [
+              "PSA.6.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My soul is in deep anguish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.3",
+            "verseOrgIds": [
+              "PSA.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:3"
+      },
+      "items": [
+        {
+          "text": "How long,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.3",
+            "verseOrgIds": [
+              "PSA.6.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.3",
+                "verseOrgIds": [
+                  "PSA.6.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", how long?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.3",
+            "verseOrgIds": [
+              "PSA.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.4",
+            "verseOrgIds": [
+              "PSA.6.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.4",
+                "verseOrgIds": [
+                  "PSA.6.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and deliver me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.4",
+            "verseOrgIds": [
+              "PSA.6.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:4"
+      },
+      "items": [
+        {
+          "text": "save me because of your unfailing love.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.4",
+            "verseOrgIds": [
+              "PSA.6.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Among the dead no one proclaims your name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.5",
+            "verseOrgIds": [
+              "PSA.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:5"
+      },
+      "items": [
+        {
+          "text": "Who praises you from the grave?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.5",
+            "verseOrgIds": [
+              "PSA.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am worn out from my groaning.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.6",
+            "verseOrgIds": [
+              "PSA.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 6:6"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 6:6"
+      },
+      "items": [
+        {
+          "text": "All night long I flood my bed with weeping",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.6",
+            "verseOrgIds": [
+              "PSA.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:6"
+      },
+      "items": [
+        {
+          "text": "and drench my couch with tears.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.6",
+            "verseOrgIds": [
+              "PSA.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My eyes grow weak with sorrow;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.7",
+            "verseOrgIds": [
+              "PSA.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:7"
+      },
+      "items": [
+        {
+          "text": "they fail because of all my foes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.7",
+            "verseOrgIds": [
+              "PSA.6.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Away from me, all you who do evil,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.8",
+            "verseOrgIds": [
+              "PSA.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:8"
+      },
+      "items": [
+        {
+          "text": "for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.8",
+            "verseOrgIds": [
+              "PSA.6.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.8",
+                "verseOrgIds": [
+                  "PSA.6.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "has heard my weeping.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.8",
+            "verseOrgIds": [
+              "PSA.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.9",
+            "verseOrgIds": [
+              "PSA.6.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.9",
+                "verseOrgIds": [
+                  "PSA.6.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "has heard my cry for mercy;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.9",
+            "verseOrgIds": [
+              "PSA.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:9"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.9",
+            "verseOrgIds": [
+              "PSA.6.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.6.9",
+                "verseOrgIds": [
+                  "PSA.6.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "accepts my prayer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.9",
+            "verseOrgIds": [
+              "PSA.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All my enemies will be overwhelmed with shame and anguish;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.10",
+            "verseOrgIds": [
+              "PSA.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 6:10"
+      },
+      "items": [
+        {
+          "text": "they will turn back and suddenly be put to shame.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.6.10",
+            "verseOrgIds": [
+              "PSA.6.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.7",
+    "number": "7",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  }
+}

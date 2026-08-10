@@ -1,0 +1,723 @@
+{
+  "id": "PSA.24",
+  "number": "24",
+  "bookId": "PSA",
+  "reference": "Psalms 24",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PSA 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The earth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.1",
+                "verseOrgIds": [
+                  "PSA.24.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD's",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.1",
+                "verseOrgIds": [
+                  "PSA.24.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and the fulness thereof; the world, and they that dwell therein.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 24:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For he hath founded it upon the seas, and established it upon the floods.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.2",
+            "verseOrgIds": [
+              "PSA.24.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 24:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who shall ascend into the hill of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.3",
+                "verseOrgIds": [
+                  "PSA.24.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "? or who shall stand in his holy place?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 24:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 24:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall receive the blessing from the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.5",
+                "verseOrgIds": [
+                  "PSA.24.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and righteousness from the God of his salvation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 24:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.6",
+                "verseOrgIds": [
+                  "PSA.24.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 24:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 24:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "this King of glory? The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "strong and mighty, the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mighty in battle.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift up your heads, O ye gates; even lift",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "them",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.9",
+                "verseOrgIds": [
+                  "PSA.24.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "up, ye everlasting doors; and the King of glory shall come in.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who is this King of glory? The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.10",
+                "verseOrgIds": [
+                  "PSA.24.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of hosts, he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.10",
+                "verseOrgIds": [
+                  "PSA.24.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the King of glory. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.25",
+    "number": "25",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  }
+}

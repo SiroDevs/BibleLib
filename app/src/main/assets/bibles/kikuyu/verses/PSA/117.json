@@ -1,0 +1,106 @@
+{
+  "id": "PSA.117",
+  "number": "117",
+  "bookId": "PSA",
+  "reference": "Thaburi 117",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "117",
+        "style": "c",
+        "sid": "PSA 117"
+      },
+      "items": [
+        {
+          "text": "117",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ndũrĩrĩ Ciothe kũũrio Igooce Ngai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 117:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 117:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.118",
+    "number": "118",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.116",
+    "number": "116",
+    "bookId": "PSA"
+  }
+}

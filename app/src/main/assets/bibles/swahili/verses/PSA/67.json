@@ -1,0 +1,488 @@
+{
+  "id": "PSA.67",
+  "number": "67",
+  "bookId": "PSA",
+  "reference": "Zaburi 67",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "67",
+        "style": "c",
+        "sid": "PSA 67"
+      },
+      "items": [
+        {
+          "text": "67",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 67",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mataifa Yahimizwa Kumsifu Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Kwa mwimbishaji. Na ala za nyuzi za muziki. Zaburi. Wimbo.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 67:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu aturehemu na kutubariki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.1",
+            "verseOrgIds": [
+              "PSA.67.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:1"
+      },
+      "items": [
+        {
+          "text": "na kutuangazia nuru za uso wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.1",
+            "verseOrgIds": [
+              "PSA.67.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 67:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ili njia zako zijulikane duniani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.2",
+            "verseOrgIds": [
+              "PSA.67.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:2"
+      },
+      "items": [
+        {
+          "text": "wokovu wako katikati ya mataifa yote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.2",
+            "verseOrgIds": [
+              "PSA.67.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 67:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mungu, mataifa na wakusifu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.3",
+            "verseOrgIds": [
+              "PSA.67.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:3"
+      },
+      "items": [
+        {
+          "text": "mataifa yote na wakusifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.3",
+            "verseOrgIds": [
+              "PSA.67.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 67:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mataifa yote wafurahi na kuimba kwa shangwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.4",
+            "verseOrgIds": [
+              "PSA.67.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:4"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa unatawala watu kwa haki",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.4",
+            "verseOrgIds": [
+              "PSA.67.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:4"
+      },
+      "items": [
+        {
+          "text": "na kuongoza mataifa ya dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.4",
+            "verseOrgIds": [
+              "PSA.67.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 67:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mungu, mataifa na wakusifu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.5",
+            "verseOrgIds": [
+              "PSA.67.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:5"
+      },
+      "items": [
+        {
+          "text": "mataifa yote na wakusifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.5",
+            "verseOrgIds": [
+              "PSA.67.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 67:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo nchi itatoa mazao yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.6",
+            "verseOrgIds": [
+              "PSA.67.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:6"
+      },
+      "items": [
+        {
+          "text": "naye Mungu, Mungu wetu, atatubariki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.6",
+            "verseOrgIds": [
+              "PSA.67.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 67:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu atatubariki",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.7",
+            "verseOrgIds": [
+              "PSA.67.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 67:7"
+      },
+      "items": [
+        {
+          "text": "na miisho yote ya dunia itamcha yeye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.67.7",
+            "verseOrgIds": [
+              "PSA.67.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.68",
+    "number": "68",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.66",
+    "number": "66",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "id": "PHP.3",
+  "number": "3",
+  "bookId": "PHP",
+  "reference": "Afilipi 3",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PHP 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ndũkanagĩe na Mwĩhoko thĩinĩ wa Mwĩrĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PHP 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro wa kũrĩkĩrĩria ariũ na aarĩ a Ithe witũ nĩ atĩrĩ, kenagai thĩinĩ wa Mwathani! Ha ũhoro wa gũcookera rĩngĩ maũndũ o marĩa ndanamwandĩkĩra-rĩ, ũcio ti ũhoro wa kũũnogia, tondũ harĩ inyuĩ nĩ ũhoro wa kũmũtiirĩrĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.1",
+            "verseOrgIds": [
+              "PHP.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PHP 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwĩmenyagĩrĩrei andũ acio mahaana ta magui, o acio mekaga maũndũ mooru, na arĩa metemengaga mĩĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.2",
+            "verseOrgIds": [
+              "PHP.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PHP 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo ithuĩ nĩ ithuĩ tũruĩte kũna, ithuĩ arĩa tũhooyaga na Roho wa Ngai, o ithuĩ arĩa twĩrahaga thĩinĩ wa Kristũ Jesũ, naguo mwĩhoko witũ tũtiũigaga thĩinĩ wa mwĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.3",
+            "verseOrgIds": [
+              "PHP.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PHP 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o na gũtuĩka o na niĩ mwene ingĩenda-rĩ, ndĩ na itũmi cia gũtũma ndĩĩhokage ũhoro wa mwĩrĩ. Kũngĩkorwo kũrĩ mũndũ ũngĩ o wothe wĩciiragia atĩ arĩ na itũmi cia kũgĩa na mwĩhoko thĩinĩ wa mwĩrĩ, niĩ nĩndĩmũkĩrĩtie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.4",
+            "verseOrgIds": [
+              "PHP.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PHP 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo niĩ ndaruithirio ndĩ na ũkũrũ wa thikũ inyanya, na ndĩ wa rũciaro rwa andũ a Isiraeli, na wa mũhĩrĩga wa Benjamini, na ndĩ Mũhibirania waciarĩtwo nĩ Ahibirania. Ha ũhoro ũkoniĩ watho-rĩ, ndĩ Mũfarisai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.5",
+            "verseOrgIds": [
+              "PHP.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PHP 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ha ũhoro ũkoniĩ kĩyo-rĩ, ndaatũire nyariiraga kanitha; na ha ũhoro wa ũthingu ũrĩa uumanaga na watho-rĩ, ndiarĩ na ũcuuke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.6",
+            "verseOrgIds": [
+              "PHP.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PHP 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, maũndũ mothe marĩa ndaatuaga atĩ maarĩ na uumithio kũrĩ niĩ-rĩ, rĩu ndĩmonaga marĩ ma tũhũ nĩ ũndũ wa kũgĩa na Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.7",
+            "verseOrgIds": [
+              "PHP.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PHP 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makĩria ma ũguo-rĩ, maũndũ mothe ndĩmatuaga nĩ ma tũhũ ndamagerekania na ũmenyo ũrĩa ũkĩrĩte maũndũ mothe ũrĩa uumanĩte na kũmenya Kristũ Jesũ Mwathani wakwa. Nĩ ũndũ wake-rĩ, niĩ ndoorirwo nĩ indo ciothe, na niĩ ngĩcitua o ta mahuti ma gũteo, nĩgeetha ndĩgĩĩre na Kristũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.8",
+            "verseOrgIds": [
+              "PHP.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PHP 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ngoragwo ndĩ thĩinĩ wake, itarĩ na ũthingu wakwa mwene ũrĩa uumanaga na watho, no ũkorwo arĩ ũthingu ũrĩa uumanaga na gwĩtĩkia Kristũ; ũguo nĩ kuuga, ũthingu ũrĩa uumaga kũrĩ Ngai, na wonekaga na ũndũ wa gwĩtĩkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.9",
+            "verseOrgIds": [
+              "PHP.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PHP 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũrĩa niĩ ngwenda-rĩ, nĩ kũmenya Kristũ, na menye hinya wa kũriũka gwake, na ngwatanĩre nake mĩnyamaro-inĩ yake, na haanane nake ũhoro-inĩ wake wa gũkua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.10",
+            "verseOrgIds": [
+              "PHP.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PHP 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩguo kũngĩhoteka, ngaariũkio nyume kũrĩ arĩa akuũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.11",
+            "verseOrgIds": [
+              "PHP.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kwĩrutanĩria Gũkinya Mũthia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PHP 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndiroiga atĩ nĩndĩkĩtie kwamũkĩra maũndũ macio mothe, o na kana ngarĩkia gũtuĩka mwagĩrĩru kũna, no nĩndĩĩrutanagĩria na kĩyo nĩgeetha ndĩnyiitĩre o ũndũ ũrĩa ndanyiitĩirwo nĩ Kristũ Jesũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.12",
+            "verseOrgIds": [
+              "PHP.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PHP 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariũ na aarĩ a Ithe witũ, ndigũtua atĩ niĩ mwene nĩndĩkĩtie kwĩnyiitĩra ũndũ ũcio. No rĩrĩ, ũndũ ũrĩa njĩkaga no ũmwe: Nĩkũriganĩrwo ndiganagĩrwo nĩ maũndũ marĩa mahĩtũku, na ngerutanĩria mũno gũkinyĩra maũndũ marĩa marĩ mbere,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.13",
+            "verseOrgIds": [
+              "PHP.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PHP 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ngerutanagĩria gũthiĩ ndorete na mbere nĩguo hootane heo kĩheo kĩrĩa Ngai aheanaga, na nĩkĩo aanjĩtĩire thĩinĩ wa Kristũ Jesũ atĩ nĩguo thiĩ igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.14",
+            "verseOrgIds": [
+              "PHP.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PHP 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ithuothe arĩa tũrĩ andũ agima-rĩ, twagĩrĩirwo nĩtũtũũre twĩciiragia o ũguo. Na hangĩkorwo nĩ harĩ andũ marĩ na meciiria mangĩ-rĩ, o na hau Ngai nĩarĩmũguũrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.15",
+            "verseOrgIds": [
+              "PHP.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PHP 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, rekei tũtũũre kũringana na maũndũ marĩa tũrĩkĩtie kũgĩa namo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.16",
+            "verseOrgIds": [
+              "PHP.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PHP 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariũ na aarĩ a Ithe witũ, nyiitanĩrai na arĩa angĩ ũhoro-inĩ wa kwĩgerekania na niĩ, na ningĩ mũbaarage wega andũ arĩa matũũraga na mũtũũrĩre o ũrĩa twamuonereirie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.17",
+            "verseOrgIds": [
+              "PHP.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PHP 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo, o ta ũrĩa ndanamwĩra kaingĩ mbere ĩyo, na o na rĩu no ngũcookera rĩngĩ ũhoro ũcio ndĩ na maithori, andũ aingĩ matũũraga marĩ thũ cia mũtharaba wa Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.18",
+            "verseOrgIds": [
+              "PHP.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PHP 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ acio-rĩ, kũrigĩrĩria kwao nĩ mwanangĩko, ngai yao nĩ nda ciao, namo maũndũ ma kũmaconora nĩmo riiri wao. Ningĩ meciiragia o maũndũ ma gũkũ thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.19",
+            "verseOrgIds": [
+              "PHP.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PHP 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, bũrũri ũrĩa tũrĩ aguo kĩũmbe nĩ kũũrĩa igũrũ. Na ithuĩ nĩtwetagĩrĩra Mũhonokia ũrĩa ũkoima kũu, na nĩwe Mwathani Jesũ Kristũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.20",
+            "verseOrgIds": [
+              "PHP.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PHP 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ũrĩa ũkaagarũra mĩĩrĩ ĩno iitũ mĩhinyaru nĩgeetha ĩhaananio na mwĩrĩ wake ũcio ũrĩ riiri, nĩ ũndũ wa hinya ũrĩa ũmũhotithagia gwatha maũndũ mothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHP.3.21",
+            "verseOrgIds": [
+              "PHP.3.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PHP.4",
+    "number": "4",
+    "bookId": "PHP"
+  },
+  "previous": {
+    "id": "PHP.2",
+    "number": "2",
+    "bookId": "PHP"
+  }
+}

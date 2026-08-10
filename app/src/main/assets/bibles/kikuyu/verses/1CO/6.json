@@ -1,0 +1,578 @@
+{
+  "id": "1CO.6",
+  "number": "6",
+  "bookId": "1CO",
+  "reference": "1 Akorinitho 6",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "1CO 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maciira Gatagatĩ-inĩ ka Andũ Etĩkia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũngĩkorwo kũrĩ mũndũ ũmwe wanyu ũhĩtĩirie ũrĩa ũngĩ-rĩ, no akĩgerie gũthiĩ kũrĩ andũ arĩa matetigĩrĩte Ngai nĩguo mamatuithanie ciira, handũ ha gũthiĩ mbere ya andũ arĩa aamũre?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.1",
+            "verseOrgIds": [
+              "1CO.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ andũ arĩa aamũre nĩo magaatuĩra andũ a gũkũ thĩ ciira? Na angĩkorwo nĩ inyuĩ mũgaaciirithia andũ a gũkũ thĩ-rĩ, githĩ mũtikĩrĩ na ũhoti wa gũtua maciira marĩa manini?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.2",
+            "verseOrgIds": [
+              "1CO.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ nĩ ithuĩ tũgaatuĩra araika ciira? Ĩ maũndũ ma mũtũũrĩre ũyũ-rĩ, githĩ tũtiagĩrĩirwo nĩkũmaciira makĩria!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.3",
+            "verseOrgIds": [
+              "1CO.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio kũngĩkorwo na mũndũ wanyu ũhĩtĩirio maũndũ-inĩ ta macio-rĩ, no mũthuure o na andũ matangĩtĩĩka kanitha-inĩ matuĩke a kũmũciirithia!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.4",
+            "verseOrgIds": [
+              "1CO.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndoiga ũguo nĩguo ndĩmũconore. Kwahoteka atĩa atĩ thĩinĩ wanyu gũtirĩ mũndũ mũũgĩ ũngĩhota gũtuithania etĩkia eerĩ ciira mangĩhĩtania?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.5",
+            "verseOrgIds": [
+              "1CO.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No handũ ha ũguo-rĩ, mũrũ kana mwarĩ wa Ithe witũ atwaraga ũrĩa ũngĩ igooti-inĩ, na nĩ igooti-inĩ rĩa arĩa matetĩkĩtie!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.6",
+            "verseOrgIds": [
+              "1CO.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gũkorwo mũrĩ na maciira gatagatĩ-inĩ kanyu nĩkuonania atĩ nĩmũhootetwo biũ. Githĩ ti kaba mwĩtĩkagĩre gwĩkwo ũũru? Githĩ ti kaba mwĩtĩkagĩre kũheenio?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.7",
+            "verseOrgIds": [
+              "1CO.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Handũ ha ũguo-rĩ, nĩmũheenanagia na mũgekana ũũru, na acio mwĩkaga ũguo-rĩ, nĩ ariũ na aarĩ a Ithe wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.8",
+            "verseOrgIds": [
+              "1CO.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ andũ arĩa aaganu matikagaya ũthamaki wa Ngai? Mũtikanaheeneke: Gũtirĩ ahũũri maraya, kana ahooi mĩhianano, kana itharia, kana arũme arĩa metuaga ta aka, kana arũme arĩa makomaga na arũme arĩa angĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.9",
+            "verseOrgIds": [
+              "1CO.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CO 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kana aici, kana andũ arĩa akoroku, kana arĩĩu, kana acambania, o na kana atunyani makaagaya ũthamaki wa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.10",
+            "verseOrgIds": [
+              "1CO.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CO 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ũguo nĩguo amwe anyu mwatariĩ. No nĩmwathambirio, na mũgĩtherio, na mũgĩtuuo athingu thĩinĩ wa rĩĩtwa rĩa Mwathani Jesũ Kristũ o na nĩ ũndũ wa Roho wa Ngai witũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.11",
+            "verseOrgIds": [
+              "1CO.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mehia ma Ũtharia",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CO 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Niĩ ndirigĩrĩirio gwĩka ũndũ o wothe,” no ti ũndũ o wothe ũrĩ kĩguni. “Niĩ ndirigĩrĩirio gwĩka ũndũ o wothe,” no ndingĩathwo nĩ ũndũ o na ũrĩkũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.12",
+            "verseOrgIds": [
+              "1CO.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CO 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Irio nĩ cia nda na nda nĩ ya irio,” no Ngai nĩagaciniina cierĩ. Mwĩrĩ ti wa kũhũthĩrwo na ũmaraya, no nĩ wa gũtungata Mwathani, nake Mwathani aathage mwĩrĩ ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.13",
+            "verseOrgIds": [
+              "1CO.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1CO 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai nĩariũkirie Mwathani kuuma kũrĩ arĩa akuũ nĩ ũndũ wa hinya wake, na o na ithuĩ nĩagatũriũkia na hinya o ro ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.14",
+            "verseOrgIds": [
+              "1CO.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1CO 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ mĩĩrĩ yanyu nĩ ciĩga cia Kristũ we mwene? Nĩ ũndũ ũcio, no ngĩoye ciĩga icio cia Kristũ nĩguo ndĩcinyiitithanie na mũmaraya? Kũroaga gũtuĩka ũguo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.15",
+            "verseOrgIds": [
+              "1CO.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1CO 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ mũndũ ũrĩa wĩnyiitithanagia na mũmaraya, matuĩkaga mwĩrĩ ũmwe nake? Nĩgũkorwo nĩ kwĩrĩtwo atĩrĩ, “Acio eerĩ magaatuĩka mwĩrĩ ũmwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.16",
+            "verseOrgIds": [
+              "1CO.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1CO 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũndũ ũrĩa wĩnyiitithanagia na Mwathani atuĩkaga ũmwe nake thĩinĩ wa roho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.17",
+            "verseOrgIds": [
+              "1CO.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1CO 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũragĩrai mehia ma ũmaraya. Mehia marĩa mangĩ mothe mekagwo nĩ mũndũ marĩ nja ya mwĩrĩ wake, no mũndũ ũrĩa ũhũũraga ũmaraya-rĩ, nĩ mwĩrĩ wake mwene ehagĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.18",
+            "verseOrgIds": [
+              "1CO.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1CO 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kaĩ inyuĩ mũtooĩ atĩ mĩĩrĩ yanyu nĩ hekarũ ya Roho Mũtheru ũrĩa ũrĩ thĩinĩ wanyu, ũrĩa mwaheirwo nĩ Ngai? Inyuĩ mũtirĩ anyu inyuĩ ene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.19",
+            "verseOrgIds": [
+              "1CO.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1CO 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "inyuĩ mwagũrirwo na thogora. Nĩ ũndũ ũcio-rĩ, tĩĩithagiai Ngai na mĩĩrĩ yanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.6.20",
+            "verseOrgIds": [
+              "1CO.6.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.7",
+    "number": "7",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.5",
+    "number": "5",
+    "bookId": "1CO"
+  }
+}

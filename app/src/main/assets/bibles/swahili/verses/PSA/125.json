@@ -1,0 +1,555 @@
+{
+  "id": "PSA.125",
+  "number": "125",
+  "bookId": "PSA",
+  "reference": "Zaburi 125",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "125",
+        "style": "c",
+        "sid": "PSA 125"
+      },
+      "items": [
+        {
+          "text": "125",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 125",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Usalama Wa Watu Wa Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 125:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale wamtumainio",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.125.1",
+                "verseOrgIds": [
+                  "PSA.125.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ni kama mlima Sayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:1"
+      },
+      "items": [
+        {
+          "text": "ambao hauwezi kutikisika, bali wadumu milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 125:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama milima inavyozunguka Yerusalemu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:2"
+      },
+      "items": [
+        {
+          "text": "ndivyo",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.125.2",
+                "verseOrgIds": [
+                  "PSA.125.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "anavyowazunguka watu wake",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:2"
+      },
+      "items": [
+        {
+          "text": "sasa na hata milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 125:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fimbo ya waovu haitadumu juu ya nchi",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:3"
+      },
+      "items": [
+        {
+          "text": "waliopewa wenye haki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 125:3"
+      },
+      "items": [
+        {
+          "text": "ili wenye haki wasije wakatumia",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:3"
+      },
+      "items": [
+        {
+          "text": "mikono yao kutenda ubaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 125:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.4",
+            "verseOrgIds": [
+              "PSA.125.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.125.4",
+                "verseOrgIds": [
+                  "PSA.125.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", watendee mema walio wema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.4",
+            "verseOrgIds": [
+              "PSA.125.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:4"
+      },
+      "items": [
+        {
+          "text": "wale walio wanyofu wa moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.4",
+            "verseOrgIds": [
+              "PSA.125.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 125:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bali wale wanaogeukia njia zilizopotoka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 125:5"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.125.5",
+                "verseOrgIds": [
+                  "PSA.125.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atawafukuza pamoja na watenda mabaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 125:5"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 125:5"
+      },
+      "items": [
+        {
+          "text": "Amani iwe juu ya Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.126",
+    "number": "126",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  }
+}

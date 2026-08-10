@@ -1,0 +1,215 @@
+{
+  "id": "ISA.4",
+  "number": "4",
+  "bookId": "ISA",
+  "reference": "Isaia 4",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "ISA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.1",
+            "verseOrgIds": [
+              "ISA.4.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Thuuna ya Jehova",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya ũcio Thuuna ya Jehova nĩĩgathakara na ĩgĩe riiri, namo maciaro ma bũrũri ũcio magaakorwo marĩ mega, na marĩ mwĩraho na riiri wa arĩa magaakorwo marĩ matigari kũu Isiraeli!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.2",
+            "verseOrgIds": [
+              "ISA.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, nĩgũgakinya atĩrĩ, andũ arĩa magaatigwo Zayuni, na arĩa magaakorwo matigaire Jerusalemu, mageetagwo atheru, nao nĩ arĩa othe maandĩkĩtwo na magaathĩrĩrwo gũtũũra muoyo kũu Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.3",
+            "verseOrgIds": [
+              "ISA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwathani nĩagathambia gĩko kĩrĩa kĩũru kĩa andũ-a-nja a Zayuni; nĩagatheria Jerusalemu marooro ma thakame arĩ na roho wa gũtuanĩra ciira o na roho wa gũcina na mwaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.4",
+            "verseOrgIds": [
+              "ISA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jehova nĩagatũma itu rĩa ndogo rĩgĩe kũndũ guothe mũthenya kũrĩa gũikarĩtwo nĩ andũ kĩrĩma-inĩ kĩu gĩa Zayuni, na atũme kũrĩa kũnganĩtwo gwakane rũrĩrĩmbĩ rwa mwaki ũtukũ; igũrũ rĩa riiri ũcio wothe gũgaakorwo taarĩ hema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.5",
+            "verseOrgIds": [
+              "ISA.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ĩgaatuĩka ta gĩthũnũ gĩa kũrehe kĩĩruru gĩa kwĩgitia kuuma kũrĩ ũrugarĩ wa mũthenya, na handũ ha kũũrĩra na ha kwĩgitia kuuma kũrĩ kĩhuhũkanio kĩa rũhuho na kĩa mbura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.4.6",
+            "verseOrgIds": [
+              "ISA.4.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.5",
+    "number": "5",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.3",
+    "number": "3",
+    "bookId": "ISA"
+  }
+}

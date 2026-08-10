@@ -1,0 +1,601 @@
+{
+  "id": "PSA.23",
+  "number": "23",
+  "bookId": "PSA",
+  "reference": "Psalm 23",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "23",
+        "style": "c",
+        "sid": "PSA 23"
+      },
+      "items": [
+        {
+          "text": "23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 23",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 23:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.1",
+            "verseOrgIds": [
+              "PSA.23.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.23.1",
+                "verseOrgIds": [
+                  "PSA.23.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is my shepherd, I lack nothing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.1",
+            "verseOrgIds": [
+              "PSA.23.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 23:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He makes me lie down in green pastures,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.2",
+            "verseOrgIds": [
+              "PSA.23.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:2"
+      },
+      "items": [
+        {
+          "text": "he leads me beside quiet waters,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.2",
+            "verseOrgIds": [
+              "PSA.23.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 23:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "he refreshes my soul.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.3",
+            "verseOrgIds": [
+              "PSA.23.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:3"
+      },
+      "items": [
+        {
+          "text": "He guides me along the right paths",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.3",
+            "verseOrgIds": [
+              "PSA.23.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:3"
+      },
+      "items": [
+        {
+          "text": "for his name's sake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.3",
+            "verseOrgIds": [
+              "PSA.23.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 23:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Even though I walk",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:4"
+      },
+      "items": [
+        {
+          "text": "through the darkest valley,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:4"
+      },
+      "items": [
+        {
+          "text": "I will fear no evil,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:4"
+      },
+      "items": [
+        {
+          "text": "for you are with me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:4"
+      },
+      "items": [
+        {
+          "text": "your rod and your staff,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:4"
+      },
+      "items": [
+        {
+          "text": "they comfort me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.4",
+            "verseOrgIds": [
+              "PSA.23.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 23:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You prepare a table before me",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.5",
+            "verseOrgIds": [
+              "PSA.23.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:5"
+      },
+      "items": [
+        {
+          "text": "in the presence of my enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.5",
+            "verseOrgIds": [
+              "PSA.23.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:5"
+      },
+      "items": [
+        {
+          "text": "You anoint my head with oil;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.5",
+            "verseOrgIds": [
+              "PSA.23.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:5"
+      },
+      "items": [
+        {
+          "text": "my cup overflows.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.5",
+            "verseOrgIds": [
+              "PSA.23.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 23:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely your goodness and love will follow me",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.6",
+            "verseOrgIds": [
+              "PSA.23.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:6"
+      },
+      "items": [
+        {
+          "text": "all the days of my life,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.6",
+            "verseOrgIds": [
+              "PSA.23.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 23:6"
+      },
+      "items": [
+        {
+          "text": "and I will dwell in the house of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.6",
+            "verseOrgIds": [
+              "PSA.23.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.23.6",
+                "verseOrgIds": [
+                  "PSA.23.6"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 23:6"
+      },
+      "items": [
+        {
+          "text": "forever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.23.6",
+            "verseOrgIds": [
+              "PSA.23.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.24",
+    "number": "24",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.22",
+    "number": "22",
+    "bookId": "PSA"
+  }
+}

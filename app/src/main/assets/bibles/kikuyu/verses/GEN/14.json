@@ -1,0 +1,656 @@
+{
+  "id": "GEN.14",
+  "number": "14",
+  "bookId": "GEN",
+  "reference": "Kĩambĩrĩria 14",
+  "verseCount": 24,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "GEN 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aburamu gũteithũra Loti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihinda-inĩ rĩu, Amurafeli mũthamaki wa Shinaru, na Arioku mũthamaki wa Elasaru, na Kedorilaomeri mũthamaki wa Elamu, na Tidali mũthamaki wa Goimu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.1",
+            "verseOrgIds": [
+              "GEN.14.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 14:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩmathiire ita kũrũa na Bera mũthamaki wa Sodomu, na Birisha mũthamaki wa Gomora, na Shinabu mũthamaki wa Adima, na Shemeberi mũthamaki wa Zeboimu na mũthamaki wa Bela (na nokuo Zoari).",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.2",
+            "verseOrgIds": [
+              "GEN.14.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 14:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Athamaki acio othe a gĩkundi gĩa keerĩ nĩmacookanĩrĩire hamwe Gĩtuamba-inĩ gĩa Sidimu (na nokuo Iria rĩa Cumbĩ).",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.3",
+            "verseOrgIds": [
+              "GEN.14.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 14:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihinda rĩa mĩaka ikũmi na ĩĩrĩ maatũire matungatagĩra Mũthamaki Kedorilaomeri, no mwaka-inĩ wa ikũmi na ĩtatũ makĩregana na watho wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.4",
+            "verseOrgIds": [
+              "GEN.14.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 14:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaka-inĩ wa ikũmi na ĩna-rĩ, Mũthamaki Kedorilaomeri na athamaki arĩa maarĩ hamwe nake magĩthiĩ makĩhoota Arefaikũu Ashiterothu-Karinaimu, na Azuzi kũu Hamu, na Aemi kũu Shave-Kiriathaimu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.5",
+            "verseOrgIds": [
+              "GEN.14.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 14:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nao Ahori makĩmahootera bũrũri-inĩ wa irĩma wa Seiru, o nginya Eli-Parani gũkuhĩ na werũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.6",
+            "verseOrgIds": [
+              "GEN.14.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 14:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ athamaki acio makĩgarũrũka, magĩthiĩ Eni-Mishipatu (na nokuo Kadeshi), magĩtooria rũgongo ruothe rwa Amaleki,o hamwe na Aamori arĩa maatũũraga kũu Hazazoni-Tamaru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.7",
+            "verseOrgIds": [
+              "GEN.14.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 14:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ mũthamaki wa Sodomu, na mũthamaki wa Gomora, na mũthamaki wa Adima, na mũthamaki wa Zeboimu, na mũthamaki wa Bela (na nokuo Zoari) magĩthiĩ makĩhaarĩria ita rĩao rĩa mbaara o kũu Gĩtuamba-inĩ gĩa Sidimu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.8",
+            "verseOrgIds": [
+              "GEN.14.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 14:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mahũũrane na Kedorilaomeri mũthamaki wa Elamu, na Tidali mũthamaki wa Goimu, na Amurafeli mũthamaki wa Shinaru, na Arioku mũthamaki wa Elasaru, athamaki acio ana mahũũrane na athamaki acio angĩ atano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.9",
+            "verseOrgIds": [
+              "GEN.14.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 14:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Gĩtuamba kĩu gĩa Sidimu kĩaiyũrĩte marima ma rami, na rĩrĩa athamaki a Sodomu na Gomora mooraga-rĩ, andũ amwe ao makĩgũa kuo nao arĩa angĩ makĩũrĩra irĩma-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.10",
+            "verseOrgIds": [
+              "GEN.14.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 14:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Athamaki acio ana magĩtunyana indo ciothe cia Sodomu na Gomora o na irio ciakuo ciothe; magĩcooka magĩĩthiĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.11",
+            "verseOrgIds": [
+              "GEN.14.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 14:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ magĩtaha Loti, mũriũ wa mũrũ wa nyina na Aburamu, na indo ciake, tondũ aatũũraga kũu Sodomu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.12",
+            "verseOrgIds": [
+              "GEN.14.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 14:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, mũndũ ũmwe wahonokete gũtahwo-rĩ, agĩũka na akĩĩra Aburamu ũrĩa Mũhibirania ũhoro ũcio. Na rĩrĩ, Aburamu aatũũraga hakuhĩ na mĩtĩ ĩrĩa mĩnene ya mĩgandi ya Mamure ũrĩa Mũamori, mũrũ wa nyina na Eshikoli na Aneri, na othe maarĩ rũmwe na Aburamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.13",
+            "verseOrgIds": [
+              "GEN.14.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 14:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Aburamu aiguire atĩ mũndũ ũcio wao nĩanyiitĩtwo agatahwo-rĩ, agĩĩta andũ magana matatũ na ikũmi na anana arĩa maarutĩtwo kũrũa mbaara na maaciarĩirwo gwake mũciĩ, makĩingatithia thũ icio o nginya Dani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.14",
+            "verseOrgIds": [
+              "GEN.14.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 14:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũtukũ-rĩ, Aburamu akĩgayania andũ ake mamatharĩkĩre, nake akĩmahoota na akĩmaingatithia nginya Hoba, itũũra rĩrĩ gathigathini wa Dameski.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.15",
+            "verseOrgIds": [
+              "GEN.14.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 14:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aburamu agĩcookithia indo ciothe iria ciatahĩtwo, na Loti mũndũ ũcio wao, na indo ciake ciothe, hamwe na andũ-a-nja na andũ arĩa angĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.16",
+            "verseOrgIds": [
+              "GEN.14.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 14:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aburamu acooka kuuma kũhoota Kedorilaomeri na athamaki arĩa maarĩ rũmwe nake-rĩ, mũthamaki wa Sodomu agĩthiĩ kũmũtũnga Gĩtuamba-inĩ gĩa Shave (na no kĩo gĩĩtagwo Gĩtuamba-kĩa-Mũthamaki).",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.17",
+            "verseOrgIds": [
+              "GEN.14.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 14:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Melikisedeki mũthamaki wa Salemuakĩrehe mĩgate na ndibei. We aarĩ mũthĩnjĩri wa Mũrungu Ũrĩa-ũrĩ-Igũrũ-Mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.18",
+            "verseOrgIds": [
+              "GEN.14.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 14:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na akĩrathima Aburamu, akiuga atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.19",
+            "verseOrgIds": [
+              "GEN.14.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 14:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Aburamu akĩhe Melikisedeki gĩcunjĩ gĩa ikũmi kĩa indo ciothe iria aatunyĩte athamaki arĩa ana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.20",
+            "verseOrgIds": [
+              "GEN.14.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 14:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthamaki wa Sodomu akĩĩra Aburamu atĩrĩ, “Niĩ nengera o andũ tu, ũrigie na indo ituĩke ciaku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.21",
+            "verseOrgIds": [
+              "GEN.14.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 14:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Aburamu akĩĩra mũthamaki ũcio wa Sodomu atĩrĩ, “Nĩnyambararĩtie guoko gwakwa na igũrũ na ngehĩta na mwĩhĩtwa kũrĩ Jehova Mũrungu Ũrĩa-ũrĩ-Igũrũ-Mũno, Mũmbi wa igũrũ na thĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.22",
+            "verseOrgIds": [
+              "GEN.14.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 14:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "atĩ ndingĩĩtĩkĩra kuoya kĩndũ o na kĩmwe gĩaku, o na karũrigi kana kamũkwa ga kĩraatũ, nĩgeetha ndũkanoige atĩrĩ, ‘Nĩ niĩ ndatongirie Aburamu.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.23",
+            "verseOrgIds": [
+              "GEN.14.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 14:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndingĩĩtĩkĩra kuoya kĩndũ, o tiga kĩrĩa kĩrĩĩtwo nĩ andũ akwa, na igai rĩa andũ arĩa tũrathiĩte nao, na nĩo Aneri, na Eshikoli, na Mamure. Acio nĩmooe rũgai rwao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.14.24",
+            "verseOrgIds": [
+              "GEN.14.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.15",
+    "number": "15",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.13",
+    "number": "13",
+    "bookId": "GEN"
+  }
+}

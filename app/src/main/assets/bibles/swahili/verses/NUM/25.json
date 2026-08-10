@@ -1,0 +1,705 @@
+{
+  "id": "NUM.25",
+  "number": "25",
+  "bookId": "NUM",
+  "reference": "Hesabu 25",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "NUM 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Moabu Yashawishi Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Israeli alipokuwa akikaa Shitimu, wanaume wa Israeli walianza kuzini na wanawake wa Kimoabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.1",
+            "verseOrgIds": [
+              "NUM.25.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 25:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ambao waliwaalika kushiriki katika kutoa kafara kwa miungu yao. Watu wakala na kusujudu mbele ya miungu hii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.2",
+            "verseOrgIds": [
+              "NUM.25.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 25:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo Israeli akaungana katika kumwabudu Baali wa Peori. Hasira ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.3",
+            "verseOrgIds": [
+              "NUM.25.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.3",
+                "verseOrgIds": [
+                  "NUM.25.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ikawaka dhidi yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.3",
+            "verseOrgIds": [
+              "NUM.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 25:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.4",
+                "verseOrgIds": [
+                  "NUM.25.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose, \"Uwachukue viongozi wote wa watu hawa, uwaue na uwaweke hadharani mchana peupe mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.4",
+            "verseOrgIds": [
+              "NUM.25.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.4",
+                "verseOrgIds": [
+                  "NUM.25.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", ili hasira kali ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.4",
+            "verseOrgIds": [
+              "NUM.25.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.4",
+                "verseOrgIds": [
+                  "NUM.25.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "iweze kuondoka kwa Israeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.4",
+            "verseOrgIds": [
+              "NUM.25.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 25:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo Mose akawaambia waamuzi wa Israeli, \"Kila mmoja wenu lazima awaue wale wanaume wenu, walioshiriki katika kumwabudu Baali wa Peori.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.5",
+            "verseOrgIds": [
+              "NUM.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 25:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo mwanaume wa Kiisraeli akamleta mwanamke wa Kimidiani katika jamaa yake palepale mbele ya Mose na mkutano wote wa Israeli walipokuwa wakilia kwenye lango la Hema la Kukutania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.6",
+            "verseOrgIds": [
+              "NUM.25.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 25:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Finehasi mwana wa Eleazari, mwana wa kuhani Aroni, alipoona jambo hili, akaondoka kwenye kusanyiko, akachukua mkuki mkononi mwake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.7",
+            "verseOrgIds": [
+              "NUM.25.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 25:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akamfuata yule Mwisraeli ndani ya hema. Akawachoma mkuki wote wawili kwa pamoja, ukapenya kwenye mwili wa yule Mwisraeli na mwili wa yule mwanamke. Ndipo tauni iliyokuwepo dhidi ya Waisraeli ikakoma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.8",
+            "verseOrgIds": [
+              "NUM.25.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 25:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wale waliokufa kwa hiyo tauni walikuwa watu 24,000.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.9",
+            "verseOrgIds": [
+              "NUM.25.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 25:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.10",
+                "verseOrgIds": [
+                  "NUM.25.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.10",
+            "verseOrgIds": [
+              "NUM.25.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 25:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Finehasi mwana wa Eleazari, mwana wa kuhani Aroni, amegeuza hasira yangu mbali na Waisraeli, kwa sababu alikuwa na wivu kama nilio nao kwa heshima yangu miongoni mwao, hata kwamba kwa wivu wangu sikuwaangamiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.11",
+            "verseOrgIds": [
+              "NUM.25.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 25:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo mwambie Finehasi ninafanya Agano langu la amani naye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.12",
+            "verseOrgIds": [
+              "NUM.25.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 25:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeye pamoja na wazao wake watakuwa na Agano la ukuhani milele, kwa sababu alikuwa na wivu kwa ajili ya heshima ya Mungu wake, na akafanya upatanisho kwa Waisraeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.13",
+            "verseOrgIds": [
+              "NUM.25.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 25:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jina la Mwisraeli ambaye aliuawa pamoja na mwanamke wa Kimidiani ni Zimri mwana wa Salu, kiongozi wa jamaa ya Simeoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.14",
+            "verseOrgIds": [
+              "NUM.25.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 25:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jina la mwanamke wa Kimidiani aliyeuawa ni Kozbi binti wa Suri, aliyekuwa mkuu wa kabila la jamaa ya Wamidiani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.15",
+            "verseOrgIds": [
+              "NUM.25.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 25:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.25.16",
+                "verseOrgIds": [
+                  "NUM.25.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.16",
+            "verseOrgIds": [
+              "NUM.25.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 25:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Watendeeni Wamidiani kama adui na mwaue,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.17",
+            "verseOrgIds": [
+              "NUM.25.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 25:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa sababu wao waliwatendea kama adui wakati waliwadanganya katika tukio la Peori na dada yao Kozbi, binti wa kiongozi wa Kimidiani, mwanamke ambaye aliuawa wakati tauni ilikuja kama matokeo ya tukio la Peori.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.25.18",
+            "verseOrgIds": [
+              "NUM.25.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.26",
+    "number": "26",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.24",
+    "number": "24",
+    "bookId": "NUM"
+  }
+}

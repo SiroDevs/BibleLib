@@ -1,0 +1,679 @@
+{
+  "id": "PSA.47",
+  "number": "47",
+  "bookId": "PSA",
+  "reference": "Psalm 47",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "47",
+        "style": "c",
+        "sid": "PSA 47"
+      },
+      "items": [
+        {
+          "text": "47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 47",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. Of the Sons of Korah. A psalm.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 47:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Clap your hands, all you nations;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.1",
+            "verseOrgIds": [
+              "PSA.47.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:1"
+      },
+      "items": [
+        {
+          "text": "shout to God with cries of joy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.1",
+            "verseOrgIds": [
+              "PSA.47.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 47:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.2",
+            "verseOrgIds": [
+              "PSA.47.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.47.2",
+                "verseOrgIds": [
+                  "PSA.47.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Most High is awesome,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.2",
+            "verseOrgIds": [
+              "PSA.47.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:2"
+      },
+      "items": [
+        {
+          "text": "the great King over all the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.2",
+            "verseOrgIds": [
+              "PSA.47.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 47:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He subdued nations under us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.3",
+            "verseOrgIds": [
+              "PSA.47.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:3"
+      },
+      "items": [
+        {
+          "text": "peoples under our feet.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.3",
+            "verseOrgIds": [
+              "PSA.47.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 47:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He chose our inheritance for us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.4",
+            "verseOrgIds": [
+              "PSA.47.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:4"
+      },
+      "items": [
+        {
+          "text": "the pride of Jacob, whom he loved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.4",
+            "verseOrgIds": [
+              "PSA.47.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 47:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God has ascended amid shouts of joy,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.5",
+            "verseOrgIds": [
+              "PSA.47.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:5"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.5",
+            "verseOrgIds": [
+              "PSA.47.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.47.5",
+                "verseOrgIds": [
+                  "PSA.47.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "amid the sounding of trumpets.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.5",
+            "verseOrgIds": [
+              "PSA.47.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 47:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sing praises to God, sing praises;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.6",
+            "verseOrgIds": [
+              "PSA.47.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:6"
+      },
+      "items": [
+        {
+          "text": "sing praises to our King, sing praises.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.6",
+            "verseOrgIds": [
+              "PSA.47.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 47:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For God is the King of all the earth;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.7",
+            "verseOrgIds": [
+              "PSA.47.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:7"
+      },
+      "items": [
+        {
+          "text": "sing to him a psalm of praise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.7",
+            "verseOrgIds": [
+              "PSA.47.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 47:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God reigns over the nations;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.8",
+            "verseOrgIds": [
+              "PSA.47.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:8"
+      },
+      "items": [
+        {
+          "text": "God is seated on his holy throne.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.8",
+            "verseOrgIds": [
+              "PSA.47.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 47:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The nobles of the nations assemble",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.9",
+            "verseOrgIds": [
+              "PSA.47.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:9"
+      },
+      "items": [
+        {
+          "text": "as the people of the God of Abraham,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.9",
+            "verseOrgIds": [
+              "PSA.47.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 47:9"
+      },
+      "items": [
+        {
+          "text": "for the kings",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.9",
+            "verseOrgIds": [
+              "PSA.47.10"
+            ]
+          }
+        },
+        {
+          "text": "of the earth belong to God;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.9",
+            "verseOrgIds": [
+              "PSA.47.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 47:9"
+      },
+      "items": [
+        {
+          "text": "he is greatly exalted.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.47.9",
+            "verseOrgIds": [
+              "PSA.47.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.48",
+    "number": "48",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.46",
+    "number": "46",
+    "bookId": "PSA"
+  }
+}

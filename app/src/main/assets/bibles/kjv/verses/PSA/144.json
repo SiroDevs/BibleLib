@@ -1,0 +1,1380 @@
+{
+  "id": "PSA.144",
+  "number": "144",
+  "bookId": "PSA",
+  "reference": "Psalms 144",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "144",
+        "style": "c",
+        "sid": "PSA 144"
+      },
+      "items": [
+        {
+          "text": "144",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 144:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.1",
+                "verseOrgIds": [
+                  "PSA.144.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.1",
+                "verseOrgIds": [
+                  "PSA.144.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my strength, which teacheth my hands to war,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.1",
+                "verseOrgIds": [
+                  "PSA.144.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my fingers to fight:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.1",
+            "verseOrgIds": [
+              "PSA.144.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 144:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.2",
+            "verseOrgIds": [
+              "PSA.144.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "he",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.2",
+                "verseOrgIds": [
+                  "PSA.144.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in whom I trust; who subdueth my people under me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.2",
+            "verseOrgIds": [
+              "PSA.144.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 144:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.3",
+                "verseOrgIds": [
+                  "PSA.144.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", what",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.3",
+            "verseOrgIds": [
+              "PSA.144.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.3",
+                "verseOrgIds": [
+                  "PSA.144.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "man, that thou takest knowledge of him!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.3",
+            "verseOrgIds": [
+              "PSA.144.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "or",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.3",
+                "verseOrgIds": [
+                  "PSA.144.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the son of man, that thou makest account of him!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.3",
+            "verseOrgIds": [
+              "PSA.144.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 144:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Man is like to vanity: his days",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.4",
+            "verseOrgIds": [
+              "PSA.144.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.4",
+                "verseOrgIds": [
+                  "PSA.144.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a shadow that passeth away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.4",
+            "verseOrgIds": [
+              "PSA.144.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 144:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bow thy heavens, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.5",
+            "verseOrgIds": [
+              "PSA.144.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.5",
+                "verseOrgIds": [
+                  "PSA.144.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and come down: touch the mountains, and they shall smoke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.5",
+            "verseOrgIds": [
+              "PSA.144.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 144:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.6",
+            "verseOrgIds": [
+              "PSA.144.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 144:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.7",
+            "verseOrgIds": [
+              "PSA.144.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 144:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whose mouth speaketh vanity, and their right hand",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.8",
+            "verseOrgIds": [
+              "PSA.144.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.8",
+                "verseOrgIds": [
+                  "PSA.144.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a right hand of falsehood.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.8",
+            "verseOrgIds": [
+              "PSA.144.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 144:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will sing a new song unto thee, O God: upon a psaltery",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.9",
+            "verseOrgIds": [
+              "PSA.144.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.9",
+                "verseOrgIds": [
+                  "PSA.144.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "an instrument of ten strings will I sing praises unto thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.9",
+            "verseOrgIds": [
+              "PSA.144.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 144:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "It is he",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.10",
+                "verseOrgIds": [
+                  "PSA.144.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.10",
+            "verseOrgIds": [
+              "PSA.144.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 144:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.11",
+            "verseOrgIds": [
+              "PSA.144.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.11",
+                "verseOrgIds": [
+                  "PSA.144.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a right hand of falsehood:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.11",
+            "verseOrgIds": [
+              "PSA.144.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 144:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That our sons",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.12",
+            "verseOrgIds": [
+              "PSA.144.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "may be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.12",
+                "verseOrgIds": [
+                  "PSA.144.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as plants grown up in their youth;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.12",
+            "verseOrgIds": [
+              "PSA.144.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.12",
+                "verseOrgIds": [
+                  "PSA.144.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our daughters",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.12",
+            "verseOrgIds": [
+              "PSA.144.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "may be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.12",
+                "verseOrgIds": [
+                  "PSA.144.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as corner stones, polished",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.12",
+            "verseOrgIds": [
+              "PSA.144.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "after",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.12",
+                "verseOrgIds": [
+                  "PSA.144.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the similitude of a palace:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.12",
+            "verseOrgIds": [
+              "PSA.144.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 144:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "That",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.13",
+                "verseOrgIds": [
+                  "PSA.144.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our garners",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.13",
+            "verseOrgIds": [
+              "PSA.144.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "may be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.13",
+                "verseOrgIds": [
+                  "PSA.144.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "full, affording all manner of store:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.13",
+            "verseOrgIds": [
+              "PSA.144.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.13",
+                "verseOrgIds": [
+                  "PSA.144.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our sheep may bring forth thousands and ten thousands in our streets:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.13",
+            "verseOrgIds": [
+              "PSA.144.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 144:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "That",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.14",
+                "verseOrgIds": [
+                  "PSA.144.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our oxen",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.14",
+            "verseOrgIds": [
+              "PSA.144.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "may be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.14",
+                "verseOrgIds": [
+                  "PSA.144.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "strong to labour;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.14",
+            "verseOrgIds": [
+              "PSA.144.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that there be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.14",
+                "verseOrgIds": [
+                  "PSA.144.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no breaking in, nor going out; that",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.14",
+            "verseOrgIds": [
+              "PSA.144.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.14",
+                "verseOrgIds": [
+                  "PSA.144.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no complaining in our streets.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.14",
+            "verseOrgIds": [
+              "PSA.144.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 144:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Happy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.15",
+                "verseOrgIds": [
+                  "PSA.144.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "people, that is in such a case:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "yea",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.15",
+                "verseOrgIds": [
+                  "PSA.144.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", happy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.15",
+                "verseOrgIds": [
+                  "PSA.144.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "people, whose God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.15",
+                "verseOrgIds": [
+                  "PSA.144.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.144.15",
+                "verseOrgIds": [
+                  "PSA.144.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.144.15",
+            "verseOrgIds": [
+              "PSA.144.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.145",
+    "number": "145",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.143",
+    "number": "143",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,1516 @@
+{
+  "id": "PSA.50",
+  "number": "50",
+  "bookId": "PSA",
+  "reference": "Psalm 50",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "50",
+        "style": "c",
+        "sid": "PSA 50"
+      },
+      "items": [
+        {
+          "text": "50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 50",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A psalm of Asaph.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 50:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The Mighty One, God, the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.1",
+            "verseOrgIds": [
+              "PSA.50.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.50.1",
+                "verseOrgIds": [
+                  "PSA.50.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.1",
+            "verseOrgIds": [
+              "PSA.50.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:1"
+      },
+      "items": [
+        {
+          "text": "speaks and summons the earth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.1",
+            "verseOrgIds": [
+              "PSA.50.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:1"
+      },
+      "items": [
+        {
+          "text": "from the rising of the sun to where it sets.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.1",
+            "verseOrgIds": [
+              "PSA.50.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 50:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "From Zion, perfect in beauty,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.2",
+            "verseOrgIds": [
+              "PSA.50.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:2"
+      },
+      "items": [
+        {
+          "text": "God shines forth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.2",
+            "verseOrgIds": [
+              "PSA.50.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 50:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our God comes",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.3",
+            "verseOrgIds": [
+              "PSA.50.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:3"
+      },
+      "items": [
+        {
+          "text": "and will not be silent;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.3",
+            "verseOrgIds": [
+              "PSA.50.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 50:3"
+      },
+      "items": [
+        {
+          "text": "a fire devours before him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.3",
+            "verseOrgIds": [
+              "PSA.50.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:3"
+      },
+      "items": [
+        {
+          "text": "and around him a tempest rages.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.3",
+            "verseOrgIds": [
+              "PSA.50.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 50:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He summons the heavens above,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.4",
+            "verseOrgIds": [
+              "PSA.50.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:4"
+      },
+      "items": [
+        {
+          "text": "and the earth, that he may judge his people:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.4",
+            "verseOrgIds": [
+              "PSA.50.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 50:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Gather to me this consecrated people,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.5",
+            "verseOrgIds": [
+              "PSA.50.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:5"
+      },
+      "items": [
+        {
+          "text": "who made a covenant with me by sacrifice.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.5",
+            "verseOrgIds": [
+              "PSA.50.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 50:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the heavens proclaim his righteousness,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.6",
+            "verseOrgIds": [
+              "PSA.50.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:6"
+      },
+      "items": [
+        {
+          "text": "for he is a God of justice.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.6",
+            "verseOrgIds": [
+              "PSA.50.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 50:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Listen, my people, and I will speak;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.7",
+            "verseOrgIds": [
+              "PSA.50.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:7"
+      },
+      "items": [
+        {
+          "text": "I will testify against you, Israel:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.7",
+            "verseOrgIds": [
+              "PSA.50.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:7"
+      },
+      "items": [
+        {
+          "text": "I am God, your God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.7",
+            "verseOrgIds": [
+              "PSA.50.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 50:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I bring no charges against you concerning your sacrifices",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.8",
+            "verseOrgIds": [
+              "PSA.50.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:8"
+      },
+      "items": [
+        {
+          "text": "or concerning your burnt offerings, which are ever before me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.8",
+            "verseOrgIds": [
+              "PSA.50.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 50:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have no need of a bull from your stall",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.9",
+            "verseOrgIds": [
+              "PSA.50.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:9"
+      },
+      "items": [
+        {
+          "text": "or of goats from your pens,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.9",
+            "verseOrgIds": [
+              "PSA.50.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 50:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "for every animal of the forest is mine,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.10",
+            "verseOrgIds": [
+              "PSA.50.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:10"
+      },
+      "items": [
+        {
+          "text": "and the cattle on a thousand hills.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.10",
+            "verseOrgIds": [
+              "PSA.50.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 50:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I know every bird in the mountains,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.11",
+            "verseOrgIds": [
+              "PSA.50.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:11"
+      },
+      "items": [
+        {
+          "text": "and the insects in the fields are mine.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.11",
+            "verseOrgIds": [
+              "PSA.50.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 50:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If I were hungry I would not tell you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.12",
+            "verseOrgIds": [
+              "PSA.50.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:12"
+      },
+      "items": [
+        {
+          "text": "for the world is mine, and all that is in it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.12",
+            "verseOrgIds": [
+              "PSA.50.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 50:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do I eat the flesh of bulls",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.13",
+            "verseOrgIds": [
+              "PSA.50.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:13"
+      },
+      "items": [
+        {
+          "text": "or drink the blood of goats?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.13",
+            "verseOrgIds": [
+              "PSA.50.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 50:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Sacrifice thank offerings to God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.14",
+            "verseOrgIds": [
+              "PSA.50.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:14"
+      },
+      "items": [
+        {
+          "text": "fulfill your vows to the Most High,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.14",
+            "verseOrgIds": [
+              "PSA.50.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 50:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and call on me in the day of trouble;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.15",
+            "verseOrgIds": [
+              "PSA.50.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:15"
+      },
+      "items": [
+        {
+          "text": "I will deliver you, and you will honor me.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.15",
+            "verseOrgIds": [
+              "PSA.50.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 50:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But to the wicked person, God says:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.16",
+            "verseOrgIds": [
+              "PSA.50.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 50:16"
+      },
+      "items": [
+        {
+          "text": "\"What right have you to recite my laws",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.16",
+            "verseOrgIds": [
+              "PSA.50.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:16"
+      },
+      "items": [
+        {
+          "text": "or take my covenant on your lips?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.16",
+            "verseOrgIds": [
+              "PSA.50.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 50:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You hate my instruction",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.17",
+            "verseOrgIds": [
+              "PSA.50.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:17"
+      },
+      "items": [
+        {
+          "text": "and cast my words behind you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.17",
+            "verseOrgIds": [
+              "PSA.50.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 50:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When you see a thief, you join with him;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.18",
+            "verseOrgIds": [
+              "PSA.50.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:18"
+      },
+      "items": [
+        {
+          "text": "you throw in your lot with adulterers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.18",
+            "verseOrgIds": [
+              "PSA.50.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 50:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You use your mouth for evil",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.19",
+            "verseOrgIds": [
+              "PSA.50.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:19"
+      },
+      "items": [
+        {
+          "text": "and harness your tongue to deceit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.19",
+            "verseOrgIds": [
+              "PSA.50.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 50:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You sit and testify against your brother",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.20",
+            "verseOrgIds": [
+              "PSA.50.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:20"
+      },
+      "items": [
+        {
+          "text": "and slander your own mother's son.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.20",
+            "verseOrgIds": [
+              "PSA.50.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 50:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When you did these things and I kept silent,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.21",
+            "verseOrgIds": [
+              "PSA.50.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:21"
+      },
+      "items": [
+        {
+          "text": "you thought I was exactly",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.21",
+            "verseOrgIds": [
+              "PSA.50.21"
+            ]
+          }
+        },
+        {
+          "text": "like you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.21",
+            "verseOrgIds": [
+              "PSA.50.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 50:21"
+      },
+      "items": [
+        {
+          "text": "But I now arraign you",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.21",
+            "verseOrgIds": [
+              "PSA.50.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:21"
+      },
+      "items": [
+        {
+          "text": "and set my accusations before you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.21",
+            "verseOrgIds": [
+              "PSA.50.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 50:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Consider this, you who forget God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.22",
+            "verseOrgIds": [
+              "PSA.50.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:22"
+      },
+      "items": [
+        {
+          "text": "or I will tear you to pieces, with no one to rescue you:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.22",
+            "verseOrgIds": [
+              "PSA.50.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "PSA 50:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Those who sacrifice thank offerings honor me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.23",
+            "verseOrgIds": [
+              "PSA.50.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 50:23"
+      },
+      "items": [
+        {
+          "text": "and to the blameless",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.23",
+            "verseOrgIds": [
+              "PSA.50.23"
+            ]
+          }
+        },
+        {
+          "text": "I will show my salvation.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.50.23",
+            "verseOrgIds": [
+              "PSA.50.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.49",
+    "number": "49",
+    "bookId": "PSA"
+  }
+}

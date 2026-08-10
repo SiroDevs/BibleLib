@@ -1,0 +1,1247 @@
+{
+  "id": "PSA.19",
+  "number": "19",
+  "bookId": "PSA",
+  "reference": "Psalms 19",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "19",
+        "style": "c",
+        "sid": "PSA 19"
+      },
+      "items": [
+        {
+          "text": "19",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 19:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.1",
+            "verseOrgIds": [
+              "PSA.19.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 19:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.2",
+            "verseOrgIds": [
+              "PSA.19.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 19:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "There is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.3",
+                "verseOrgIds": [
+                  "PSA.19.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no speech nor language,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.3",
+            "verseOrgIds": [
+              "PSA.19.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "where",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.3",
+                "verseOrgIds": [
+                  "PSA.19.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "their voice is not heard.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.3",
+            "verseOrgIds": [
+              "PSA.19.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 19:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.4",
+            "verseOrgIds": [
+              "PSA.19.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 19:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Which",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.5",
+            "verseOrgIds": [
+              "PSA.19.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.5",
+                "verseOrgIds": [
+                  "PSA.19.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a bridegroom coming out of his chamber,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.5",
+            "verseOrgIds": [
+              "PSA.19.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.5",
+                "verseOrgIds": [
+                  "PSA.19.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "rejoiceth as a strong man to run a race.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.5",
+            "verseOrgIds": [
+              "PSA.19.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 19:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His going forth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.6",
+            "verseOrgIds": [
+              "PSA.19.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.6",
+                "verseOrgIds": [
+                  "PSA.19.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.6",
+            "verseOrgIds": [
+              "PSA.19.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 19:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The law of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.7",
+            "verseOrgIds": [
+              "PSA.19.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.7",
+                "verseOrgIds": [
+                  "PSA.19.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.7",
+            "verseOrgIds": [
+              "PSA.19.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.7",
+                "verseOrgIds": [
+                  "PSA.19.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "perfect, converting the soul: the testimony of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.7",
+            "verseOrgIds": [
+              "PSA.19.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.7",
+                "verseOrgIds": [
+                  "PSA.19.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.7",
+            "verseOrgIds": [
+              "PSA.19.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.7",
+                "verseOrgIds": [
+                  "PSA.19.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sure, making wise the simple.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.7",
+            "verseOrgIds": [
+              "PSA.19.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 19:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The statutes of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.8",
+            "verseOrgIds": [
+              "PSA.19.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.8",
+                "verseOrgIds": [
+                  "PSA.19.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.8",
+            "verseOrgIds": [
+              "PSA.19.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.8",
+                "verseOrgIds": [
+                  "PSA.19.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "right, rejoicing the heart: the commandment of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.8",
+            "verseOrgIds": [
+              "PSA.19.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.8",
+                "verseOrgIds": [
+                  "PSA.19.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.8",
+            "verseOrgIds": [
+              "PSA.19.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.8",
+                "verseOrgIds": [
+                  "PSA.19.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "pure, enlightening the eyes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.8",
+            "verseOrgIds": [
+              "PSA.19.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 19:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The fear of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.9",
+                "verseOrgIds": [
+                  "PSA.19.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.9",
+                "verseOrgIds": [
+                  "PSA.19.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "clean, enduring for ever: the judgments of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.9",
+                "verseOrgIds": [
+                  "PSA.19.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.9",
+                "verseOrgIds": [
+                  "PSA.19.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "true",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.9",
+                "verseOrgIds": [
+                  "PSA.19.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "righteous altogether.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.9",
+            "verseOrgIds": [
+              "PSA.19.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 19:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "More to be desired",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.10",
+            "verseOrgIds": [
+              "PSA.19.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are they",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.10",
+                "verseOrgIds": [
+                  "PSA.19.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.10",
+            "verseOrgIds": [
+              "PSA.19.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 19:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moreover by them is thy servant warned:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.11",
+            "verseOrgIds": [
+              "PSA.19.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.11",
+                "verseOrgIds": [
+                  "PSA.19.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in keeping of them",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.11",
+            "verseOrgIds": [
+              "PSA.19.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.11",
+                "verseOrgIds": [
+                  "PSA.19.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "great reward.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.11",
+            "verseOrgIds": [
+              "PSA.19.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 19:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who can understand",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.12",
+            "verseOrgIds": [
+              "PSA.19.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "his",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.12",
+                "verseOrgIds": [
+                  "PSA.19.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "errors? cleanse thou me from secret",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.12",
+            "verseOrgIds": [
+              "PSA.19.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "faults",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.12",
+                "verseOrgIds": [
+                  "PSA.19.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.12",
+            "verseOrgIds": [
+              "PSA.19.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 19:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keep back thy servant also from presumptuous",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.13",
+            "verseOrgIds": [
+              "PSA.19.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "sins;",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.13",
+                "verseOrgIds": [
+                  "PSA.19.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.13",
+            "verseOrgIds": [
+              "PSA.19.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 19:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.14",
+            "verseOrgIds": [
+              "PSA.19.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.19.14",
+                "verseOrgIds": [
+                  "PSA.19.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", my strength, and my redeemer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.19.14",
+            "verseOrgIds": [
+              "PSA.19.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.20",
+    "number": "20",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.18",
+    "number": "18",
+    "bookId": "PSA"
+  }
+}

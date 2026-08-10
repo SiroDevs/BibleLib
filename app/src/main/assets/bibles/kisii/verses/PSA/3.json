@@ -1,0 +1,542 @@
+{
+  "id": "PSA.3",
+  "number": "3",
+  "bookId": "PSA",
+  "reference": "Zaburi 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PSA 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosaba kwa mambia ase okonyora ogokonywa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gwa Daudi ekero arenge gotama Abisalomu, omwana oye)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, ababisa baane mbarenga bare!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abange banyimokeire gonkorera bobe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abange nigo bagokwana igoro yane, bateeba:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.2",
+            "verseOrgIds": [
+              "PSA.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nyasae tancheti komotooria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.2",
+            "verseOrgIds": [
+              "PSA.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende aye Omonene, aye naye enguba yane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na naye obonene bwane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo okong’iraneria oboremu bw’obobui bwane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo nkorera na gokuura ase Omonene ng’a ankonye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.4",
+            "verseOrgIds": [
+              "PSA.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nere nigo akong’iraneria korwa ase egetunwa kiaye egechenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.4",
+            "verseOrgIds": [
+              "PSA.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo ngwetoora na korara chitoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.5",
+            "verseOrgIds": [
+              "PSA.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "erio naboka naende, ekiagera Omonene nigo agendererete kondenda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.5",
+            "verseOrgIds": [
+              "PSA.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tindi koiroka ababisa chilifu chinyinge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.6",
+            "verseOrgIds": [
+              "PSA.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo mamincha yane, bakondia korwa chinsemo chiane chionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.6",
+            "verseOrgIds": [
+              "PSA.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene imoka, gaki, inchwo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Aye Nyasae one, ntoorie!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Aye gwaakire ababisa baane bonsi oroe ase chinsea chiabo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kwabunire amaino ’abakori amabe kwabakorire bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ogotooreka nigo gokorwa asore aye bweka Omonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase ayio, sesenia abanto bao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  }
+}

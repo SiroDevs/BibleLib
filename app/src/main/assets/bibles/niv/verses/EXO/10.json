@@ -1,0 +1,1550 @@
+{
+  "id": "EXO.10",
+  "number": "10",
+  "bookId": "EXO",
+  "reference": "Exodus 10",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "EXO 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The Plague of Locusts",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.1",
+            "verseOrgIds": [
+              "EXO.10.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.1",
+                "verseOrgIds": [
+                  "EXO.10.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "said to Moses, \"Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these signs of mine among them",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.1",
+            "verseOrgIds": [
+              "EXO.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "that you may tell your children and grandchildren how I dealt harshly with the Egyptians and how I performed my signs among them, and that you may know that I am the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.2",
+            "verseOrgIds": [
+              "EXO.10.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.2",
+                "verseOrgIds": [
+                  "EXO.10.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.2",
+            "verseOrgIds": [
+              "EXO.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So Moses and Aaron went to Pharaoh and said to him, \"This is what the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.3",
+            "verseOrgIds": [
+              "EXO.10.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.3",
+                "verseOrgIds": [
+                  "EXO.10.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may worship me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.3",
+            "verseOrgIds": [
+              "EXO.10.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If you refuse to let them go, I will bring locusts into your country tomorrow.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.4",
+            "verseOrgIds": [
+              "EXO.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They will cover the face of the ground so that it cannot be seen. They will devour what little you have left after the hail, including every tree that is growing in your fields.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.5",
+            "verseOrgIds": [
+              "EXO.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They will fill your houses and those of all your officials and all the Egyptians—something neither your parents nor your ancestors have ever seen from the day they settled in this land till now.' \" Then Moses turned and left Pharaoh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.6",
+            "verseOrgIds": [
+              "EXO.10.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pharaoh's officials said to him, \"How long will this man be a snare to us? Let the people go, so that they may worship the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.7",
+            "verseOrgIds": [
+              "EXO.10.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.7",
+                "verseOrgIds": [
+                  "EXO.10.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "their God. Do you not yet realize that Egypt is ruined?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.7",
+            "verseOrgIds": [
+              "EXO.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then Moses and Aaron were brought back to Pharaoh. \"Go, worship the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.8",
+            "verseOrgIds": [
+              "EXO.10.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.8",
+                "verseOrgIds": [
+                  "EXO.10.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "your God,\" he said. \"But tell me who will be going.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.8",
+            "verseOrgIds": [
+              "EXO.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moses answered, \"We will go with our young and our old, with our sons and our daughters, and with our flocks and herds, because we are to celebrate a festival to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.9",
+            "verseOrgIds": [
+              "EXO.10.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.9",
+                "verseOrgIds": [
+                  "EXO.10.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.9",
+            "verseOrgIds": [
+              "EXO.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pharaoh said, \"The",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.10",
+            "verseOrgIds": [
+              "EXO.10.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.10",
+                "verseOrgIds": [
+                  "EXO.10.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "be with you—if I let you go, along with your women and children! Clearly you are bent on evil.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.10",
+            "verseOrgIds": [
+              "EXO.10.10"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.10",
+            "verseOrgIds": [
+              "EXO.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No! Have only the men go and worship the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.11",
+            "verseOrgIds": [
+              "EXO.10.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.11",
+                "verseOrgIds": [
+                  "EXO.10.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", since that's what you have been asking for.\" Then Moses and Aaron were driven out of Pharaoh's presence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.11",
+            "verseOrgIds": [
+              "EXO.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.12",
+            "verseOrgIds": [
+              "EXO.10.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.12",
+                "verseOrgIds": [
+                  "EXO.10.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "said to Moses, \"Stretch out your hand over Egypt so that locusts swarm over the land and devour everything growing in the fields, everything left by the hail.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.12",
+            "verseOrgIds": [
+              "EXO.10.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So Moses stretched out his staff over Egypt, and the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.13",
+            "verseOrgIds": [
+              "EXO.10.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.13",
+                "verseOrgIds": [
+                  "EXO.10.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.13",
+            "verseOrgIds": [
+              "EXO.10.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "they invaded all Egypt and settled down in every area of the country in great numbers. Never before had there been such a plague of locusts, nor will there ever be again.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.14",
+            "verseOrgIds": [
+              "EXO.10.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They covered all the ground until it was black. They devoured all that was left after the hail—everything growing in the fields and the fruit on the trees. Nothing green remained on tree or plant in all the land of Egypt.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.15",
+            "verseOrgIds": [
+              "EXO.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pharaoh quickly summoned Moses and Aaron and said, \"I have sinned against the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.16",
+            "verseOrgIds": [
+              "EXO.10.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.16",
+                "verseOrgIds": [
+                  "EXO.10.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "your God and against you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.16",
+            "verseOrgIds": [
+              "EXO.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now forgive my sin once more and pray to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.17",
+            "verseOrgIds": [
+              "EXO.10.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.17",
+                "verseOrgIds": [
+                  "EXO.10.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "your God to take this deadly plague away from me.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.17",
+            "verseOrgIds": [
+              "EXO.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moses then left Pharaoh and prayed to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.18",
+            "verseOrgIds": [
+              "EXO.10.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.18",
+                "verseOrgIds": [
+                  "EXO.10.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.18",
+            "verseOrgIds": [
+              "EXO.10.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.19",
+            "verseOrgIds": [
+              "EXO.10.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.19",
+                "verseOrgIds": [
+                  "EXO.10.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.19",
+            "verseOrgIds": [
+              "EXO.10.19"
+            ]
+          }
+        },
+        {
+          "text": "Not a locust was left anywhere in Egypt.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.19",
+            "verseOrgIds": [
+              "EXO.10.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.20",
+            "verseOrgIds": [
+              "EXO.10.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.20",
+                "verseOrgIds": [
+                  "EXO.10.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hardened Pharaoh's heart, and he would not let the Israelites go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.20",
+            "verseOrgIds": [
+              "EXO.10.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The Plague of Darkness",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 10:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.21",
+            "verseOrgIds": [
+              "EXO.10.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.21",
+                "verseOrgIds": [
+                  "EXO.10.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "said to Moses, \"Stretch out your hand toward the sky so that darkness spreads over Egypt—darkness that can be felt.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.21",
+            "verseOrgIds": [
+              "EXO.10.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 10:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So Moses stretched out his hand toward the sky, and total darkness covered all Egypt for three days.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.22",
+            "verseOrgIds": [
+              "EXO.10.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 10:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No one could see anyone else or move about for three days. Yet all the Israelites had light in the places where they lived.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.23",
+            "verseOrgIds": [
+              "EXO.10.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 10:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then Pharaoh summoned Moses and said, \"Go, worship the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.24",
+            "verseOrgIds": [
+              "EXO.10.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.24",
+                "verseOrgIds": [
+                  "EXO.10.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Even your women and children may go with you; only leave your flocks and herds behind.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.24",
+            "verseOrgIds": [
+              "EXO.10.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 10:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But Moses said, \"You must allow us to have sacrifices and burnt offerings to present to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.25",
+            "verseOrgIds": [
+              "EXO.10.25"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.25",
+                "verseOrgIds": [
+                  "EXO.10.25"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.25",
+            "verseOrgIds": [
+              "EXO.10.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "EXO 10:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our livestock too must go with us; not a hoof is to be left behind. We have to use some of them in worshiping the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.26",
+            "verseOrgIds": [
+              "EXO.10.26"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.26",
+                "verseOrgIds": [
+                  "EXO.10.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God, and until we get there we will not know what we are to use to worship the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.26",
+            "verseOrgIds": [
+              "EXO.10.26"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.26",
+                "verseOrgIds": [
+                  "EXO.10.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.26",
+            "verseOrgIds": [
+              "EXO.10.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "EXO 10:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But the",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.27",
+            "verseOrgIds": [
+              "EXO.10.27"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "EXO.10.27",
+                "verseOrgIds": [
+                  "EXO.10.27"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hardened Pharaoh's heart, and he was not willing to let them go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.27",
+            "verseOrgIds": [
+              "EXO.10.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "EXO 10:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pharaoh said to Moses, \"Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.28",
+            "verseOrgIds": [
+              "EXO.10.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "EXO 10:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Just as you say,\" Moses replied. \"I will never appear before you again.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.10.29",
+            "verseOrgIds": [
+              "EXO.10.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.11",
+    "number": "11",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.9",
+    "number": "9",
+    "bookId": "EXO"
+  }
+}

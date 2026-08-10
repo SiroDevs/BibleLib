@@ -1,0 +1,603 @@
+{
+  "id": "1JN.4",
+  "number": "4",
+  "bookId": "1JN",
+  "reference": "1 Johana 4",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "1JN 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũrorania Maroho",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1JN 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arata akwa endwa, mũtigetĩkagie roho o wothe, no mũroragie maroho muone kana moimĩte kũrĩ Ngai, tondũ anabii aingĩ a maheeni nĩmoimagarĩte magathiĩ thĩ yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.1",
+            "verseOrgIds": [
+              "1JN.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1JN 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũũ nĩguo mũngĩhota gũkũũrana Roho wa Ngai: Roho o wothe ũrĩa uumbũraga atĩ Jesũ Kristũ nĩokĩte arĩ na mwĩrĩ, ũcio uumĩte kũrĩ Ngai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.2",
+            "verseOrgIds": [
+              "1JN.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1JN 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no roho o wothe ũrĩa ũtoimbũraga Jesũ, ũcio nduumĩte kũrĩ Ngai. Ũcio nĩ roho wa mũmena-Kristũ, ũrĩa mũiguĩte atĩ nĩũgooka na o na rĩu nĩũrĩkĩtie gũũka gũkũ thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.3",
+            "verseOrgIds": [
+              "1JN.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1JN 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inyuĩ twana twakwa nyendete, inyuĩ mũrĩ a Ngai na nĩmũmatooretie, tondũ ũrĩa ũrĩ thĩinĩ wanyu nĩ mũnene gũkĩra ũrĩa ũrĩ gũkũ thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.4",
+            "verseOrgIds": [
+              "1JN.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1JN 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acio moimĩte gũkũ thĩ, na nĩ ũndũ ũcio maaragia ũhoro wa maũndũ ma gũkũ thĩ, na thĩ na andũ a gũkũ thĩ makamathikĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.5",
+            "verseOrgIds": [
+              "1JN.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1JN 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ithuĩ tuumĩte kũrĩ Ngai, nake mũndũ o wothe ũrĩa ũũĩ Ngai nĩatũthikagĩrĩria; no ũrĩa wothe ũtoimĩte kũrĩ Ngai ndatũthikagĩrĩria. Ũguo nĩguo tũkũũranaga Roho ũrĩa wa ma, na roho ũrĩa wa maheeni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.6",
+            "verseOrgIds": [
+              "1JN.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wendani wa Ngai na Witũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1JN 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arata akwa endwa, nĩtwendanagei mũndũ na ũrĩa ũngĩ, nĩgũkorwo wendo uumaga kũrĩ Ngai. Mũndũ o wothe ũrĩa wendanaga, aciarĩtwo nĩ Ngai o na nĩoĩ Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.7",
+            "verseOrgIds": [
+              "1JN.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1JN 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ o wothe ũrĩa ũtendanaga ũcio ndooĩ Ngai, tondũ Ngai nĩ wendo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.8",
+            "verseOrgIds": [
+              "1JN.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1JN 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũũ nĩguo Ngai oonanirie wendo wake harĩ ithuĩ: Nĩatũmire Mũriũ wake, o we wa mũmwe, gũkũ thĩ nĩgeetha tũtũũre muoyo nĩ ũndũ wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.9",
+            "verseOrgIds": [
+              "1JN.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1JN 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo wendo: ti atĩ nĩ ithuĩ twendire Ngai, nowe nĩwe watwendire, na agĩtũma Mũriũ wake atuĩke igongona rĩa kũhoroheria mehia maitũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.10",
+            "verseOrgIds": [
+              "1JN.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1JN 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arata akwa endwa, kuona atĩ Ngai nĩguo atwendete-rĩ, o na ithuĩ nĩtũkĩagĩrĩirwo twendanage.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.11",
+            "verseOrgIds": [
+              "1JN.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1JN 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gũtirĩ mũndũ ũrĩ ona Ngai; no tũngĩendana mũndũ na ũrĩa ũngĩ-rĩ, Ngai nĩatũũraga thĩinĩ witũ, naguo wendo wake ũgakinyanĩra thĩinĩ witũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.12",
+            "verseOrgIds": [
+              "1JN.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1JN 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũrĩa ũtũmaga tũmenye atĩ tũtũũraga thĩinĩ wake nake agatũũra thĩinĩ witũ, nĩ atĩ nĩatũheete Roho wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.13",
+            "verseOrgIds": [
+              "1JN.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1JN 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩtuonete na tũkoimbũra atĩ Ithe witũ nĩatũmĩte Mũriũ atuĩke Mũhonokia wa thĩ yothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.14",
+            "verseOrgIds": [
+              "1JN.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1JN 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ o wothe angiumbũra atĩ Jesũ nĩ Mũrũ wa Ngai-rĩ, Ngai atũũraga thĩinĩ wake, nake agatũũra thĩinĩ wa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.15",
+            "verseOrgIds": [
+              "1JN.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1JN 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩ ũndũ ũcio nĩtũmenyete na tũkehoka wendo ũrĩa Ngai atwendete naguo. Ngai nĩ wendo. Mũndũ o wothe ũtũũraga endanĩte atũũraga thĩinĩ wa Ngai, nake Ngai atũũraga thĩinĩ wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.16",
+            "verseOrgIds": [
+              "1JN.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1JN 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũguo nĩguo wendani ũkinyanagĩra thĩinĩ witũ nĩgeetha tũkaagĩa na ũũmĩrĩru mũthenya ũrĩa gũgaatuanĩrwo ciira, tondũ tũrĩ gũkũ thĩ nĩ tũhaanaine nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.17",
+            "verseOrgIds": [
+              "1JN.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1JN 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wendo ndũrĩ guoya. No wendo ũrĩa mũkinyanĩru nĩũingataga guoya, tondũ guoya ũkonainie na iherithia. Mũndũ ũrĩa wĩtigagĩra, ndatuagwo mũkinyanĩru thĩinĩ wa wendo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.18",
+            "verseOrgIds": [
+              "1JN.4.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1JN 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ithuĩ twendanaga tondũ we nĩwe waambire gũtwenda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.19",
+            "verseOrgIds": [
+              "1JN.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1JN 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ angiuga atĩrĩ, “Nĩnyendete Ngai,” na nĩathũire mũrũ kana mwarĩ wa ithe-rĩ, ũcio nĩ wa maheeni. Nĩgũkorwo mũndũ o wothe ũtendete mũrũ wa ithe, ũrĩa atũire onaga, ndangĩhota kwenda Ngai, ũrĩa atarĩ oona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.20",
+            "verseOrgIds": [
+              "1JN.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1JN 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake nĩatũheete rĩathani rĩĩrĩ: Mũndũ o wothe wendete Ngai, no nginya ende mũrũ kana mwarĩ wa ithe o nake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1JN.4.21",
+            "verseOrgIds": [
+              "1JN.4.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1JN.5",
+    "number": "5",
+    "bookId": "1JN"
+  },
+  "previous": {
+    "id": "1JN.3",
+    "number": "3",
+    "bookId": "1JN"
+  }
+}

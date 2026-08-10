@@ -1,0 +1,886 @@
+{
+  "id": "EXO.20",
+  "number": "20",
+  "bookId": "EXO",
+  "reference": "Okong’anya 20",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 26,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "EXO 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amachiiko ikomi a Nyasae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Okoir 5:1-21)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae agakwana amang’ana aya onsi, agateeba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.1",
+            "verseOrgIds": [
+              "EXO.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inche ninche Nyasae Omonene, oyokorusetie ase ense ya Misiri, ase ense y’obosomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.2",
+            "verseOrgIds": [
+              "EXO.20.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Toba ne chinyasae chinde otatiga inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.3",
+            "verseOrgIds": [
+              "EXO.20.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tobaisa gwekorera omogwekano bw’ogosasimwa, omogwekano o getongwa kende gionsi kere igoro, gose kere ense, gose kere ime ase amaache inse y’ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.4",
+            "verseOrgIds": [
+              "EXO.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tobaisa gotugama gose gosasiima emegwekano ekorire, ekiagera inche ninche Nyasae Omonene, Nyasae bwe risemi",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.5",
+            "verseOrgIds": [
+              "EXO.20.5"
+            ]
+          }
+        },
+        {
+          "text": ". Ase engencho y’amabe yabaibori nigo nkoa abana egesusuro goika ekiaare kia gatato na egia kane, abwo bangechete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.5",
+            "verseOrgIds": [
+              "EXO.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende nigo nkoborokia obwanchani bwane botari koera goika ebiaare chilifu, ase abwo banyanchete na babwatete amachiiko aane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.6",
+            "verseOrgIds": [
+              "EXO.20.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Toriatora bosa na korikorera bobe erieta ria Nyasae Omonene, ekiagera Omonene tagotiga komoa egesusuro omonto oria okoriatora bosa na korikorera bobe erieta riaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.7",
+            "verseOrgIds": [
+              "EXO.20.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Riinyore na korisika rituko ri’Esabato, orirende ribe richenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.8",
+            "verseOrgIds": [
+              "EXO.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amatuko atano na rimo okore emeremo yao yonsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.9",
+            "verseOrgIds": [
+              "EXO.20.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 20:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korende rituko ria gatano na kabere nerituko ri’Esabato, riatananetwe na Nyasae oo. Ase rituko erio tokora emeremo ende yonsi, aye, gose omwana oo, omomura gose omoiseke, nonya nomosomba oo, omomura gose omoiseke, gose chitugo chiao, gose omomenyi ore ase omochie oo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.10",
+            "verseOrgIds": [
+              "EXO.20.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 20:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki ase amatuko atano na rimo nar’Omonene atongete igoro na ense, ne chinyancha, na bionsi ebire imeo; agatimoka ase rituko ria gatano na kabere. Ase ayio Omonene agasesenia rituko ri’Esabato, akariatanana ribe richenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.11",
+            "verseOrgIds": [
+              "EXO.20.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 20:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Sika iso na nyoko, nario oramenye amatuko amange ase ense eye Omonene, are ang’e gokoa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.12",
+            "verseOrgIds": [
+              "EXO.20.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 20:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Toita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.13",
+            "verseOrgIds": [
+              "EXO.20.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 20:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Totomana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.14",
+            "verseOrgIds": [
+              "EXO.20.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 20:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Toiba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.15",
+            "verseOrgIds": [
+              "EXO.20.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 20:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tomotebera omogisangio oo oborimo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.16",
+            "verseOrgIds": [
+              "EXO.20.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 20:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tobaisa kogania enyomba y’omoamate oo. Tobaisa kogania omokungu bw’omoamate oo, nonya nomosomba oye, omomura gose omoiseke, gose eng’ombe yaye, gose etigere yaye, gose kende gionsi omoamate oo abwate.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.17",
+            "verseOrgIds": [
+              "EXO.20.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abanto bakoondoka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Okoir 5:22-23)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 20:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abanto bonsi barooche okomesa, na koigwa enkoba na eriogi ri’egetureeri na korora egetunwa gekoimoka erioki, bakaiguswa, bagatenenera aare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.18",
+            "verseOrgIds": [
+              "EXO.20.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 20:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagateebia Musa, “Kwana naintwe aye omonyene, na intwe inatogotegerere, korende Nyasae takwana naitwe ekiagera ogokwana naintwe, nigo torakwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.19",
+            "verseOrgIds": [
+              "EXO.20.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 20:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akabairaneria, “Timoondoka! Naki Nyasae nigo achire kobateema inwe, erio egere mogenderere komoiroka, erinde timokora ebibe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.20",
+            "verseOrgIds": [
+              "EXO.20.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 20:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bonsi bagatenena aare, korende Musa ere akagenda ang’e ase riire riria rimwamu, ase Nyasae arenge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.21",
+            "verseOrgIds": [
+              "EXO.20.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amachiiko igoro y’ebisasimero",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 20:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agateebia Musa, “Amang’ana aya naro orateebie Abaisraeli: Inwe abanyene mwarorire ng’a nigo nakwanire nainwe korwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.22",
+            "verseOrgIds": [
+              "EXO.20.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 20:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timwekorera chinyasae chinde chi’echifeta gose echie chitaabu chi’ogosasimwa; monsasime inche bweka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.23",
+            "verseOrgIds": [
+              "EXO.20.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 20:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ong’agachere egesasiimero ki’amaroba, onduere ebing’wanso igoro yaye, ebing’wanso bi’ogosambwa, na ebi’omorembe, korwa ase ching’ondi chiao, ne chiombe chiao. Kera aase ndatebe onsasimere, ninchiche asore, ngosesenie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.24",
+            "verseOrgIds": [
+              "EXO.20.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 20:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye gokong’agachera egesasiimero ki’amagena, tokeagacha namagena abaachire; ekiagera onye gokoyabaacha nebikorero biao, rirorio kwayabekire riko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.25",
+            "verseOrgIds": [
+              "EXO.20.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "EXO 20:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende totiirera ebiriinero igoro, gokogenda ase egesasiimero, egetirianda kiao tikebaisa kooroka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.20.26",
+            "verseOrgIds": [
+              "EXO.20.26"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.21",
+    "number": "21",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.19",
+    "number": "19",
+    "bookId": "EXO"
+  }
+}

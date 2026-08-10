@@ -1,0 +1,381 @@
+{
+  "id": "DAN.12",
+  "number": "12",
+  "bookId": "DAN",
+  "reference": "Danieli 12",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "DAN 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mahinda ma Ithirĩro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Na rĩrĩ, hĩndĩ ĩyo Mikaeli, mũnene ũrĩa ũgitagĩra andũ anyu, nĩakarahũka. Nĩgũkaagĩa ihinda rĩa mĩnyamaro mĩingĩ ĩtarĩ yoneka ĩngĩ tayo kuuma rĩrĩa andũ mambĩrĩrie gũtuĩka ndũrĩrĩ nginya hĩndĩ ĩyo. No rĩrĩ, hĩndĩ ĩyo nĩguo andũ anyu makaahonokio, mũndũ o wothe ũrĩa ũgaakorwo aandĩkĩtwo ibuku-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.1",
+            "verseOrgIds": [
+              "DAN.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kĩrĩndĩ kĩingĩ kĩa arĩa makomete rũkũngũ-inĩ rwa thĩ nĩmakariũkio: amwe mariũkĩre muoyo-inĩ ũrĩa ũtagaathira, nao arĩa angĩ mariũke nĩgeetha maconorithio na matũũre marĩ amene tene na tene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.2",
+            "verseOrgIds": [
+              "DAN.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arĩa oogĩ magaacangarara ta ũtheri wa igũrũ, nao arĩa macookagia andũ njĩra-inĩ cia ũthingu magaakenga ta njata tene na tene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.3",
+            "verseOrgIds": [
+              "DAN.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No wee, Danieli, hinga ibuku na ũhũũre mũhũũri ciugo icio nyandĩke ibuku-inĩ rĩu rĩa gĩkũnjo, nginya rĩrĩa ithirĩro rĩgaakinya. Amu andũ aingĩ nĩmakorũũraga kũndũ na kũndũ nĩguo mongerere ũmenyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.4",
+            "verseOrgIds": [
+              "DAN.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa maũndũ macio, niĩ Danieli ngĩrora, ngĩona hau mbere yakwa harũngiĩ andũ angĩ eerĩ, ũmwe wao arũngiĩ hũgũrũrũ-inĩ cia mũrĩmo ũyũ wa rũũĩ nake ũcio ũngĩ akarũgama hũgũrũrũ-inĩ cia mũrĩmo ũrĩa ũngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.5",
+            "verseOrgIds": [
+              "DAN.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũmwe wao akĩarĩria mũndũ ũcio wehumbĩte nguo cia gatani, o ũcio warũgamĩte igũrũ rĩa maaĩ ma rũũĩ, akĩmũũria atĩrĩ, “Maũndũ macio ma kũgegania megũikara ihinda rĩigana atĩa magĩkahinga?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.6",
+            "verseOrgIds": [
+              "DAN.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio wehumbĩte nguo cia gatani, o ũcio warũgamĩte igũrũ rĩa maaĩ ma rũũĩ, akĩambararia guoko gwake kwa ũrĩo o na ningĩ kwa ũmotho amerekeirie na igũrũ, ngĩcooka ngĩigua ehĩta na rĩĩtwa rĩa ũrĩa ũtũũraga tene na tene, akiuga atĩrĩ, “Maũndũ macio megũikara ihinda rĩmwe, na mahinda meerĩ, na nuthu ya ihinda. Rĩrĩa hinya wa andũ arĩa atheru ũgaakorwo ũrĩ mũniine biũ-rĩ, nĩguo maũndũ macio mothe makaahingio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.7",
+            "verseOrgIds": [
+              "DAN.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ ngĩĩiguĩra maũndũ macio, no ndiigana gũtaũkĩrwo nĩ mo. Nĩ ũndũ ũcio ngĩmũũria atĩrĩ, “Mwathi wakwa, kĩrĩkĩrĩro kĩa maũndũ macio mothe-rĩ, gĩgaakorwo kĩrĩ kĩĩ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.8",
+            "verseOrgIds": [
+              "DAN.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩnjookeria, akĩnjĩĩra atĩrĩ, “Wee Danieli wĩthiĩre, tondũ ciugo icio nĩhingĩre na ikahũũrwo mũhũũri nginya ihinda rĩa ithirĩro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.9",
+            "verseOrgIds": [
+              "DAN.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ aingĩ nĩmagatherio, mathirwo nĩ gĩko merũhio, taarĩ gũkumuthwo makumuthĩtwo magathera, no arĩa aaganu nĩmagakĩrĩrĩria kwagana, na gũtirĩ o na ũmwe wao ũkaamenya gĩtũmi kĩa maũndũ macio, no arĩa oogĩ nĩmakamamenya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.10",
+            "verseOrgIds": [
+              "DAN.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kuuma ihinda rĩrĩa magongona ma o mũthenya makaniinwo, na ithenya rĩamo harũgamio kĩndũ kĩrĩa kĩrĩ thaahu, kĩrĩa kĩngĩtũma bũrũri ũkire ihooru, gũgaakorwo kũrĩ mĩthenya 1,290.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.11",
+            "verseOrgIds": [
+              "DAN.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũrathimwo-rĩ, nĩ ũrĩa ũgweterera na akinyĩrie mũthia wa mĩthenya 1,335.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.12",
+            "verseOrgIds": [
+              "DAN.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“No wee-rĩ, wĩthiĩre nginya hĩndĩ ĩrĩa ithirĩro rĩgaakinya. Nĩũkahurũka, na ningĩ marigĩrĩrio ma mĩthenya ĩyo nĩũkariũka nĩgeetha wamũkĩre igai rĩaku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.12.13",
+            "verseOrgIds": [
+              "DAN.12.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.intro",
+    "number": "intro",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "DAN.11",
+    "number": "11",
+    "bookId": "DAN"
+  }
+}

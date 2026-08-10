@@ -1,0 +1,572 @@
+{
+  "id": "NUM.17",
+  "number": "17",
+  "bookId": "NUM",
+  "reference": "Hesabu 17",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "NUM 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuchipuka Kwa Fimbo Ya Aroni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.1",
+                "verseOrgIds": [
+                  "NUM.17.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.1",
+            "verseOrgIds": [
+              "NUM.17.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Sema na Waisraeli, na ujipatie fimbo kumi na mbili kutoka kwao, moja kutoka kwa kila mmoja wa viongozi wa kabila za baba zao. Andika jina la kila mtu kwenye fimbo yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.2",
+            "verseOrgIds": [
+              "NUM.17.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwenye fimbo ya Lawi andika jina la Aroni, kwa maana ni lazima iwepo fimbo moja kwa kila kiongozi kwa ajili ya kila kabila la baba zao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.3",
+            "verseOrgIds": [
+              "NUM.17.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ziweke hizo fimbo ndani ya Hema la Kukutania mbele ya Sanduku la Ushuhuda, mahali nikutanapo nawe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.4",
+            "verseOrgIds": [
+              "NUM.17.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fimbo ya mtu nitakayemchagua itachipuka, nami mwenyewe nitayakomesha haya manungʼuniko ya mara kwa mara ya Waisraeli dhidi yako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.5",
+            "verseOrgIds": [
+              "NUM.17.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Mose akasema na Waisraeli, nao viongozi wao wakampa fimbo kumi na mbili, fimbo moja kwa ajili ya kila kabila la baba zao, nayo fimbo ya Aroni ikiwa miongoni mwa hizo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.6",
+            "verseOrgIds": [
+              "NUM.17.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose akaziweka hizo fimbo mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.7",
+            "verseOrgIds": [
+              "NUM.17.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.7",
+                "verseOrgIds": [
+                  "NUM.17.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ndani ya Hema la Ushuhuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.7",
+            "verseOrgIds": [
+              "NUM.17.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku iliyofuata Mose aliingia kwenye Hema la Ushuhuda akaona ile fimbo ya Aroni ambayo iliwakilisha jamaa ya Lawi haikuwa tu imechipuka, bali pia ilikuwa imetoa machipukizi, kuchanua maua na kuzaa malozi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.8",
+            "verseOrgIds": [
+              "NUM.17.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Mose akaleta zile fimbo zote kwa Waisraeli wote kutoka mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.9",
+            "verseOrgIds": [
+              "NUM.17.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.9",
+                "verseOrgIds": [
+                  "NUM.17.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Wakaziangalia, na kila mtu akaichukua fimbo yake mwenyewe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.9",
+            "verseOrgIds": [
+              "NUM.17.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.10",
+                "verseOrgIds": [
+                  "NUM.17.25"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose, \"Rudisha fimbo ya Aroni mbele ya Sanduku la Ushuhuda, ili ihifadhiwe kama alama kwa waasi. Hili litakomesha manungʼuniko yao dhidi yangu, ili kwamba wasife.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.10",
+            "verseOrgIds": [
+              "NUM.17.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose akafanya kama",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.11",
+            "verseOrgIds": [
+              "NUM.17.26"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.11",
+                "verseOrgIds": [
+                  "NUM.17.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "alivyomwamuru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.11",
+            "verseOrgIds": [
+              "NUM.17.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waisraeli wakamwambia Mose, \"Tutakufa! Tumepotea, sote tumepotea!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.12",
+            "verseOrgIds": [
+              "NUM.17.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeyote akaribiaye Maskani ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.13",
+            "verseOrgIds": [
+              "NUM.17.28"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.17.13",
+                "verseOrgIds": [
+                  "NUM.17.28"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atakufa. Je, sisi sote tutakufa?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.17.13",
+            "verseOrgIds": [
+              "NUM.17.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.18",
+    "number": "18",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.16",
+    "number": "16",
+    "bookId": "NUM"
+  }
+}

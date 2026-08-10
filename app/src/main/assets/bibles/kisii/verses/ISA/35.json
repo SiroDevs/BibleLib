@@ -1,0 +1,958 @@
+{
+  "id": "ISA.35",
+  "number": "35",
+  "bookId": "ISA",
+  "reference": "Isaya 35",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "35",
+        "style": "c",
+        "sid": "ISA 35"
+      },
+      "items": [
+        {
+          "text": "35",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Enchera y’Obochenu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 35:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erooro na ense enyomo nchibe nomogooko;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.1",
+            "verseOrgIds": [
+              "ISA.35.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, erooro nechenge na gosicha buna ebisicha ebiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.1",
+            "verseOrgIds": [
+              "ISA.35.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 35:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo erasiche ebisicha ebinge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "erio echenge na goteera nomogooko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Neegwe obonene buna obw’ebitunwa bia Lebanoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na obwari buna obwa Karimeli na Saroni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abanto mbarore obonene bw’Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, mbarore obonene bwa Nyasae oito na obonguru bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.2",
+            "verseOrgIds": [
+              "ISA.35.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 35:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amaboko are amoro yabeeke chinguru;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.3",
+            "verseOrgIds": [
+              "ISA.35.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kong’ia amaru arosire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.3",
+            "verseOrgIds": [
+              "ISA.35.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 35:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Teebia abanto abwo babwate chinkoro chinyoba:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.4",
+            "verseOrgIds": [
+              "ISA.35.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Mobe abaremu, timwoboa!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.4",
+            "verseOrgIds": [
+              "ISA.35.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Naama! Nyasae oino nache korusia egesiomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.4",
+            "verseOrgIds": [
+              "ISA.35.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Rora, Nyasae nache kobaruseria egesiomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.4",
+            "verseOrgIds": [
+              "ISA.35.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ere nache kobatooria.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.4",
+            "verseOrgIds": [
+              "ISA.35.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 35:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio amaiso ’emeuko aramokigwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.5",
+            "verseOrgIds": [
+              "ISA.35.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na amato ’emetino atinorwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.5",
+            "verseOrgIds": [
+              "ISA.35.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 35:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebisegora mbichara‐charoke buna chinsune,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.6",
+            "verseOrgIds": [
+              "ISA.35.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ne chimeme chi’amamama nchitere nomogooko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.6",
+            "verseOrgIds": [
+              "ISA.35.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Chindooche nchisoke ase erooro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.6",
+            "verseOrgIds": [
+              "ISA.35.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ebirooche ase ekerubo ekiomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.6",
+            "verseOrgIds": [
+              "ISA.35.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 35:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ense y’omokenye ogosamba neebe ritibo ri’amaache,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.7",
+            "verseOrgIds": [
+              "ISA.35.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ase ense enyomo chinsoko chi’amaache nchitubokeo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.7",
+            "verseOrgIds": [
+              "ISA.35.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "aase chisese chi’orosana chiamenyete,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.7",
+            "verseOrgIds": [
+              "ISA.35.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "obonyansi, na ebitonto, na amauncho mbimereo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.7",
+            "verseOrgIds": [
+              "ISA.35.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 35:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enchera enene eroisirie buya nebeo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.8",
+            "verseOrgIds": [
+              "ISA.35.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "eyio nigo erarokwe “Enchera Enchenu”.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.8",
+            "verseOrgIds": [
+              "ISA.35.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abanto batachenegeti tibagoetao;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.8",
+            "verseOrgIds": [
+              "ISA.35.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "enchera eyio nigo erabe ey’abaanto aba boka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.8",
+            "verseOrgIds": [
+              "ISA.35.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abagoeta aroro, nonya bare abariri, tibagosira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.8",
+            "verseOrgIds": [
+              "ISA.35.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 35:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Endo tekobao ase enchera eyio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.9",
+            "verseOrgIds": [
+              "ISA.35.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "gose eng’iti ende y’orosana tegochao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.9",
+            "verseOrgIds": [
+              "ISA.35.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "chirochio tichikonyorekana aroro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.9",
+            "verseOrgIds": [
+              "ISA.35.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korende abanto baboorigwe nabwo",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.9",
+            "verseOrgIds": [
+              "ISA.35.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "barataare ase enchera eyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.9",
+            "verseOrgIds": [
+              "ISA.35.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 35:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abw’Omonene abooririe mbairane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.10",
+            "verseOrgIds": [
+              "ISA.35.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "baike Sayoni bagotera;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.10",
+            "verseOrgIds": [
+              "ISA.35.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "omogooko o kare na kare nobe igoro ase emetwe yabo buna egutwa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.10",
+            "verseOrgIds": [
+              "ISA.35.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "mbabe nomogooko na omochengo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.10",
+            "verseOrgIds": [
+              "ISA.35.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "obororo na omoichano mbiere kegima ase bare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.35.10",
+            "verseOrgIds": [
+              "ISA.35.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.36",
+    "number": "36",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.34",
+    "number": "34",
+    "bookId": "ISA"
+  }
+}

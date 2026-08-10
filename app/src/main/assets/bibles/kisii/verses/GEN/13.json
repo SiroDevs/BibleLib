@@ -1,0 +1,578 @@
+{
+  "id": "GEN.13",
+  "number": "13",
+  "bookId": "GEN",
+  "reference": "Omochakano 13",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "GEN 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Aburamu okoirana gochia Kaanani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aburamu akarwa Misiri, akagenda gochia Negebu, ere amo na mokaye na ebi bionsi abwate, na Loti akageenda amo nere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.1",
+            "verseOrgIds": [
+              "GEN.13.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabo Aburamu areenge omotenenku mono, nigo abwate etugo enyinge, ne chifeta, ne chitaabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.2",
+            "verseOrgIds": [
+              "GEN.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akaimoka korwa Negebu, akageenda agaika Beteli, agwo aase atenenetie eema yaye ritang’ani kegima, gati ya Beteli na Ai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.3",
+            "verseOrgIds": [
+              "GEN.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agwo nao aase Aburamu aagachete egesasiimero kie ritang’ani kegima na korirangeria erieta ri’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.4",
+            "verseOrgIds": [
+              "GEN.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Aburamu na Loti bagwatananeka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na Loti, oyogendete amo n’Aburamu, nigo abwate ching’ondi, ne chiombe, ne chiema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.5",
+            "verseOrgIds": [
+              "GEN.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo, ense eria tiyabaisana banyare komenya amo bonsi babere, ekiagera chinibo chiabo nechinyinge chiarenge, goika tibanyara komenya amo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.6",
+            "verseOrgIds": [
+              "GEN.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agwo eriomana rigatuboka egati y’abarisia b’Aburamu, na abarisia ba Loti. Ase engaki eyio Abakaanani na Abaperisi nabwo bamenyete ase ense eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.7",
+            "verseOrgIds": [
+              "GEN.13.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Aburamu agateebia Loti, “Tari buya twomane inche naye, gose abarisia baane na abao, ekiagera intwe nabaanto abamo tore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.8",
+            "verseOrgIds": [
+              "GEN.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Ense eye yonsi teri ase obosio bwao? Tigango twatananeke. Koragende ensemo ya bomosi, inche ningende eya borio; koragende ensemo ya borio, inche ningende eya bomosi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.9",
+            "verseOrgIds": [
+              "GEN.13.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Loti akaimokereria amaiso aye igoro akarigereria, akarora ense omweya bw’erikura ria Yorodani, ng’a in’yarenge n’amaache amange kera aase, na igo orenge buna omogondo Omonene, na buna ense ya Misiri; gochia ensemo ya Soari. Nabo yarenge ritang’ani Omonene atarasaria Sodomu na Gomora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.10",
+            "verseOrgIds": [
+              "GEN.13.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo, Loti agechorera bweka ense omweya yonsi ya Yorodani. Barabwo bagatananekana. Igo Loti akamanora kogenda gochia moocha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.11",
+            "verseOrgIds": [
+              "GEN.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aburamu akamenya ase ense ya Kaanani, na Loti nere akamenya egati y’emechie agwo ase ense eria y’omweya, akang’anyia eema yaye gochia Sodomu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.12",
+            "verseOrgIds": [
+              "GEN.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Sodomu nigo barenge ababe, barenge gokora ebibe ebinge ase obosio bw’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.13",
+            "verseOrgIds": [
+              "GEN.13.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Aburamu okong’anya gochia ase Heburoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega Loti na Aburamu kobaatananekire, Omonene agateebia Aburamu: “Imokereria amaiso ao igoro, origererie korwa agwo aase ore, origererie ensemo ya sugusu, na Irianyi, na moocha, na bosongo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.14",
+            "verseOrgIds": [
+              "GEN.13.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naki ense eye yonsi orooche ninkoyee aye na ororeeria rwao goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.15",
+            "verseOrgIds": [
+              "GEN.13.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningokore aye n’ororeeria rwao robe buna orotu rw’ense rotanyare kobareka; onye omonto okonyara kobara orotu rw’ense, rirorio nanyare boigo kobara ororeeria rwao narororwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.16",
+            "verseOrgIds": [
+              "GEN.13.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono imoka, otaare ense eye, orore obotambe na oboagare bwaye, ekiagera ninkoe aye ense eyio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.17",
+            "verseOrgIds": [
+              "GEN.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Aburamu akang’anyia eema yaye, agacha akamenya ebitutu bw’emete ekorokwa emialoni agwo Mamure, ang’e na Heburoni. Akaagachera Omonene egesasiimero aroro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.13.18",
+            "verseOrgIds": [
+              "GEN.13.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.14",
+    "number": "14",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.12",
+    "number": "12",
+    "bookId": "GEN"
+  }
+}

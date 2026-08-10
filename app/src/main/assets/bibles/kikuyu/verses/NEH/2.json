@@ -1,0 +1,578 @@
+{
+  "id": "NEH.2",
+  "number": "2",
+  "bookId": "NEH",
+  "reference": "Nehemia 2",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NEH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Aritashashita Gũtũma Nehemia Jerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mweri-inĩ wa Nisani, mwaka wa mĩrongo ĩĩrĩ wa Mũthamaki Aritashashita, rĩrĩa aareheirwo ndibei, ngĩoya ndibei ĩyo ngĩmĩnengera mũthamaki. Mbere ya hĩndĩ ĩyo ndiatukĩtie gĩthiithi ndĩ harĩ we;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.1",
+            "verseOrgIds": [
+              "NEH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩ ũndũ ũcio mũthamaki akĩnjũũria atĩrĩ, “Nĩ kĩĩ gĩtũmĩte ũtukie gĩthiithi ũguo na ndũrĩ mũrũaru? Ũndũ ũcio no uumanire na kĩeha kĩa ngoro.” Na niĩ ngĩĩtigĩra mũno,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.2",
+            "verseOrgIds": [
+              "NEH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no ngĩĩra mũthamaki atĩrĩ, “Mũthamaki arotũũra nginya tene! Gĩthiithi gĩakwa kĩngĩaga gũtuka atĩa hĩndĩ ĩrĩa itũũra inene rĩrĩa maithe makwa mathikĩtwo rĩkirĩte ihooru, na ihingo ciarĩo igacinwo ikaniinwo na mwaki?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.3",
+            "verseOrgIds": [
+              "NEH.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki akĩnjũũria atĩrĩ, “Ũkwenda atĩa?” Hĩndĩ ĩyo ngĩhooya Ngai wa Igũrũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.4",
+            "verseOrgIds": [
+              "NEH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ngĩcookeria mũthamaki atĩrĩ, “Mũthamaki, angĩona kwagĩrĩire, na ndungata yaku ĩtĩkĩrĩke maitho-inĩ make, nĩakĩndũme itũũra rĩu inene rĩa Juda, kũrĩa maithe makwa mathikĩtwo, nĩguo ngarĩake rĩngĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.5",
+            "verseOrgIds": [
+              "NEH.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo mũthamaki, aikaranĩtie na mũtumia wake, akĩnjũũria atĩrĩ, “Rũgendo rwaku nĩ rwa matukũ maigana na ũgaacooka rĩ?” Mũthamaki akĩona arĩ wega andũme; nĩ ũndũ ũcio ngĩtua ihinda rĩa gũthiĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.6",
+            "verseOrgIds": [
+              "NEH.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩmwĩra atĩrĩ, “Mũthamaki angĩona kwagĩrĩire, reke heo marũa ndwarĩre abarũthi a Mũrĩmo-wa-Farati, nĩgeetha manjĩtĩkĩrie hĩtũkĩre kuo kinya nginye Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.7",
+            "verseOrgIds": [
+              "NEH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na no heo marũa ndwarĩre Asafu, mũmenyereri wa mũtitũ wa mũthamaki, nĩgeetha akaahe mbaũ cia gũthondeka mĩgamba ya ihingo cia nyũmba ya ũthamaki ĩrĩa ĩriganĩtie na hekarũ, na cia gwaka rũthingo rwa itũũra inene o na cia gwaka nyũmba ĩrĩa ndĩrĩikaraga?” Na tondũ ũtugi wa guoko kwa Ngai wakwa warĩ hamwe na niĩ, mũthamaki agĩĩtĩkĩra kũũhingĩria maũndũ marĩa mothe ndaamũũrĩtie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.8",
+            "verseOrgIds": [
+              "NEH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ngĩthiĩ kũrĩ abarũthi a Mũrĩmo-wa-Farati, ngĩmanengera marũa ma mũthamaki. Ningĩ mũthamaki nĩatũmĩte anene a mbũtũ cia ita hamwe na thigari iria ithiiaga na mbarathi tũthiĩ hamwe nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.9",
+            "verseOrgIds": [
+              "NEH.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Sanibalati ũrĩa Mũhoroni,na Tobia mũnene ũrĩa Mũamoni, maaiguire ũhoro ũcio, magĩtangĩka mũno makĩria nĩkũigua atĩ kwarĩ mũndũ wokĩte gũcaria maũndũ ma kũguna andũ a Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.10",
+            "verseOrgIds": [
+              "NEH.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nehemia Kũrora Thingo cia Jerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩndathiire Jerusalemu, na thuutha wa gũikara kuo mĩthenya ĩtatũ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.11",
+            "verseOrgIds": [
+              "NEH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ngiumagara ũtukũ ndĩ na andũ matarĩ aingĩ. Ndierĩte mũndũ o na ũmwe ũndũ ũrĩa Ngai wakwa eekĩrĩte ngoro-inĩ yakwa njĩke nĩ ũndũ wa Jerusalemu. Gũtiarĩ na mbarathi ingĩ tiga ĩrĩa yanguuĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.12",
+            "verseOrgIds": [
+              "NEH.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩndathiire ũtukũ ngereire Kĩhingo gĩa Kĩanda,njerekeire Gĩthima kĩa Ndamathia na Kĩhingo gĩa Kĩara-inĩ,ngĩroraga thingo cia Jerusalemu iria ciamomoretwo, na ihingo ciarĩo iria ciacinĩtwo ikaniinwo nĩ mwaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.13",
+            "verseOrgIds": [
+              "NEH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩthiĩ o na mbere njerekeire Kĩhingo gĩa Gĩthima na Karia-inĩ ka Mũthamaki, no hatiarĩ handũ haiganu ha kũhĩtũkĩrwo nĩ mbarathi yakwa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.14",
+            "verseOrgIds": [
+              "NEH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩ ũndũ ũcio ngĩambata na mũkuru ũtukũ ngĩroraga ũrĩa rũthingo rwatariĩ. Ndakinya mũthia, ngĩhũndũka ngĩingĩrĩra Kĩhingo gĩa Kĩanda rĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.15",
+            "verseOrgIds": [
+              "NEH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anene a kũu matiamenyire kũrĩa ndathiĩte kana ũrĩa ndekaga tondũ ndiamenyithĩtie Ayahudi, kana athĩnjĩri-Ngai, kana arĩa maarĩ igweta, kana anene, o na kana arĩa angĩ mangĩarutire wĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.16",
+            "verseOrgIds": [
+              "NEH.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩmeera atĩrĩ, “Nĩmũrona thĩĩna ũrĩa tũrĩ naguo: itũũra rĩa Jerusalemu nĩrĩanangĩku, na ihingo ciarĩo igacinwo na mwaki. Ũkai twake rũthingo rwa Jerusalemu rĩngĩ, na tũtigacooka kũnyararwo o na rĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.17",
+            "verseOrgIds": [
+              "NEH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na ningĩ ngĩmeera ũrĩa guoko kwa ũtugi kwa Ngai wakwa kwarĩ hamwe na niĩ, na ũrĩa mũthamaki anjĩĩrĩte. Nao magĩcookia atĩrĩ, “Nĩtwambĩrĩriei gwaka rĩngĩ.” Nĩ ũndũ ũcio makĩambĩrĩria wĩra ũcio mwega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.18",
+            "verseOrgIds": [
+              "NEH.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩa Sanibalati ũrĩa Mũhoroni na Tobia mũnene ũrĩa Mũamoni na Geshemu ũrĩa Mũarabu maiguire ũhoro ũcio, magĩtũnyũrũria na magĩtũthekerera, makĩũria atĩrĩ, “Nĩ atĩa ũũ mũreka? Kaĩ mũkũremera mũthamaki?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.19",
+            "verseOrgIds": [
+              "NEH.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩmacookeria atĩrĩ, “Ngai wa Igũrũ nĩwe ũgũtũma tũgaacĩre. Ithuĩ ndungata ciake nĩtũkwambĩrĩria gwaka rĩngĩ, no ha ũhoro wanyu-rĩ, mũtirĩ na igai gũkũ Jerusalemu, kana kĩhooto, kana ũndũ wa tene wa kũmũnyiitithania narĩo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.20",
+            "verseOrgIds": [
+              "NEH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.3",
+    "number": "3",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.1",
+    "number": "1",
+    "bookId": "NEH"
+  }
+}

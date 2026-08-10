@@ -1,0 +1,840 @@
+{
+  "id": "AMO.9",
+  "number": "9",
+  "bookId": "AMO",
+  "reference": "Amosi 9",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "AMO 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ekiina ki’Omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkarora Omonene oteneine ang’e negesasiimero, ere agateeba, “Aka ebisure bie chisiiro goika emeriibo y’emetobwa y’egesieri inse etengeche; ebisure bibunanekane bigwere emetwe y’ abanto bonsi. Abaratigare nimbaite nemioro. Onde tari oratame, gose oratooreke, nonya noyomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.1",
+            "verseOrgIds": [
+              "AMO.9.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 9:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabaisa korema basoe inse agwo aase abakuure, okoboko kwane nigo korabarusieo; nabaisa koriina baike igoro nimbatabokanie gochia inse aa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.2",
+            "verseOrgIds": [
+              "AMO.9.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "AMO 9:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabaisa kwebisa ase egechuria ki’egetunwa gia Karimeli, nimbarigie mbarusieo; nabaisa gosoa ase enkori y’enyancha inse bebise ng’a timbarora, aroro agwo ninchike eng’iti engenda inse ebarome.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.3",
+            "verseOrgIds": [
+              "AMO.9.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "AMO 9:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabaisa koirwa ase obosomba nababisa babo, aroro agwo ninchike emioro ebaite. Nimbaonchorere amaiso ane mbakorere ayare amabe na tari ayare amaya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.4",
+            "verseOrgIds": [
+              "AMO.9.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "AMO 9:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, Nyasae bw’Emeganda, karakune ense,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.5",
+            "verseOrgIds": [
+              "AMO.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ero nigo ekonyititoka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.5",
+            "verseOrgIds": [
+              "AMO.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ebitongwa bionsi bireo bibe bikorera. Ense engima neimokererigwe igoro, naende eiranigwe inse,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.5",
+            "verseOrgIds": [
+              "AMO.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "buna orooche rwa Naeli rore agwo Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.5",
+            "verseOrgIds": [
+              "AMO.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 9:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oria okoagacha chiero chiaye aaria igoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na obeka obokumbe bwaye igoro y’ense na kobokong’ia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oria okorangeria amaache ’enyancha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oyaumora igoro ase ense,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Omonene nario erieta riaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.6",
+            "verseOrgIds": [
+              "AMO.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "AMO 9:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inwe Abaisraeli, Inee, timonga buna Abaetiopia asende? Inee! Tinabarusetie inwe Abaisraeli korwa ase ense ya Misiri, na Abafirisiti korwa ase ense ya Kafitori, na Abaasuri korwa Kiri?” Nab’Omonene ateebire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.7",
+            "verseOrgIds": [
+              "AMO.9.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 9:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Rora inche Omonene nigo ndarigererie namaiso ane obogambi obwo bogokora ebibe. Nimbosirie borue ase obosio bw’ense, korende tingosiria kegima abanto b’ororeria rwa Yakobo.” Nabo Omonene ateebire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.8",
+            "verseOrgIds": [
+              "AMO.9.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 9:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naama! Ninchike ng’a Abaisraeli basongwe ase egati y’ abanto b’ebisaku bionsi, buna obori bogosongwa. Korende nonya nenyeke ensinini tekogwa inse.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.9",
+            "verseOrgIds": [
+              "AMO.9.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 9:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanyabibe bonsi b’ abanto bane, abwo bagoteeba ng’a amabe takobanyora gose kobakorera kende, ’mbakenywe nemioro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.10",
+            "verseOrgIds": [
+              "AMO.9.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abaisraeli mbairanerigwe amaya abo ase amatuko agochi‐gocha",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 9:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Rituko ngochicha rire ekero ndatenenie esaiga eria ya Daudi yagwete, ning’agache naende aase agwo atagogete, ngororokie amatombe aye; ninyeagache naende, ebe buna yarenge agwo kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.11",
+            "verseOrgIds": [
+              "AMO.9.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 9:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaisraeli mbaire ensemo entigari ya Edomu, boigo mbaire chinse chi’ebisaku ebio bikorokwa ase erieta riane.” Nabo Omonene, oyio orakore ayio, agoteeba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.12",
+            "verseOrgIds": [
+              "AMO.9.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "AMO 9:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nigo agoteeba iga:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Rora amatuko ngocha are, ekero omoremi araikeere omogesi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na omomiti amasabibu araikeere omobusuri chimbusuro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ebitunwa mbitonyie edivai enyansu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ebigoro mbiichore edivai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.13",
+            "verseOrgIds": [
+              "AMO.9.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "AMO 9:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ning’iranie abanto bane Abaisraeli korwa ase obosomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.14",
+            "verseOrgIds": [
+              "AMO.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Barabwo mbaagache naende emechie eyio yasiretigwe bamenyeo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.14",
+            "verseOrgIds": [
+              "AMO.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "mbasimeke emesabibu na konywa edivai yaye;",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.14",
+            "verseOrgIds": [
+              "AMO.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "boigo mbareme emegondo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.14",
+            "verseOrgIds": [
+              "AMO.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "basimeke chindagera na koria okwama kw’emegondo eyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.14",
+            "verseOrgIds": [
+              "AMO.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "AMO 9:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimbairanie mbabeeke bamenye ase ense yabo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.15",
+            "verseOrgIds": [
+              "AMO.9.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tibagotegorwa korwa ase ense eyio nabaete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.15",
+            "verseOrgIds": [
+              "AMO.9.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Nabo Omonene, Nyasae oino, ateebire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.9.15",
+            "verseOrgIds": [
+              "AMO.9.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "OBA.intro",
+    "number": "intro",
+    "bookId": "OBA"
+  },
+  "previous": {
+    "id": "AMO.8",
+    "number": "8",
+    "bookId": "AMO"
+  }
+}

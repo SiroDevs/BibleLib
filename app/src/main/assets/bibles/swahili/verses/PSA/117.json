@@ -1,0 +1,298 @@
+{
+  "id": "PSA.117",
+  "number": "117",
+  "bookId": "PSA",
+  "reference": "Zaburi 117",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 2,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "117",
+        "style": "c",
+        "sid": "PSA 117"
+      },
+      "items": [
+        {
+          "text": "117",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 117",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sifa Za",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 117:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.1",
+                "verseOrgIds": [
+                  "PSA.117.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", enyi mataifa yote;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 117:1"
+      },
+      "items": [
+        {
+          "text": "mtukuzeni yeye, enyi watu wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.1",
+            "verseOrgIds": [
+              "PSA.117.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 117:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa kuwa upendo wake kwetu ni mkuu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 117:2"
+      },
+      "items": [
+        {
+          "text": "uaminifu wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unadumu milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 117:2"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 117:2"
+      },
+      "items": [
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.117.2",
+                "verseOrgIds": [
+                  "PSA.117.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.117.2",
+            "verseOrgIds": [
+              "PSA.117.2"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.118",
+    "number": "118",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.116",
+    "number": "116",
+    "bookId": "PSA"
+  }
+}

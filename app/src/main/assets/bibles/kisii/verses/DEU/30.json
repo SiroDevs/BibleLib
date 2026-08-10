@@ -1,0 +1,575 @@
+{
+  "id": "DEU.30",
+  "number": "30",
+  "bookId": "DEU",
+  "reference": "Okoiranerera 30",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "DEU 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ayakorenta ogosesenigwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero ogosesenigwa na okoragererigwa, ayio naborokereirie aria arabe gakobanyora ekero mogendererete komenya ase egati y’ebisaku bionsi ebio ase Omonene Nyasae oino, arabaseerie gochia, ’monyaare koinyora amang’ana ane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.1",
+            "verseOrgIds": [
+              "DEU.30.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe amo nabana baino komoramoiranere Omonene Nyasae oino, na koigwera amang’ana aye ase chinkoro chiaino chionsi, na ase emioyo yaino yonsi, amang’ana ayio nabachiikire rituko ria reero,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.2",
+            "verseOrgIds": [
+              "DEU.30.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "rirori’Omonene Nyasae oino, n’abarorere amaabera na kobasesenia, naende abairanie korwa ase ebisaku bionsi ebio ase abasiarerete gochia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.3",
+            "verseOrgIds": [
+              "DEU.30.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nonya mwasiareretwe gochia ase chinsinyo chi’ense, Omonene Nyasae oino, nabasangererie korwao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.4",
+            "verseOrgIds": [
+              "DEU.30.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kobairania gochia ase ense eria chisokoro chiaino chiairete ekaba eyabo, erio nainwe moyeire ebe eyaino. Ere nabakorere amaya, naende ababuchie mobe abange goetania chisokoro chiaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.5",
+            "verseOrgIds": [
+              "DEU.30.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene Nyasae oino, narokie chinkoro chiaino, ne chinkoro chi’ororeeria rwaino, nabae inwe ne chinderia chiaino chinkoro chi’okoigwera; erio nario moramwanche ne chinkoro chiaino chionsi, na emioyo yaino yonsi, mogenderere koba moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.6",
+            "verseOrgIds": [
+              "DEU.30.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene oino nabeeke okoragereria okwo gwonsi igoro y’ababisa baino, na igoro ya baria baabageechete na kobachaanda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.7",
+            "verseOrgIds": [
+              "DEU.30.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nainwe moigwere Omonene naende, na kobwata amachiiko aye onsi aya ’nkobateebia rituko ria reero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.8",
+            "verseOrgIds": [
+              "DEU.30.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene Nyasae oino, nabasesenie mono ase emeremo yaino yonsi mogokora n’amaboko aino, nasesenie oroiboro rwaino romentekane, ’namente ne chiombe chiaino na okwama kwaino kwe riroba. Na buna Omonene agoogete ase ogosesenia chisokoro chiaino, naboigo aragooke ase okobasesenia inwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.9",
+            "verseOrgIds": [
+              "DEU.30.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "komoraigwere Omonene Nyasae oino, na mobwate amachiiko aye onsi na emeroberio echiikire, ariikire ase egetabu eke y’amachiiko, naende komoramoonchokere ne chinkoro chiaino chionsi, na emioyo yaino yonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.10",
+            "verseOrgIds": [
+              "DEU.30.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ogochika okwo nabaeire rituko ria reero tikori ogokong’u mono ase more, gose tikori aare korwa ase more.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.11",
+            "verseOrgIds": [
+              "DEU.30.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tigokari aaria igoro, erinde moborie: Ning’o oranyaare koriina gochia aaria igoro agotorentere korwa aroro, erinde tokoigwe na kogokora?",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.12",
+            "verseOrgIds": [
+              "DEU.30.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 30:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gose tigokari ng’umbu y’enyancha, erinde moborie: Ning’o oranyaare kwamboka gochia ng’umbu y’enyancha agotorentere, erinde tokoigwe na togokore?",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.13",
+            "verseOrgIds": [
+              "DEU.30.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 30:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Taibo! Ring’ana riria nigo rire ang’e nainwe ase emenwa yaino, na ase chinkoro chiaino, erinde monyaare korikora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.14",
+            "verseOrgIds": [
+              "DEU.30.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 30:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Rora, rituko ria reero nabeekire ase amasio aino obogima na ayaare amaya, amakweri na ayaare amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.15",
+            "verseOrgIds": [
+              "DEU.30.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 30:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Komoraigwere amachiiko yo Omonene Nyasae oino, aya inche ’nkobaa ase rituko ria reero, ase okomwancha na gotaara ase chinchera chiaye na kobwata amachiiko aye, na emeroberio yaye echiikire, erio inwe ’namobe moyo na komentekana, nere nabasesenie ase ense eyio mogochia gosoa na koira ebe eyaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.16",
+            "verseOrgIds": [
+              "DEU.30.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 30:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende mogochia koonchoka ase chinkoro chiaino na komotiga timomoigwera, korende mong’uswe moonchoke gosasiima chinyasae ching’ao na gochikorera,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.17",
+            "verseOrgIds": [
+              "DEU.30.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 30:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nabaorokeirie ase rituko ria reero ng’a goika mosire. Timogochia komenya engaki entambe ase ense eria ere ng’umbu ya Yorodani, eria mogochia koira ebe eyaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.18",
+            "verseOrgIds": [
+              "DEU.30.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 30:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko ria reero narangeirie igoro na ense chibe birori ase more ng’a inche nabeekire ase amasio aino obogima na amakweri, ogosesenigwa na okoragererigwa. Ase ayio, chora obogima, erinde inwe amo ne chinderia chiaino monyaare kogenderera koba moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.19",
+            "verseOrgIds": [
+              "DEU.30.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 30:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanche Omonene Nyasae oino, momoigwere na mobe abegenwa ase are. Ekero morakore ayio, rirorio ’namogenderere koba moyo na komenya ase ense eyi’Omonene arierete chisokoro chiaino Aburaamu, na Isaka, na Yakobo eira ng’a n’abayee.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.30.20",
+            "verseOrgIds": [
+              "DEU.30.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.31",
+    "number": "31",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.29",
+    "number": "29",
+    "bookId": "DEU"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "id": "JON.4",
+  "number": "4",
+  "bookId": "JON",
+  "reference": "Yona 4",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JON 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okogechigwa kwa Yona na amaabera a Nyasae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yona akagechigwa namang’ana ayio, akaba nendamwamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.1",
+            "verseOrgIds": [
+              "JON.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio agasaba Omonene, agateeba, “Aye Omonene, Inee, amang’ana aya tari aro nateebete ekero narenge ase ense yane? Naende nakio kiagerete ngatama gochia Tarisisi, ekiagera nigo namanyete ng’a aye nigo ore Nyasae oichire nobuya na amaabera; tori omwango bw’okoba nendamwamu, na obwanchani bwao obonene nigo bogendererete botambe, naende nigo okoonchora ebirengererio biao, tokobakorera amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.2",
+            "verseOrgIds": [
+              "JON.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, aye Omonene, bono nagosoroire ng’a orusieo obogima bwane ontige inkwe, ekiagera nigo ere buya ase ’nde gokwa kobua kogenderera koba moyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.3",
+            "verseOrgIds": [
+              "JON.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eri’Omonene akamobooria, “Inee! Igo mboronge ogokora ase okogechigwa igo?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.4",
+            "verseOrgIds": [
+              "JON.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono Yona agasoka korwa ase omochie oria, agaikaransa ase ensemo ya moocha y’omochie. Agwo akeagachera ekegutu, agaikaransa imeo gokenderera koganya arore ayare gochia gokorekana ase omochie oria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.5",
+            "verseOrgIds": [
+              "JON.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eri’Omonene Nyasae akameria omobono ogakina, na Yona agakenderera inse yaye, agatimoka korwa ase okorosa kwaye. Ase ayio akagokigwa mono nomobono oria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.6",
+            "verseOrgIds": [
+              "JON.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende rituko ria kabere mambia, Nyasae agachiika rikonde rikaria omobono oria, erinde ogasusana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.7",
+            "verseOrgIds": [
+              "JON.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero erioba riatiirire gocha igoro, Nyasae akarenta omwaga okagusa korwa moocha orenge nomobaso omoororo se, na omobaso oria ogasamba Yona bobe ase omotwe goika akagireka. Erio akagania akwe, agateeba, “Nigo ere buya ase ’nde gokwa kobua kogenderera koba moyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.8",
+            "verseOrgIds": [
+              "JON.4.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Nyasae akaboria Yona, “Inee! Mboronge igo aye okogechigwa ase engencho y’omobono oyio?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.9",
+            "verseOrgIds": [
+              "JON.4.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Yona akairaneria, akamoteebia, “Ee, nigo inde noboronge kogechigwa, nonya ngoika ogokwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.9",
+            "verseOrgIds": [
+              "JON.4.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akamoteebia, “Aye kwaroreire omobono oyo amaabera, nonya tikwaywechanderete ase ogokora emeremo asoro, gose ase okoyokinia; nigo omerete ase obotuko obomo, naende ogasira ase obotuko obomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.10",
+            "verseOrgIds": [
+              "JON.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Inche tingwenereti koba namabeebe ase Ninawi, omochie oyio omonene, agwo ase abanto goetania chilifu rigana erimo na emerongo ebere (120,000) bamenyeteo? Abanto abwo tibamanyete gwatanana ayare ensemo ya borio na ayare ase eya bomosi. Boigo omochie oyio nobwate ching’iti chinyinge mono chitugireo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.11",
+            "verseOrgIds": [
+              "JON.4.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "JON.3",
+    "number": "3",
+    "bookId": "JON"
+  }
+}

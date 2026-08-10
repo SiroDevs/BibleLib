@@ -1,0 +1,777 @@
+{
+  "id": "ISA.19",
+  "number": "19",
+  "bookId": "ISA",
+  "reference": "Isaya 19",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "19",
+        "style": "c",
+        "sid": "ISA 19"
+      },
+      "items": [
+        {
+          "text": "19",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae nae Abamisiri egesusuro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 19:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amang’ana igoro ya Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.1",
+            "verseOrgIds": [
+              "ISA.19.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Rora, Omonene nigo ariinete riire rikominyoka bwango ogocha Misiri. Erio agwo emegwekano egosasimwa y’Abamisiri nenyegerigwe ase obosio bwaye, ne chinkoro chi’Abamisiri nigo chirairianyeke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.1",
+            "verseOrgIds": [
+              "ISA.19.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 19:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inche Omonene ninseegete Abamisiri baitane boka abanyene; kera omonto nigo ararwane noyomwabo, na kera omoamate arwane nomoamate omwabo. Ninseegete abanto b’omochie oyomo barwane nab’omochie onde, na oborwoti borwane noborwoti bonde.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.2",
+            "verseOrgIds": [
+              "ISA.19.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 19:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nindusie omoika bw’Abamisiri orue ase bare, ninsarie emeroberio yabo; barabwo mbabe bakogenda korigia ogosemigwa korwa ase emegwekano egosasimwa, na korwa ase abaragori, na korwa ase abwo bakorangeria emeika y’abakuure, na korwa ase abarogi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.3",
+            "verseOrgIds": [
+              "ISA.19.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 19:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nimbeeke Abamisiri ase amaboko ’omonene ore omotindi; omorwoti bw’okobaondokia nabagambere.” Nab’Omonene, oyore Omonene bw’Emeganda, atebiire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.4",
+            "verseOrgIds": [
+              "ISA.19.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 19:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amache ’orooche rwa Naeli nakame pi, na orooche orwo ndokame kegima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.5",
+            "verseOrgIds": [
+              "ISA.19.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 19:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chindooche chigochiao nigo chiragunde chitioke, na amaache ’emetaro agwo Misiri nakee aere; ebitonto na amauncho mbiome.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.6",
+            "verseOrgIds": [
+              "ISA.19.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 19:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amaranya amo nemegondo ere mbarabare y’orooche rwa Naeli mbiome bisareke kegima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.7",
+            "verseOrgIds": [
+              "ISA.19.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 19:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bakoruba ne chindobio ase orooche rwa Naeli mbarere na kobokia amagombo, na abwo bakoruta ebionga aroro mbaumate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.8",
+            "verseOrgIds": [
+              "ISA.19.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 19:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bakoroisia chiusi chi’egatani, na abakoroisia ebitambaa bi’ebamba, mberusie moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.9",
+            "verseOrgIds": [
+              "ISA.19.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 19:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bare chisiiro chi’abaanto b’ense mbasenyentwe, na bonsi abarikire gokora emeremo mbaichane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.10",
+            "verseOrgIds": [
+              "ISA.19.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 19:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abagaambi ba Soani nigo bare abariri kegima; na abasemia abang’aini ba Farao nigo bagosemia ay’oboriri. Naki moranyare goteebia Farao: “Intwe nabana b’abaanto abang’aini, abana b’abarwoti abakoro?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.11",
+            "verseOrgIds": [
+              "ISA.19.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 19:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng’ai abanto bao abang’aini bare? Onye bareo, tiga bagoteebie na gokomanyia ay’Omonene bw’Emeganda arobeirie igoro ya Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.12",
+            "verseOrgIds": [
+              "ISA.19.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 19:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abagaambi ba Soani babeire abariri, na aba Memifisi bang’ainirwe. Abwo bare buna amagena e chikoona ase ebisaku biabo batantanirie ense ya Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.13",
+            "verseOrgIds": [
+              "ISA.19.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 19:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene obekire omoika bw’obotantanu ase egati y’abanto b’aroro, nabarabwo bakorire ense ya Misiri yatindire ase ogokora kwaye gwonsi, nigo ekogaragara, buna omonto otindire okwegaragaria ase amaroki aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.14",
+            "verseOrgIds": [
+              "ISA.19.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 19:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ense ya Misiri tegosesenigwa ase ogokora konde gwonsi, kobe ogokora kw’omotwe gose ogw’ekemincha, okw’orosagia rw’omokendo gose orw’egetonto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.15",
+            "verseOrgIds": [
+              "ISA.19.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abamisiri mbasasime Omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 19:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio Abamisiri mbabe buna abakungu, baiguswe bare nobwoba ase obosio Omonene bw’Emeganda, ekero ararambore okoboko kwaye agosungusie igoro yabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.16",
+            "verseOrgIds": [
+              "ISA.19.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 19:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abamisiri mbabe bakoiroka abanto b’ense y’Abayuda; ekero Omomisiri araigwe ense y’Abayuda egwatorwa nabe nobwoba obonene, ekiagera Omonene bw’Emeganda okorire omooroberio ore mamincha y’Abamisiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.17",
+            "verseOrgIds": [
+              "ISA.19.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 19:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio abanto b’emechie etano y’ense ya Misiri mbabe bagokwana omonwa bw’Abakanaani, naende babe bakobwatana n’Omonene bw’Emeganda na gotiana ase erieta riaye. Oyomo bw’emechie eyio nigo orarokwe Omochie bw’Erioba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.18",
+            "verseOrgIds": [
+              "ISA.19.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 19:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio egesasiimero nkeagacherwe Omonene agwo ase egatigati ya Misiri, boigo rigena rire buna esiiro nditenenerigwe Omonene agwo ase ribebe ri’ense eyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.19",
+            "verseOrgIds": [
+              "ISA.19.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 19:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebinto ebio mbibe ekemanyererio na kirori ase Omonene bw’Emeganda, agwo ase ense ya Misiri. Ekero abanto ba Misiri barabe bakorera ase Omonene kobagokorerwa bobe, ere nabatomere omotooria abarwanerere abatoorie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.20",
+            "verseOrgIds": [
+              "ISA.19.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 19:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nemanyekanie ase Abamisiri; na Abamisiri mbabe bakomomany’Omonene ase amatuko ayio. Mbabe bakomosasiima na komoruera ebing’wanso bi’ogosambwa, na okoruegwa kw’endagera, naende mbabe bakoriera Omonene chiira na gochiikerania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.21",
+            "verseOrgIds": [
+              "ISA.19.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 19:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene naake ense ya Misiri, nayeake na koyegwenia, na abanto b’aroro mbamoiranere Omonene, ere naigwe ogosaba kwabo abagwenie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.22",
+            "verseOrgIds": [
+              "ISA.19.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ISA 19:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio enchera enene neebeo ekorwa Misiri goika Asuri. Abaasuri mbabe bakogenda Misiri, na Abamisiri babe bakogenda Asuri; Abamisiri na Abaasuri mbabe bagosasimera amo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.23",
+            "verseOrgIds": [
+              "ISA.19.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ISA 19:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio Abaisraeli mbabwatane n’Abamisiri na Abaasuri, na ebisaku ebio bitato mbibe ogosesenigwa ase ense engima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.24",
+            "verseOrgIds": [
+              "ISA.19.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ISA 19:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera Omonene bw’Emeganda nabasesenie, ateebe: “Imosesenirie inwe Abamisiri, abamore abanto baane, nainwe Abaasuri, abamore emeremo y’amaboko aane, nainwe Abaisraeli, abamore omwando one.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.19.25",
+            "verseOrgIds": [
+              "ISA.19.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.20",
+    "number": "20",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.18",
+    "number": "18",
+    "bookId": "ISA"
+  }
+}

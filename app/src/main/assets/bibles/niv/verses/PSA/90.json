@@ -1,0 +1,1185 @@
+{
+  "id": "PSA.90",
+  "number": "90",
+  "bookId": "PSA",
+  "reference": "Psalm 90",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "90",
+        "style": "c",
+        "sid": "PSA 90"
+      },
+      "items": [
+        {
+          "text": "90",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms"
+      },
+      "items": [
+        {
+          "text": "Book IV",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "mr"
+      },
+      "items": [
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "PSA.90-PSA.106"
+          },
+          "items": [
+            {
+              "text": "Psalms 90–106",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 90",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A prayer of Moses the man of God.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 90:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lord, you have been our dwelling place",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.1",
+            "verseOrgIds": [
+              "PSA.90.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:1"
+      },
+      "items": [
+        {
+          "text": "throughout all generations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.1",
+            "verseOrgIds": [
+              "PSA.90.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 90:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Before the mountains were born",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.2",
+            "verseOrgIds": [
+              "PSA.90.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:2"
+      },
+      "items": [
+        {
+          "text": "or you brought forth the whole world,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.2",
+            "verseOrgIds": [
+              "PSA.90.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:2"
+      },
+      "items": [
+        {
+          "text": "from everlasting to everlasting you are God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.2",
+            "verseOrgIds": [
+              "PSA.90.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 90:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You turn people back to dust,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.3",
+            "verseOrgIds": [
+              "PSA.90.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:3"
+      },
+      "items": [
+        {
+          "text": "saying, \"Return to dust, you mortals.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.3",
+            "verseOrgIds": [
+              "PSA.90.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 90:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A thousand years in your sight",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.4",
+            "verseOrgIds": [
+              "PSA.90.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:4"
+      },
+      "items": [
+        {
+          "text": "are like a day that has just gone by,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.4",
+            "verseOrgIds": [
+              "PSA.90.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:4"
+      },
+      "items": [
+        {
+          "text": "or like a watch in the night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.4",
+            "verseOrgIds": [
+              "PSA.90.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 90:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yet you sweep people away in the sleep of death—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.5",
+            "verseOrgIds": [
+              "PSA.90.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:5"
+      },
+      "items": [
+        {
+          "text": "they are like the new grass of the morning:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.5",
+            "verseOrgIds": [
+              "PSA.90.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 90:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In the morning it springs up new,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.6",
+            "verseOrgIds": [
+              "PSA.90.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:6"
+      },
+      "items": [
+        {
+          "text": "but by evening it is dry and withered.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.6",
+            "verseOrgIds": [
+              "PSA.90.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 90:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We are consumed by your anger",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.7",
+            "verseOrgIds": [
+              "PSA.90.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:7"
+      },
+      "items": [
+        {
+          "text": "and terrified by your indignation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.7",
+            "verseOrgIds": [
+              "PSA.90.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 90:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have set our iniquities before you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.8",
+            "verseOrgIds": [
+              "PSA.90.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:8"
+      },
+      "items": [
+        {
+          "text": "our secret sins in the light of your presence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.8",
+            "verseOrgIds": [
+              "PSA.90.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 90:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All our days pass away under your wrath;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.9",
+            "verseOrgIds": [
+              "PSA.90.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:9"
+      },
+      "items": [
+        {
+          "text": "we finish our years with a moan.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.9",
+            "verseOrgIds": [
+              "PSA.90.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 90:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our days may come to seventy years,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.10",
+            "verseOrgIds": [
+              "PSA.90.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:10"
+      },
+      "items": [
+        {
+          "text": "or eighty, if our strength endures;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.10",
+            "verseOrgIds": [
+              "PSA.90.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 90:10"
+      },
+      "items": [
+        {
+          "text": "yet the best of them are but trouble and sorrow,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.10",
+            "verseOrgIds": [
+              "PSA.90.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:10"
+      },
+      "items": [
+        {
+          "text": "for they quickly pass, and we fly away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.10",
+            "verseOrgIds": [
+              "PSA.90.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 90:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If only we knew the power of your anger!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.11",
+            "verseOrgIds": [
+              "PSA.90.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:11"
+      },
+      "items": [
+        {
+          "text": "Your wrath is as great as the fear that is your due.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.11",
+            "verseOrgIds": [
+              "PSA.90.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 90:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Teach us to number our days,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.12",
+            "verseOrgIds": [
+              "PSA.90.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:12"
+      },
+      "items": [
+        {
+          "text": "that we may gain a heart of wisdom.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.12",
+            "verseOrgIds": [
+              "PSA.90.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 90:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Relent,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.13",
+            "verseOrgIds": [
+              "PSA.90.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.90.13",
+                "verseOrgIds": [
+                  "PSA.90.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "! How long will it be?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.13",
+            "verseOrgIds": [
+              "PSA.90.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:13"
+      },
+      "items": [
+        {
+          "text": "Have compassion on your servants.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.13",
+            "verseOrgIds": [
+              "PSA.90.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 90:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Satisfy us in the morning with your unfailing love,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.14",
+            "verseOrgIds": [
+              "PSA.90.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:14"
+      },
+      "items": [
+        {
+          "text": "that we may sing for joy and be glad all our days.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.14",
+            "verseOrgIds": [
+              "PSA.90.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 90:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Make us glad for as many days as you have afflicted us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.15",
+            "verseOrgIds": [
+              "PSA.90.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:15"
+      },
+      "items": [
+        {
+          "text": "for as many years as we have seen trouble.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.15",
+            "verseOrgIds": [
+              "PSA.90.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 90:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May your deeds be shown to your servants,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.16",
+            "verseOrgIds": [
+              "PSA.90.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:16"
+      },
+      "items": [
+        {
+          "text": "your splendor to their children.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.16",
+            "verseOrgIds": [
+              "PSA.90.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 90:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May the favor",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.17",
+            "verseOrgIds": [
+              "PSA.90.17"
+            ]
+          }
+        },
+        {
+          "text": "of the Lord our God rest on us;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.17",
+            "verseOrgIds": [
+              "PSA.90.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:17"
+      },
+      "items": [
+        {
+          "text": "establish the work of our hands for us—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.17",
+            "verseOrgIds": [
+              "PSA.90.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 90:17"
+      },
+      "items": [
+        {
+          "text": "yes, establish the work of our hands.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.90.17",
+            "verseOrgIds": [
+              "PSA.90.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.91",
+    "number": "91",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.89",
+    "number": "89",
+    "bookId": "PSA"
+  }
+}

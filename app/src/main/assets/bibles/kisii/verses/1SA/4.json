@@ -1,0 +1,716 @@
+{
+  "id": "1SA.4",
+  "number": "4",
+  "bookId": "1SA",
+  "reference": "1 Samweli 4",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "1SA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosakorwa gw’Esanduki ere ne chibao chiriikire Okobwatana kw’Omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaisraeli bakagenda korwania Abafirisiti. Barabwo bagatoora agwo Ebeni‐Eseri, na Abafirisiti agwo Afeki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.1",
+            "verseOrgIds": [
+              "1SA.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abafirisiti bakeroberia korwania Abaisraeli. Esegi egatindia, na Abafirisiti bakabua Abaisraeli, bagaita Abanto chilifu inye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.2",
+            "verseOrgIds": [
+              "1SA.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abarwani abatigarete bairanete gocha ase egetwori, abagaaka b’Abaisraeli bagateeba: “Nase ki Omonene atotiga twabugwa n’Abafilisti ase rituko ria reero? Togende torente korwa Silo Esanduki eria ere ne chibao chiriikire okobwatana kw’Omonene, erinde eche ebe egati yaito na gototooria korwa ase amaboko yababisa baito.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.3",
+            "verseOrgIds": [
+              "1SA.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Abanto bagatomwa Silo, bakarenta Esanduki eria y’Omonene bw’Emeganda, oyio omenyete nobonene bwaye igoro y’ebitongwa bibwate chimbaba; na Hofini na Finehasi, abamura babere ba Eli, bagaacha amo n’Esanduki eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.4",
+            "verseOrgIds": [
+              "1SA.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Esanduki eria y’Okobwatana kw’Omonene yaigete ase egetwori, Abaisraeli bonsi bagaaka amariogi amanene goika ense ekooga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.5",
+            "verseOrgIds": [
+              "1SA.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abafirisiti bagachia koigwa amariogi aria agoakwa bakaboorania: “Ninki engencho y’ogoakwa kw’amariogi ayio amanene ase egetwori ki’Abaiberania?” Ekero banyorete amang’ana ng’a n’Esanduki y’Omonene yarentirwe ase egetwori,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.6",
+            "verseOrgIds": [
+              "1SA.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bakaondoka mono, bagakwana: “Enyasae yachire ase egetwori keria.” Naende bagateeba: “Obobe nobwaito! Egento kenga buna ekio tikiana gokorekana ase tore nonya ng’ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.7",
+            "verseOrgIds": [
+              "1SA.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obobe nobwaito! Ning’o oratotoorie korwa ase amaboko ye chinyasae echio chire nokobua gotoetania?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.8",
+            "verseOrgIds": [
+              "1SA.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Chinyasae echio nachio chiaagete Abamisiri namaakwa amange aaria ase erooro. Korende inwe Abafirisiti, motenene bokong’u buna abasacha, erinde timoba abasomba b’Abaiberania baria, buna barabwo baarenge abasomba baino. Ee, motenene buna abasacha, morwane bokong’u!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.9",
+            "verseOrgIds": [
+              "1SA.4.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo Abafirisiti bakarwana bokong’u, na Abaisraeli bakabugwa, bagatama bonsi, korende kera oyomo gochia ase enka yaye. Okobugwa okwo nigo kwareenge okonene mono. Abarwani b’Abaisraeli chilifu emerongo etato bagaitwa bagakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.10",
+            "verseOrgIds": [
+              "1SA.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esanduki ya Nyasae ekairwa, na Hofini na Finehasi, abamura babere ba Eli, bagaitwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.11",
+            "verseOrgIds": [
+              "1SA.4.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogokwa kwa Eli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oyomo bw’egesaku kia Benjamini agatama korwa ase esegi, akaminyoka gochia Silo, agaikao rituko erio erio, ore ne chianga chiatandoire, na obegete ebuse ase omotwe oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.12",
+            "verseOrgIds": [
+              "1SA.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1SA 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero omonto oria aigeteo, Eli nigo areenge oikaransete ase ekerogo kiaye agwo enchera ensemo otengerete, ekiagera nigo areenge nobwoba ase engencho y’Esanduki eria ya Nyasae. Na ekero omonto oria arentete amang’ana ayio akorekire, Abanto bonsi b’omochie bakarera mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.13",
+            "verseOrgIds": [
+              "1SA.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1SA 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Eli akaigwa okorera kw’Abaanto, akabooria: “Eriogi eri ri’okorera okonene neria ki?” Erio omonto oria akaayerera gochia ase Eli komoteebia amang’ana ayio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.14",
+            "verseOrgIds": [
+              "1SA.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Eli konya okoorire emiaka emerongo kianda, na megwanse etano na etato (98); amaiso aye konya aukoire; ase ayio tareenge konyara korora.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.15",
+            "verseOrgIds": [
+              "1SA.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1SA 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oria agateebia Eli: “Ninche narua ase esegi, natama korwao ase rituko ria reero.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.16",
+            "verseOrgIds": [
+              "1SA.4.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Erio Eli akamobooria: “Omwana one, naki esegi yagenderera?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.16",
+            "verseOrgIds": [
+              "1SA.4.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1SA 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio oria orentete amang’ana akamoiraneria: “Abaisraeli batamire korwa ase Abafirisiti, Abanto abange baitirwe; Hofini na Finehasi, abana bao babere, bakuure; boigo Esanduki ya Nyasae yairirwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.17",
+            "verseOrgIds": [
+              "1SA.4.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1SA 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero omonto oria atorete Esanduki eria ya Nyasae, Eli akagwa gochia magega korwa ase ekerogo, agwo ase egeita ensemo, akabuneka ebigoti agakwa, ekiagera konya ogotire mono, naende nigo areenge omorito. Ere konya ogambeire Abaisraeli ase engaki y’emiaka emerongo ene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.18",
+            "verseOrgIds": [
+              "1SA.4.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogokwa kwa moga Finehasi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1SA 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono moga Finehasi, omomura o Eli, nigo areenge morito; engaki yaye y’okogonkia konya yabereire ang’e. Ekero aigwete amang’ana ng’a ise biara amo nomosaacha oye bakuure, obororo bw’okobina bokamocheera, agatugama inse, akagonkia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.19",
+            "verseOrgIds": [
+              "1SA.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1SA 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero areenge ang’e nogokwa, abakungu abaarenge komokoonya ase okomoiboria bakamoteebia: “Toiroka, ekiagera kwaiboire omwana omomura.” Korende omokungu oria tabairaneria gento, gose tategerera amang’ana abo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.20",
+            "verseOrgIds": [
+              "1SA.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1SA 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akaroka omwana oria I‐Kabodi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.21",
+            "verseOrgIds": [
+              "1SA.4.21"
+            ]
+          }
+        },
+        {
+          "text": "ogoteeba: “Obonene bwarure ase Abaisraeli.” Nigo akwanete igo, ekiagera Esanduki eria ya Nyasae konya yairirwe, boigo ekiagera ise biara konya okuure na omosacha oye konya oitirwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.21",
+            "verseOrgIds": [
+              "1SA.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1SA 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agateeba: “Obonene bwarure ase Abaisraeli,” ekiagera Esanduki eria ya Nyasae konya yairirwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.4.22",
+            "verseOrgIds": [
+              "1SA.4.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.5",
+    "number": "5",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.3",
+    "number": "3",
+    "bookId": "1SA"
+  }
+}

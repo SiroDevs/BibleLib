@@ -1,0 +1,691 @@
+{
+  "id": "EXO.13",
+  "number": "13",
+  "bookId": "EXO",
+  "reference": "Okong’anya 13",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "EXO 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogwatanana abana abatangi ne ching’iti chintangi ase Omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agateebia Musa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.1",
+            "verseOrgIds": [
+              "EXO.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nyatananere kera omwana omotangi bw’Abaisraeli, oyo okoigora enda ya ng’ina, ne ching’iti chintangi boigo. Ekiagera kera omwana omomura omotangi bw’Abaisraeli noyone ne ching’iti chitangi boigo nechiane.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.2",
+            "verseOrgIds": [
+              "EXO.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Rituko rinene ri’Emegati etabekiri memera",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Musa agateebia abanto, “Mobe mokoinyora rituko eri mwang’anyete korwa ase ense ya Misiri, ense eyio mwarenge abasomba, ekiagera Omonene abang’anyetie korwa agwo nokoboko kwaye gwe chinguru. Ase rituko erio omogati obekire ememera toriegwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.3",
+            "verseOrgIds": [
+              "EXO.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko ria reero ase omotienyi bw’Abibu nario mokong’anya korwa aa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.4",
+            "verseOrgIds": [
+              "EXO.13.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nabarierete chisokoro chiaino eira ng’a nabae ense y’Abakanaani, na Abahiti, na Abaamori, na Abahivi, na Abayebusi. Eyio nense entenenku ere namabeere na obooke. Ekero arabaikie agwo goika mobe mokomoruera ekeng’wanso eke ase omotienyi oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.5",
+            "verseOrgIds": [
+              "EXO.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki y’amatuko atano na abere mobe mokoria emegati etabekiri memera; ase rituko ria gatano na kabere ribe Rituko Rinene ri’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.6",
+            "verseOrgIds": [
+              "EXO.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emegati etabekiri memera eriegwe ase amatuko atano na abere. Emegati ebekire ememera, gose ememera emenyene, tibirorekana ase ense yaino engima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.7",
+            "verseOrgIds": [
+              "EXO.13.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero mogochaka omoyega, ase rituko erio moteebie abana baino buna nigo mogokora ayio onsi ase okoinyora ay’Omonene abakorerete ekero abang’anyetie korwa Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.8",
+            "verseOrgIds": [
+              "EXO.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana aya abe ekemanyererio ase okoboko kwao, na ase obosio bwao abe ekeinyorio kegokoinyoria, erinde ogenderere gokwana amachiiko y’Omonene, ekiagera Omonene nakong’anyetie korwa Misiri nokoboko kwaye gwe chinguru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.9",
+            "verseOrgIds": [
+              "EXO.13.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio ogochika oko goika korende omwaka ase omwaka ase engaki eyio echiikire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.10",
+            "verseOrgIds": [
+              "EXO.13.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abana abatangi ne ching’iti chintangi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero Omonene arakorae na kogoikia ase ense ya Kaanani, eyio akorierete eira, aye amo ne chisokoro chiao, na akoyee,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.11",
+            "verseOrgIds": [
+              "EXO.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omorwere omonene kera omwana omomura omotangi; na kera eng’iti entangi y’e tugo yao, echio nigo chirabe echi’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.12",
+            "verseOrgIds": [
+              "EXO.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende kera emori entangi y’etigere goika oyeboorie ase okorua emanwa y’eng’ondi ebe ekeng’wanso. Onye tibwancheti koyebooria goika oyebune ebigoti. Kera omwana omoisia omotangi o Mwanyabaanto goika omoboorie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.13",
+            "verseOrgIds": [
+              "EXO.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Engaki erache omwana oo karakoborie: Engencho y’amang’ana aya ninki? Goika omoiranerie: Ase okoboko kwaye gwe chinguru Omonene agatong’anyia korwa Misiri agwo ase twarenge abasomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.14",
+            "verseOrgIds": [
+              "EXO.13.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki ekero Farao akong’etie enkoro yaye akaanga gotoa ribaga kogenda, Omonene agaita kera omwana omotangi ase ense ya Misiri amo ne ching’iti chintangi chionsi. Nakio gekogera nkoruera Omonene kera eng’iti entangi ye tugo yane, na omwana one omomura omotangi nigo nkomobooria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.15",
+            "verseOrgIds": [
+              "EXO.13.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana aya goika abe ekemanyererio ase okoboko kwao na ase obosio bwao, ekiagera Omonene natorusetie korwa Misiri nokoboko kwaye gwe chinguru.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.16",
+            "verseOrgIds": [
+              "EXO.13.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Riire na omorero",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Farao aete Abasiraeli ribaga bagende, Nyasae tabaraete baetere ense y’Abafilisti, nonya enchera eyio yarenge omobutokanio. Nyasae nigo arengereretie ng’a aande onye abanto aba bagochia koumera esegi mbaabaisa koirana Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.17",
+            "verseOrgIds": [
+              "EXO.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio Nyasae akabaraa goetanana ase erooro gochia Enyancha Embariri. Na Abaisraeli bakarua ase ense ya Misiri bare nebirwanero bi’esegi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.18",
+            "verseOrgIds": [
+              "EXO.13.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 13:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akairana amauga a Yusufu buna konya Yusufu amochikiire konya atarakwa. Nigo konya otianirie Abaisraeli, agateeba, “Ekero Nyasae arabachere abakoonye morue ase aa, goika moire amauga aane, mogende naro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.19",
+            "verseOrgIds": [
+              "EXO.13.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 13:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bakaimoka bakarua Sukoti, bagatoora agwo Etamu aase erooro echakerete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.20",
+            "verseOrgIds": [
+              "EXO.13.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 13:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene akaba okobatang’ana, mobaso ase riire riare buna esiiro koborokia enchera, na botuko ase omorero orenge buna esiiro kobaa oborabu, erio barore ase bakogenda, omobaso na obotuko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.21",
+            "verseOrgIds": [
+              "EXO.13.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 13:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Riire riria riare kobaraa mobaso nigo riarenge bosio bwabo botambe, na omorero botuko, toruete ase amasio abo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.13.22",
+            "verseOrgIds": [
+              "EXO.13.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.14",
+    "number": "14",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.12",
+    "number": "12",
+    "bookId": "EXO"
+  }
+}

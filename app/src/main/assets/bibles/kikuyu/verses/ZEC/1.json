@@ -1,0 +1,625 @@
+{
+  "id": "ZEC.1",
+  "number": "1",
+  "bookId": "ZEC",
+  "reference": "Zekaria 1",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "ZEC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Isiraeli Gwĩtwo Macookerere Jehova",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ZEC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, mweri wa ĩnana wa mwaka wa keerĩ wa ũthamaki wa Dario, ndũmĩrĩri ya Jehova nĩyakinyĩire mũnabii Zekaria, mũrũ wa Berekia, mũrũ wa Ido, akĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.1",
+            "verseOrgIds": [
+              "ZEC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ZEC 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Jehova nĩarakaririo mũno nĩ maithe manyu ma tene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.2",
+            "verseOrgIds": [
+              "ZEC.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ZEC 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ĩra andũ atĩrĩ, Jehova Mwene-Hinya-Wothe ekuuga ũũ: ‘Njookererai, nĩguo Jehova Mwene-Hinya-Wothe ekuuga, na niĩ nĩngũmũcookerera,’ ũguo nĩguo Jehova Mwene-Hinya-Wothe ekuuga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.3",
+            "verseOrgIds": [
+              "ZEC.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ZEC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtikahaane ta maithe manyu ma tene arĩa maahunjagĩrio nĩ anabii a tene, makeerwo atĩrĩ: Ũũ nĩguo Jehova Mwene-Hinya-Wothe ekuuga: ‘Garũrũkai mũtige mĩthiĩre yanyu mĩũru o na mĩtugo yanyu mĩũru.’ No makĩaga kũnjigua kana kũrũmbũiya uuge wakwa, nĩguo Jehova ekuuga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.4",
+            "verseOrgIds": [
+              "ZEC.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ZEC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maithe manyu ma tene makĩrĩ kũ rĩu? Nao anabii-rĩ, nĩmatũũraga nginya tene?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.5",
+            "verseOrgIds": [
+              "ZEC.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ZEC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, githĩ ndũmĩrĩri yakwa na irĩra ciakwa cia kũrũmĩrĩrwo, iria ndaathĩte ndungata ciakwa cia anabii itiahingĩirio maithe manyu ma tene? “Hĩndĩ ĩyo makĩĩrira makiuga atĩrĩ, ‘Jehova Mwene-Hinya-Wothe atwĩkĩte kũringana na ũrĩa mĩthiĩre na mĩtugo iitũ ĩtariĩ, o ta ũrĩa aatuĩte nĩegwĩka.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.6",
+            "verseOrgIds": [
+              "ZEC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mũndũ ũrĩa warĩ Mĩtĩ-inĩ ya Mĩhandathi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ZEC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya wa mĩrongo ĩĩrĩ na ĩna wa mweri wa ikũmi na ũmwe, mweri ũcio wa Shebati, mwaka-inĩ wa keerĩ wa ũthamaki wa Dario, ndũmĩrĩri ya Jehova nĩyakinyĩire mũnabii Zekaria, mũrũ wa Berekia, mũrũ wa Ido.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.7",
+            "verseOrgIds": [
+              "ZEC.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ZEC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩndonire kĩoneki ũtukũ, na rĩrĩ, mbere yakwa ngĩona mũndũ wahaicĩte mbarathi ndune! Mũndũ ũcio aarũgamĩte mĩtĩ-inĩ ya mĩhandathi yarĩ handũ mũkuru-inĩ. Thuutha wake nĩ haarĩ mbarathi ĩmwe ndune, na ingĩ cia gĩĩtĩĩri na ingĩ njerũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.8",
+            "verseOrgIds": [
+              "ZEC.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ZEC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na niĩ ngĩũria atĩrĩ, “Mwathi wakwa, ici nacio nĩ cia kĩ?” Mũraika ũcio waaragia na niĩ akĩnjookeria atĩrĩ, “Nĩngũkwĩra nĩ cia kĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.9",
+            "verseOrgIds": [
+              "ZEC.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ZEC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũndũ ũcio warũngiĩ mĩtĩ-inĩ ya mĩhandathi akĩndaarĩria akĩnjĩĩra atĩrĩ, “Aya nĩo Jehova atũmĩte mathiĩ thĩ yothe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.10",
+            "verseOrgIds": [
+              "ZEC.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ZEC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao magĩcookia ũhoro kũrĩ mũraika wa Jehova, ũrĩa warũngiĩ mĩtĩ-inĩ ya mĩhandathi, makĩmwĩra atĩrĩ, “Nĩtũthiĩte thĩ yothe na tũkoona atĩ thĩ nĩĩhooreire na ĩrĩ na thayũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.11",
+            "verseOrgIds": [
+              "ZEC.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ZEC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ mũraika ũcio wa Jehova akĩũria atĩrĩ, “Nĩ nginya rĩ, Wee Jehova Mwene-Hinya-Wothe, ũkwaga kũiguĩra Jerusalemu na matũũra ma Juda tha, marĩa ũkoretwo ũrakarĩire mĩaka mĩrongo mũgwanja?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.12",
+            "verseOrgIds": [
+              "ZEC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ZEC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Jehova agĩkĩarĩria mũraika ũcio twaragia nake na ciugo njega na cia kũhoorerania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.13",
+            "verseOrgIds": [
+              "ZEC.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ZEC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũraika ũcio wanjaragĩria akĩnjĩĩra atĩrĩ, “Anĩrĩra ndũmĩrĩri ĩno: Jehova Mwene-Hinya-Wothe ekuuga atĩrĩ, ‘Nĩnjiguaga ũiru nĩ ũndũ wa Jerusalemu na Zayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.14",
+            "verseOrgIds": [
+              "ZEC.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ZEC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no rĩrĩ, nĩndakarĩtio mũno nĩ ndũrĩrĩ iria ciĩiguaga irĩ ngitĩre. Ndaarakarĩire andũ akwa o hanini, no ndũrĩrĩ icio igĩkĩrĩrĩria kũmanyamaria.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.15",
+            "verseOrgIds": [
+              "ZEC.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ZEC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio, Jehova ekuuga ũũ: ‘Nĩngacooka itũũra rĩa Jerusalemu ndĩrĩiguĩre tha, nayo nyũmba yakwa yakwo kuo rĩngĩ. Naruo rũrigi rũa gũthima nĩrũgatambũrũkio Jerusalemu,’ ũguo nĩguo Jehova Mwene-Hinya-Wothe ekuuga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.16",
+            "verseOrgIds": [
+              "ZEC.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ZEC 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ ũthiĩ na mbere na kwanĩrĩra uuge atĩrĩ: Jehova Mwene-Hinya-Wothe ekuuga ũũ, ‘Matũũra makwa nĩmakaiyũrĩrĩra ũgaacĩru rĩngĩ, nake Jehova nĩakahooreria Zayuni rĩngĩ na ethuurĩre Jerusalemu.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.17",
+            "verseOrgIds": [
+              "ZEC.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hĩa Inya na Mabundi Mana",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ZEC 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩtiira maitho, na rĩrĩ, mbere yakwa ngĩona hĩa inya!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.18",
+            "verseOrgIds": [
+              "ZEC.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ZEC 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩũria mũraika ũcio wanjaragĩria atĩrĩ, “Ici nacio nĩ cia kĩ?” Nake akĩnjookeria atĩrĩ, “Ici nĩcio hĩa iria ciaharaganirie Juda, na Isiraeli, na Jerusalemu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.19",
+            "verseOrgIds": [
+              "ZEC.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ZEC 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova agĩcooka akĩnyonia mabundi mana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.20",
+            "verseOrgIds": [
+              "ZEC.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ZEC 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na niĩ ngĩmũũria atĩrĩ, “Aya-rĩ, marooka gwĩka atĩa?” Nake akĩnjookeria atĩrĩ, “Ici nĩcio hĩa iria ciaharaganirie Juda nĩguo gũtigacooke kuoneka mũndũ ũkwĩhaanda, no mabundi maya, mokĩte kũmamakia na magũithie hĩa icio cia ndũrĩrĩ, iria ciambararirie hĩa ciao igĩũkĩrĩra bũrũri wa Juda, nĩguo andũ akuo maharaganio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ZEC.1.21",
+            "verseOrgIds": [
+              "ZEC.1.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ZEC.2",
+    "number": "2",
+    "bookId": "ZEC"
+  },
+  "previous": {
+    "id": "ZEC.intro",
+    "number": "intro",
+    "bookId": "ZEC"
+  }
+}

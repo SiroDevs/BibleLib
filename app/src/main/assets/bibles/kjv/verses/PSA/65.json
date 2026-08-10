@@ -1,0 +1,795 @@
+{
+  "id": "PSA.65",
+  "number": "65",
+  "bookId": "PSA",
+  "reference": "Psalms 65",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "65",
+        "style": "c",
+        "sid": "PSA 65"
+      },
+      "items": [
+        {
+          "text": "65",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, A Psalm",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Song of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 65:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.1",
+            "verseOrgIds": [
+              "PSA.65.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 65:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.2",
+            "verseOrgIds": [
+              "PSA.65.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 65:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Iniquities prevail against me:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.3",
+            "verseOrgIds": [
+              "PSA.65.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as for",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.3",
+                "verseOrgIds": [
+                  "PSA.65.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our transgressions, thou shalt purge them away.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.3",
+            "verseOrgIds": [
+              "PSA.65.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 65:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.4",
+            "verseOrgIds": [
+              "PSA.65.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is the man whom",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.4",
+                "verseOrgIds": [
+                  "PSA.65.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou choosest, and causest to approach",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.4",
+            "verseOrgIds": [
+              "PSA.65.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "unto thee, that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.4",
+                "verseOrgIds": [
+                  "PSA.65.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he may dwell in thy courts: we shall be satisfied with the goodness of thy house,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.4",
+            "verseOrgIds": [
+              "PSA.65.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.4",
+                "verseOrgIds": [
+                  "PSA.65.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of thy holy temple.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.4",
+            "verseOrgIds": [
+              "PSA.65.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 65:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "By",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.5",
+                "verseOrgIds": [
+                  "PSA.65.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "terrible things in righteousness wilt thou answer us, O God of our salvation;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.5",
+            "verseOrgIds": [
+              "PSA.65.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "who art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.5",
+                "verseOrgIds": [
+                  "PSA.65.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the confidence of all the ends of the earth, and of them that are afar off",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.5",
+            "verseOrgIds": [
+              "PSA.65.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "upon",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.5",
+                "verseOrgIds": [
+                  "PSA.65.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the sea:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.5",
+            "verseOrgIds": [
+              "PSA.65.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 65:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Which by his strength setteth fast the mountains;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.6",
+            "verseOrgIds": [
+              "PSA.65.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "being",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.6",
+                "verseOrgIds": [
+                  "PSA.65.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "girded with power:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.6",
+            "verseOrgIds": [
+              "PSA.65.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 65:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.7",
+            "verseOrgIds": [
+              "PSA.65.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 65:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.8",
+            "verseOrgIds": [
+              "PSA.65.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 65:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.9",
+            "verseOrgIds": [
+              "PSA.65.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.9",
+                "verseOrgIds": [
+                  "PSA.65.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is full of water: thou preparest them corn, when thou hast so provided for it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.9",
+            "verseOrgIds": [
+              "PSA.65.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 65:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.10",
+            "verseOrgIds": [
+              "PSA.65.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 65:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.11",
+            "verseOrgIds": [
+              "PSA.65.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 65:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They drop",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.12",
+            "verseOrgIds": [
+              "PSA.65.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "upon",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.65.12",
+                "verseOrgIds": [
+                  "PSA.65.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the pastures of the wilderness: and the little hills rejoice on every side.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.12",
+            "verseOrgIds": [
+              "PSA.65.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 65:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.65.13",
+            "verseOrgIds": [
+              "PSA.65.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.66",
+    "number": "66",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.64",
+    "number": "64",
+    "bookId": "PSA"
+  }
+}

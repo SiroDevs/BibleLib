@@ -1,0 +1,1641 @@
+{
+  "id": "AMO.1",
+  "number": "1",
+  "bookId": "AMO",
+  "reference": "Amosi 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "AMO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maneno ya Amosi, mmoja wa wachunga wanyama wa Tekoa: yale aliyoyaona kuhusu Israeli miaka miwili kabla ya tetemeko la ardhi, wakati Uzia alikuwa mfalme wa Yuda, na Yeroboamu mwana wa Yehoashi alikuwa mfalme wa Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.1",
+            "verseOrgIds": [
+              "AMO.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alisema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:2"
+      },
+      "items": [
+        {
+          "text": "\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.2",
+                "verseOrgIds": [
+                  "AMO.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ananguruma toka Sayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:2"
+      },
+      "items": [
+        {
+          "text": "pia ananguruma kutoka Yerusalemu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:2"
+      },
+      "items": [
+        {
+          "text": "malisho ya wachunga wanyama yanakauka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:2"
+      },
+      "items": [
+        {
+          "text": "kilele cha Karmeli kinanyauka.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.2",
+            "verseOrgIds": [
+              "AMO.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hukumu Juu Ya Majirani Wa Israeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "AMO 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo asemalo",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.3",
+                "verseOrgIds": [
+                  "AMO.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:3"
+      },
+      "items": [
+        {
+          "text": "\"Kwa dhambi tatu za Dameski,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:3"
+      },
+      "items": [
+        {
+          "text": "hata kwa dhambi nne, sitaizuia ghadhabu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:3"
+      },
+      "items": [
+        {
+          "text": "Kwa sababu aliipura Gileadi",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:3"
+      },
+      "items": [
+        {
+          "text": "kwa vyombo vya chuma vyenye meno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.3",
+            "verseOrgIds": [
+              "AMO.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "AMO 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitatuma moto juu ya nyumba ya Hazaeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.4",
+            "verseOrgIds": [
+              "AMO.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:4"
+      },
+      "items": [
+        {
+          "text": "ambao utateketeza ngome za Ben-Hadadi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.4",
+            "verseOrgIds": [
+              "AMO.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "AMO 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitalivunja lango la Dameski;",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.5",
+            "verseOrgIds": [
+              "AMO.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:5"
+      },
+      "items": [
+        {
+          "text": "nitamwangamiza mfalme aliyeko katika Bonde la Aveni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.5",
+            "verseOrgIds": [
+              "AMO.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:5"
+      },
+      "items": [
+        {
+          "text": "na yeye ambaye anaishika fimbo ya utawala katika Beth-Edeni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.5",
+            "verseOrgIds": [
+              "AMO.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:5"
+      },
+      "items": [
+        {
+          "text": "Watu wote wa Aramu watakwenda uhamishoni huko Kiri,\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.5",
+            "verseOrgIds": [
+              "AMO.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q4",
+        "vid": "AMO 1:5"
+      },
+      "items": [
+        {
+          "text": "asema",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo asemalo",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.6",
+                "verseOrgIds": [
+                  "AMO.1.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:6"
+      },
+      "items": [
+        {
+          "text": "\"Kwa dhambi tatu za Gaza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:6"
+      },
+      "items": [
+        {
+          "text": "hata kwa dhambi nne, sitaizuia ghadhabu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:6"
+      },
+      "items": [
+        {
+          "text": "Kwa sababu walichukua mateka jumuiya nzima",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:6"
+      },
+      "items": [
+        {
+          "text": "na kuwauza kwa Edomu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.6",
+            "verseOrgIds": [
+              "AMO.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "AMO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nitatuma moto juu ya kuta za Gaza",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.7",
+            "verseOrgIds": [
+              "AMO.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:7"
+      },
+      "items": [
+        {
+          "text": "ambao utateketeza ngome zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.7",
+            "verseOrgIds": [
+              "AMO.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitamwangamiza mfalme wa Ashdodi",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.8",
+            "verseOrgIds": [
+              "AMO.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:8"
+      },
+      "items": [
+        {
+          "text": "na yeye aishikaye fimbo ya utawala katika Ashkeloni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.8",
+            "verseOrgIds": [
+              "AMO.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:8"
+      },
+      "items": [
+        {
+          "text": "Nitaugeuza mkono wangu dhidi ya Ekroni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.8",
+            "verseOrgIds": [
+              "AMO.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:8"
+      },
+      "items": [
+        {
+          "text": "hadi Mfilisti wa mwisho atakapokufa,\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.8",
+            "verseOrgIds": [
+              "AMO.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q4",
+        "vid": "AMO 1:8"
+      },
+      "items": [
+        {
+          "text": "asema",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo asemalo",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.9",
+                "verseOrgIds": [
+                  "AMO.1.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:9"
+      },
+      "items": [
+        {
+          "text": "\"Kwa dhambi tatu za Tiro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:9"
+      },
+      "items": [
+        {
+          "text": "hata kwa dhambi nne, sitaizuia ghadhabu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:9"
+      },
+      "items": [
+        {
+          "text": "Kwa sababu ameuza jumuiya nzima ya mateka kwa Edomu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:9"
+      },
+      "items": [
+        {
+          "text": "na kutokujali mapatano ya undugu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.9",
+            "verseOrgIds": [
+              "AMO.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitatuma moto kwenye kuta za Tiro",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.10",
+            "verseOrgIds": [
+              "AMO.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:10"
+      },
+      "items": [
+        {
+          "text": "ambao utateketeza ngome zake.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.10",
+            "verseOrgIds": [
+              "AMO.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.11",
+                "verseOrgIds": [
+                  "AMO.1.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "asemalo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "\"Kwa dhambi tatu za Edomu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "hata kwa dhambi nne, sitaizuia ghadhabu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "Kwa sababu alimfuatia ndugu yake kwa upanga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "alikataa kuonyesha huruma yoyote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "kwa sababu hasira yake kali iliendelea kupanda wakati wote",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:11"
+      },
+      "items": [
+        {
+          "text": "na ghadhabu iliwaka bila kuzuiliwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.11",
+            "verseOrgIds": [
+              "AMO.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitatuma moto juu ya Temani",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.12",
+            "verseOrgIds": [
+              "AMO.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:12"
+      },
+      "items": [
+        {
+          "text": "ambao utateketeza ngome za Bosra.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.12",
+            "verseOrgIds": [
+              "AMO.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "AMO 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo asemalo",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "AMO.1.13",
+                "verseOrgIds": [
+                  "AMO.1.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:13"
+      },
+      "items": [
+        {
+          "text": "\"Kwa dhambi tatu za Amoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:13"
+      },
+      "items": [
+        {
+          "text": "hata kwa dhambi nne, sitaizuia ghadhabu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:13"
+      },
+      "items": [
+        {
+          "text": "Kwa sababu aliwatumbua wanawake wajawazito wa Gileadi",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:13"
+      },
+      "items": [
+        {
+          "text": "ili kuongeza mipaka yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.13",
+            "verseOrgIds": [
+              "AMO.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "AMO 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitatuma moto kwenye kuta za Raba",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.14",
+            "verseOrgIds": [
+              "AMO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:14"
+      },
+      "items": [
+        {
+          "text": "ambao utateketeza ngome zake",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.14",
+            "verseOrgIds": [
+              "AMO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "AMO 1:14"
+      },
+      "items": [
+        {
+          "text": "katikati ya vilio vya vita katika siku ya mapigano,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.14",
+            "verseOrgIds": [
+              "AMO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:14"
+      },
+      "items": [
+        {
+          "text": "katikati ya upepo mkali katika siku ya dhoruba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.14",
+            "verseOrgIds": [
+              "AMO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "AMO 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme wake atakwenda uhamishoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.15",
+            "verseOrgIds": [
+              "AMO.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "AMO 1:15"
+      },
+      "items": [
+        {
+          "text": "yeye pamoja na maafisa wake,\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.1.15",
+            "verseOrgIds": [
+              "AMO.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q4",
+        "vid": "AMO 1:15"
+      },
+      "items": [
+        {
+          "text": "asema",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.2",
+    "number": "2",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.intro",
+    "number": "intro",
+    "bookId": "AMO"
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "id": "1SA.12",
+  "number": "12",
+  "bookId": "1SA",
+  "reference": "1 Samũeli 12",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "1SA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Samũeli Kuugĩra Andũ Ũhoro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Samũeli akĩĩra andũ a Isiraeli othe atĩrĩ, “Nĩndĩkĩtie gũthikĩrĩria ũrĩa wothe mwanjĩĩrire, na nĩndĩmũthuurĩire mũthamaki wa kũmũthamakagĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.1",
+            "verseOrgIds": [
+              "1SA.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩu mũrĩ na mũthamaki wa kũmũtongoria. Hakwa-rĩ, ndĩ mũkũrũ na ngagĩa na mbuĩ, nao ariũ akwa me hamwe na inyuĩ. Ngoretwo ndĩ mũtongoria wanyu kuuma ndĩ mwĩthĩ nginya ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.2",
+            "verseOrgIds": [
+              "1SA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ nũngiĩ haha. Rutai ũira wa kũnyuna mũtĩ mũrĩ mbere ya Jehova, na mũrĩ mbere ya mũndũ ũyũ wake ũitĩrĩirio maguta. Nũũ ndaanatunya ndegwa yake? Nũũ ndaanatunya ndigiri yake? Nũũ ndaanaheenia? Nũũ ndaanahinyĩrĩria? Nĩ kũrĩ mũndũ o na ũ ndĩ ndaamũkĩra ihaki nĩguo nyune maitho nĩ ũndũ warĩo? Kũngĩkorwo ndaneeka ũmwe wa maya-rĩ, nĩngũmũcookeria.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.3",
+            "verseOrgIds": [
+              "1SA.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao magĩcookia atĩrĩ, “Ndũrĩ watũheenia kana ũgĩtũhinyĩrĩria; ndũrĩ woya kĩndũ kuuma guoko-inĩ kwa mũndũ o na ũrĩkũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.4",
+            "verseOrgIds": [
+              "1SA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samũeli akĩmeera atĩrĩ, “Jehova nĩwe mũira ũhoro-inĩ wanyu, o na mũndũ ũyũ aitĩrĩirie maguta nĩ mũira ũmũthĩ, atĩ gũtirĩ ũndũ o na ũmwe mũngĩnjuukĩra.” Nao makiuga atĩrĩ, “Ĩĩ we nĩ mũira.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.5",
+            "verseOrgIds": [
+              "1SA.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samũeli agĩcooka akĩĩra andũ atĩrĩ, “Jehova nĩwe waamũrire Musa na Harũni, na akĩambatia maithe manyu ma tene kuuma bũrũri wa Misiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.6",
+            "verseOrgIds": [
+              "1SA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, ta rũgamai haha, tondũ nĩngũmũciirithia na ũira mbere ya Jehova nĩ ũndũ wa maũndũ ma ũthingu marĩa Jehova anamwĩkĩra inyuĩ ene o na maithe manyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.7",
+            "verseOrgIds": [
+              "1SA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Rĩrĩa ciana cia Jakubu ciathiire Misiri, nĩmakaĩire Jehova amateithie, nake Jehova agĩtũma Musa na Harũni arĩa maarutire maithe manyu ma tene kuuma bũrũri wa Misiri, makĩmathaamĩria kũndũ gũkũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.8",
+            "verseOrgIds": [
+              "1SA.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“No nĩmariganĩirwo nĩ Jehova Ngai wao; nĩ ũndũ ũcio nĩameendirie guoko-inĩ gwa Sisera, mũnene wa mbũtũ cia ita cia Hazoru, na moko-inĩ ma Afilisti, na mũthamaki wa Moabi ũrĩa warũire nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.9",
+            "verseOrgIds": [
+              "1SA.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao magĩkaĩra Jehova makiuga atĩrĩ, ‘Nĩtwĩhĩtie; nĩtũtiganĩirie Jehova tũgatungatĩra Mabaali na Maashitarothu. No rĩu gĩtũhonokie kuuma moko-inĩ ma thũ ciitũ, na nĩtũrĩgũtungatagĩra.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.10",
+            "verseOrgIds": [
+              "1SA.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova agĩcooka agĩtũma Jerubu-Baali, na Baraka, na Jefitha, na Samũeli, na akĩmũhonokia kuuma moko-inĩ ma thũ cianyu mĩena-inĩ yothe; nĩ ũndũ ũcio mũgĩtũũra mũtarĩ na ũgwati.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.11",
+            "verseOrgIds": [
+              "1SA.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“No hĩndĩ ĩrĩa muonire atĩ Nahashu mũthamaki wa Amoni nĩookaga kũmũhũũra-rĩ, mũkĩnjĩĩra atĩrĩ, ‘Aca, tũkwenda mũthamaki wa gũtũthamakagĩra,’ o na gwatuĩka atĩ Jehova Ngai wanyu nĩwe warĩ mũthamaki wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.12",
+            "verseOrgIds": [
+              "1SA.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1SA 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩu ũyũ nĩwe mũthamaki ũrĩa mũthuurĩte, o ũrĩa mwetirie; onei, Jehova nĩarũgamĩtie mũthamaki amũthamakagĩre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.13",
+            "verseOrgIds": [
+              "1SA.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1SA 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũngĩĩtigĩra Jehova, mũmũtungatĩre, na mũmwathĩkĩre, na mũtikaremere maathani make, na angĩkorwo inyuĩ na mũthamaki ũrĩa ũkũmũthamakĩra nĩmũrĩrũmagĩrĩra Jehova Ngai wanyu-rĩ, nĩ wega!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.14",
+            "verseOrgIds": [
+              "1SA.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũngĩaga gwathĩkĩra Jehova, na mũremere maathani make-rĩ, guoko gwake nĩgũkamũũkĩrĩra ta ũrĩa guokĩrĩire maithe manyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.15",
+            "verseOrgIds": [
+              "1SA.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1SA 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Na rĩrĩ, rũgamai muone ũndũ ũyũ mũnene Jehova akiriĩ gwĩka maitho-inĩ manyu!",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.16",
+            "verseOrgIds": [
+              "1SA.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1SA 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Githĩ rĩu ti hĩndĩ ya magetha ma ngano? Nĩngũkaĩra Jehova atũme marurumĩ na mbura. Na inyuĩ nĩmũkamenya atĩ nĩ ũndũ mũũru mwekire maitho-inĩ ma Jehova rĩrĩa mwetirie mũthamaki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.17",
+            "verseOrgIds": [
+              "1SA.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1SA 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Samũeli agĩkaĩra Jehova, na mũthenya o ro ũcio Jehova agĩtũma marurumĩ na mbura. Nĩ ũndũ ũcio andũ othe makĩmaka mũno nĩ ũndũ wa Jehova na wa Samũeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.18",
+            "verseOrgIds": [
+              "1SA.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1SA 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ acio othe makĩĩra Samũeli atĩrĩ, “Hooya Jehova Ngai waku nĩ ũndũ wa ndungata ciaku nĩguo tũtigakue, nĩgũkorwo igũrũ rĩa mehia maitũ mothe nĩtuongereire ũũru wa gwĩtia mũthamaki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.19",
+            "verseOrgIds": [
+              "1SA.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1SA 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samũeli agĩcookia atĩrĩ, “Tigai gwĩtigĩra, inyuĩ nĩmwĩkĩte ũũru ũyũ wothe; no rĩrĩ, mũtikanahutatĩre Jehova, no tungatĩrai Jehova na ngoro cianyu ciothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.20",
+            "verseOrgIds": [
+              "1SA.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1SA 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtikanagarũrũkĩre mĩhianano ya kũhooywo ya tũhũ. Ndĩngĩmũguna, o na ndĩngĩmũhonokia, nĩ ũndũ nĩ ya tũhũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.21",
+            "verseOrgIds": [
+              "1SA.12.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1SA 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ wa rĩĩtwa rĩake inene, Jehova ndagatirika andũ ake, nĩ ũndũ Jehova nĩakenirio nĩ kũmũtua andũ ake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.22",
+            "verseOrgIds": [
+              "1SA.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1SA 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No hakwa niĩ mwene-rĩ, ndĩroaga kwĩhĩria Jehova nĩ ũndũ wa kwaga kũmũhoera. Na nĩngũmũruta njĩra ĩrĩa njega na njagĩrĩru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.23",
+            "verseOrgIds": [
+              "1SA.12.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1SA 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mwĩtigagĩrei Jehova na mũmũtungatagĩre mũrĩ na wĩhokeku ngoro-inĩ cianyu ciothe; cũraniai maũndũ manene marĩa amwĩkĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.24",
+            "verseOrgIds": [
+              "1SA.12.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1SA 12:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũngĩkorwo nĩmũkũrũmanĩrĩria gwĩkaga ũũru-rĩ, inyuĩ hamwe na mũthamaki wanyu nĩmũkaniinwo biũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.25",
+            "verseOrgIds": [
+              "1SA.12.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.13",
+    "number": "13",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.11",
+    "number": "11",
+    "bookId": "1SA"
+  }
+}

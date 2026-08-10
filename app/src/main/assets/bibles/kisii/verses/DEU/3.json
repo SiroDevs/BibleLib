@@ -1,0 +1,962 @@
+{
+  "id": "DEU.3",
+  "number": "3",
+  "bookId": "DEU",
+  "reference": "Okoiranerera 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 29,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "DEU 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abaisraeli bakobua omorwoti Ogi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Omob 21:31-35)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Magega y’ayio tokaonchoka, togatiira gochia sugusu gochia ase orogongo rwa Basani. Ogi, omorwoti o Basani, amo n’abanto baye bonsi, bagaacha gotorwania esegi agwo ase omochie o Edirei.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.1",
+            "verseOrgIds": [
+              "DEU.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Omonene aganteebia: Tobaisa komoiroka, ekiagera ere amo n’abanto baye bonsi nababeekire ase amaboko ao, boigo nakoeire ense yaye. Nomokore buna gwakorete Sihoni, omorwoti bw’Abaamori, oria orenge kogaamba agwo Hesiboni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.2",
+            "verseOrgIds": [
+              "DEU.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase ayio Omonene akabeeka omorwoti Ogi, amo n’abanto baye bonsi, ase amaboko aito, erio tokabaita bonsi pi, nonya n’oyomo tatigara ore moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.3",
+            "verseOrgIds": [
+              "DEU.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boigo tokaira emechie yaye yonsi ase engaki eria. Titwatigete nonya n’omochie oyomo totairete. Emechie yonsi twairete nigo yarenge emerongo etano nomo, tokaira orogongo rwonsi rw’Arigobu, ase Ogi, Omorwoti o Basani, arenge kogaamba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.4",
+            "verseOrgIds": [
+              "DEU.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emechie eyio yonsi nigo yagiteire chindwaki chintambe gochia igoro, na ebiita biarenge gosiekwa n’emekorogoto; naboigo ebichie ebinge mbiarengeo bitagiteire chindwaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.5",
+            "verseOrgIds": [
+              "DEU.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Togasaria emechie eyio yonsi, togaita abanto bonsi, abasacha n’abakuungu, na abana, buna twakorete ase emechie ya Sihoni, omorwoti o Hesiboni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.6",
+            "verseOrgIds": [
+              "DEU.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tokaira chitugo chionsi na gosakora ebinto biarenge ase emechie eyio bikaba ebiaito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.7",
+            "verseOrgIds": [
+              "DEU.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase engaki eria tokaira ense y’abarwoti baria babere b’Abaamori, ense yarenge moocha y’orooche rwa Yorodani, gochaakera orooche rw’Arinoni goikera egetunwa kia Herimoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.8",
+            "verseOrgIds": [
+              "DEU.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Abanto ba Sidoni nigo bakoroka egetunwa kia Herimoni Sirioni, na Abaamori nigo bagokeroka Seniri.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.9",
+            "verseOrgIds": [
+              "DEU.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tokaira orogongo rwonsi orwo rwarenge inse y’omorwoti Ogi o Basani: emechie yonsi yarenge ase ense eraire eimokererete igoro na Gileadi yonsi, na Basani yonsi, goikera Saleka na Edirei.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.10",
+            "verseOrgIds": [
+              "DEU.3.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Ogi, omorwoti o Basani, nere orenge oyobwomoerio ase Abarefai. Esanduki yaye y’ogotindekerwa eyaroiseirie ebioma, nigo yarenge chimita inye ase obotambe boigo n’echimita ibere ase obogare koreng’ana nokorenga kwa boronge. Nao ere agwo Raba, omochie bw’Abaamoni.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.11",
+            "verseOrgIds": [
+              "DEU.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ebisaku biamenyete Moocha ya Yorodani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Omob 32:1-42)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero twairete ense eria ekaba eyaito, ’nkaa abanto b’egesaku kia Rubeni, na ekia Gadi, orogongo roria rogochaakera ase omochie bw’Aroeri, rore ang’e norooche rw’Arinoni amo n’ekeng’ese gi’ense y’ebitunwa ya Gileadi, na emechie yarengeo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.12",
+            "verseOrgIds": [
+              "DEU.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkaa ekeng’ese ki’egesaku kia Manase ensemo yatigarete ase ense ya Gileadi, amo na Basani yonsi, eyio yarenge obogaambi bwa Ogi. Orwo narwo orogongo rwonsi rw’Arigobu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.13",
+            "verseOrgIds": [
+              "DEU.3.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "(Basani yonsi nigo yarenge korokwa ense ya Refaimu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.13",
+            "verseOrgIds": [
+              "DEU.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yairi, omonto bw’ororeeria rwa Manase, akaira orogongo rwonsi rw’Arigobu, narwo Basani, goika orogongo rw’Abagesuri na Abamaaka. Akaroka emechie yarengeo ase erieta riaye, Emechie ya Yairi, nabo ekorokwa goika reero iga.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.14",
+            "verseOrgIds": [
+              "DEU.3.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nkaa abanto b’eamate ya Makiri, orogongo rwa Gileadi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.15",
+            "verseOrgIds": [
+              "DEU.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na abanto b’egesaku kia Rubeni na ab’egesaku kia Gadi ’nkabaa orogongo gochakera Gileadi goikera orooche rw’Arinoni. Egati‐gati y’orooche orwo ekaba orobebe rwabo rw’enseemo ya Irianyi, na orooche rwa Yaboki rokaba orobebe rwabo sugusu, orwarenge orobebe rw’Abaamoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.16",
+            "verseOrgIds": [
+              "DEU.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakanyora orogongo rwe rikura ria Yorodani. Orwo rokaba orobebe rwabo rwa bosongo, korwa ase enyancha ya Kinereti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.17",
+            "verseOrgIds": [
+              "DEU.3.17"
+            ]
+          }
+        },
+        {
+          "text": "ensemo ya sugusu, goika ase orogongo rwe nyacha y’omoonyo, ensemo ya Irianyi inse y’ebitirimboko bia Pisiga, ensemo ya moocha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.17",
+            "verseOrgIds": [
+              "DEU.3.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase engaki eria inche ’nkabachiika, nkabateebia: Omonene Nyasae oino, obaeire ense eye, ebe eyaino. Ase ayio abarwani baino bonsi, baria bare chituoni, baimokie ebirwanero biabo bi’eseegi, bagende bamboke gochia ng’umbu ya Yorodani, batang’anere Abaisraeli bamwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.18",
+            "verseOrgIds": [
+              "DEU.3.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korende abakungu baino n’abana, barabwo batigare amo ne’chitugo chiaino ase emechie eyio nabaeire. (Nimanyete ng’a nigo mobwate chitugo chinyinge.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.19",
+            "verseOrgIds": [
+              "DEU.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mokonye Abaisraeli bamino goika banyore ense eri’Omonene, arabae ng’umbu ya Yorodani na goika Omonene abae barabwo omorembe buna abaete inwe iga. Nyuma yayio ’namoirane gocha ase ense eye nabaeire inwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.20",
+            "verseOrgIds": [
+              "DEU.3.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase ekero keria ’ngachiika Yoshua, ’nkamoteebia: ’Nkwarooche amang’ana onsi ay’Omonene, Nyasae oino, akorerete abarwoti baria babere Sihoni na Ogi; Naboigo arakorere kera oyomo ase ense oraabe kogosoa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.21",
+            "verseOrgIds": [
+              "DEU.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timobaisa kobairoka, ekiagera Omonene Nyasae oino, nere orabarwanere esegi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.22",
+            "verseOrgIds": [
+              "DEU.3.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Musa ogotangwa gosoa Kaanani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase engaki eria ’ngasaba mono,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.23",
+            "verseOrgIds": [
+              "DEU.3.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DEU 3:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, bono kwanyorokirie inche, omosomba oo, omochakano bwoka bw’obonene bwao, n’okoboko kwao gwechinguru. Enyasae ende teri, igoro gose ase ense, eranyaare gokora emeremo emenene na eyechinguru buna ey’ogokora aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.24",
+            "verseOrgIds": [
+              "DEU.3.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DEU 3:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nagosabire, koranche aye Omonene ong’e ribaga nyamboke gochia ng’umbu ya Yorodani, indore ense eria engiya y’ebitunwa amo na Lebanoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.25",
+            "verseOrgIds": [
+              "DEU.3.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DEU 3:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Korende ase engencho yaino inwe Omonene akaba n’endamwamu ase ’nde tanchete koigwa okoboria kwane. Korende aganteebia: Ayio aisanire! Tobaisa gokwana nainche gento kende igoro ye ring’ana erio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.26",
+            "verseOrgIds": [
+              "DEU.3.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DEU 3:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tiira gochia igoro ase egentunwa gia Pisiga, otenene ase egechuuria kiaye, oimokie amaiso ao, origererie gochia ensemo ya bosongo, na sugusu, na Irianyi, na moocha, origererie buya ense eria orarore, ekiagera tokonyaara kwamboka ng’umbu ya Yorodani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.27",
+            "verseOrgIds": [
+              "DEU.3.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DEU 3:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tebereria Yoshua, omoremie na omobeeke chinguru, ekiagera nere oraraae abanto aba, abaambokie ng’umbu, ense eyio orarore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.28",
+            "verseOrgIds": [
+              "DEU.3.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "DEU 3:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase ayio tokabeera ase rikura riarochie omochie o Beti‐Peori.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.3.29",
+            "verseOrgIds": [
+              "DEU.3.29"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.4",
+    "number": "4",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.2",
+    "number": "2",
+    "bookId": "DEU"
+  }
+}

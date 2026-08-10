@@ -1,0 +1,453 @@
+{
+  "id": "ACT.6",
+  "number": "6",
+  "bookId": "ACT",
+  "reference": "Atũmwo 6",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ACT 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Andũ Mũgwanja Gũthuurwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, matukũ-inĩ macio rĩrĩa mũigana wa arutwo wongererekaga-rĩ, Ayahudi amwe arĩa maaciarĩirwo kwa Ayunani nĩmatetirie Ayahudi a Kĩhibirania tondũ atumia ao a ndigwa matiagayagĩrwo irio rĩrĩa ikũgayanwo o mũthenya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.1",
+            "verseOrgIds": [
+              "ACT.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, atũmwo acio ikũmi na eerĩ magĩcookanĩrĩria arutwo othe hamwe na makĩmeera atĩrĩ, “Gũtiagĩrĩire tũtiganĩrie ũtungata wa kiugo kĩa Ngai nĩguo tũtungatage metha-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.2",
+            "verseOrgIds": [
+              "ACT.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariũ na aarĩ a Ithe witũ, thuurai andũ mũgwanja kuuma gatagatĩ-inĩ kanyu, andũ arĩa moĩkaine atĩ nĩ maiyũrĩtwo nĩ Roho, o na ũũgĩ, na nĩtũkũmehokera wĩra ũcio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.3",
+            "verseOrgIds": [
+              "ACT.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ithuĩ tũrũmbũiye ũhoro wa mahooya na ũtungata wa kiugo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.4",
+            "verseOrgIds": [
+              "ACT.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũcio moigire nĩwakenirie gĩkundi kĩu gĩothe. Nao magĩthuura Stefano, mũndũ waiyũrĩtwo nĩ wĩtĩkio na Roho Mũtheru, na Filipu, na Porokoro, na Nikanora, na Timoni, na Paramena, na Nikola, mũndũ wa kuuma Antiokia ũrĩa wagarũrũkĩte agatuĩka Mũyahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.5",
+            "verseOrgIds": [
+              "ACT.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makĩneana andũ acio kũrĩ atũmwo, nao atũmwo makĩmahoera na makĩmaigĩrĩra moko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.6",
+            "verseOrgIds": [
+              "ACT.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio kiugo kĩa Ngai gĩkĩhunja. Mũigana wa arutwo kũu Jerusalemu ũkĩongerereka mũno, nakĩo gĩkundi kĩnene kĩa athĩnjĩri-Ngai gĩgĩathĩkĩra ũhoro wa wĩtĩkio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.7",
+            "verseOrgIds": [
+              "ACT.6.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Stefano Kũnyiitwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Stefano, mũndũ waiyũrĩtwo nĩ wega wa Ngai na ũhoti, nĩekire morirũ manene na akĩringa ciama gatagatĩ-inĩ ka andũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.8",
+            "verseOrgIds": [
+              "ACT.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, nĩ kuoimĩrire ngarari kuuma kũrĩ andũ a Thunagogi ya Andũ arĩa Oohore (ta ũrĩa yetagwo), nao nĩ Ayahudi a kuuma Kurene na Alekisanderia o hamwe na mabũrũri ma Kilikia na Asia. Andũ aya makĩambĩrĩria gũkararania na Stefano,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.9",
+            "verseOrgIds": [
+              "ACT.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no matingĩetiiririe ũũgĩ wake kana Roho ũrĩa aaragia naguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.10",
+            "verseOrgIds": [
+              "ACT.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo makĩringĩrĩria andũ amwe na hitho moige atĩrĩ, “Nĩtũiguĩte Stefano akĩaria ciugo cia kũruma Musa, o na Ngai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.11",
+            "verseOrgIds": [
+              "ACT.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio magĩtũma okĩrĩrwo nĩ andũ, na athuuri, na arutani a watho. Makĩnyiita Stefano makĩmũrehe mbere ya Kĩama.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.12",
+            "verseOrgIds": [
+              "ACT.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magĩcooka makĩrehe aira a maheeni, arĩa maarutire ũira makiuga atĩrĩ, “Mũndũ ũyũ ndatigithagĩria kwaria agĩũkagĩrĩra handũ haha hatheru, o na gũũkĩrĩra watho.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.13",
+            "verseOrgIds": [
+              "ACT.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo nĩtũiguĩte akiuga atĩ Jesũ ũyũ wa Nazarethi nĩagatharia handũ haha, na agarũre mĩtugo ĩrĩa Musa aatũtigĩire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.14",
+            "verseOrgIds": [
+              "ACT.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ arĩa othe maarĩ Kĩama-inĩ magĩkũũrĩra Stefano maitho, nao makĩona ũthiũ wake ũtarĩi ta ũthiũ wa mũraika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.6.15",
+            "verseOrgIds": [
+              "ACT.6.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.7",
+    "number": "7",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.5",
+    "number": "5",
+    "bookId": "ACT"
+  }
+}

@@ -1,0 +1,1668 @@
+{
+  "id": "NAM.1",
+  "number": "1",
+  "bookId": "NAM",
+  "reference": "Nahumu 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "NAM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NAM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neno alilosema Mungu kuhusu Ninawi. Kitabu cha maono cha Nahumu, Mwelkoshi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.1",
+            "verseOrgIds": [
+              "NAM.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hasira Ya Mungu Dhidi Ya Ninawi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NAM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.2",
+                "verseOrgIds": [
+                  "NAM.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ni mwenye wivu na Mungu mlipiza kisasi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:2"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.2",
+                "verseOrgIds": [
+                  "NAM.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hulipiza kisasi na amejaa ghadhabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:2"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.2",
+                "verseOrgIds": [
+                  "NAM.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hulipiza kisasi juu ya watesi wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:2"
+      },
+      "items": [
+        {
+          "text": "naye anadumisha ghadhabu yake dhidi ya adui zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.2",
+            "verseOrgIds": [
+              "NAM.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NAM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.3",
+                "verseOrgIds": [
+                  "NAM.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "si mwepesi wa hasira naye ni mwenye nguvu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:3"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.3",
+                "verseOrgIds": [
+                  "NAM.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hataacha kuadhibu wenye hatia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:3"
+      },
+      "items": [
+        {
+          "text": "Njia yake ipo katika kisulisuli na tufani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:3"
+      },
+      "items": [
+        {
+          "text": "na mawingu ni vumbi la miguu yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.3",
+            "verseOrgIds": [
+              "NAM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NAM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anakemea bahari na kuikausha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:4"
+      },
+      "items": [
+        {
+          "text": "anafanya mito yote kukauka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:4"
+      },
+      "items": [
+        {
+          "text": "Bashani na Karmeli zinanyauka",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:4"
+      },
+      "items": [
+        {
+          "text": "na maua ya Lebanoni hukauka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.4",
+            "verseOrgIds": [
+              "NAM.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NAM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Milima hutikisika mbele yake",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:5"
+      },
+      "items": [
+        {
+          "text": "na vilima huyeyuka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:5"
+      },
+      "items": [
+        {
+          "text": "Nchi hutetemeka mbele yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:5"
+      },
+      "items": [
+        {
+          "text": "dunia na wote waishio ndani yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.5",
+            "verseOrgIds": [
+              "NAM.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NAM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani awezaye kuzuia hasira yake yenye uchungu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:6"
+      },
+      "items": [
+        {
+          "text": "Nani awezaye kuvumilia hasira yake kali?",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:6"
+      },
+      "items": [
+        {
+          "text": "Ghadhabu yake imemiminwa kama moto,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:6"
+      },
+      "items": [
+        {
+          "text": "na miamba inapasuka mbele zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.6",
+            "verseOrgIds": [
+              "NAM.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NAM 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.7",
+                "verseOrgIds": [
+                  "NAM.1.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ni Mwema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.7",
+            "verseOrgIds": [
+              "NAM.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:7"
+      },
+      "items": [
+        {
+          "text": "kimbilio wakati wa taabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.7",
+            "verseOrgIds": [
+              "NAM.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:7"
+      },
+      "items": [
+        {
+          "text": "Huwatunza wale wanaomtegemea,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.7",
+            "verseOrgIds": [
+              "NAM.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NAM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lakini kwa mafuriko makubwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:8"
+      },
+      "items": [
+        {
+          "text": "ataangamiza Ninawi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:8"
+      },
+      "items": [
+        {
+          "text": "atafuatilia adui zake hadi gizani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.8",
+            "verseOrgIds": [
+              "NAM.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NAM 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shauri baya lolote wapangalo dhidi ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.9",
+            "verseOrgIds": [
+              "NAM.1.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.9",
+                "verseOrgIds": [
+                  "NAM.1.9"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:9"
+      },
+      "items": [
+        {
+          "text": "yeye atalikomesha;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.9",
+            "verseOrgIds": [
+              "NAM.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:9"
+      },
+      "items": [
+        {
+          "text": "taabu haitatokea mara ya pili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.9",
+            "verseOrgIds": [
+              "NAM.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NAM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watasongwa katikati ya miiba",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:10"
+      },
+      "items": [
+        {
+          "text": "na kulewa kwa mvinyo wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:10"
+      },
+      "items": [
+        {
+          "text": "Watateketezwa kama mabua makavu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.10",
+            "verseOrgIds": [
+              "NAM.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NAM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Ninawi, kutoka kwako amejitokeza mmoja,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:11"
+      },
+      "items": [
+        {
+          "text": "ambaye anapanga shauri baya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:11"
+      },
+      "items": [
+        {
+          "text": "dhidi ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.11",
+                "verseOrgIds": [
+                  "NAM.1.11"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:11"
+      },
+      "items": [
+        {
+          "text": "na kushauri uovu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.11",
+            "verseOrgIds": [
+              "NAM.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NAM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo asemalo",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.12",
+                "verseOrgIds": [
+                  "NAM.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:12"
+      },
+      "items": [
+        {
+          "text": "\"Ingawa wana muungano nao ni wengi sana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:12"
+      },
+      "items": [
+        {
+          "text": "watakatiliwa mbali na kuangamia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:12"
+      },
+      "items": [
+        {
+          "text": "Ingawa nimekutesa wewe, ee Yuda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:12"
+      },
+      "items": [
+        {
+          "text": "sitakutesa tena.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.12",
+            "verseOrgIds": [
+              "NAM.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NAM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sasa nitavunja nira zao kutoka shingo yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:13"
+      },
+      "items": [
+        {
+          "text": "nami nitazivunjilia mbali pingu zako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.13",
+            "verseOrgIds": [
+              "NAM.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NAM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hii ndiyo amri",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NAM.1.14",
+                "verseOrgIds": [
+                  "NAM.1.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "aliyoitoa kukuhusu wewe, Ninawi:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "\"Hutakuwa na wazao",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "watakaoendeleza jina lako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "Nitaharibu sanamu za kuchonga na sanamu za kuyeyusha",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "ambazo zipo katika hekalu la miungu yenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "Nitaandaa kaburi lako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:14"
+      },
+      "items": [
+        {
+          "text": "kwa maana wewe ni mwovu kabisa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.14",
+            "verseOrgIds": [
+              "NAM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NAM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama, huko juu milimani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "miguu ya huyo mmoja aletaye habari njema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "ambaye anatangaza amani!",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "Ee Yuda, sherehekea sikukuu zako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "nawe utimize nadhiri zako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "Waovu hawatakuvamia tena;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "NAM 1:15"
+      },
+      "items": [
+        {
+          "text": "wataangamizwa kabisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NAM.1.15",
+            "verseOrgIds": [
+              "NAM.2.1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NAM.2",
+    "number": "2",
+    "bookId": "NAM"
+  },
+  "previous": {
+    "id": "NAM.intro",
+    "number": "intro",
+    "bookId": "NAM"
+  }
+}

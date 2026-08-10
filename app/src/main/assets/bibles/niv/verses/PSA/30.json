@@ -1,0 +1,1116 @@
+{
+  "id": "PSA.30",
+  "number": "30",
+  "bookId": "PSA",
+  "reference": "Psalm 30",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "30",
+        "style": "c",
+        "sid": "PSA 30"
+      },
+      "items": [
+        {
+          "text": "30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 30",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A psalm. A song. For the dedication of the temple.",
+          "type": "text"
+        },
+        {
+          "text": "Of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 30:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will exalt you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.1",
+            "verseOrgIds": [
+              "PSA.30.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.1",
+                "verseOrgIds": [
+                  "PSA.30.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.1",
+            "verseOrgIds": [
+              "PSA.30.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:1"
+      },
+      "items": [
+        {
+          "text": "for you lifted me out of the depths",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.1",
+            "verseOrgIds": [
+              "PSA.30.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:1"
+      },
+      "items": [
+        {
+          "text": "and did not let my enemies gloat over me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.1",
+            "verseOrgIds": [
+              "PSA.30.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 30:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.2",
+                "verseOrgIds": [
+                  "PSA.30.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, I called to you for help,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.2",
+            "verseOrgIds": [
+              "PSA.30.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:2"
+      },
+      "items": [
+        {
+          "text": "and you healed me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.2",
+            "verseOrgIds": [
+              "PSA.30.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 30:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.3",
+            "verseOrgIds": [
+              "PSA.30.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.3",
+                "verseOrgIds": [
+                  "PSA.30.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", brought me up from the realm of the dead;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.3",
+            "verseOrgIds": [
+              "PSA.30.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:3"
+      },
+      "items": [
+        {
+          "text": "you spared me from going down to the pit.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.3",
+            "verseOrgIds": [
+              "PSA.30.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 30:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sing the praises of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.4",
+            "verseOrgIds": [
+              "PSA.30.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.4",
+                "verseOrgIds": [
+                  "PSA.30.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", you his faithful people;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.4",
+            "verseOrgIds": [
+              "PSA.30.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:4"
+      },
+      "items": [
+        {
+          "text": "praise his holy name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.4",
+            "verseOrgIds": [
+              "PSA.30.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 30:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For his anger lasts only a moment,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.5",
+            "verseOrgIds": [
+              "PSA.30.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:5"
+      },
+      "items": [
+        {
+          "text": "but his favor lasts a lifetime;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.5",
+            "verseOrgIds": [
+              "PSA.30.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 30:5"
+      },
+      "items": [
+        {
+          "text": "weeping may stay for the night,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.5",
+            "verseOrgIds": [
+              "PSA.30.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:5"
+      },
+      "items": [
+        {
+          "text": "but rejoicing comes in the morning.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.5",
+            "verseOrgIds": [
+              "PSA.30.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 30:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When I felt secure, I said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.6",
+            "verseOrgIds": [
+              "PSA.30.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:6"
+      },
+      "items": [
+        {
+          "text": "\"I will never be shaken.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.6",
+            "verseOrgIds": [
+              "PSA.30.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 30:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.7",
+                "verseOrgIds": [
+                  "PSA.30.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", when you favored me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.7",
+            "verseOrgIds": [
+              "PSA.30.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:7"
+      },
+      "items": [
+        {
+          "text": "you made my royal mountain",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.7",
+            "verseOrgIds": [
+              "PSA.30.8"
+            ]
+          }
+        },
+        {
+          "text": "stand firm;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.7",
+            "verseOrgIds": [
+              "PSA.30.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 30:7"
+      },
+      "items": [
+        {
+          "text": "but when you hid your face,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.7",
+            "verseOrgIds": [
+              "PSA.30.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:7"
+      },
+      "items": [
+        {
+          "text": "I was dismayed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.7",
+            "verseOrgIds": [
+              "PSA.30.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 30:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.8",
+            "verseOrgIds": [
+              "PSA.30.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.8",
+                "verseOrgIds": [
+                  "PSA.30.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", I called;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.8",
+            "verseOrgIds": [
+              "PSA.30.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:8"
+      },
+      "items": [
+        {
+          "text": "to the Lord I cried for mercy:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.8",
+            "verseOrgIds": [
+              "PSA.30.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 30:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"What is gained if I am silenced,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.9",
+            "verseOrgIds": [
+              "PSA.30.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:9"
+      },
+      "items": [
+        {
+          "text": "if I go down to the pit?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.9",
+            "verseOrgIds": [
+              "PSA.30.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 30:9"
+      },
+      "items": [
+        {
+          "text": "Will the dust praise you?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.9",
+            "verseOrgIds": [
+              "PSA.30.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:9"
+      },
+      "items": [
+        {
+          "text": "Will it proclaim your faithfulness?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.9",
+            "verseOrgIds": [
+              "PSA.30.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 30:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.10",
+            "verseOrgIds": [
+              "PSA.30.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.10",
+                "verseOrgIds": [
+                  "PSA.30.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and be merciful to me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.10",
+            "verseOrgIds": [
+              "PSA.30.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:10"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.10",
+                "verseOrgIds": [
+                  "PSA.30.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", be my help.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.10",
+            "verseOrgIds": [
+              "PSA.30.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 30:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You turned my wailing into dancing;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.11",
+            "verseOrgIds": [
+              "PSA.30.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:11"
+      },
+      "items": [
+        {
+          "text": "you removed my sackcloth and clothed me with joy,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.11",
+            "verseOrgIds": [
+              "PSA.30.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 30:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "that my heart may sing your praises and not be silent.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.12",
+            "verseOrgIds": [
+              "PSA.30.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 30:12"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.30.12",
+                "verseOrgIds": [
+                  "PSA.30.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, I will praise you forever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.30.12",
+            "verseOrgIds": [
+              "PSA.30.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.31",
+    "number": "31",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.29",
+    "number": "29",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,889 @@
+{
+  "id": "PSA.24",
+  "number": "24",
+  "bookId": "PSA",
+  "reference": "Psalm 24",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PSA 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Of David. A psalm.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The earth is the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.1",
+                "verseOrgIds": [
+                  "PSA.24.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "'s, and everything in it,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:1"
+      },
+      "items": [
+        {
+          "text": "the world, and all who live in it;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 24:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "for he founded it on the seas",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.2",
+            "verseOrgIds": [
+              "PSA.24.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:2"
+      },
+      "items": [
+        {
+          "text": "and established it on the waters.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.2",
+            "verseOrgIds": [
+              "PSA.24.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 24:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who may ascend the mountain of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.3",
+                "verseOrgIds": [
+                  "PSA.24.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:3"
+      },
+      "items": [
+        {
+          "text": "Who may stand in his holy place?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 24:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The one who has clean hands and a pure heart,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:4"
+      },
+      "items": [
+        {
+          "text": "who does not trust in an idol",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:4"
+      },
+      "items": [
+        {
+          "text": "or swear by a false god.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 24:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They will receive blessing from the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.5",
+                "verseOrgIds": [
+                  "PSA.24.5"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:5"
+      },
+      "items": [
+        {
+          "text": "and vindication from God their Savior.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 24:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Such is the generation of those who seek him,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:6"
+      },
+      "items": [
+        {
+          "text": "who seek your face, God of Jacob.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 24:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift up your heads, you gates;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:7"
+      },
+      "items": [
+        {
+          "text": "be lifted up, you ancient doors,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:7"
+      },
+      "items": [
+        {
+          "text": "that the King of glory may come in.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 24:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who is this King of glory?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:8"
+      },
+      "items": [
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "strong and mighty,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:8"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mighty in battle.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift up your heads, you gates;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:9"
+      },
+      "items": [
+        {
+          "text": "lift them up, you ancient doors,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:9"
+      },
+      "items": [
+        {
+          "text": "that the King of glory may come in.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who is he, this King of glory?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:10"
+      },
+      "items": [
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.10",
+                "verseOrgIds": [
+                  "PSA.24.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Almighty—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:10"
+      },
+      "items": [
+        {
+          "text": "he is the King of glory.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.25",
+    "number": "25",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  }
+}

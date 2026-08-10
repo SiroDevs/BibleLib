@@ -1,0 +1,1774 @@
+{
+  "id": "PSA.25",
+  "number": "25",
+  "bookId": "PSA",
+  "reference": "Psalm 25",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "25",
+        "style": "c",
+        "sid": "PSA 25"
+      },
+      "items": [
+        {
+          "text": "25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 25",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 25:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.1",
+            "verseOrgIds": [
+              "PSA.25.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.1",
+                "verseOrgIds": [
+                  "PSA.25.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.1",
+            "verseOrgIds": [
+              "PSA.25.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:1"
+      },
+      "items": [
+        {
+          "text": "I put my trust.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.1",
+            "verseOrgIds": [
+              "PSA.25.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 25:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I trust in you;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.2",
+            "verseOrgIds": [
+              "PSA.25.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:2"
+      },
+      "items": [
+        {
+          "text": "do not let me be put to shame,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.2",
+            "verseOrgIds": [
+              "PSA.25.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:2"
+      },
+      "items": [
+        {
+          "text": "nor let my enemies triumph over me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.2",
+            "verseOrgIds": [
+              "PSA.25.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 25:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No one who hopes in you",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.3",
+            "verseOrgIds": [
+              "PSA.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:3"
+      },
+      "items": [
+        {
+          "text": "will ever be put to shame,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.3",
+            "verseOrgIds": [
+              "PSA.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 25:3"
+      },
+      "items": [
+        {
+          "text": "but shame will come on those",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.3",
+            "verseOrgIds": [
+              "PSA.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:3"
+      },
+      "items": [
+        {
+          "text": "who are treacherous without cause.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.3",
+            "verseOrgIds": [
+              "PSA.25.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 25:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Show me your ways,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.4",
+            "verseOrgIds": [
+              "PSA.25.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.4",
+                "verseOrgIds": [
+                  "PSA.25.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.4",
+            "verseOrgIds": [
+              "PSA.25.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:4"
+      },
+      "items": [
+        {
+          "text": "teach me your paths.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.4",
+            "verseOrgIds": [
+              "PSA.25.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 25:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Guide me in your truth and teach me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.5",
+            "verseOrgIds": [
+              "PSA.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:5"
+      },
+      "items": [
+        {
+          "text": "for you are God my Savior,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.5",
+            "verseOrgIds": [
+              "PSA.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:5"
+      },
+      "items": [
+        {
+          "text": "and my hope is in you all day long.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.5",
+            "verseOrgIds": [
+              "PSA.25.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 25:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Remember,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.6",
+            "verseOrgIds": [
+              "PSA.25.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.6",
+                "verseOrgIds": [
+                  "PSA.25.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", your great mercy and love,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.6",
+            "verseOrgIds": [
+              "PSA.25.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:6"
+      },
+      "items": [
+        {
+          "text": "for they are from of old.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.6",
+            "verseOrgIds": [
+              "PSA.25.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 25:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do not remember the sins of my youth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.7",
+            "verseOrgIds": [
+              "PSA.25.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:7"
+      },
+      "items": [
+        {
+          "text": "and my rebellious ways;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.7",
+            "verseOrgIds": [
+              "PSA.25.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 25:7"
+      },
+      "items": [
+        {
+          "text": "according to your love remember me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.7",
+            "verseOrgIds": [
+              "PSA.25.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:7"
+      },
+      "items": [
+        {
+          "text": "for you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.7",
+            "verseOrgIds": [
+              "PSA.25.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.7",
+                "verseOrgIds": [
+                  "PSA.25.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", are good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.7",
+            "verseOrgIds": [
+              "PSA.25.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 25:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Good and upright is the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.8",
+            "verseOrgIds": [
+              "PSA.25.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.8",
+                "verseOrgIds": [
+                  "PSA.25.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.8",
+            "verseOrgIds": [
+              "PSA.25.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:8"
+      },
+      "items": [
+        {
+          "text": "therefore he instructs sinners in his ways.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.8",
+            "verseOrgIds": [
+              "PSA.25.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 25:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He guides the humble in what is right",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.9",
+            "verseOrgIds": [
+              "PSA.25.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:9"
+      },
+      "items": [
+        {
+          "text": "and teaches them his way.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.9",
+            "verseOrgIds": [
+              "PSA.25.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 25:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All the ways of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.10",
+            "verseOrgIds": [
+              "PSA.25.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.10",
+                "verseOrgIds": [
+                  "PSA.25.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "are loving and faithful",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.10",
+            "verseOrgIds": [
+              "PSA.25.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:10"
+      },
+      "items": [
+        {
+          "text": "toward those who keep the demands of his covenant.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.10",
+            "verseOrgIds": [
+              "PSA.25.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 25:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the sake of your name,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.11",
+            "verseOrgIds": [
+              "PSA.25.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.11",
+                "verseOrgIds": [
+                  "PSA.25.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.11",
+            "verseOrgIds": [
+              "PSA.25.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:11"
+      },
+      "items": [
+        {
+          "text": "forgive my iniquity, though it is great.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.11",
+            "verseOrgIds": [
+              "PSA.25.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 25:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who, then, are those who fear the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.12",
+            "verseOrgIds": [
+              "PSA.25.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.12",
+                "verseOrgIds": [
+                  "PSA.25.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.12",
+            "verseOrgIds": [
+              "PSA.25.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:12"
+      },
+      "items": [
+        {
+          "text": "He will instruct them in the ways they should choose.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.12",
+            "verseOrgIds": [
+              "PSA.25.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 25:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They will spend their days in prosperity,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.13",
+            "verseOrgIds": [
+              "PSA.25.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:13"
+      },
+      "items": [
+        {
+          "text": "and their descendants will inherit the land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.13",
+            "verseOrgIds": [
+              "PSA.25.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 25:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.14",
+            "verseOrgIds": [
+              "PSA.25.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.14",
+                "verseOrgIds": [
+                  "PSA.25.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "confides in those who fear him;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.14",
+            "verseOrgIds": [
+              "PSA.25.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:14"
+      },
+      "items": [
+        {
+          "text": "he makes his covenant known to them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.14",
+            "verseOrgIds": [
+              "PSA.25.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 25:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My eyes are ever on the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.15",
+            "verseOrgIds": [
+              "PSA.25.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.15",
+                "verseOrgIds": [
+                  "PSA.25.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.15",
+            "verseOrgIds": [
+              "PSA.25.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:15"
+      },
+      "items": [
+        {
+          "text": "for only he will release my feet from the snare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.15",
+            "verseOrgIds": [
+              "PSA.25.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 25:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Turn to me and be gracious to me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.16",
+            "verseOrgIds": [
+              "PSA.25.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:16"
+      },
+      "items": [
+        {
+          "text": "for I am lonely and afflicted.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.16",
+            "verseOrgIds": [
+              "PSA.25.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 25:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Relieve the troubles of my heart",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.17",
+            "verseOrgIds": [
+              "PSA.25.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:17"
+      },
+      "items": [
+        {
+          "text": "and free me from my anguish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.17",
+            "verseOrgIds": [
+              "PSA.25.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 25:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Look on my affliction and my distress",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.18",
+            "verseOrgIds": [
+              "PSA.25.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:18"
+      },
+      "items": [
+        {
+          "text": "and take away all my sins.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.18",
+            "verseOrgIds": [
+              "PSA.25.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PSA 25:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "See how numerous are my enemies",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.19",
+            "verseOrgIds": [
+              "PSA.25.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:19"
+      },
+      "items": [
+        {
+          "text": "and how fiercely they hate me!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.19",
+            "verseOrgIds": [
+              "PSA.25.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PSA 25:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Guard my life and rescue me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.20",
+            "verseOrgIds": [
+              "PSA.25.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:20"
+      },
+      "items": [
+        {
+          "text": "do not let me be put to shame,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.20",
+            "verseOrgIds": [
+              "PSA.25.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:20"
+      },
+      "items": [
+        {
+          "text": "for I take refuge in you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.20",
+            "verseOrgIds": [
+              "PSA.25.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PSA 25:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May integrity and uprightness protect me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.21",
+            "verseOrgIds": [
+              "PSA.25.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:21"
+      },
+      "items": [
+        {
+          "text": "because my hope,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.21",
+            "verseOrgIds": [
+              "PSA.25.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.25.21",
+                "verseOrgIds": [
+                  "PSA.25.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.21",
+            "verseOrgIds": [
+              "PSA.25.21"
+            ]
+          }
+        },
+        {
+          "text": "is in you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.21",
+            "verseOrgIds": [
+              "PSA.25.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PSA 25:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Deliver Israel, O God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.22",
+            "verseOrgIds": [
+              "PSA.25.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 25:22"
+      },
+      "items": [
+        {
+          "text": "from all their troubles!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.25.22",
+            "verseOrgIds": [
+              "PSA.25.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.26",
+    "number": "26",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.24",
+    "number": "24",
+    "bookId": "PSA"
+  }
+}

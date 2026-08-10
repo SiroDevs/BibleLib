@@ -1,0 +1,963 @@
+{
+  "id": "PSA.21",
+  "number": "21",
+  "bookId": "PSA",
+  "reference": "Psalm 21",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "21",
+        "style": "c",
+        "sid": "PSA 21"
+      },
+      "items": [
+        {
+          "text": "21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 21",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 21:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The king rejoices in your strength,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.1",
+            "verseOrgIds": [
+              "PSA.21.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.21.1",
+                "verseOrgIds": [
+                  "PSA.21.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.1",
+            "verseOrgIds": [
+              "PSA.21.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:1"
+      },
+      "items": [
+        {
+          "text": "How great is his joy in the victories you give!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.1",
+            "verseOrgIds": [
+              "PSA.21.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 21:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have granted him his heart's desire",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.2",
+            "verseOrgIds": [
+              "PSA.21.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:2"
+      },
+      "items": [
+        {
+          "text": "and have not withheld the request of his lips.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.2",
+            "verseOrgIds": [
+              "PSA.21.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 21:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You came to greet him with rich blessings",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.3",
+            "verseOrgIds": [
+              "PSA.21.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:3"
+      },
+      "items": [
+        {
+          "text": "and placed a crown of pure gold on his head.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.3",
+            "verseOrgIds": [
+              "PSA.21.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 21:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He asked you for life, and you gave it to him—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.4",
+            "verseOrgIds": [
+              "PSA.21.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:4"
+      },
+      "items": [
+        {
+          "text": "length of days, for ever and ever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.4",
+            "verseOrgIds": [
+              "PSA.21.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 21:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Through the victories you gave, his glory is great;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.5",
+            "verseOrgIds": [
+              "PSA.21.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:5"
+      },
+      "items": [
+        {
+          "text": "you have bestowed on him splendor and majesty.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.5",
+            "verseOrgIds": [
+              "PSA.21.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 21:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely you have granted him unending blessings",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.6",
+            "verseOrgIds": [
+              "PSA.21.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:6"
+      },
+      "items": [
+        {
+          "text": "and made him glad with the joy of your presence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.6",
+            "verseOrgIds": [
+              "PSA.21.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 21:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the king trusts in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.7",
+            "verseOrgIds": [
+              "PSA.21.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.21.7",
+                "verseOrgIds": [
+                  "PSA.21.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.7",
+            "verseOrgIds": [
+              "PSA.21.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:7"
+      },
+      "items": [
+        {
+          "text": "through the unfailing love of the Most High",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.7",
+            "verseOrgIds": [
+              "PSA.21.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:7"
+      },
+      "items": [
+        {
+          "text": "he will not be shaken.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.7",
+            "verseOrgIds": [
+              "PSA.21.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 21:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Your hand will lay hold on all your enemies;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.8",
+            "verseOrgIds": [
+              "PSA.21.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:8"
+      },
+      "items": [
+        {
+          "text": "your right hand will seize your foes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.8",
+            "verseOrgIds": [
+              "PSA.21.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 21:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When you appear for battle,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.9",
+            "verseOrgIds": [
+              "PSA.21.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:9"
+      },
+      "items": [
+        {
+          "text": "you will burn them up as in a blazing furnace.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.9",
+            "verseOrgIds": [
+              "PSA.21.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 21:9"
+      },
+      "items": [
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.9",
+            "verseOrgIds": [
+              "PSA.21.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.21.9",
+                "verseOrgIds": [
+                  "PSA.21.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will swallow them up in his wrath,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.9",
+            "verseOrgIds": [
+              "PSA.21.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:9"
+      },
+      "items": [
+        {
+          "text": "and his fire will consume them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.9",
+            "verseOrgIds": [
+              "PSA.21.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 21:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You will destroy their descendants from the earth,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.10",
+            "verseOrgIds": [
+              "PSA.21.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:10"
+      },
+      "items": [
+        {
+          "text": "their posterity from mankind.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.10",
+            "verseOrgIds": [
+              "PSA.21.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 21:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Though they plot evil against you",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.11",
+            "verseOrgIds": [
+              "PSA.21.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:11"
+      },
+      "items": [
+        {
+          "text": "and devise wicked schemes, they cannot succeed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.11",
+            "verseOrgIds": [
+              "PSA.21.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 21:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You will make them turn their backs",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.12",
+            "verseOrgIds": [
+              "PSA.21.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:12"
+      },
+      "items": [
+        {
+          "text": "when you aim at them with drawn bow.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.12",
+            "verseOrgIds": [
+              "PSA.21.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 21:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be exalted in your strength,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.13",
+            "verseOrgIds": [
+              "PSA.21.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.21.13",
+                "verseOrgIds": [
+                  "PSA.21.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.13",
+            "verseOrgIds": [
+              "PSA.21.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 21:13"
+      },
+      "items": [
+        {
+          "text": "we will sing and praise your might.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.21.13",
+            "verseOrgIds": [
+              "PSA.21.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.22",
+    "number": "22",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.20",
+    "number": "20",
+    "bookId": "PSA"
+  }
+}

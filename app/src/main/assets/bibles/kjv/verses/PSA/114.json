@@ -1,0 +1,539 @@
+{
+  "id": "PSA.114",
+  "number": "114",
+  "bookId": "PSA",
+  "reference": "Psalms 114",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "114",
+        "style": "c",
+        "sid": "PSA 114"
+      },
+      "items": [
+        {
+          "text": "114",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 114:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.1",
+            "verseOrgIds": [
+              "PSA.114.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 114:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Judah was his sanctuary,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.2",
+            "verseOrgIds": [
+              "PSA.114.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.2",
+                "verseOrgIds": [
+                  "PSA.114.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Israel his dominion.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.2",
+            "verseOrgIds": [
+              "PSA.114.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 114:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The sea saw",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.3",
+            "verseOrgIds": [
+              "PSA.114.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.3",
+                "verseOrgIds": [
+                  "PSA.114.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and fled: Jordan was driven back.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.3",
+            "verseOrgIds": [
+              "PSA.114.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 114:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The mountains skipped like rams,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.4",
+            "verseOrgIds": [
+              "PSA.114.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.4",
+                "verseOrgIds": [
+                  "PSA.114.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the little hills like lambs.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.4",
+            "verseOrgIds": [
+              "PSA.114.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 114:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.5",
+            "verseOrgIds": [
+              "PSA.114.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "ailed",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.5",
+                "verseOrgIds": [
+                  "PSA.114.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thee, O thou sea, that thou fleddest? thou Jordan,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.5",
+            "verseOrgIds": [
+              "PSA.114.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.5",
+                "verseOrgIds": [
+                  "PSA.114.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou wast driven back?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.5",
+            "verseOrgIds": [
+              "PSA.114.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 114:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ye mountains,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.6",
+            "verseOrgIds": [
+              "PSA.114.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.6",
+                "verseOrgIds": [
+                  "PSA.114.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ye skipped like rams;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.6",
+            "verseOrgIds": [
+              "PSA.114.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.6",
+                "verseOrgIds": [
+                  "PSA.114.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ye little hills, like lambs?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.6",
+            "verseOrgIds": [
+              "PSA.114.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 114:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.7",
+            "verseOrgIds": [
+              "PSA.114.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 114:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Which turned the rock",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.8",
+            "verseOrgIds": [
+              "PSA.114.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "into",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.114.8",
+                "verseOrgIds": [
+                  "PSA.114.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a standing water, the flint into a fountain of waters.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.8",
+            "verseOrgIds": [
+              "PSA.114.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.115",
+    "number": "115",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.113",
+    "number": "113",
+    "bookId": "PSA"
+  }
+}

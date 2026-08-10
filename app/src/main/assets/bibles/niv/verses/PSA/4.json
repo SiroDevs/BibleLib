@@ -1,0 +1,770 @@
+{
+  "id": "PSA.4",
+  "number": "4",
+  "bookId": "PSA",
+  "reference": "Psalm 4",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "PSA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. With stringed instruments. A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Answer me when I call to you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:1"
+      },
+      "items": [
+        {
+          "text": "my righteous God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 4:1"
+      },
+      "items": [
+        {
+          "text": "Give me relief from my distress;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:1"
+      },
+      "items": [
+        {
+          "text": "have mercy on me and hear my prayer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.1",
+            "verseOrgIds": [
+              "PSA.4.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "How long will you people turn my glory into shame?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:2"
+      },
+      "items": [
+        {
+          "text": "How long will you love delusions and seek false gods",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        },
+        {
+          "text": "?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.2",
+            "verseOrgIds": [
+              "PSA.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Know that the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.3",
+                "verseOrgIds": [
+                  "PSA.4.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "has set apart his faithful servant for himself;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:3"
+      },
+      "items": [
+        {
+          "text": "the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.3",
+                "verseOrgIds": [
+                  "PSA.4.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hears when I call to him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.3",
+            "verseOrgIds": [
+              "PSA.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tremble and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.4",
+            "verseOrgIds": [
+              "PSA.4.5"
+            ]
+          }
+        },
+        {
+          "text": "do not sin;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.4",
+            "verseOrgIds": [
+              "PSA.4.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:4"
+      },
+      "items": [
+        {
+          "text": "when you are on your beds,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.4",
+            "verseOrgIds": [
+              "PSA.4.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:4"
+      },
+      "items": [
+        {
+          "text": "search your hearts and be silent.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.4",
+            "verseOrgIds": [
+              "PSA.4.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Offer the sacrifices of the righteous",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.5",
+            "verseOrgIds": [
+              "PSA.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:5"
+      },
+      "items": [
+        {
+          "text": "and trust in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.5",
+            "verseOrgIds": [
+              "PSA.4.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.5",
+                "verseOrgIds": [
+                  "PSA.4.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.5",
+            "verseOrgIds": [
+              "PSA.4.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Many,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.6",
+                "verseOrgIds": [
+                  "PSA.4.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", are asking, \"Who will bring us prosperity?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:6"
+      },
+      "items": [
+        {
+          "text": "Let the light of your face shine on us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.6",
+            "verseOrgIds": [
+              "PSA.4.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Fill my heart with joy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.7",
+            "verseOrgIds": [
+              "PSA.4.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:7"
+      },
+      "items": [
+        {
+          "text": "when their grain and new wine abound.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.7",
+            "verseOrgIds": [
+              "PSA.4.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In peace I will lie down and sleep,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:8"
+      },
+      "items": [
+        {
+          "text": "for you alone,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.4.8",
+                "verseOrgIds": [
+                  "PSA.4.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 4:8"
+      },
+      "items": [
+        {
+          "text": "make me dwell in safety.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.4.8",
+            "verseOrgIds": [
+              "PSA.4.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.5",
+    "number": "5",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.3",
+    "number": "3",
+    "bookId": "PSA"
+  }
+}

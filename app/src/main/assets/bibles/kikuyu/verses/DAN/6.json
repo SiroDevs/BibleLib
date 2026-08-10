@@ -1,0 +1,756 @@
+{
+  "id": "DAN.6",
+  "number": "6",
+  "bookId": "DAN",
+  "reference": "Danieli 6",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "DAN 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Danieli Gũikio Irima rĩa Mĩrũũthi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Dario nĩonire athuure anene 120 nĩguo matuĩke a gwathanaga ũthamaki-inĩ wake wothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.1",
+            "verseOrgIds": [
+              "DAN.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ agĩcooka akĩiga atongoria atatũ matuĩke anene a acio angĩ, na ũmwe wa acio atatũ aarĩ Danieli. Anene acio atatũ maigirwo nĩgeetha marehagĩrwo ũhoro nĩ anene acio angĩ a bũrũri, nĩgeetha indo cia mũthamaki itikoore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.2",
+            "verseOrgIds": [
+              "DAN.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Danieli akĩoneka arĩ wa mwanya harĩ atongoria acio angĩ othe o na anene nĩ ũndũ wa ũrĩa aarĩ kĩyo mũrutĩre-inĩ wake wa wĩra, na nĩ ũndũ ũcio mũthamaki agĩtanya kũmũtua mwathi wa ũthamaki ũcio wake wothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.3",
+            "verseOrgIds": [
+              "DAN.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio atongoria na anene acio angĩ magĩcaria ũndũ mangĩcuukĩra Danieli wĩra-inĩ wake wa gwathana, no makĩaga ihĩtia. Nĩmagire ũndũ mangĩmũcuukĩra, tondũ aarĩ mwĩhokeku, akaaga ũcuuke kana ihĩtia mĩthiĩre-inĩ yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.4",
+            "verseOrgIds": [
+              "DAN.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Marigĩrĩrio-inĩ andũ acio makĩĩrana atĩrĩ, “Gũtirĩ hĩndĩ tũkoona ũndũ tũngĩcuukĩra Danieli, tiga ũkorirwo nĩ ũndũ ũkoniĩ watho wa Ngai wake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.5",
+            "verseOrgIds": [
+              "DAN.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio atongoria na anene a bũrũri magĩthiĩ marĩ gĩkundi kũrĩ mũthamaki, makĩmwĩra atĩrĩ: “Wee Mũthamaki Dario, ũrotũũra nginya tene!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.6",
+            "verseOrgIds": [
+              "DAN.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ithuĩ tũrĩ atongoria a ũthamaki ũyũ, na anyabara, na anene a bũrũri, na andũ arĩa mataaraga mũthamaki o na abarũthi othe, nĩtũciirĩte tũkoona arĩ wega we mũthamaki ũrute watho naguo ũhinyĩrĩrio atĩ mũndũ o wothe ũrĩa ũngĩhooya ngai o na ĩrĩkũ kana mũndũ o na ũrĩkũ, tiga akũhooire wee mũthamaki, ihinda rĩa matukũ mĩrongo ĩtatũ rĩtanathira, no nginya aikio irima-inĩ rĩa mĩrũũthi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.7",
+            "verseOrgIds": [
+              "DAN.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, wee mũthamaki, athana watho ũcio ũgĩe ho na wandĩkwo, nawe ũwĩkĩre mũhũũri nĩgeetha ndũkagarũrwo, kũringana na mawatho ma Amedi na ma Aperisia marĩa matagarũragwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.8",
+            "verseOrgIds": [
+              "DAN.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Mũthamaki Dario akĩandĩka watho ũcio na agĩĩkĩra mũhũũri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.9",
+            "verseOrgIds": [
+              "DAN.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Danieli aamenyire atĩ watho ũcio nĩ wandĩkĩtwo-rĩ, akĩinũka gwake, akĩhaica kanyũmba gake ka igũrũ harĩa ndirica cia nyũmba yake ciahingũragwo irorete mwena wa Jerusalemu. O mũthenya, nĩatuuragia ndu maita matatũ akahooya Ngai, akĩmũcookagĩria ngaatho o ta ũrĩa aamenyerete gwĩka hau kabere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.10",
+            "verseOrgIds": [
+              "DAN.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ acio magĩthiĩ marĩ hamwe, magĩkora Danieli akĩhooya agĩthaitha Ngai amũteithie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.11",
+            "verseOrgIds": [
+              "DAN.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio magĩthiĩ harĩ mũthamaki na makĩaria nake igũrũ rĩa uuge ũcio wa mũthamaki: Makĩmũũria atĩrĩ, “Githĩ ndwandĩkithirie watho atĩ handũ ha matukũ mĩrongo ĩtatũ, mũndũ ũngĩhooya ngai o na ĩrĩkũ kana ahooe mũndũ o na ũrĩkũ tiga o we mũthamaki, no nginya aikio irima-inĩ rĩa mĩrũũthi?” Mũthamaki agĩcookia atĩrĩ, “Watho ũcio ũrĩ o ho, kũringana na mawatho ma Amedi na Aperisia, marĩa matagarũragwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.12",
+            "verseOrgIds": [
+              "DAN.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao magĩcookeria mũthamaki atĩrĩ, “Danieli, ũmwe wa andũ arĩa maatahĩtwo kuuma Juda, ndagwathĩkagĩra wee mũthamaki, kana agaathĩkĩra watho ũrĩa wee mwene wandĩkithĩtie. O na rĩu no ahooyaga Ngai wake maita matatũ o mũthenya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.13",
+            "verseOrgIds": [
+              "DAN.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DAN 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa mũthamaki aaiguire ũhoro ũcio, akĩigua kĩeha mũno; agĩtua itua rĩa kũhonokia Danieli, na mũthenya ũcio wothe aatindire akĩgeria ũrĩa angĩhonokia Danieli o nginya riũa rĩgĩthũa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.14",
+            "verseOrgIds": [
+              "DAN.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DAN 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo andũ acio makĩũngana rĩngĩ magĩthiĩ harĩ mũthamaki na makĩmwĩra atĩrĩ, “Ririkana, wee mũthamaki, atĩ kũringana na watho wa Amedi na Aperisia, watho ũrĩa mũrute kana mwandĩke nĩ mũthamaki ndũngĩgarũrwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.15",
+            "verseOrgIds": [
+              "DAN.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DAN 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mũthamaki agĩathana, nao makĩrehe Danieli na makĩmũikia irima-inĩ rĩa mĩrũũthi. Mũthamaki akĩĩra Danieli atĩrĩ, “Ngai waku ũrĩa ũtungatagĩra hĩndĩ ciothe-rĩ, arogũteithũra!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.16",
+            "verseOrgIds": [
+              "DAN.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DAN 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihiga rĩkĩreehwo, rĩkĩigwo mũromo-inĩ wa irima rĩu, nake mũthamaki agĩĩkĩra mũhũũri na gĩcũhĩ gĩake mwene na icũhĩ cia andũ ake arĩa marĩ igweta, nĩgeetha gũtikagĩe ũndũ ũngĩgarũrwo ũkoniĩ Danieli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.17",
+            "verseOrgIds": [
+              "DAN.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DAN 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Mũthamaki agĩcooka nyũmba yake ya ũthamaki, nake akĩraara ehingĩte kũrĩa irio na atarĩ na maũndũ ma gwĩkenia. Na ũtukũ ũcio wothe ndaigana kuona toro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.18",
+            "verseOrgIds": [
+              "DAN.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DAN 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na kwarooka gũkĩa-rĩ, mũthamaki agĩũkĩra tene, agĩthiĩ ahiũhĩte erekeire irima-inĩ rĩa mĩrũũthi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.19",
+            "verseOrgIds": [
+              "DAN.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DAN 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na aakuhĩrĩria irima rĩu, agĩĩta Danieli na mũgambo ũrĩ na ruo rũnene, akĩmũũria atĩrĩ, “Danieli, wee ndungata ya Ngai ũrĩa ũrĩ muoyo, Ngai waku ũrĩa ũtungatagĩra hĩndĩ ciothe nĩakũhonoketie kuuma kũrĩ mĩrũũthi?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.20",
+            "verseOrgIds": [
+              "DAN.6.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DAN 6:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Danieli agĩcookeria mũthamaki atĩrĩ, “Wee mũthamaki, ũrotũũra nginya tene!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.21",
+            "verseOrgIds": [
+              "DAN.6.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DAN 6:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai wakwa nĩarandũmĩire mũraika wake, nake arahinga mĩrũũthi tũnua. Ndĩrĩ ũndũ mũũru ĩnjĩkĩte, tondũ nĩnyonetwo itarĩ na mahĩtia njĩkĩte maitho-inĩ make. Ningĩ o na wee mũthamaki ndirĩ ndaakũhĩtĩria.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.22",
+            "verseOrgIds": [
+              "DAN.6.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DAN 6:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthamaki agĩkena mũno na agĩathana Danieli arutwo irima rĩu rĩa mĩrũũthi. Nake Danieli aarutwo irima-inĩ rĩu rĩa mĩrũũthi, ndaarĩ na handũ aagurarĩtio, tondũ we nĩehokete Ngai wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.23",
+            "verseOrgIds": [
+              "DAN.6.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DAN 6:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Mũthamaki agĩathana, akiuga atĩ andũ arĩa maathitangĩte Danieli manyiitwo, macooke marehwo na maikio irima-inĩ rĩu rĩa mĩrũũthi, hamwe na atumia ao, na ciana ciao.Na rĩrĩ, o na matanakinya irima gĩtina-rĩ, mĩrũũthi ĩyo ĩkĩmakĩria hinya, na ĩkĩhehenja mahĩndĩ mao mothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.24",
+            "verseOrgIds": [
+              "DAN.6.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DAN 6:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki Dario agĩcooka akĩandĩkĩra andũ othe, na ndũrĩrĩ, na andũ a mĩario yothe bũrũri-inĩ guothe marũa, akĩmeera atĩrĩ: “Mũrogaacĩra mũno makĩria!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.25",
+            "verseOrgIds": [
+              "DAN.6.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DAN 6:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩndahĩtũkia watho, atĩ kũrĩa guothe ũthamaki ũyũ wakwa wakinya-rĩ, andũ no nginya metigagĩre na matĩĩage Ngai wa Danieli. “Nĩgũkorwo nĩwe Ngai ũrĩa ũrĩ muoyo, na atũũraga nginya tene; ũthamaki wake ndũrĩ hĩndĩ ũkaaniinwo o na rĩ, naguo wathani wake ndũrĩ hĩndĩ ũgaathira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.26",
+            "verseOrgIds": [
+              "DAN.6.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DAN 6:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩwe ũteithũranaga na akahonokania; nĩwe wĩkaga morirũ na magegania kũu igũrũ o na gũkũ thĩ. Ũcio nĩwe ũhonoketie Danieli kuuma kũrĩ hinya wa mĩrũũthi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.27",
+            "verseOrgIds": [
+              "DAN.6.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DAN 6:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Danieli akĩgaacĩra hĩndĩ ya wathani wa Dario, o na wathani-inĩ wa Kurusu ũrĩa Mũperisia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.6.28",
+            "verseOrgIds": [
+              "DAN.6.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DAN.7",
+    "number": "7",
+    "bookId": "DAN"
+  },
+  "previous": {
+    "id": "DAN.5",
+    "number": "5",
+    "bookId": "DAN"
+  }
+}

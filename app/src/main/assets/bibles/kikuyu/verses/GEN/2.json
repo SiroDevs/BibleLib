@@ -1,0 +1,690 @@
+{
+  "id": "GEN.2",
+  "number": "2",
+  "bookId": "GEN",
+  "reference": "Kĩambĩrĩria 2",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "GEN 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igũrũ na thĩ ikĩrĩka na ũgemu wacio wothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.1",
+            "verseOrgIds": [
+              "GEN.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo mũthenya wa mũgwanja wakinya, Ngai agĩkorwo arĩkĩtie wĩra ũcio aarutaga; nĩ ũndũ ũcio Ngai akĩhurũka mũthenya ũcio wa mũgwanja kuuma wĩra-inĩ wake wothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.2",
+            "verseOrgIds": [
+              "GEN.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai akĩrathima mũthenya ũcio wa mũgwanja na akĩwamũra, tondũ nĩ mũthenya ũrĩa we aahurũkire kuuma wĩra-inĩ wothe ũrĩa aarutĩte wa ũũmbi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.3",
+            "verseOrgIds": [
+              "GEN.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Adamu na Hawa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũcio nĩguo ũhoro ũrĩa wĩgiĩ igũrũ na thĩ rĩrĩa ciombirwo.\nRĩrĩa Jehova Ngai ombire thĩ na igũrũ-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.4",
+            "verseOrgIds": [
+              "GEN.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "gũtiarĩ kahinga o na kamwe ga gĩthaka koonekete thĩ kana mũmera wa gĩthaka ũkamera. Nĩ tondũ Jehova Ngai ndoirĩtie mbura thĩ na gũtiarĩ mũndũ wa kũrĩma mũgũnda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.5",
+            "verseOrgIds": [
+              "GEN.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no tũrũũĩ twoimaga na thĩ na tũkaihũgia thĩ igũrũ guothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.6",
+            "verseOrgIds": [
+              "GEN.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova Ngai akĩũmba mũndũ kuuma rũkũngũ-inĩ rwa thĩ, na akĩmũhuhĩra mĩhũmũ ya muoyo maniũrũ-inĩ make, nake mũndũ ũcio akĩgĩa na muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.7",
+            "verseOrgIds": [
+              "GEN.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jehova Ngai nĩathondekete mũgũnda mwena wa irathĩro, o kũu Edeni; na kũu nĩkuo aigire mũndũ ũcio oombĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.8",
+            "verseOrgIds": [
+              "GEN.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova Ngai agĩtũma thĩ ĩmere mĩtĩ ya mĩthemba yothe na ĩkũre. Yarĩ mĩtĩ mĩega ĩkĩoneka na maitho na yaciaraga matunda mega ma kũrĩa. Gatagatĩ ka mũgũnda ũcio nĩ haarĩ na mũtĩ wa muoyo, na mũtĩ wa ũmenyo wa gũkũũrana wega na ũũru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.9",
+            "verseOrgIds": [
+              "GEN.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na nĩ kwarĩ rũũĩ rwathereraga ruumĩte Edeni rũkaihũgia mũgũnda ũcio; ruoima Edeni rũkagayũkana rũgatuĩka njũũĩ inya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.10",
+            "verseOrgIds": [
+              "GEN.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũũĩ rwa mbere rwĩtagwo Pishoni; na nĩruo rũthiũrũrũkaga bũrũri wothe wa Havila, kũrĩa kũrĩ thahabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.11",
+            "verseOrgIds": [
+              "GEN.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Thahabu ya bũrũri ũcio nĩ njega; ningĩ kũu no kũrĩ maguta manungi wega metagwo bendora, na tũhiga twa goro twĩtagwo onigithi.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.12",
+            "verseOrgIds": [
+              "GEN.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũũĩ rwa keerĩ rwĩtagwo Gihoni; naruo rũthiũrũrũkaga bũrũri wothe wa Kushi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.13",
+            "verseOrgIds": [
+              "GEN.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rũũĩ rwa gatatũ rwĩtagwo Hidekela naruo rũgeragĩra mwena wa irathĩro wa bũrũri wa Ashuri. Naruo rũũĩ rwa kana rwĩtagwo Farati.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.14",
+            "verseOrgIds": [
+              "GEN.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova Ngai akĩoya mũndũ ũcio oombĩte, akĩmũiga mũgũnda-inĩ ũcio wa Edeni aũrĩmage na aũmenyagĩrĩre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.15",
+            "verseOrgIds": [
+              "GEN.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova Ngai agĩatha mũndũ ũcio, akĩmwĩra atĩrĩ, “No ũrĩe maciaro ma mũtĩ o wothe ũrĩ mũgũnda ũyũ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.16",
+            "verseOrgIds": [
+              "GEN.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no rĩrĩ, ndũkanarĩe maciaro ma mũtĩ ũrĩa wa ũmenyo wa gũkũũrana wega na ũũru, nĩgũkorwo rĩrĩa ũkaamarĩa, ti-itherũ no gũkua ũgaakua.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.17",
+            "verseOrgIds": [
+              "GEN.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jehova Ngai akiuga atĩrĩ, “Ti wega mũndũ ũyũ aikare arĩ wiki. Nĩngũmũmbĩra mũteithia ũrĩa ũmwagĩrĩire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.18",
+            "verseOrgIds": [
+              "GEN.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Jehova Ngai nĩ oombĩte nyamũ ciothe cia gĩthaka na nyoni cia rĩera-inĩ kuuma tĩĩri-inĩ. Agĩcirehe kũrĩ mũndũ ũcio one marĩĩtwa marĩa egũcitua; na ũrĩa mũndũ ũcio aatuire kĩũmbe o gĩothe kĩ muoyo, rĩu rĩgĩtuĩka rĩĩtwa rĩakĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.19",
+            "verseOrgIds": [
+              "GEN.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mũndũ ũcio akĩhe mahiũ mothe marĩĩtwa, o na nyoni cia rĩera-inĩ na nyamũ ciothe cia gĩthaka. No Adamu ndooneirwo mũteithia ũmwagĩrĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.20",
+            "verseOrgIds": [
+              "GEN.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Jehova Ngai agĩtũma mũndũ ũcio akome toro mũnene mũno; na rĩrĩa aakomete, Jehova Ngai akĩruta rũbaru rũmwe rwa mũndũ ũcio na agĩcookia nyama hau rwarĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.21",
+            "verseOrgIds": [
+              "GEN.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Jehova Ngai akĩũmba mũndũ-wa-nja kuuma rũbaru rũrĩa aarutĩte kũrĩ mũndũ ũcio na akĩrehe mũndũ-wa-nja ũcio kũrĩ we.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.22",
+            "verseOrgIds": [
+              "GEN.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio akiuga atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gĩkĩ nĩkĩo gĩtũmaga mũndũ mũrũme atige ithe na nyina, na anyiitane na mũtumia wake, nao magatuĩka mwĩrĩ ũmwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.24",
+            "verseOrgIds": [
+              "GEN.2.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acio eerĩ, mũndũ ũcio na mũtumia wake, maarĩ njaga, na matiaconokaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.25",
+            "verseOrgIds": [
+              "GEN.2.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.3",
+    "number": "3",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.1",
+    "number": "1",
+    "bookId": "GEN"
+  }
+}

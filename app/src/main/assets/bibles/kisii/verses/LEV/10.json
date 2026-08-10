@@ -1,0 +1,624 @@
+{
+  "id": "LEV.10",
+  "number": "10",
+  "bookId": "LEV",
+  "reference": "Abalawi 10",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "LEV 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ebibe bia Nadabu na Abihu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LEV 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nadabu na Abihu, abamura ba Aroni, kera oyomo akaimokia orogio rwaye, akabeeka omorero ase orogio orwo, na akabeeka ekoroso igoro ase omorero oyio, bakarentera Omonene omorero orenge bw’engencho eng’ao, oyi’Omonene atabachiigete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.1",
+            "verseOrgIds": [
+              "LEV.10.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LEV 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na omorero ogaika korwa ase Omonene, okabasamba, barabwo bakayia, bagakwera agwo ase obosio bw’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.2",
+            "verseOrgIds": [
+              "LEV.10.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LEV 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Musa agateebia Aroni, “Aya nar’Omonene atebiire, ng’a ere neorokie koba omochenu ase abanto abwo bakomoika ang’e, na ase amaiso b’abaanto bonsi naorokie obonene bwaye.” Aroni agakira‐kiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.3",
+            "verseOrgIds": [
+              "LEV.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LEV 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Musa akarangeria Mishaeli na Elisafani, basinto ba Usieli, ise moke Aroni, akabateebia, “Inchuo mobogorie emebere y’abamino, abana ba iso moke, moyerusie korwa ase Obomenyo Obochenu, moyeire isiko y’egetwori.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.4",
+            "verseOrgIds": [
+              "LEV.10.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LEV 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagaacha, bakabogoria emebere eria eboyirie chiganchwa chiabo, bakayeira isiko y’egetwori, buna Musa abateebeetie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.5",
+            "verseOrgIds": [
+              "LEV.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LEV 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agateebia Aroni amo n’Eleazari na Itamari, abamura ba Aroni, “Timobaisa gotiga chitukia chiaino chitachanuiri, gose timobaisa gotandora chianga chiaino ase okobaichanera. Moise gokora igo, goika mokwe, na endamwamu entindi y’Omonene echiche igoro y’omoganda bwonsi. Korende Abaisraeli bamino bonsi barabwo mbabe bakorera ase engencho y’ogosamba ogotindi Omonene arentire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.6",
+            "verseOrgIds": [
+              "LEV.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LEV 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timobaisa gosoka isiko goetania egesoero ki’Eema y’Omosangererekano. Moise gokora igo, goika mokwe, ekiagera mwatananirwe ase ogoakwa amaguta ’Omonene.” Barabwo bagakora buna Musa abateebetie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.7",
+            "verseOrgIds": [
+              "LEV.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amachiiko ase abakuani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LEV 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agakwana na Aroni, akamoteebia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.8",
+            "verseOrgIds": [
+              "LEV.10.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LEV 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Aye amo nabamura bao timobaisa konywa edivai, gose ekenyugwa kegotindia, ekero mogosoa ase Eema y’Omosangererekano. Moise gokora igo, goika mokwe. Okwo nogochika koragenderere ase more ebiaare ase ebiaare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.9",
+            "verseOrgIds": [
+              "LEV.10.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LEV 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe goika momanye gwaatanana egento egechenu kere ekia Omonene korwa ase ekio getaatananiri koba egechenu, na egento gechenegete korwa ase egetachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.10",
+            "verseOrgIds": [
+              "LEV.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LEV 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mworokererie Abaisraeli amachiiko onsi aya inche Omonene nabachiikire goetera ase Musa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.11",
+            "verseOrgIds": [
+              "LEV.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LEV 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agateebia Aroni na abamura baye abatigarete, Eleazari na Itamari, “Imokia okoruegwa kw’endagera, okwo gotigarete korwa ase okwo gwasambirwe n’omorero ase Omonene, mokorie gotabeekiri memera, agwo ase egesasiimero ensemo, ekiagera okoruegwa okwo nogochenu mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.12",
+            "verseOrgIds": [
+              "LEV.10.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LEV 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mokoriere agwo Aase gete are aachenu. Ekio negetari kiao, na eki’abamura bao, gekorusigwa korwa ase okoruegwa kw’endagera kogosaambwa n’omorero ase Omonene. Ayio nar’Omonene anchiigete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.13",
+            "verseOrgIds": [
+              "LEV.10.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LEV 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ritaana rigosungusigwa, na ekenama gekoruegwa, aye amo nabana bao, abamura na abaiseke, mwaeirwe ribaga kobiriera agwo aase achenire. Ebinto ebio aye na abana bao mwabieirwe korwa ase ebing’wanso bi’omorembe bikoruegwa n’Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.14",
+            "verseOrgIds": [
+              "LEV.10.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LEV 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekenama gekoruegwa, ne ritaana riria rigosungusigwa, birentwe amo nebitinya bikoruegwa ebing’wanso bigosaambwa n’omorero, bisungusigwe bibe ebing’wanso bi’ogosungusigwa ase obosio bw’Omonene. Ebio nabibe egetari kiao amo neki’abamura bao kogenderera botaambe, buna Omonene achiigete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.15",
+            "verseOrgIds": [
+              "LEV.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LEV 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agatuka mono komanya inaki embori y’ekeng’wanso ki’ebibe yabeete, akamanya ng’a embori eria nigo yasaambetwe. Ase ayio akaba nendamwamu enene ase Eliezeri na Itamari, abamura ba Aroni, baria batigarete, akabateebia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.16",
+            "verseOrgIds": [
+              "LEV.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LEV 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nase ki motarierete ekeng’wanso keria ki’ebibe agwo aase are aachenu? Ekio negento egechenu mono mwaeirwe, erinde moruserie omoganda ebibe biabo, na gokora okobwatanigwa ase bare ase obosio bw’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.17",
+            "verseOrgIds": [
+              "LEV.10.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LEV 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rora, amanyinga aye tairetwe agwo Aase Aachenu; nigo yabagwenerete mokeriere agwo aase achenire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.18",
+            "verseOrgIds": [
+              "LEV.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LEV 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aroni akairaneria Musa, “Rora, rituko ria reero abanto barure ekeng’wanso kiabo ki’ebibe, na eki’ogosaambwa, ase obosio bw’Omonene, korende nonya naboigo nomanyete emechando eye nanyorire. Onye inaria ekeng’wanso ki’ebibe rituko ria reero, Inee, nanga nancherwa ase obosio bw’Omonene?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.19",
+            "verseOrgIds": [
+              "LEV.10.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LEV 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Musa aigwete amang’ana ayio agaisaneka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.10.20",
+            "verseOrgIds": [
+              "LEV.10.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LEV.11",
+    "number": "11",
+    "bookId": "LEV"
+  },
+  "previous": {
+    "id": "LEV.9",
+    "number": "9",
+    "bookId": "LEV"
+  }
+}

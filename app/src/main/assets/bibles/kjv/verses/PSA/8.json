@@ -1,0 +1,536 @@
+{
+  "id": "PSA.8",
+  "number": "8",
+  "bookId": "PSA",
+  "reference": "Psalms 8",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "PSA 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician upon Gittith, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.1",
+                "verseOrgIds": [
+                  "PSA.8.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our Lord, how excellent",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.1",
+                "verseOrgIds": [
+                  "PSA.8.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy name in all the earth! who hast set thy glory above the heavens.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.2",
+            "verseOrgIds": [
+              "PSA.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.3",
+            "verseOrgIds": [
+              "PSA.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.4",
+            "verseOrgIds": [
+              "PSA.8.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.5",
+            "verseOrgIds": [
+              "PSA.8.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.6",
+            "verseOrgIds": [
+              "PSA.8.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "things",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.6",
+                "verseOrgIds": [
+                  "PSA.8.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "under his feet:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.6",
+            "verseOrgIds": [
+              "PSA.8.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All sheep and oxen, yea, and the beasts of the field;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.7",
+            "verseOrgIds": [
+              "PSA.8.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The fowl of the air, and the fish of the sea,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.8",
+            "verseOrgIds": [
+              "PSA.8.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and whatsoever",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.8",
+                "verseOrgIds": [
+                  "PSA.8.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "passeth through the paths of the seas.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.8",
+            "verseOrgIds": [
+              "PSA.8.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.9",
+                "verseOrgIds": [
+                  "PSA.8.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our Lord, how excellent",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.9",
+                "verseOrgIds": [
+                  "PSA.8.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy name in all the earth!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.9",
+    "number": "9",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.7",
+    "number": "7",
+    "bookId": "PSA"
+  }
+}

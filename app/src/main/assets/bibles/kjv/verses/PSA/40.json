@@ -1,0 +1,1309 @@
+{
+  "id": "PSA.40",
+  "number": "40",
+  "bookId": "PSA",
+  "reference": "Psalms 40",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "40",
+        "style": "c",
+        "sid": "PSA 40"
+      },
+      "items": [
+        {
+          "text": "40",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 40:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I waited patiently for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.1",
+            "verseOrgIds": [
+              "PSA.40.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.1",
+                "verseOrgIds": [
+                  "PSA.40.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; and he inclined unto me, and heard my cry.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.1",
+            "verseOrgIds": [
+              "PSA.40.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 40:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.2",
+            "verseOrgIds": [
+              "PSA.40.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.2",
+                "verseOrgIds": [
+                  "PSA.40.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "established my goings.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.2",
+            "verseOrgIds": [
+              "PSA.40.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 40:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he hath put a new song in my mouth,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.3",
+            "verseOrgIds": [
+              "PSA.40.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.3",
+                "verseOrgIds": [
+                  "PSA.40.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "praise unto our God: many shall see",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.3",
+            "verseOrgIds": [
+              "PSA.40.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.3",
+                "verseOrgIds": [
+                  "PSA.40.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and fear, and shall trust in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.3",
+            "verseOrgIds": [
+              "PSA.40.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.3",
+                "verseOrgIds": [
+                  "PSA.40.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.3",
+            "verseOrgIds": [
+              "PSA.40.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 40:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.4",
+            "verseOrgIds": [
+              "PSA.40.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.4",
+                "verseOrgIds": [
+                  "PSA.40.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "that man that maketh the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.4",
+            "verseOrgIds": [
+              "PSA.40.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.4",
+                "verseOrgIds": [
+                  "PSA.40.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "his trust, and respecteth not the proud, nor such as turn aside to lies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.4",
+            "verseOrgIds": [
+              "PSA.40.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 40:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Many, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy wonderful works",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou hast done, and thy thoughts",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to us-ward: they cannot be reckoned up in order unto thee:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "if",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "I would declare and speak",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of them",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.5",
+                "verseOrgIds": [
+                  "PSA.40.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", they are more than can be numbered.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.5",
+            "verseOrgIds": [
+              "PSA.40.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 40:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.6",
+            "verseOrgIds": [
+              "PSA.40.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 40:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then said I, Lo, I come: in the volume of the book",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.7",
+            "verseOrgIds": [
+              "PSA.40.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.7",
+                "verseOrgIds": [
+                  "PSA.40.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "written of me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.7",
+            "verseOrgIds": [
+              "PSA.40.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 40:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I delight to do thy will, O my God: yea, thy law",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.8",
+            "verseOrgIds": [
+              "PSA.40.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.8",
+                "verseOrgIds": [
+                  "PSA.40.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "within my heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.8",
+            "verseOrgIds": [
+              "PSA.40.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 40:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.9",
+            "verseOrgIds": [
+              "PSA.40.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.9",
+                "verseOrgIds": [
+                  "PSA.40.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou knowest.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.9",
+            "verseOrgIds": [
+              "PSA.40.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 40:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.10",
+            "verseOrgIds": [
+              "PSA.40.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 40:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Withhold not thou thy tender mercies from me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.11",
+            "verseOrgIds": [
+              "PSA.40.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.11",
+                "verseOrgIds": [
+                  "PSA.40.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": let thy lovingkindness and thy truth continually preserve me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.11",
+            "verseOrgIds": [
+              "PSA.40.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 40:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.12",
+            "verseOrgIds": [
+              "PSA.40.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 40:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be pleased, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.13",
+            "verseOrgIds": [
+              "PSA.40.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.13",
+                "verseOrgIds": [
+                  "PSA.40.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", to deliver me: O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.13",
+            "verseOrgIds": [
+              "PSA.40.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.13",
+                "verseOrgIds": [
+                  "PSA.40.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", make haste to help me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.13",
+            "verseOrgIds": [
+              "PSA.40.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 40:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.14",
+            "verseOrgIds": [
+              "PSA.40.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 40:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let them be desolate for a reward of their shame that say unto me, Aha, aha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.15",
+            "verseOrgIds": [
+              "PSA.40.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 40:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.16",
+            "verseOrgIds": [
+              "PSA.40.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.16",
+                "verseOrgIds": [
+                  "PSA.40.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "be magnified.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.16",
+            "verseOrgIds": [
+              "PSA.40.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 40:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But I",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.17",
+            "verseOrgIds": [
+              "PSA.40.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.17",
+                "verseOrgIds": [
+                  "PSA.40.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "poor and needy;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.17",
+            "verseOrgIds": [
+              "PSA.40.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "yet",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.17",
+                "verseOrgIds": [
+                  "PSA.40.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the Lord thinketh upon me: thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.17",
+            "verseOrgIds": [
+              "PSA.40.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.40.17",
+                "verseOrgIds": [
+                  "PSA.40.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my help and my deliverer; make no tarrying, O my God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.40.17",
+            "verseOrgIds": [
+              "PSA.40.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.41",
+    "number": "41",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.39",
+    "number": "39",
+    "bookId": "PSA"
+  }
+}

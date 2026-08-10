@@ -1,0 +1,1725 @@
+{
+  "id": "LUK.2",
+  "number": "2",
+  "bookId": "LUK",
+  "reference": "Luka 2",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 52,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "LUK 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuzaliwa Kwa Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.1.18-MAT.1.25"
+          },
+          "items": [
+            {
+              "text": "Mathayo 1:18-25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LUK 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku zile Kaisari Augusto alitoa amri kwamba watu wote waandikishwe katika ulimwengu wa Kirumi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.1",
+            "verseOrgIds": [
+              "LUK.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LUK 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Orodha hii ndiyo ya kwanza iliyofanyika wakati Krenio alikuwa mtawala wa Shamu",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.2",
+            "verseOrgIds": [
+              "LUK.2.2"
+            ]
+          }
+        },
+        {
+          "text": ").",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.2",
+            "verseOrgIds": [
+              "LUK.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LUK 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila mtu alikwenda kuandikishwa katika mji wake alikozaliwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.3",
+            "verseOrgIds": [
+              "LUK.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LUK 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Yosefu akapanda kutoka mji wa Nazareti ulioko Galilaya kwenda Uyahudi, mpaka Bethlehemu, mji wa Daudi, kwa sababu yeye alikuwa wa ukoo na wa nyumba ya Daudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.4",
+            "verseOrgIds": [
+              "LUK.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LUK 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alikwenda huko kujiandikisha pamoja na Maria, ambaye alikuwa amemposa naye alikuwa mjamzito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.5",
+            "verseOrgIds": [
+              "LUK.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LUK 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakiwa Bethlehemu, wakati wa Maria wa kujifungua ukawa umetimia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.6",
+            "verseOrgIds": [
+              "LUK.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LUK 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naye akamzaa mwanawe, kifungua mimba. Akamfunika nguo za kitoto na kumlaza katika hori ya kulia ngʼombe, kwa sababu hapakuwa na nafasi katika nyumba ya wageni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.7",
+            "verseOrgIds": [
+              "LUK.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wachungaji Na Malaika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LUK 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika eneo lile walikuwako wachungaji waliokuwa wakikaa mashambani, wakilinda makundi yao ya kondoo usiku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.8",
+            "verseOrgIds": [
+              "LUK.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LUK 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ghafula tazama, malaika wa Bwana akawatokea, nao utukufu wa Bwana ukawangʼaria kotekote, wakaingiwa na hofu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.9",
+            "verseOrgIds": [
+              "LUK.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LUK 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini malaika akawaambia: \"Msiogope. Kwa maana tazama nawaletea habari njema za furaha itakayokuwa kwa watu wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.10",
+            "verseOrgIds": [
+              "LUK.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LUK 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Leo katika mji wa Daudi kwa ajili yenu amezaliwa Mwokozi, ndiye Kristo",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.11",
+            "verseOrgIds": [
+              "LUK.2.11"
+            ]
+          }
+        },
+        {
+          "text": "Bwana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.11",
+            "verseOrgIds": [
+              "LUK.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LUK 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hii ndiyo itakayokuwa ishara kwenu: Mtamkuta mtoto mchanga amefunikwa nguo za kitoto na kulazwa katika hori ya kulia ngʼombe.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.12",
+            "verseOrgIds": [
+              "LUK.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LUK 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ghafula pakawa na jeshi kubwa la mbinguni pamoja na huyo malaika wakimsifu Mungu wakisema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.13",
+            "verseOrgIds": [
+              "LUK.2.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LUK 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Atukuzwe Mungu juu mbinguni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.14",
+            "verseOrgIds": [
+              "LUK.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LUK 2:14"
+      },
+      "items": [
+        {
+          "text": "na duniani iwe amani kwa watu aliowaridhia.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.14",
+            "verseOrgIds": [
+              "LUK.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LUK 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hao malaika walipokwisha kuondoka na kwenda zao mbinguni, wale wachungaji wakasemezana wao kwa wao, \"Twendeni Bethlehemu tukaone mambo haya ya ajabu yaliyotukia, ambayo Bwana ametuambia habari zake.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.15",
+            "verseOrgIds": [
+              "LUK.2.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LUK 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo wakaenda haraka Bethlehemu, wakawakuta Maria na Yosefu na yule mtoto mchanga akiwa amelala katika hori la kulia ngʼombe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.16",
+            "verseOrgIds": [
+              "LUK.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LUK 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipomwona yule mtoto, wakawaeleza yale waliyokuwa wameambiwa kuhusu huyo mtoto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.17",
+            "verseOrgIds": [
+              "LUK.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LUK 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao wote waliosikia habari hizi wakastaajabia yale waliyoambiwa na wale wachungaji wa kondoo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.18",
+            "verseOrgIds": [
+              "LUK.2.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LUK 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Maria akayaweka mambo haya yote moyoni mwake na kuyatafakari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.19",
+            "verseOrgIds": [
+              "LUK.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LUK 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale wachungaji wakarudi, huku wakimtukuza Mungu na kumsifu kwa ajili ya mambo yote waliyokuwa wameambiwa na kuyaona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.20",
+            "verseOrgIds": [
+              "LUK.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LUK 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata zilipotimia siku nane, ulikuwa ndio wakati wa kumtahiri mtoto, akaitwa Yesu, jina alilokuwa amepewa na malaika kabla hajatungwa mimba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.21",
+            "verseOrgIds": [
+              "LUK.2.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Apelekwa Hekaluni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LUK 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ulipotimia wakati wa utakaso wake Maria kwa mujibu wa Sheria ya Mose, basi Yosefu na Maria walimpeleka mtoto Yerusalemu, ili kumweka wakfu kwa Bwana",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.22",
+            "verseOrgIds": [
+              "LUK.2.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "LUK 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(kama ilivyoandikwa katika Sheria ya Bwana, kwamba, \"Kila mtoto wa kiume kifungua mimba atawekwa wakfu kwa Bwana\"),",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.23",
+            "verseOrgIds": [
+              "LUK.2.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "LUK 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na pia kutoa dhabihu kulingana na yale yaliyonenwa katika Sheria ya Bwana: \"Hua wawili au makinda mawili ya njiwa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.24",
+            "verseOrgIds": [
+              "LUK.2.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "LUK 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi alikuwako huko Yerusalemu mtu mmoja jina lake Simeoni, ambaye alikuwa mwenye haki na mcha Mungu, akitarajia faraja ya Israeli, na Roho Mtakatifu alikuwa juu yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.25",
+            "verseOrgIds": [
+              "LUK.2.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LUK 2:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Roho Mtakatifu alikuwa amemfunulia kuwa hatakufa kabla hajamwona Kristo wa Bwana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.26",
+            "verseOrgIds": [
+              "LUK.2.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LUK 2:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simeoni, akiwa ameongozwa na Roho Mtakatifu, alikwenda Hekaluni. Wazazi walipomleta mtoto Yesu ili kumfanyia kama ilivyokuwa desturi ya Sheria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.27",
+            "verseOrgIds": [
+              "LUK.2.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LUK 2:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ndipo Simeoni akampokea mtoto mikononi mwake na kumsifu Mungu, akisema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.28",
+            "verseOrgIds": [
+              "LUK.2.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LUK 2:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Bwana Mwenyezi, kama ulivyoahidi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.29",
+            "verseOrgIds": [
+              "LUK.2.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LUK 2:29"
+      },
+      "items": [
+        {
+          "text": "sasa wamruhusu mtumishi wako",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.29",
+            "verseOrgIds": [
+              "LUK.2.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LUK 2:29"
+      },
+      "items": [
+        {
+          "text": "aende zake kwa amani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.29",
+            "verseOrgIds": [
+              "LUK.2.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LUK 2:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana macho yangu yameuona wokovu wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.30",
+            "verseOrgIds": [
+              "LUK.2.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "LUK 2:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ulioweka tayari machoni pa watu wote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.31",
+            "verseOrgIds": [
+              "LUK.2.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "LUK 2:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nuru kwa ajili ya ufunuo kwa watu wa Mataifa",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.32",
+            "verseOrgIds": [
+              "LUK.2.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "LUK 2:32"
+      },
+      "items": [
+        {
+          "text": "na kwa ajili ya utukufu kwa watu wako Israeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.32",
+            "verseOrgIds": [
+              "LUK.2.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "LUK 2:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naye Yosefu na mama yake mtoto wakastaajabu kwa yale yaliyokuwa yamesemwa kumhusu huyo mtoto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.33",
+            "verseOrgIds": [
+              "LUK.2.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "LUK 2:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Simeoni akawabariki, akamwambia Maria mama yake, \"Mtoto huyu amewekwa kwa makusudi ya kuanguka na kuinuka kwa wengi katika Israeli. Atakuwa ishara ambayo watu watanena dhidi yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.34",
+            "verseOrgIds": [
+              "LUK.2.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "LUK 2:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ili mawazo ya mioyo mingi yadhihirike. Nao upanga utauchoma moyo wako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.35",
+            "verseOrgIds": [
+              "LUK.2.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "LUK 2:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tena alikuwako Hekaluni nabii mmoja mwanamke, jina lake Ana binti Fanueli, wa kabila la Asheri. Alikuwa mzee sana; naye alikuwa ameolewa na kuishi na mume kwa miaka saba tu, kisha mumewe akafa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.36",
+            "verseOrgIds": [
+              "LUK.2.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "LUK 2:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo alikuwa mjane na umri wake ulikuwa miaka themanini na minne. Yeye hakuondoka humo Hekaluni usiku wala mchana, bali alikuwa akimwabudu Mungu, akifunga na kuomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.37",
+            "verseOrgIds": [
+              "LUK.2.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "LUK 2:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo, Ana alikuja akaanza kusifu, akimshukuru Mungu na kusema habari za huyo mtoto kwa watu wote waliokuwa wakitarajia ukombozi wa Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.38",
+            "verseOrgIds": [
+              "LUK.2.38"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "LUK 2:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yosefu na Maria walipokuwa wamekamilisha mambo yote yaliyotakiwa na Sheria ya Bwana, walirudi mjini kwao Nazareti huko Galilaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.39",
+            "verseOrgIds": [
+              "LUK.2.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "LUK 2:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naye yule mtoto akakua na kuongezeka nguvu, akiwa amejaa hekima, na neema ya Mungu ilikuwa juu yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.40",
+            "verseOrgIds": [
+              "LUK.2.40"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kijana Yesu Hekaluni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "LUK 2:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila mwaka Yosefu na Maria mama yake Yesu walikuwa na desturi ya kwenda Yerusalemu kwa ajili ya Sikukuu ya Pasaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.41",
+            "verseOrgIds": [
+              "LUK.2.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "LUK 2:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa na umri wa miaka kumi na miwili, walipanda kwenda kwenye Sikukuu hiyo kama ilivyokuwa desturi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.42",
+            "verseOrgIds": [
+              "LUK.2.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "LUK 2:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya Sikukuu kumalizika, wakati Yosefu na Maria mama yake walipokuwa wakirudi nyumbani, Yesu alibaki Yerusalemu lakini hawakutambua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.43",
+            "verseOrgIds": [
+              "LUK.2.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "LUK 2:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wao wakidhani kuwa yuko miongoni mwa wasafiri, walienda mwendo wa kutwa nzima. Ndipo wakaanza kumtafuta miongoni mwa jamaa zao na marafiki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.44",
+            "verseOrgIds": [
+              "LUK.2.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "LUK 2:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipomkosa walirudi Yerusalemu ili kumtafuta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.45",
+            "verseOrgIds": [
+              "LUK.2.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "LUK 2:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya siku tatu wakamkuta ndani ya Hekalu, akiwa ameketi katikati ya walimu wa sheria, akiwasikiliza na kuwauliza maswali.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.46",
+            "verseOrgIds": [
+              "LUK.2.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "LUK 2:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wote waliomsikia walistaajabishwa na uwezo wake mkubwa wa kuelewa, na majibu aliyoyatoa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.47",
+            "verseOrgIds": [
+              "LUK.2.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "LUK 2:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yosefu na Maria mama yake walipomwona walishangaa. Mama yake akamuuliza, \"Mwanangu, mbona umetufanyia hivi? Tazama, mimi na baba yako tumekuwa tukikutafuta kwa wasiwasi mkubwa kila mahali.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.48",
+            "verseOrgIds": [
+              "LUK.2.48"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "LUK 2:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akawaambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.49",
+            "verseOrgIds": [
+              "LUK.2.49"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Kwa nini kunitafuta? Hamkujua kwamba imenipasa kuwa katika nyumba ya Baba yangu?\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "LUK.2.49",
+                "verseOrgIds": [
+                  "LUK.2.49"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "LUK 2:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wao hawakuelewa maana ya lile alilowaambia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.50",
+            "verseOrgIds": [
+              "LUK.2.50"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "LUK 2:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo akashuka pamoja nao hadi Nazareti, naye alikuwa mtiifu kwao. Lakini mama yake akayaweka moyoni mwake mambo haya yote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.51",
+            "verseOrgIds": [
+              "LUK.2.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "LUK 2:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naye Yesu akakua katika hekima na kimo, akimpendeza Mungu na wanadamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.2.52",
+            "verseOrgIds": [
+              "LUK.2.52"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LUK.3",
+    "number": "3",
+    "bookId": "LUK"
+  },
+  "previous": {
+    "id": "LUK.1",
+    "number": "1",
+    "bookId": "LUK"
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "PSA.82",
+  "number": "82",
+  "bookId": "PSA",
+  "reference": "Zaburi 82",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "82",
+        "style": "c",
+        "sid": "PSA 82"
+      },
+      "items": [
+        {
+          "text": "82",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae nere omogambi omonene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gw’Asafu)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 82:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyasae nigo agotenena ase omosangererekano oye omochenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.1",
+            "verseOrgIds": [
+              "PSA.82.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase egati ye chinyasae nigo akonacha ekiina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.1",
+            "verseOrgIds": [
+              "PSA.82.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 82:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inee! Ngoika ririri moragenderere konacha ebiina bitari noboronge?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.2",
+            "verseOrgIds": [
+              "PSA.82.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ngoika ririri moragenderere gwanchereria abanto ababe?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.2",
+            "verseOrgIds": [
+              "PSA.82.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 82:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kae abataka ne chintakana oboronge bwabo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.3",
+            "verseOrgIds": [
+              "PSA.82.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "boigo nabwo bagokorerwa bobe, na abaremeire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.3",
+            "verseOrgIds": [
+              "PSA.82.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 82:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tooria abatari na nguru, na abatabwati kende,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.4",
+            "verseOrgIds": [
+              "PSA.82.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "basibore korwa ase amaboko ’abakori amabe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.4",
+            "verseOrgIds": [
+              "PSA.82.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 82:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo tibamanyeti gento, tibari nobong’aini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.5",
+            "verseOrgIds": [
+              "PSA.82.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bagotaara bakona‐kouna‐una ime ase omosunte;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.5",
+            "verseOrgIds": [
+              "PSA.82.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "amaroso ’ense anyegerigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.5",
+            "verseOrgIds": [
+              "PSA.82.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 82:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Natebiire ng’a: “Inwe nechinyasae;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.6",
+            "verseOrgIds": [
+              "PSA.82.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "inwe mwensi nabana b’Omonene Ore Igoro Mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.6",
+            "verseOrgIds": [
+              "PSA.82.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 82:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende nigo morakwe buna Mwanyabaanto bande,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.7",
+            "verseOrgIds": [
+              "PSA.82.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na obogima bwaino boere buna obw’abanene b’ense.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.7",
+            "verseOrgIds": [
+              "PSA.82.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 82:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Nyasae, imoka, ogambie ense ekiina,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.8",
+            "verseOrgIds": [
+              "PSA.82.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekiagera abanto b’ebisaku bionsi nabao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.82.8",
+            "verseOrgIds": [
+              "PSA.82.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.83",
+    "number": "83",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.81",
+    "number": "81",
+    "bookId": "PSA"
+  }
+}

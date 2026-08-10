@@ -1,0 +1,494 @@
+{
+  "id": "TIT.1",
+  "number": "1",
+  "bookId": "TIT",
+  "reference": "Tito 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "TIT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche Paulo nomosomba o Nyasae, na omotomwa o Yeso Kristo. Inche nigo narangeretigwe naboigo gotomwa ogokonya okwegena kw’abachoore ba Nyasae, erinde baike ase ayare ay’ekeene, ayio akworokererigwa ase okwegena gwaito,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.1",
+            "verseOrgIds": [
+              "TIT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekio keigekire ase ogosemeria kw’obogima bwa kare na kare. Obogima obo Nyasae ariete eira korwa kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.2",
+            "verseOrgIds": [
+              "TIT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ekero engaki yaye yaigete akabomaanora ase ring’ana riaye, eri inche negenirwe korandia ase ogochika kwa Nyasae, Omotooria oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.3",
+            "verseOrgIds": [
+              "TIT.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngokoriikera nde aye Tito, omwana one bori ase okwegena tosangete naye:",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Obuya na omorembe bikorwa ase Nyasae Tata, na ase Kristo Yeso, Omotooria oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.4",
+            "verseOrgIds": [
+              "TIT.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Emeremo ya Tito aria Kirete",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkagotiga Kirete, erinde oroisie aria aganetie gokorwa erio ochore abagaaka ime ase kera omochie. Inyora buna nagochigeete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.5",
+            "verseOrgIds": [
+              "TIT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omogaka goika abe omoikeranu; abe ore n’omokuungu oyomo, na ore nabana begenete, batari gosoerwa ng’a nabanyaka bare, gose abatari koigwera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.6",
+            "verseOrgIds": [
+              "TIT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engencho omotang’ani bw’ekanisa agotenera ebire ebia Nyasae, ere abe omoikeranu. Ere taaba omonto omoenenu, gose omwango bw’okobea, gose oy’ogotinda, gose omonto bwanchete goaka abanto, gose rinyandambe ase okonyora chitaabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.7",
+            "verseOrgIds": [
+              "TIT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende abe omooroisia abageni, oyobwanchete amaya, oyobwerendete ase onsi, omooronge, omochenu, na oy’omanyete kweriita ase onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.8",
+            "verseOrgIds": [
+              "TIT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nigo emogwenerete abwate ring’ana ri’ekeene buna riorokereretigwe, erinde anyare koremia abanto ase okworokereria gw’ekeene, na korongeyia abakoengererania nario.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.9",
+            "verseOrgIds": [
+              "TIT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki mbare abange, mono korwa ase Abayahudi baria baonchokire batari koigwera, abagokwana amang’ana atari nengeencho, abakong’aina abande ase ayio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.10",
+            "verseOrgIds": [
+              "TIT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo mbagwenerete bakirigwe, ekiagera nkoonchorana bare abanto b’echinyomba chingima ase okworokereria aya’atagwenereti, naende ase obosooku, barabwo nigo bakorigia kwenyorera chitaabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.11",
+            "verseOrgIds": [
+              "TIT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oyomo obo Omokirete, omobani obo abanyene, oteebire, “Abanto ba Kirete nabanyaborimo botambe, ne ching’iti chintindi chi’orosana, abaribobe aboro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.12",
+            "verseOrgIds": [
+              "TIT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo nekogwenerete kobatogonyera bokong’u erio batware okwegena kore buya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.13",
+            "verseOrgIds": [
+              "TIT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende totwara ribaga ri’ogotegerera emegano y’Abayahudi, gose amachiiko y’abanto abwo bakwanga ekeene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.14",
+            "verseOrgIds": [
+              "TIT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebinto bionsi nebichenu ase abwo bare abachenu, korende tikeri ekere egechenu ase abwo batachenegeti na abategeneti, ekiagera ebirengererio biabo na okomanya gwe chinkoro chiabo ime biabeire ebitachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.15",
+            "verseOrgIds": [
+              "TIT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "TIT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo nigo bagoteeba ng’a mbamomanyete Nyasae, korende ase ogokora kwabo bagekaana. Nigo bare abokogeechia, abatari koigwera, na ase ayio tibakonyaara gokora ogokora konde gwonsi okuya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.1.16",
+            "verseOrgIds": [
+              "TIT.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.2",
+    "number": "2",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.intro",
+    "number": "intro",
+    "bookId": "TIT"
+  }
+}

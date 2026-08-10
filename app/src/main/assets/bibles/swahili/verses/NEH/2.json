@@ -1,0 +1,721 @@
+{
+  "id": "NEH.2",
+  "number": "2",
+  "bookId": "NEH",
+  "reference": "Nehemia 2",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "NEH 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Artashasta Amtuma Nehemia Yerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mwezi wa Nisani",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.1",
+            "verseOrgIds": [
+              "NEH.2.1"
+            ]
+          }
+        },
+        {
+          "text": "mwaka wa ishirini wa utawala wa Mfalme Artashasta, wakati divai ilipoletwa kwake, niliichukua na kumpa mfalme. Sikuwahi kuonekana mwenye huzuni mbele yake kabla ya hapo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.1",
+            "verseOrgIds": [
+              "NEH.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi mfalme akaniuliza, \"Kwa nini uso wako unaonekana una huzuni wakati wewe si mgonjwa? Jambo hili si kitu kingine bali ni huzuni ya moyo.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.2",
+            "verseOrgIds": [
+              "NEH.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "NEH 2:2"
+      },
+      "items": [
+        {
+          "text": "Niliogopa sana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.2",
+            "verseOrgIds": [
+              "NEH.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lakini nikamwambia mfalme, \"Mfalme na aishi milele! Kwa nini uso wangu usiwe na huzuni wakati mji walipozikwa baba zangu umebaki magofu, na malango yake yameteketezwa kwa moto?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.3",
+            "verseOrgIds": [
+              "NEH.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme akaniambia, \"Je, haja yako ni gani?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.4",
+            "verseOrgIds": [
+              "NEH.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "NEH 2:4"
+      },
+      "items": [
+        {
+          "text": "Ndipo nikaomba kwa Mungu wa mbinguni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.4",
+            "verseOrgIds": [
+              "NEH.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na nikamjibu mfalme, \"Kama ikimpendeza mfalme, na kama mtumishi wako amepata kibali machoni pake, anitume kule mji wa Yuda, mahali baba zangu walipozikwa, ili niweze kuujenga upya.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.5",
+            "verseOrgIds": [
+              "NEH.2.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha mfalme, na malkia akiwa ameketi karibu naye, akaniuliza, \"Safari yako itachukua muda gani, nawe utarudi lini?\" Ilimpendeza mfalme kunituma, kwa hiyo nikapanga muda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.6",
+            "verseOrgIds": [
+              "NEH.2.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pia nikamwambia, \"Kama ikimpendeza mfalme, naomba nipewe barua kwa watawala wa Ngʼambo ya Frati, ili wanipe ulinzi mpaka nifike Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.7",
+            "verseOrgIds": [
+              "NEH.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naomba nipewe barua nipeleke kwa Asafu, mtunzaji wa msitu wa mfalme, ili anipe miti ya kutengeneza boriti kwa ajili ya malango ya ngome ya Hekalu, na ukuta wa mji, na makao yangu nitakapoishi.\" Kwa kuwa mkono wenye neema wa Mungu wangu ulikuwa juu yangu, mfalme akanijalia ombi langu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.8",
+            "verseOrgIds": [
+              "NEH.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi nilienda kwa watawala wa Ngʼambo ya Frati na kuwapa barua za mfalme. Pia mfalme alikuwa ametuma maafisa wa jeshi na askari wapanda farasi pamoja nami.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.9",
+            "verseOrgIds": [
+              "NEH.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sanbalati Mhoroni na Tobia afisa Mwamoni waliposikia juu ya jambo hili, waliudhika sana kwamba amekuja mtu kuinua ustawi wa Waisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.10",
+            "verseOrgIds": [
+              "NEH.2.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Nehemia Akagua Kuta Za Yerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nilienda Yerusalemu, na baada ya kukaa huko siku tatu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.11",
+            "verseOrgIds": [
+              "NEH.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nikaondoka wakati wa usiku pamoja na watu wachache. Sikuwa nimemwambia mtu yeyote kile ambacho Mungu wangu alikuwa ameweka moyoni mwangu kufanya kwa ajili ya Yerusalemu. Hapakuwepo na mnyama yeyote pamoja nami isipokuwa yule niliyekuwa nimempanda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.12",
+            "verseOrgIds": [
+              "NEH.2.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikatoka nje usiku kupitia Lango la Bondeni, kuelekea Kisima cha Joka na Lango la Samadi, nikikagua kuta za Yerusalemu zilizokuwa zimebomolewa, na malango yake yaliyokuwa yameteketezwa kwa moto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.13",
+            "verseOrgIds": [
+              "NEH.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha nikaelekea mpaka Lango la Chemchemi na Bwawa la Mfalme, lakini hapakuwepo nafasi ya kutosha kwa ajili ya mnyama wangu kupita,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.14",
+            "verseOrgIds": [
+              "NEH.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa hiyo nikapandia bondeni usiku nikikagua ukuta. Mwishoni nikarudi na kuingia tena kupitia Lango la Bondeni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.15",
+            "verseOrgIds": [
+              "NEH.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maafisa hawakujua nilikokwenda wala nilichokuwa nikifanya, kwa sababu mpaka sasa nilikuwa bado sijasema lolote kwa Wayahudi, wala makuhani, wala wakuu, wala maafisa, wala mtu yeyote ambaye angefanya kazi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.16",
+            "verseOrgIds": [
+              "NEH.2.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo nilipowaambia, \"Mnaona taabu tuliyo nayo: Yerusalemu imebaki magofu na malango yake yameteketezwa kwa moto. Njooni tujenge upya ukuta wa Yerusalemu, nasi hatutakuwa tena katika aibu hii.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.17",
+            "verseOrgIds": [
+              "NEH.2.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pia niliwaambia kuhusu mkono wenye neema wa Mungu wangu uliokuwa juu yangu, na kile mfalme alichokuwa ameniambia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.18",
+            "verseOrgIds": [
+              "NEH.2.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "NEH 2:18"
+      },
+      "items": [
+        {
+          "text": "Wakajibu, \"Haya! Tuanze kujenga tena.\" Kwa hiyo wakaanza kazi hii njema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.18",
+            "verseOrgIds": [
+              "NEH.2.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Sanbalati Mhoroni, Tobia afisa Mwamoni, na Geshemu Mwarabu waliposikia kuhusu jambo hili, walitudhihaki na kutucheka. Wakauliza, \"Ni nini hiki mnachokifanya? Je, mnaasi dhidi ya mfalme?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.19",
+            "verseOrgIds": [
+              "NEH.2.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikawajibu kwa kusema, \"Mungu wa mbinguni atatufanikisha. Sisi watumishi wake tutaanza kujenga upya, lakini kwenu ninyi, hamna sehemu wala dai lolote wala kumbukumbu la haki katika Yerusalemu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.2.20",
+            "verseOrgIds": [
+              "NEH.2.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.3",
+    "number": "3",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.1",
+    "number": "1",
+    "bookId": "NEH"
+  }
+}

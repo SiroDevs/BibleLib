@@ -1,0 +1,753 @@
+{
+  "id": "2SA.1",
+  "number": "1",
+  "bookId": "2SA",
+  "reference": "2 Samũeli 1",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "2SA 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Daudi Kwĩrwo Ũhoro wa Gĩkuũ gĩa Saũlũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, thuutha wa gĩkuũ gĩa Saũlũ, Daudi agĩkorwo aacooka kuuma kũhoota Aamaleki na agĩikara kũu Zikilagi mĩthenya ĩĩrĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.1",
+            "verseOrgIds": [
+              "2SA.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya wa ĩtatũ-rĩ, hagĩũka mũndũ oimĩte kambĩ-inĩ ya Saũlũ, arĩ na nguo ndembũkangu na rũkũngũ mũtwe. Hĩndĩ ĩrĩa aakinyire harĩ Daudi, akĩĩgũithia thĩ nĩguo amũhe gĩtĩĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.2",
+            "verseOrgIds": [
+              "2SA.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akĩmũũria atĩrĩ, “Wee uumĩte kũ?” Nake akĩmũcookeria atĩrĩ, “Nĩ kũũra njũrĩte, ngoima kambĩ-inĩ ya andũ a Isiraeli.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.3",
+            "verseOrgIds": [
+              "2SA.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akĩmũũria atĩrĩ, “Kaĩ gwĩkĩkĩte atĩa? Ta njĩĩra.” Nake akĩmwĩra atĩrĩ, “Andũ nĩmorĩte makoima mbaara-inĩ. Na andũ aingĩ nĩmooragĩtwo. Nake Saũlũ na mũriũ Jonathani nĩmakuĩte.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.4",
+            "verseOrgIds": [
+              "2SA.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Daudi akĩũria mwanake ũcio wamũreheire ũhoro ũcio atĩrĩ, “Ũmenyete atĩa atĩ Saũlũ na mũriũ Jonathani nĩmakuĩte?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.5",
+            "verseOrgIds": [
+              "2SA.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanake ũcio akĩmũcookeria atĩrĩ, “Ndĩrakorirwo ndĩ hau kĩrĩma-inĩ kĩa Giliboa, na hau nĩho ndĩronire Saũlũ, etiranĩtie na itimũ rĩake, akiriĩ gũkorererwo nĩ ngaari cia ita na ahaici a mbarathi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.6",
+            "verseOrgIds": [
+              "2SA.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa eehũgũrire, akĩnyona, na akĩnjĩta, na niĩ ngĩmũũria atĩrĩ, ‘Ũngĩenda ngwĩkĩre atĩa?’",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.7",
+            "verseOrgIds": [
+              "2SA.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nake akĩnjũũria atĩrĩ, ‘Wee ũrĩ ũ?’ “Ngĩmũcookeria atĩrĩ, ‘Niĩ ndĩ Mũamaleki.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.8",
+            "verseOrgIds": [
+              "2SA.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ningĩ akĩnjĩĩra atĩrĩ, ‘Ũka haha ũnjũrage! Niĩ ndĩ na ruo rũnene mũno rwa gĩkuũ, no ndĩ o muoyo.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.9",
+            "verseOrgIds": [
+              "2SA.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio ngĩthiĩ harĩ we, ngĩmũũraga, tondũ nĩndamenyire atĩ arĩkĩtie kũgũa ndekũhona. Ngĩruta thũmbĩ ĩrĩa yarĩ mũtwe wake, na mũrĩnga ũrĩa warĩ guoko gwake, na nĩcio indo iria ndarehera mwathi wakwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.10",
+            "verseOrgIds": [
+              "2SA.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Daudi na andũ othe arĩa maarĩ nake makĩnyiita nguo ciao, magĩcitembũranga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.11",
+            "verseOrgIds": [
+              "2SA.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao magĩcakaya, na makĩrĩra, o na makĩĩhinga kũrĩa irio nginya hwaĩ-inĩ, nĩ ũndũ wa Saũlũ na mũriũ Jonathani, o na nĩ ũndũ wa mbũtũ cia ita cia Jehova, na nyũmba ya Isiraeli, tondũ nĩmooragĩtwo na rũhiũ rwa njora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.12",
+            "verseOrgIds": [
+              "2SA.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akĩũria mwanake ũcio wamũreheire ũhoro atĩrĩ, “Wee uumĩte kũ?” Nake agĩcookia atĩrĩ, “Niĩ ndĩ mũriũ wa mũndũ wa kũngĩ, Mũamaleki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.13",
+            "verseOrgIds": [
+              "2SA.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akĩmũũria atĩrĩ, “Nĩ kĩĩ kĩragiririe wĩtigĩre gũtambũrũkia guoko gwaku ũũrage mũitĩrĩrie maguta wa Jehova?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.14",
+            "verseOrgIds": [
+              "2SA.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Daudi agĩĩta ũmwe wa andũ ake, akĩmwĩra atĩrĩ, “Thiĩ, ũmũũrage!” Nake akĩmũringa, agĩkua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.15",
+            "verseOrgIds": [
+              "2SA.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo Daudi aamwĩĩrire atĩrĩ, “Thakame yaku ĩrogũcookerera. Kanua gaku we mwene nĩko kaaruta ũira wa gũgũũkĩrĩra, rĩrĩa uugire atĩrĩ, ‘Nĩndĩrooragire mũitĩrĩrie maguta wa Jehova.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.16",
+            "verseOrgIds": [
+              "2SA.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Daudi Gũcakaĩra Saũlũ na Jonathani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2SA 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Daudi agĩcakaĩra Saũlũ na mũriũ Jonathani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.17",
+            "verseOrgIds": [
+              "2SA.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2SA 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na agĩathana atĩ andũ a Juda marutwo icakaya rĩĩrĩ rĩĩtagwo rwĩmbo rwa ũta (narĩo rĩandĩkĩtwo Ibuku-inĩ rĩa Jasharu):",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.18",
+            "verseOrgIds": [
+              "2SA.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2SA 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Wee Isiraeli, riiri waku ũũragĩtwo irĩma-inĩ ciaku. Hĩ, kaĩ andũ arĩa njamba nĩmagwĩte-ĩ!",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.19",
+            "verseOrgIds": [
+              "2SA.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2SA 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũhoro ũyũ ndũkaheanwo Gathu, o na ndũkanĩrĩrwo njĩra-inĩ cia Ashikeloni,nĩguo airĩtu a Afilisti matigacanjamũke, na nĩguo airĩtu a andũ acio mataruaga matigakene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.20",
+            "verseOrgIds": [
+              "2SA.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2SA 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Atĩrĩrĩ, inyuĩ irĩma cia Giliboa, mũroaga kũgĩa na ime kana mbura, o na kana mĩgũnda ĩngĩciara ngano ya kũrutwo igongona. Nĩgũkorwo kũu nĩkuo ngo ya mũndũ ũrĩa njamba yathaahĩirio, ngo ĩyo ya Saũlũ ndĩkahuurwo na maguta rĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.21",
+            "verseOrgIds": [
+              "2SA.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2SA 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma kũrĩ thakame ya arĩa moragĩtwo, na kuuma kũrĩ mĩĩrĩ ya andũ acio njamba, ũta wa Jonathani ndũrĩ wahũndũka tũhũ, kana rũhiũ rwa njora rwa Saũlũ rũkahũndũka ũtheri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.22",
+            "verseOrgIds": [
+              "2SA.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2SA 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Saũlũ na Jonathani, marĩ muoyo nĩmendetwo na maarĩ andũ ega, o na gĩkuũ-inĩ matiatiganire. Maahanyũkaga gũkĩra nderi, maarĩ hinya gũkĩra mĩrũũthi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.23",
+            "verseOrgIds": [
+              "2SA.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "2SA 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inyuĩ airĩtu a Isiraeli, rĩrĩrai Saũlũ, ũrĩa wamũhumbaga nguo ndune ta gakarakũ na ikagemio, nĩwe wagemagia nguo cianyu na indo cia thahabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.24",
+            "verseOrgIds": [
+              "2SA.1.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "2SA 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Hĩ, kaĩ andũ arĩa njamba nĩmagwĩrĩire mbaara-inĩ-ĩ! Jonathani nĩmũkuũ, akooragĩrwo irĩma-inĩ ciaku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.25",
+            "verseOrgIds": [
+              "2SA.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "2SA 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ ndĩ na kĩeha nĩ ũndũ waku Jonathani, wee mũrũ wa baba; niĩ nĩndĩrakwendete mũno. Wendo waku kũrĩ niĩ ũraarĩ wa magegania, Nĩ wa kũgegania ũgakĩra wendo wa andũ-a-nja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.26",
+            "verseOrgIds": [
+              "2SA.1.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "2SA 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Hĩ, kaĩ andũ arĩa njamba nĩmagwĩte-ĩ! Indo cia mbaara nĩithirĩte!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.1.27",
+            "verseOrgIds": [
+              "2SA.1.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.2",
+    "number": "2",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.intro",
+    "number": "intro",
+    "bookId": "2SA"
+  }
+}

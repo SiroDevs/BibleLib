@@ -1,0 +1,2119 @@
+{
+  "id": "MRK.1",
+  "number": "1",
+  "bookId": "MRK",
+  "reference": "Marko 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 45,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MRK 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mahubiri Ya Yohana Mbatizaji",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.3.1-MAT.3.12"
+          },
+          "items": [
+            {
+              "text": "Mathayo 3:1-12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.3.1-LUK.3.8"
+          },
+          "items": [
+            {
+              "text": "Luka 3:1-8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "JHN.1.19-JHN.1.28"
+          },
+          "items": [
+            {
+              "text": "Yohana 1:19-28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MRK 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanzo wa Injili ya Yesu Kristo, Mwana wa Mungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.1",
+            "verseOrgIds": [
+              "MRK.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MRK 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama ilivyoandikwa katika kitabu cha nabii Isaya:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MRK 1:2"
+      },
+      "items": [
+        {
+          "text": "\"Tazama, nitamtuma mjumbe wangu mbele yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MRK 1:2"
+      },
+      "items": [
+        {
+          "text": "atakayetengeneza njia mbele yako\":",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.2",
+            "verseOrgIds": [
+              "MRK.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MRK 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"sauti ya mtu aliaye nyikani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.3",
+            "verseOrgIds": [
+              "MRK.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MRK 1:3"
+      },
+      "items": [
+        {
+          "text": "'Itengenezeni njia ya Bwana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.3",
+            "verseOrgIds": [
+              "MRK.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MRK 1:3"
+      },
+      "items": [
+        {
+          "text": "yanyoosheni mapito yake.' \"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.3",
+            "verseOrgIds": [
+              "MRK.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MRK 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohana alikuja, akibatiza huko nyikani, akihubiri ubatizo wa toba kwa ajili ya msamaha wa dhambi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.4",
+            "verseOrgIds": [
+              "MRK.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MRK 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu kutoka Uyahudi wote na sehemu zote za Yerusalemu walikuwa wakimwendea. Nao wakaziungama dhambi zao, akawabatiza katika Mto Yordani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.5",
+            "verseOrgIds": [
+              "MRK.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MRK 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yohana alivaa mavazi yaliyotengenezwa kwa singa za ngamia na mkanda wa ngozi kiunoni mwake. Chakula chake kilikuwa nzige na asali ya mwitu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.6",
+            "verseOrgIds": [
+              "MRK.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MRK 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naye alihubiri akisema, \"Baada yangu atakuja yeye aliye na uwezo kuniliko mimi, ambaye sistahili hata kuinama na kulegeza kamba za viatu vyake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.7",
+            "verseOrgIds": [
+              "MRK.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MRK 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mimi nawabatiza kwa maji, lakini yeye atawabatiza kwa Roho Mtakatifu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.8",
+            "verseOrgIds": [
+              "MRK.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ubatizo Wa Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.3.13-MAT.3.17"
+          },
+          "items": [
+            {
+              "text": "Mathayo 3:13-17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.3.21-LUK.3.22"
+          },
+          "items": [
+            {
+              "text": "Luka 3:21-22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MRK 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo Yesu akaja kutoka Nazareti ya Galilaya, naye akabatizwa na Yohana katika Mto Yordani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.9",
+            "verseOrgIds": [
+              "MRK.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MRK 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akitoka ndani ya maji, aliona mbingu zikifunguka na Roho akishuka juu yake kama hua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.10",
+            "verseOrgIds": [
+              "MRK.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MRK 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nayo sauti kutoka mbinguni ikasema, \"Wewe ni Mwanangu mpendwa; nami nimependezwa nawe sana.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.11",
+            "verseOrgIds": [
+              "MRK.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Majaribu Ya Yesu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.4.1-MAT.4.11"
+          },
+          "items": [
+            {
+              "text": "Mathayo 4:1-11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.1-LUK.4.13"
+          },
+          "items": [
+            {
+              "text": "Luka 4:1-13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MRK 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo, Roho akamwongoza Yesu kwenda nyikani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.12",
+            "verseOrgIds": [
+              "MRK.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MRK 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naye akawa huko nyikani kwa muda wa siku arobaini, akijaribiwa na Shetani. Alikaa na wanyama wa mwituni, nao malaika wakamhudumia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.13",
+            "verseOrgIds": [
+              "MRK.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Aanza Kuhubiri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MRK 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya Yohana kukamatwa na kutiwa gerezani, Yesu aliingia Galilaya akaanza kuhubiri habari njema ya Mungu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.14",
+            "verseOrgIds": [
+              "MRK.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MRK 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akisema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.15",
+            "verseOrgIds": [
+              "MRK.1.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Wakati umewadia, Ufalme wa Mungu umekaribia. Tubuni na kuiamini Habari Njema.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.15",
+                "verseOrgIds": [
+                  "MRK.1.15"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Awaita Wanafunzi Wanne",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.4.12-MAT.4.22"
+          },
+          "items": [
+            {
+              "text": "Mathayo 4:12-22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.14-LUK.4.15"
+          },
+          "items": [
+            {
+              "text": "Luka 4:14-15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.5.1-LUK.5.11"
+          },
+          "items": [
+            {
+              "text": "5:1-11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MRK 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akitembea kando ya Bahari ya Galilaya, aliwaona Simoni na Andrea nduguye wakizitupa nyavu zao baharini, kwa kuwa wao walikuwa wavuvi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.16",
+            "verseOrgIds": [
+              "MRK.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MRK 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akawaambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Njooni, nifuateni nami nitawafanya mwe wavuvi wa watu.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.17",
+                "verseOrgIds": [
+                  "MRK.1.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.17",
+            "verseOrgIds": [
+              "MRK.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MRK 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mara wakaacha nyavu zao, wakamfuata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.18",
+            "verseOrgIds": [
+              "MRK.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MRK 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipokwenda mbele kidogo, akamwona Yakobo mwana wa Zebedayo na Yohana nduguye, wakiwa kwenye mashua yao wakizitengeneza nyavu zao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.19",
+            "verseOrgIds": [
+              "MRK.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MRK 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Papo hapo akawaita, nao wakamwacha Zebedayo baba yao kwenye mashua pamoja na watumishi wa kuajiriwa, nao wakamfuata Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.20",
+            "verseOrgIds": [
+              "MRK.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amtoa Pepo Mchafu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.31-LUK.4.37"
+          },
+          "items": [
+            {
+              "text": "Luka 4:31-37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MRK 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakaenda mpaka Kapernaumu. Ilipofika siku ya Sabato, mara Yesu akaingia sinagogi, akaanza kufundisha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.21",
+            "verseOrgIds": [
+              "MRK.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MRK 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu wakashangaa sana kwa mafundisho yake, kwa maana aliwafundisha kama yeye aliye na mamlaka, wala si kama walimu wa sheria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.22",
+            "verseOrgIds": [
+              "MRK.1.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MRK 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo katika sinagogi lao palikuwa na mtu aliyekuwa amepagawa na pepo mchafu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.23",
+            "verseOrgIds": [
+              "MRK.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MRK 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naye akapiga kelele akisema, \"Tuna nini nawe, Yesu wa Nazareti? Je, umekuja kutuangamiza? Ninakujua wewe ni nani. Wewe ndiwe Aliye Mtakatifu wa Mungu!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.24",
+            "verseOrgIds": [
+              "MRK.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MRK 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Yesu akamkemea, akamwambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Nyamaza kimya! Nawe umtoke!\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.25",
+                "verseOrgIds": [
+                  "MRK.1.25"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.25",
+            "verseOrgIds": [
+              "MRK.1.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MRK 1:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yule pepo mchafu akamtikisatikisa huyo mtu kwa nguvu, kisha akamtoka akipiga kelele kwa sauti kubwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.26",
+            "verseOrgIds": [
+              "MRK.1.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MRK 1:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu wote wakashangaa, hata wakaulizana wao kwa wao, \"Haya ni mambo gani? Ni mafundisho mapya, tena yenye mamlaka! Anaamuru hata pepo wachafu, nao wanamtii!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.27",
+            "verseOrgIds": [
+              "MRK.1.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MRK 1:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sifa zake zikaanza kuenea haraka katika eneo lote la karibu na Galilaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.28",
+            "verseOrgIds": [
+              "MRK.1.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amponya Mama Mkwe Wa Simoni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.8.14-MAT.8.15"
+          },
+          "items": [
+            {
+              "text": "Mathayo 8:14-15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.38-LUK.4.39"
+          },
+          "items": [
+            {
+              "text": "Luka 4:38-39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MRK 1:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mara walipotoka katika sinagogi, walikwenda pamoja na Yakobo na Yohana hadi nyumbani kwa Simoni na Andrea.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.29",
+            "verseOrgIds": [
+              "MRK.1.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MRK 1:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mama mkwe wa Simoni alikuwa kitandani, ana homa, nao wakamweleza Yesu habari zake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.30",
+            "verseOrgIds": [
+              "MRK.1.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MRK 1:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Yesu akamwendea, akamshika mkono na kumwinua. Kisha homa ikamwacha, naye akaanza kuwahudumia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.31",
+            "verseOrgIds": [
+              "MRK.1.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Aponya Wengi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.8.16-MAT.8.17"
+          },
+          "items": [
+            {
+              "text": "Mathayo 8:16-17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.40-LUK.4.41"
+          },
+          "items": [
+            {
+              "text": "Luka 4:40-41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MRK 1:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jioni ile baada ya jua kutua, watu wakamletea Yesu wagonjwa wote na waliopagawa na pepo wachafu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.32",
+            "verseOrgIds": [
+              "MRK.1.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MRK 1:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mji wote ukakusanyika mbele ya nyumba hiyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.33",
+            "verseOrgIds": [
+              "MRK.1.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MRK 1:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akawaponya watu wengi waliokuwa na magonjwa ya aina mbalimbali. Akawatoa pepo wachafu wengi, lakini hakuwaacha hao pepo wachafu waseme, kwa sababu walimjua yeye ni nani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.34",
+            "verseOrgIds": [
+              "MRK.1.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Aenda Galilaya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.4.42-LUK.4.44"
+          },
+          "items": [
+            {
+              "text": "Luka 4:42-44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MRK 1:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alfajiri na mapema sana kulipokuwa bado kuna giza, Yesu akaamka, akaondoka, akaenda mahali pa faragha ili kuomba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.35",
+            "verseOrgIds": [
+              "MRK.1.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MRK 1:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simoni na wenzake wakaenda kumtafuta,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.36",
+            "verseOrgIds": [
+              "MRK.1.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MRK 1:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nao walipomwona, wakamwambia, \"Kila mtu anakutafuta!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.37",
+            "verseOrgIds": [
+              "MRK.1.37"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MRK 1:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akawajibu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Twendeni mahali pengine kwenye vijiji jirani, ili niweze kuhubiri huko pia, kwa sababu hicho ndicho nilichokuja kukifanya.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.38",
+                "verseOrgIds": [
+                  "MRK.1.38"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.38",
+            "verseOrgIds": [
+              "MRK.1.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MRK 1:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo akazunguka Galilaya kote, akihubiri katika masinagogi yao na kutoa pepo wachafu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.39",
+            "verseOrgIds": [
+              "MRK.1.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amtakasa Mwenye Ukoma",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MAT.8.1-MAT.8.4"
+          },
+          "items": [
+            {
+              "text": "Mathayo 8:1-4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.5.12-LUK.5.16"
+          },
+          "items": [
+            {
+              "text": "Luka 5:12-16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MRK 1:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mtu mmoja mwenye ukoma alimjia Yesu, akamwomba akipiga magoti, akamwambia, \"Ukitaka, waweza kunitakasa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.40",
+            "verseOrgIds": [
+              "MRK.1.40"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MRK 1:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu, akiwa amejawa na huruma, akanyoosha mkono wake akamgusa, akamwambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Nataka. Takasika!\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.41",
+                "verseOrgIds": [
+                  "MRK.1.41"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.41",
+            "verseOrgIds": [
+              "MRK.1.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MRK 1:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mara ukoma ukamtoka, naye akatakasika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.42",
+            "verseOrgIds": [
+              "MRK.1.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "MRK 1:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya Yesu kumwonya vikali, akamruhusu aende zake",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.43",
+            "verseOrgIds": [
+              "MRK.1.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "MRK 1:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akimwambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Hakikisha humwambii mtu yeyote habari hizi, bali nenda ukajionyeshe kwa kuhani, na ukatoe sadaka alizoagiza Mose kwa utakaso wako, ili kuwa ushuhuda kwao.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MRK.1.44",
+                "verseOrgIds": [
+                  "MRK.1.44"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.44",
+            "verseOrgIds": [
+              "MRK.1.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "MRK 1:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini yule mtu akaenda akaanza kutangaza habari za kuponywa kwake waziwazi. Kwa hiyo, Yesu hakuweza tena kuingia katika miji waziwazi lakini alikaa sehemu zisizo na watu. Hata hivyo watu wakamfuata huko kutoka kila upande.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MRK.1.45",
+            "verseOrgIds": [
+              "MRK.1.45"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.2",
+    "number": "2",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MRK.intro",
+    "number": "intro",
+    "bookId": "MRK"
+  }
+}

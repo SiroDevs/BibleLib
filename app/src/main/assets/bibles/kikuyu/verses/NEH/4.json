@@ -1,0 +1,631 @@
+{
+  "id": "NEH.4",
+  "number": "4",
+  "bookId": "NEH",
+  "reference": "Nehemia 4",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "NEH 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũgirio Gwaka Rũthingo Rĩngĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Sanibalati aaiguire atĩ nĩtwakaga rũthingo rĩngĩ, akĩrakara na agĩthirĩka mũno. Agĩthekerera Ayahudi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.1",
+            "verseOrgIds": [
+              "NEH.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na arĩ mbere ya athiritũ ake na mbũtũ cia ita cia Samaria, akiuga atĩrĩ, “Ayahudi aya ahinyaru-rĩ, nĩ kĩĩ mareka? Nĩmegũcookereria rũthingo rwao? Nĩmekũruta magongona? Nĩmekũrĩkia wĩra ũyũ na mũthenya ũmwe? Maahota gũtũma mahiga macooke muoyo kuuma hĩba-inĩ ici cia mahuti maya mahĩĩte ũũ wothe?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.2",
+            "verseOrgIds": [
+              "NEH.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tobia ũrĩa Mũamoni, ũrĩa warĩ mwena wake, akiuga atĩrĩ, “Rũthingo rũu rwa mahiga maraaka-rĩ, o na mbwe ĩngĩrũhaica no ĩrũmomore!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.3",
+            "verseOrgIds": [
+              "NEH.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, Wee Ngai witũ tũthikĩrĩrie, tondũ tũrĩ andũ anyarare. Garũra irumi icio ciao imacookerere. Maneane ta matahĩtwo bũrũri-inĩ wa ũkombo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.4",
+            "verseOrgIds": [
+              "NEH.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndũkahithĩrĩre mahĩtia mao kana weherie mehia mao kuuma ũthiũ-inĩ waku, nĩgũkorwo nĩmarumĩte andũ arĩa maraaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.5",
+            "verseOrgIds": [
+              "NEH.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio tũgĩaka rũthingo rũu rĩngĩ o nginya ruothe rũgĩkinya nuthu ya ũraihu waruo, nĩgũkorwo andũ acio maarutire wĩra na ngoro cia kwĩyendera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.6",
+            "verseOrgIds": [
+              "NEH.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No hĩndĩ ĩrĩa Sanibalati, na Tobia, na Aarabu, na Aamoni, na andũ a Ashidodi maiguire atĩ thingo cia Jerusalemu nĩciathiiaga na mbere gũcookererio na atĩ mĩanya nĩyathingagwo-rĩ, makĩrakara mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.7",
+            "verseOrgIds": [
+              "NEH.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magĩthiĩ ndundu marĩ othe, magĩciira ũrĩa megũka mahũũrane na Jerusalemu, na mambĩrĩrie ngũĩ kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.8",
+            "verseOrgIds": [
+              "NEH.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nĩtwahooire Ngai witũ na tũkĩiga arangĩri a gũtũgitĩra mũthenya na ũtukũ nĩ ũndũ nĩtwehĩtĩirwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.9",
+            "verseOrgIds": [
+              "NEH.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ihinda rĩu, andũ a Juda makiuga atĩrĩ, “Aruti a wĩra nĩmaroorwo nĩ hinya, na nĩ kũrĩ na mahuti maingĩ mũno matangĩreka twake rũthingo rũu rĩngĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.10",
+            "verseOrgIds": [
+              "NEH.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O nacio thũ ciitũ ikiuga atĩrĩ, “Mũira wa mamenye ũhoro kana matuone, tũgũkorwo hamwe nao, tũmoorage na tũtũme wĩra ũcio ũtige kũrutwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.11",
+            "verseOrgIds": [
+              "NEH.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo Ayahudi arĩa maatũũraga hakuhĩ na thũ icio magĩũka, magĩtwĩra maita ikũmi atĩrĩ, “O kũrĩa mũngĩũrĩra-rĩ, nĩmegũtũtharĩkĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.12",
+            "verseOrgIds": [
+              "NEH.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ngĩiga andũ amwe na thuutha wa kũrĩa rũthingo rwarĩ thĩ mũno na gũtaarĩ na ũgitĩri; ngĩmaiga kũringana na nyũmba ciao marĩ na hiũ ciao cia njora, na matimũ, na mota.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.13",
+            "verseOrgIds": [
+              "NEH.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndaarĩkia kuona ũrĩa maũndũ maatariĩ, ngĩrũgama ngĩĩra andũ arĩa maarĩ igweta, na anene, na andũ arĩa angĩ atĩrĩ, “Mũtikametigĩre. Ririkanai Mwathani, o we ũrĩa mũnene na wa kũmakania, nĩguo mũrũĩrĩre ariũ a thoguo, na aanake anyu, na airĩtu anyu, na atumia anyu, o na mĩciĩ yanyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.14",
+            "verseOrgIds": [
+              "NEH.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa thũ ciitũ ciamenyire atĩ nĩtwamenyete ũhoro wa ndundu yao, na atĩ Ngai nĩarigĩrĩirie ũndũ ũcio, ithuothe tũgĩcooka rũthingo-inĩ, o mũndũ agĩthiĩ wĩra-inĩ wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.15",
+            "verseOrgIds": [
+              "NEH.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma mũthenya ũcio nuthu ya andũ akwa nĩo maarutaga wĩra nayo nuthu ĩyo ĩngĩ yao makĩheo matimũ, na ngo, na mota, o na nguo cia kĩgera. Anene nao makĩrũgama thuutha wa andũ othe a Juda",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.16",
+            "verseOrgIds": [
+              "NEH.4.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 4:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "arĩa maakaga rũthingo. Nao arĩa maakuuaga indo cia mwako maarutaga wĩra na guoko kũmwe, nakuo kũrĩa kũngĩ kũnyiitĩte kĩndũ kĩa mbaara,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.17",
+            "verseOrgIds": [
+              "NEH.4.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 4:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nake mwaki o wothe aikaraga eyohete rũhiũ rwake rwa njora njohero o akĩrutaga wĩra. No mũhuhi wa karumbeta aanjikaraga hakuhĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.18",
+            "verseOrgIds": [
+              "NEH.4.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 4:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ngĩĩra arĩa maarĩ igweta, na anene, na andũ arĩa angĩ atĩrĩ, “Wĩra nĩ mũingĩ mũno na ũgatambũrũka, na nĩtũraihanĩrĩirie mũno mũndũ na ũrĩa ũngĩ rũthingo-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.19",
+            "verseOrgIds": [
+              "NEH.4.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 4:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa rĩothe mũngĩigua karumbeta kaahuhwo, mũũke harĩa tũrĩ. Ngai witũ nĩwe ũgũtũrũĩrĩra!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.20",
+            "verseOrgIds": [
+              "NEH.4.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NEH 4:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio tũgĩthiĩ na mbere na kũruta wĩra, nuthu ya andũ ĩnyiitĩte matimũ kuuma rũciinĩ nginya njata cioneke hwaĩ-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.21",
+            "verseOrgIds": [
+              "NEH.4.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NEH 4:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ o ĩyo ngĩĩra andũ atĩrĩ, “Reke o mũndũ na mũteithia wake maikarage Jerusalemu thĩinĩ ũtukũ, nĩgeetha matũtungatagĩre ta arangĩri ũtukũ, na mũthenya makaruta wĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.22",
+            "verseOrgIds": [
+              "NEH.4.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NEH 4:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Niĩ mwene, kana ariũ a baba, kana andũ akwa, kana arangĩri arĩa maarĩ hamwe na niĩ gũtirĩ warutaga nguo; o mũndũ aakoragwo na indo ciake cia mbaara o na agĩthiĩ gũtaha maaĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.4.23",
+            "verseOrgIds": [
+              "NEH.4.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.5",
+    "number": "5",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.3",
+    "number": "3",
+    "bookId": "NEH"
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "id": "PSA.12",
+  "number": "12",
+  "bookId": "PSA",
+  "reference": "Psalm 12",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "PSA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. According to",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "sheminith.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Help,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.1",
+            "verseOrgIds": [
+              "PSA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.1",
+                "verseOrgIds": [
+                  "PSA.12.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", for no one is faithful anymore;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.1",
+            "verseOrgIds": [
+              "PSA.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:1"
+      },
+      "items": [
+        {
+          "text": "those who are loyal have vanished from the human race.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.1",
+            "verseOrgIds": [
+              "PSA.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Everyone lies to their neighbor;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:2"
+      },
+      "items": [
+        {
+          "text": "they flatter with their lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:2"
+      },
+      "items": [
+        {
+          "text": "but harbor deception in their hearts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.3",
+                "verseOrgIds": [
+                  "PSA.12.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "silence all flattering lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:3"
+      },
+      "items": [
+        {
+          "text": "and every boastful tongue—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "those who say,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:4"
+      },
+      "items": [
+        {
+          "text": "\"By our tongues we will prevail;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:4"
+      },
+      "items": [
+        {
+          "text": "our own lips will defend us—who is lord over us?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Because the poor are plundered and the needy groan,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:5"
+      },
+      "items": [
+        {
+          "text": "I will now arise,\" says the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.5",
+                "verseOrgIds": [
+                  "PSA.12.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:5"
+      },
+      "items": [
+        {
+          "text": "\"I will protect them from those who malign them.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the words of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.6",
+                "verseOrgIds": [
+                  "PSA.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "are flawless,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:6"
+      },
+      "items": [
+        {
+          "text": "like silver purified in a crucible,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:6"
+      },
+      "items": [
+        {
+          "text": "like gold",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        },
+        {
+          "text": "refined seven times.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.7",
+            "verseOrgIds": [
+              "PSA.12.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.7",
+                "verseOrgIds": [
+                  "PSA.12.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", will keep the needy safe",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.7",
+            "verseOrgIds": [
+              "PSA.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:7"
+      },
+      "items": [
+        {
+          "text": "and will protect us forever from the wicked,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.7",
+            "verseOrgIds": [
+              "PSA.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who freely strut about",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.8",
+            "verseOrgIds": [
+              "PSA.12.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 12:8"
+      },
+      "items": [
+        {
+          "text": "when what is vile is honored by the human race.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.8",
+            "verseOrgIds": [
+              "PSA.12.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.13",
+    "number": "13",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.11",
+    "number": "11",
+    "bookId": "PSA"
+  }
+}

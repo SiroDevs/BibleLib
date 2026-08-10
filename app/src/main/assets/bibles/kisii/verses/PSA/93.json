@@ -1,0 +1,370 @@
+{
+  "id": "PSA.93",
+  "number": "93",
+  "bookId": "PSA",
+  "reference": "Zaburi 93",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "93",
+        "style": "c",
+        "sid": "PSA 93"
+      },
+      "items": [
+        {
+          "text": "93",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae nere omorwoti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 93:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nere okogamba, nigo eboetie obonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Omonene nigo asiberanetie chinguru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ase ayio ense nigo eteneine bokong’u tekonyegerigwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.1",
+            "verseOrgIds": [
+              "PSA.93.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 93:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekerogo kiao ki’obonene nigo kiabekire aroro korwa kare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.2",
+            "verseOrgIds": [
+              "PSA.93.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekiagera aye nao kwarenge korwa kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.2",
+            "verseOrgIds": [
+              "PSA.93.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 93:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, amaache aimokereire igoro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.3",
+            "verseOrgIds": [
+              "PSA.93.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "amaache nkoeera are neriogi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.3",
+            "verseOrgIds": [
+              "PSA.93.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, aimokereirie emerindo yaye igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.3",
+            "verseOrgIds": [
+              "PSA.93.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 93:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nere obwate okobua okonene aria igoro;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.4",
+            "verseOrgIds": [
+              "PSA.93.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "okobua kwaye nigo kobuete okoruma kw’amaache,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.4",
+            "verseOrgIds": [
+              "PSA.93.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, okw’amaache amange na okw’emerindo y’enyancha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.4",
+            "verseOrgIds": [
+              "PSA.93.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 93:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, oborori bwao nigo boteneine bokong’u.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.5",
+            "verseOrgIds": [
+              "PSA.93.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Obochenu nabwo bore ogochaberwa kw’enyomba yao goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.93.5",
+            "verseOrgIds": [
+              "PSA.93.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.94",
+    "number": "94",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.92",
+    "number": "92",
+    "bookId": "PSA"
+  }
+}

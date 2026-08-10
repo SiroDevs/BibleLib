@@ -1,0 +1,453 @@
+{
+  "id": "PSA.121",
+  "number": "121",
+  "bookId": "PSA",
+  "reference": "Zaburi 121",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "121",
+        "style": "c",
+        "sid": "PSA 121"
+      },
+      "items": [
+        {
+          "text": "121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omonene nere Egekengero Giaito",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 121:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninyimokererie amaiso aane gochia ase ebitunwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ogokonywa kwane, ng’ai korarwe?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 121:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ogokonywa kwane nigo korarwe ase Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oyotongete igoro na ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 121:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere tagotiga okogoro kwao gotererigwe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "oyokorendete tagosundoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 121:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee, ere omorendi bw’Abaisraeli tagosundoka, gose takorara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.4",
+            "verseOrgIds": [
+              "PSA.121.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 121:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nere omorendi oo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nere ekiriri kiao ase ensemo y’okoboko kwao kwa borio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 121:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erioba tirikogoaka omobaso,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "gose omotienyi obotuko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 121:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nakorende korwa ase amabe onsi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "narende omoyo oo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 121:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nakorende kogosoa na kogosoka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korwa bono na goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.120",
+    "number": "120",
+    "bookId": "PSA"
+  }
+}

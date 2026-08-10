@@ -1,0 +1,1172 @@
+{
+  "id": "NUM.13",
+  "number": "13",
+  "bookId": "NUM",
+  "reference": "Hesabu 13",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 33,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "NUM 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kupeleleza Kanaani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "DEU.1.19-DEU.1.33"
+          },
+          "items": [
+            {
+              "text": "Kumbukumbu 1:19-33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.13.1",
+                "verseOrgIds": [
+                  "NUM.13.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.1",
+            "verseOrgIds": [
+              "NUM.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Watume baadhi ya watu wakaipeleleze nchi ya Kanaani, ambayo ninawapa Waisraeli. Kutoka kwa kila kabila la baba zao, tuma mmoja wa viongozi wao.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.2",
+            "verseOrgIds": [
+              "NUM.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo kwa agizo la",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.3",
+            "verseOrgIds": [
+              "NUM.13.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "NUM.13.3",
+                "verseOrgIds": [
+                  "NUM.13.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mose akawatuma kutoka Jangwa la Parani. Wote walikuwa viongozi wa Waisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.3",
+            "verseOrgIds": [
+              "NUM.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haya ndiyo majina yao:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.4",
+            "verseOrgIds": [
+              "NUM.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "NUM 13:4"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "NUM 13:4"
+      },
+      "items": [
+        {
+          "text": "kutoka kabila la Reubeni, Shamua mwana wa Zakuri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.4",
+            "verseOrgIds": [
+              "NUM.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Simeoni, Shafati mwana wa Hori;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.5",
+            "verseOrgIds": [
+              "NUM.13.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Yuda, Kalebu mwana wa Yefune;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.6",
+            "verseOrgIds": [
+              "NUM.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Isakari, Igali mwana wa Yosefu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.7",
+            "verseOrgIds": [
+              "NUM.13.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Efraimu, Hoshea mwana wa Nuni;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.8",
+            "verseOrgIds": [
+              "NUM.13.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Benyamini, Palti mwana wa Rafu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.9",
+            "verseOrgIds": [
+              "NUM.13.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Zabuloni, Gadieli mwana wa Sodi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.10",
+            "verseOrgIds": [
+              "NUM.13.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Manase (kabila la Yosefu), Gadi mwana wa Susi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.11",
+            "verseOrgIds": [
+              "NUM.13.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Dani, Amieli mwana wa Gemali;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.12",
+            "verseOrgIds": [
+              "NUM.13.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Asheri, Sethuri mwana wa Mikaeli;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.13",
+            "verseOrgIds": [
+              "NUM.13.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Naftali, Nabi mwana wa Wofsi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.14",
+            "verseOrgIds": [
+              "NUM.13.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kutoka kabila la Gadi, Geueli mwana wa Maki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.15",
+            "verseOrgIds": [
+              "NUM.13.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haya ndiyo majina ya watu ambao Mose aliwatuma kuipeleleza nchi. (Mose akampa Hoshea mwana wa Nuni jina Yoshua.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.16",
+            "verseOrgIds": [
+              "NUM.13.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mose alipowatuma wakaipeleleze Kanaani, alisema, \"Pandeni kupitia Negebu, mwende mpaka nchi ya vilima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.17",
+            "verseOrgIds": [
+              "NUM.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwone nchi ni ya namna gani, na kama watu waishio humo wana nguvu au ni wadhaifu, iwapo ni wachache au wengi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.18",
+            "verseOrgIds": [
+              "NUM.13.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 13:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wanaishi katika nchi ya namna gani? Je, ni nzuri au mbaya? Wanaishi katika miji ya namna gani? Je, haina kuta au ngome?",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.19",
+            "verseOrgIds": [
+              "NUM.13.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 13:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ardhi iko aje? Ina rutuba au la? Je, kuna miti ndani yake au la? Jitahidini kadiri mwezavyo kuleta baadhi ya matunda ya nchi.\" (Ulikuwa msimu wa kuiva zabibu za kwanza.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.20",
+            "verseOrgIds": [
+              "NUM.13.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 13:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo wakapanda na kuipeleleza nchi kutoka Jangwa la Sini hadi Rehobu, kuelekea Lebo-Hamathi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.21",
+            "verseOrgIds": [
+              "NUM.13.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 13:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakapanda kupitia Negebu hadi wakafika Hebroni, mahali ambapo Ahimani, Sheshai na Talmai, wazao wa Anaki, waliishi. (Hebroni ulikuwa umejengwa miaka saba kabla ya mji wa Soani ulioko Misri.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.22",
+            "verseOrgIds": [
+              "NUM.13.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 13:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipofika katika Bonde la Eshkoli, walivunja tawi lililokuwa na kishada kimoja cha zabibu. Wawili wao wakalichukua lile tawi kwenye mti, pamoja na komamanga na tini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.23",
+            "verseOrgIds": [
+              "NUM.13.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 13:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eneo lile likaitwa Bonde la Eshkoli kwa sababu ya kile kishada cha zabibu ambacho Waisraeli walikikata huko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.24",
+            "verseOrgIds": [
+              "NUM.13.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 13:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwishoni mwa siku arobaini wakarudi kutoka kuipeleleza nchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.25",
+            "verseOrgIds": [
+              "NUM.13.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Taarifa Juu Ya Upelelezi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 13:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakarudi kwa Mose, Aroni na jumuiya yote ya Waisraeli huko Kadeshi kwenye Jangwa la Parani. Hapo ndipo walipotoa habari kwao na kwa kusanyiko lote na kuwaonyesha matunda ya hiyo nchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.26",
+            "verseOrgIds": [
+              "NUM.13.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 13:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakampa Mose taarifa hii: \"Tuliingia katika nchi uliyotutuma, nayo inatiririka maziwa na asali! Hili hapa tunda lake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.27",
+            "verseOrgIds": [
+              "NUM.13.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NUM 13:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini watu wanaoishi huko ni wenye nguvu, na miji yao ina ngome na ni mikubwa sana. Huko tuliona hata wazao wa Anaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.28",
+            "verseOrgIds": [
+              "NUM.13.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NUM 13:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Waamaleki wanaishi Negebu; Wahiti, Wayebusi na Waamori wanaishi katika nchi ya vilima; nao Wakanaani wanaishi karibu na bahari na kando ya Yordani.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.29",
+            "verseOrgIds": [
+              "NUM.13.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NUM 13:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Kalebu akawanyamazisha watu mbele ya Mose na kusema, \"Imetupasa kupanda na kuimiliki nchi, kwa maana hakika tunaweza kufanya hivyo.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.30",
+            "verseOrgIds": [
+              "NUM.13.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NUM 13:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini watu waliokuwa wamepanda pamoja naye wakasema, \"Hatuwezi kuwashambulia wale watu; wana nguvu kutuliko sisi.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.31",
+            "verseOrgIds": [
+              "NUM.13.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NUM 13:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakaeneza taarifa mbaya miongoni mwa Waisraeli kuhusu nchi waliyoipeleleza. Wakasema, \"Nchi tuliyoipeleleza hula watu waishio ndani yake. Watu wote tuliowaona huko ni majitu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.32",
+            "verseOrgIds": [
+              "NUM.13.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NUM 13:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuliwaona Wanefili huko (wazao wa Anaki wanatokana na Wanefili.) Tulijiona kama panzi machoni petu wenyewe, nao ndivyo walivyotuona.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.13.33",
+            "verseOrgIds": [
+              "NUM.13.33"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.14",
+    "number": "14",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.12",
+    "number": "12",
+    "bookId": "NUM"
+  }
+}

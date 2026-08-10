@@ -1,0 +1,2417 @@
+{
+  "id": "ISA.60",
+  "number": "60",
+  "bookId": "ISA",
+  "reference": "Isaya 60",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "ISA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Utukufu Wa Sayuni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 60:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Ondoka, angaza, kwa kuwa nuru yako imekuja",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.1",
+            "verseOrgIds": [
+              "ISA.60.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:1"
+      },
+      "items": [
+        {
+          "text": "na utukufu wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.1",
+            "verseOrgIds": [
+              "ISA.60.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.1",
+                "verseOrgIds": [
+                  "ISA.60.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "umezuka juu yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.1",
+            "verseOrgIds": [
+              "ISA.60.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 60:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama, giza litaifunika dunia",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.2",
+            "verseOrgIds": [
+              "ISA.60.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:2"
+      },
+      "items": [
+        {
+          "text": "na giza kuu litayafunika mataifa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.2",
+            "verseOrgIds": [
+              "ISA.60.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:2"
+      },
+      "items": [
+        {
+          "text": "lakini",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.2",
+            "verseOrgIds": [
+              "ISA.60.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.2",
+                "verseOrgIds": [
+                  "ISA.60.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atazuka juu yako",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.2",
+            "verseOrgIds": [
+              "ISA.60.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:2"
+      },
+      "items": [
+        {
+          "text": "na utukufu wake utaonekana juu yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.2",
+            "verseOrgIds": [
+              "ISA.60.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 60:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mataifa watakuja kwenye nuru yako",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.3",
+            "verseOrgIds": [
+              "ISA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:3"
+      },
+      "items": [
+        {
+          "text": "na wafalme kwa mwanga wa mapambazuko yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.3",
+            "verseOrgIds": [
+              "ISA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 60:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Inua macho yako na utazame pande zote:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.4",
+            "verseOrgIds": [
+              "ISA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:4"
+      },
+      "items": [
+        {
+          "text": "Wote wanakusanyika na kukujia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.4",
+            "verseOrgIds": [
+              "ISA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:4"
+      },
+      "items": [
+        {
+          "text": "wana wako wanakuja toka mbali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.4",
+            "verseOrgIds": [
+              "ISA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:4"
+      },
+      "items": [
+        {
+          "text": "nao binti zako wanabebwa mikononi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.4",
+            "verseOrgIds": [
+              "ISA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 60:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo utatazama na kutiwa nuru,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.5",
+            "verseOrgIds": [
+              "ISA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:5"
+      },
+      "items": [
+        {
+          "text": "moyo wako utasisimka na kujaa furaha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.5",
+            "verseOrgIds": [
+              "ISA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:5"
+      },
+      "items": [
+        {
+          "text": "mali zilizo baharini zitaletwa kwako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.5",
+            "verseOrgIds": [
+              "ISA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:5"
+      },
+      "items": [
+        {
+          "text": "utajiri wa mataifa utakujilia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.5",
+            "verseOrgIds": [
+              "ISA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 60:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makundi ya ngamia yatajaa katika nchi yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:6"
+      },
+      "items": [
+        {
+          "text": "ngamia vijana wa Midiani na Efa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:6"
+      },
+      "items": [
+        {
+          "text": "Nao wote watokao Sheba watakuja,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:6"
+      },
+      "items": [
+        {
+          "text": "wakichukua dhahabu na uvumba",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:6"
+      },
+      "items": [
+        {
+          "text": "na kutangaza sifa za",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.6",
+                "verseOrgIds": [
+                  "ISA.60.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.6",
+            "verseOrgIds": [
+              "ISA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 60:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makundi yote ya Kedari yatakusanyika kwako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.7",
+            "verseOrgIds": [
+              "ISA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:7"
+      },
+      "items": [
+        {
+          "text": "kondoo dume wa Nebayothi watakutumikia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.7",
+            "verseOrgIds": [
+              "ISA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:7"
+      },
+      "items": [
+        {
+          "text": "watakubalika kama sadaka juu ya madhabahu yangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.7",
+            "verseOrgIds": [
+              "ISA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:7"
+      },
+      "items": [
+        {
+          "text": "nami nitalipamba Hekalu langu tukufu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.7",
+            "verseOrgIds": [
+              "ISA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 60:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Ni nani hawa warukao kama mawingu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.8",
+            "verseOrgIds": [
+              "ISA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:8"
+      },
+      "items": [
+        {
+          "text": "kama hua kuelekea kwenye viota vyao?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.8",
+            "verseOrgIds": [
+              "ISA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 60:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakika visiwa vinanitazama,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "merikebu za Tarshishi",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        },
+        {
+          "text": "ndizo zinazotangulia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "zikiwaleta wana wenu kutoka mbali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "wakiwa na fedha na dhahabu zao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "kwa heshima ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.9",
+                "verseOrgIds": [
+                  "ISA.60.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Mungu wenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "yeye Aliye Mtakatifu wa Israeli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:9"
+      },
+      "items": [
+        {
+          "text": "kwa maana amekujalia utukufu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.9",
+            "verseOrgIds": [
+              "ISA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 60:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Wageni watazijenga upya kuta zako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:10"
+      },
+      "items": [
+        {
+          "text": "na wafalme wao watakutumikia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:10"
+      },
+      "items": [
+        {
+          "text": "Ingawa katika hasira nilikupiga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:10"
+      },
+      "items": [
+        {
+          "text": "lakini katika upendeleo wangu",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:10"
+      },
+      "items": [
+        {
+          "text": "nitakuonyesha huruma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.10",
+            "verseOrgIds": [
+              "ISA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 60:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Malango yako yatakuwa wazi siku zote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.11",
+            "verseOrgIds": [
+              "ISA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:11"
+      },
+      "items": [
+        {
+          "text": "kamwe hayatafungwa, mchana wala usiku,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.11",
+            "verseOrgIds": [
+              "ISA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:11"
+      },
+      "items": [
+        {
+          "text": "ili watu wapate kukuletea utajiri wa mataifa:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.11",
+            "verseOrgIds": [
+              "ISA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:11"
+      },
+      "items": [
+        {
+          "text": "wafalme wao wakiongoza maandamano ya ushindi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.11",
+            "verseOrgIds": [
+              "ISA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 60:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana taifa au ufalme ule ambao hautakutumikia utaangamia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.12",
+            "verseOrgIds": [
+              "ISA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:12"
+      },
+      "items": [
+        {
+          "text": "utaharibiwa kabisa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.12",
+            "verseOrgIds": [
+              "ISA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 60:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Utukufu wa Lebanoni utakujilia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.13",
+            "verseOrgIds": [
+              "ISA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:13"
+      },
+      "items": [
+        {
+          "text": "msunobari, mvinje pamoja na mteashuri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.13",
+            "verseOrgIds": [
+              "ISA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:13"
+      },
+      "items": [
+        {
+          "text": "ili kupapamba mahali pangu patakatifu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.13",
+            "verseOrgIds": [
+              "ISA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:13"
+      },
+      "items": [
+        {
+          "text": "nami nitapatukuza mahali pa miguu yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.13",
+            "verseOrgIds": [
+              "ISA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 60:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wana wa wale waliokuonea watakuja wakisujudu mbele yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.14",
+            "verseOrgIds": [
+              "ISA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:14"
+      },
+      "items": [
+        {
+          "text": "wote wanaokudharau watasujudu kwenye miguu yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.14",
+            "verseOrgIds": [
+              "ISA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:14"
+      },
+      "items": [
+        {
+          "text": "nao watakuita Mji wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.14",
+            "verseOrgIds": [
+              "ISA.60.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.14",
+                "verseOrgIds": [
+                  "ISA.60.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.14",
+            "verseOrgIds": [
+              "ISA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:14"
+      },
+      "items": [
+        {
+          "text": "Sayuni ya Aliye Mtakatifu wa Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.14",
+            "verseOrgIds": [
+              "ISA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 60:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Ingawa umeachwa na kuchukiwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.15",
+            "verseOrgIds": [
+              "ISA.60.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:15"
+      },
+      "items": [
+        {
+          "text": "bila yeyote anayesafiri ndani yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.15",
+            "verseOrgIds": [
+              "ISA.60.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:15"
+      },
+      "items": [
+        {
+          "text": "nitakufanya kuwa fahari ya milele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.15",
+            "verseOrgIds": [
+              "ISA.60.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:15"
+      },
+      "items": [
+        {
+          "text": "na furaha ya vizazi vyote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.15",
+            "verseOrgIds": [
+              "ISA.60.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 60:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Utanyonya maziwa ya mataifa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.16",
+            "verseOrgIds": [
+              "ISA.60.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:16"
+      },
+      "items": [
+        {
+          "text": "na kunyonyeshwa matiti ya wafalme.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.16",
+            "verseOrgIds": [
+              "ISA.60.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:16"
+      },
+      "items": [
+        {
+          "text": "Ndipo utakapojua kwamba Mimi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.16",
+            "verseOrgIds": [
+              "ISA.60.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.16",
+                "verseOrgIds": [
+                  "ISA.60.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", ni Mwokozi wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.16",
+            "verseOrgIds": [
+              "ISA.60.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:16"
+      },
+      "items": [
+        {
+          "text": "Mkombozi wako, niliye Mwenye Nguvu wa Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.16",
+            "verseOrgIds": [
+              "ISA.60.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 60:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Badala ya shaba nitakuletea dhahabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:17"
+      },
+      "items": [
+        {
+          "text": "na fedha badala ya chuma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:17"
+      },
+      "items": [
+        {
+          "text": "Badala ya mti nitakuletea shaba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:17"
+      },
+      "items": [
+        {
+          "text": "na chuma badala ya mawe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:17"
+      },
+      "items": [
+        {
+          "text": "Nitafanya amani kuwa mtawala wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:17"
+      },
+      "items": [
+        {
+          "text": "na haki kuwa mfalme wako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.17",
+            "verseOrgIds": [
+              "ISA.60.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 60:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jeuri hazitasikika tena katika nchi yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.18",
+            "verseOrgIds": [
+              "ISA.60.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:18"
+      },
+      "items": [
+        {
+          "text": "wala maangamizi au uharibifu ndani ya mipaka yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.18",
+            "verseOrgIds": [
+              "ISA.60.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:18"
+      },
+      "items": [
+        {
+          "text": "lakini utaita kuta zako Wokovu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.18",
+            "verseOrgIds": [
+              "ISA.60.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:18"
+      },
+      "items": [
+        {
+          "text": "na malango yako Sifa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.18",
+            "verseOrgIds": [
+              "ISA.60.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 60:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jua halitakuwa tena nuru yako mchana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:19"
+      },
+      "items": [
+        {
+          "text": "wala mwangaza wa mwezi hautakuangazia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:19"
+      },
+      "items": [
+        {
+          "text": "kwa maana",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.19",
+                "verseOrgIds": [
+                  "ISA.60.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atakuwa nuru yako ya milele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:19"
+      },
+      "items": [
+        {
+          "text": "naye Mungu wako atakuwa utukufu wako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.19",
+            "verseOrgIds": [
+              "ISA.60.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 60:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jua lako halitazama tena,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.20",
+            "verseOrgIds": [
+              "ISA.60.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:20"
+      },
+      "items": [
+        {
+          "text": "nao mwezi wako hautafifia tena;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.20",
+            "verseOrgIds": [
+              "ISA.60.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:20"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.20",
+                "verseOrgIds": [
+                  "ISA.60.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atakuwa nuru yako milele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.20",
+            "verseOrgIds": [
+              "ISA.60.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:20"
+      },
+      "items": [
+        {
+          "text": "nazo siku zako za huzuni zitakoma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.20",
+            "verseOrgIds": [
+              "ISA.60.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 60:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo watu wako wote watakuwa waadilifu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.21",
+            "verseOrgIds": [
+              "ISA.60.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:21"
+      },
+      "items": [
+        {
+          "text": "nao wataimiliki nchi milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.21",
+            "verseOrgIds": [
+              "ISA.60.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:21"
+      },
+      "items": [
+        {
+          "text": "Wao ni chipukizi nililolipanda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.21",
+            "verseOrgIds": [
+              "ISA.60.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:21"
+      },
+      "items": [
+        {
+          "text": "kazi ya mikono yangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.21",
+            "verseOrgIds": [
+              "ISA.60.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:21"
+      },
+      "items": [
+        {
+          "text": "ili kuonyesha utukufu wangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.21",
+            "verseOrgIds": [
+              "ISA.60.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ISA 60:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aliye mdogo kwenu atakuwa elfu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.22",
+            "verseOrgIds": [
+              "ISA.60.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:22"
+      },
+      "items": [
+        {
+          "text": "mdogo kuliko wote atakuwa taifa lenye nguvu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.22",
+            "verseOrgIds": [
+              "ISA.60.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 60:22"
+      },
+      "items": [
+        {
+          "text": "Mimi ndimi",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.22",
+            "verseOrgIds": [
+              "ISA.60.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.60.22",
+                "verseOrgIds": [
+                  "ISA.60.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.22",
+            "verseOrgIds": [
+              "ISA.60.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 60:22"
+      },
+      "items": [
+        {
+          "text": "katika wakati wake nitayatimiza haya upesi.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.60.22",
+            "verseOrgIds": [
+              "ISA.60.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.61",
+    "number": "61",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  }
+}

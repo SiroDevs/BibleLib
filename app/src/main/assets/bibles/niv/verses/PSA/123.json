@@ -1,0 +1,403 @@
+{
+  "id": "PSA.123",
+  "number": "123",
+  "bookId": "PSA",
+  "reference": "Psalm 123",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "123",
+        "style": "c",
+        "sid": "PSA 123"
+      },
+      "items": [
+        {
+          "text": "123",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 123",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A song of ascents.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 123:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I lift up my eyes to you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.1",
+            "verseOrgIds": [
+              "PSA.123.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:1"
+      },
+      "items": [
+        {
+          "text": "to you who sit enthroned in heaven.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.1",
+            "verseOrgIds": [
+              "PSA.123.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 123:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As the eyes of slaves look to the hand of their master,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "as the eyes of a female slave look to the hand of her mistress,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "so our eyes look to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:2"
+      },
+      "items": [
+        {
+          "text": "till he shows us his mercy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 123:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Have mercy on us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.3",
+                "verseOrgIds": [
+                  "PSA.123.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", have mercy on us,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:3"
+      },
+      "items": [
+        {
+          "text": "for we have endured no end of contempt.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 123:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We have endured no end",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:4"
+      },
+      "items": [
+        {
+          "text": "of ridicule from the arrogant,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 123:4"
+      },
+      "items": [
+        {
+          "text": "of contempt from the proud.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  }
+}

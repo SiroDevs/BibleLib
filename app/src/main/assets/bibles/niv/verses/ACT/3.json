@@ -1,0 +1,766 @@
+{
+  "id": "ACT.3",
+  "number": "3",
+  "bookId": "ACT",
+  "reference": "Acts 3",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 26,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ACT 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Peter Heals a Lame Beggar",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.1",
+            "verseOrgIds": [
+              "ACT.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.2",
+            "verseOrgIds": [
+              "ACT.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When he saw Peter and John about to enter, he asked them for money.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.3",
+            "verseOrgIds": [
+              "ACT.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Peter looked straight at him, as did John. Then Peter said, \"Look at us!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.4",
+            "verseOrgIds": [
+              "ACT.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So the man gave them his attention, expecting to get something from them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.5",
+            "verseOrgIds": [
+              "ACT.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then Peter said, \"Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.6",
+            "verseOrgIds": [
+              "ACT.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Taking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.7",
+            "verseOrgIds": [
+              "ACT.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.8",
+            "verseOrgIds": [
+              "ACT.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When all the people saw him walking and praising God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.9",
+            "verseOrgIds": [
+              "ACT.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.10",
+            "verseOrgIds": [
+              "ACT.3.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Peter Speaks to the Onlookers",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "While the man held on to Peter and John, all the people were astonished and came running to them in the place called Solomon's Colonnade.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.11",
+            "verseOrgIds": [
+              "ACT.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When Peter saw this, he said to them: \"Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.12",
+            "verseOrgIds": [
+              "ACT.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.13",
+            "verseOrgIds": [
+              "ACT.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You disowned the Holy and Righteous One and asked that a murderer be released to you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.14",
+            "verseOrgIds": [
+              "ACT.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You killed the author of life, but God raised him from the dead. We are witnesses of this.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.15",
+            "verseOrgIds": [
+              "ACT.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ACT 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus' name and the faith that comes through him that has completely healed him, as you can all see.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.16",
+            "verseOrgIds": [
+              "ACT.3.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Now, fellow Israelites, I know that you acted in ignorance, as did your leaders.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.17",
+            "verseOrgIds": [
+              "ACT.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ACT 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But this is how God fulfilled what he had foretold through all the prophets, saying that his Messiah would suffer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.18",
+            "verseOrgIds": [
+              "ACT.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ACT 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.19",
+            "verseOrgIds": [
+              "ACT.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "and that he may send the Messiah, who has been appointed for you—even Jesus.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.20",
+            "verseOrgIds": [
+              "ACT.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ACT 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heaven must receive him until the time comes for God to restore everything, as he promised long ago through his holy prophets.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.21",
+            "verseOrgIds": [
+              "ACT.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ACT 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For Moses said, 'The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything he tells you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.22",
+            "verseOrgIds": [
+              "ACT.3.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ACT 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anyone who does not listen to him will be completely cut off from their people.'",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.23",
+            "verseOrgIds": [
+              "ACT.3.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ACT 3:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.24",
+            "verseOrgIds": [
+              "ACT.3.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ACT 3:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And you are heirs of the prophets and of the covenant God made with your fathers. He said to Abraham, 'Through your offspring all peoples on earth will be blessed.'",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.25",
+            "verseOrgIds": [
+              "ACT.3.25"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.25",
+            "verseOrgIds": [
+              "ACT.3.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ACT 3:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When God raised up his servant, he sent him first to you to bless you by turning each of you from your wicked ways.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.3.26",
+            "verseOrgIds": [
+              "ACT.3.26"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.4",
+    "number": "4",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.2",
+    "number": "2",
+    "bookId": "ACT"
+  }
+}

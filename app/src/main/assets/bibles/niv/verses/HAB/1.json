@@ -1,0 +1,1634 @@
+{
+  "id": "HAB.1",
+  "number": "1",
+  "bookId": "HAB",
+  "reference": "Hab. 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "HAB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HAB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The prophecy that Habakkuk the prophet received.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.1",
+            "verseOrgIds": [
+              "HAB.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Habakkuk's Complaint",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HAB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "How long,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.2",
+            "verseOrgIds": [
+              "HAB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "HAB.1.2",
+                "verseOrgIds": [
+                  "HAB.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", must I call for help,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.2",
+            "verseOrgIds": [
+              "HAB.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:2"
+      },
+      "items": [
+        {
+          "text": "but you do not listen?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.2",
+            "verseOrgIds": [
+              "HAB.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:2"
+      },
+      "items": [
+        {
+          "text": "Or cry out to you, \"Violence!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.2",
+            "verseOrgIds": [
+              "HAB.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:2"
+      },
+      "items": [
+        {
+          "text": "but you do not save?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.2",
+            "verseOrgIds": [
+              "HAB.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HAB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why do you make me look at injustice?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.3",
+            "verseOrgIds": [
+              "HAB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:3"
+      },
+      "items": [
+        {
+          "text": "Why do you tolerate wrongdoing?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.3",
+            "verseOrgIds": [
+              "HAB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:3"
+      },
+      "items": [
+        {
+          "text": "Destruction and violence are before me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.3",
+            "verseOrgIds": [
+              "HAB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:3"
+      },
+      "items": [
+        {
+          "text": "there is strife, and conflict abounds.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.3",
+            "verseOrgIds": [
+              "HAB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HAB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore the law is paralyzed,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.4",
+            "verseOrgIds": [
+              "HAB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:4"
+      },
+      "items": [
+        {
+          "text": "and justice never prevails.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.4",
+            "verseOrgIds": [
+              "HAB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:4"
+      },
+      "items": [
+        {
+          "text": "The wicked hem in the righteous,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.4",
+            "verseOrgIds": [
+              "HAB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:4"
+      },
+      "items": [
+        {
+          "text": "so that justice is perverted.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.4",
+            "verseOrgIds": [
+              "HAB.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "The",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "'s Answer",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HAB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Look at the nations and watch—",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.5",
+            "verseOrgIds": [
+              "HAB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:5"
+      },
+      "items": [
+        {
+          "text": "and be utterly amazed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.5",
+            "verseOrgIds": [
+              "HAB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:5"
+      },
+      "items": [
+        {
+          "text": "For I am going to do something in your days",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.5",
+            "verseOrgIds": [
+              "HAB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:5"
+      },
+      "items": [
+        {
+          "text": "that you would not believe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.5",
+            "verseOrgIds": [
+              "HAB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:5"
+      },
+      "items": [
+        {
+          "text": "even if you were told.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.5",
+            "verseOrgIds": [
+              "HAB.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "HAB 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am raising up the Babylonians,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.6",
+            "verseOrgIds": [
+              "HAB.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:6"
+      },
+      "items": [
+        {
+          "text": "that ruthless and impetuous people,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.6",
+            "verseOrgIds": [
+              "HAB.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:6"
+      },
+      "items": [
+        {
+          "text": "who sweep across the whole earth",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.6",
+            "verseOrgIds": [
+              "HAB.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:6"
+      },
+      "items": [
+        {
+          "text": "to seize dwellings not their own.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.6",
+            "verseOrgIds": [
+              "HAB.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "HAB 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They are a feared and dreaded people;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.7",
+            "verseOrgIds": [
+              "HAB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:7"
+      },
+      "items": [
+        {
+          "text": "they are a law to themselves",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.7",
+            "verseOrgIds": [
+              "HAB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:7"
+      },
+      "items": [
+        {
+          "text": "and promote their own honor.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.7",
+            "verseOrgIds": [
+              "HAB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "HAB 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Their horses are swifter than leopards,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.8",
+            "verseOrgIds": [
+              "HAB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:8"
+      },
+      "items": [
+        {
+          "text": "fiercer than wolves at dusk.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.8",
+            "verseOrgIds": [
+              "HAB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:8"
+      },
+      "items": [
+        {
+          "text": "Their cavalry gallops headlong;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.8",
+            "verseOrgIds": [
+              "HAB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:8"
+      },
+      "items": [
+        {
+          "text": "their horsemen come from afar.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.8",
+            "verseOrgIds": [
+              "HAB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:8"
+      },
+      "items": [
+        {
+          "text": "They fly like an eagle swooping to devour;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.8",
+            "verseOrgIds": [
+              "HAB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "HAB 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "they all come intent on violence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.9",
+            "verseOrgIds": [
+              "HAB.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:9"
+      },
+      "items": [
+        {
+          "text": "Their hordes",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.9",
+            "verseOrgIds": [
+              "HAB.1.9"
+            ]
+          }
+        },
+        {
+          "text": "advance like a desert wind",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.9",
+            "verseOrgIds": [
+              "HAB.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:9"
+      },
+      "items": [
+        {
+          "text": "and gather prisoners like sand.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.9",
+            "verseOrgIds": [
+              "HAB.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "HAB 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They mock kings",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.10",
+            "verseOrgIds": [
+              "HAB.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:10"
+      },
+      "items": [
+        {
+          "text": "and scoff at rulers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.10",
+            "verseOrgIds": [
+              "HAB.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:10"
+      },
+      "items": [
+        {
+          "text": "They laugh at all fortified cities;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.10",
+            "verseOrgIds": [
+              "HAB.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:10"
+      },
+      "items": [
+        {
+          "text": "by building earthen ramps they capture them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.10",
+            "verseOrgIds": [
+              "HAB.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "HAB 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then they sweep past like the wind and go on—",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.11",
+            "verseOrgIds": [
+              "HAB.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:11"
+      },
+      "items": [
+        {
+          "text": "guilty people, whose own strength is their god.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.11",
+            "verseOrgIds": [
+              "HAB.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Habakkuk's Second Complaint",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "HAB 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "HAB.1.12",
+                "verseOrgIds": [
+                  "HAB.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", are you not from everlasting?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:12"
+      },
+      "items": [
+        {
+          "text": "My God, my Holy One, you",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        },
+        {
+          "text": "will never die.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:12"
+      },
+      "items": [
+        {
+          "text": "You,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "HAB.1.12",
+                "verseOrgIds": [
+                  "HAB.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", have appointed them to execute judgment;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:12"
+      },
+      "items": [
+        {
+          "text": "you, my Rock, have ordained them to punish.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.12",
+            "verseOrgIds": [
+              "HAB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "HAB 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Your eyes are too pure to look on evil;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.13",
+            "verseOrgIds": [
+              "HAB.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:13"
+      },
+      "items": [
+        {
+          "text": "you cannot tolerate wrongdoing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.13",
+            "verseOrgIds": [
+              "HAB.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:13"
+      },
+      "items": [
+        {
+          "text": "Why then do you tolerate the treacherous?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.13",
+            "verseOrgIds": [
+              "HAB.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:13"
+      },
+      "items": [
+        {
+          "text": "Why are you silent while the wicked",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.13",
+            "verseOrgIds": [
+              "HAB.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:13"
+      },
+      "items": [
+        {
+          "text": "swallow up those more righteous than themselves?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.13",
+            "verseOrgIds": [
+              "HAB.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "HAB 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have made people like the fish in the sea,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.14",
+            "verseOrgIds": [
+              "HAB.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:14"
+      },
+      "items": [
+        {
+          "text": "like the sea creatures that have no ruler.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.14",
+            "verseOrgIds": [
+              "HAB.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "HAB 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The wicked foe pulls all of them up with hooks,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.15",
+            "verseOrgIds": [
+              "HAB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:15"
+      },
+      "items": [
+        {
+          "text": "he catches them in his net,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.15",
+            "verseOrgIds": [
+              "HAB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:15"
+      },
+      "items": [
+        {
+          "text": "he gathers them up in his dragnet;",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.15",
+            "verseOrgIds": [
+              "HAB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:15"
+      },
+      "items": [
+        {
+          "text": "and so he rejoices and is glad.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.15",
+            "verseOrgIds": [
+              "HAB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "HAB 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore he sacrifices to his net",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.16",
+            "verseOrgIds": [
+              "HAB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:16"
+      },
+      "items": [
+        {
+          "text": "and burns incense to his dragnet,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.16",
+            "verseOrgIds": [
+              "HAB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "HAB 1:16"
+      },
+      "items": [
+        {
+          "text": "for by his net he lives in luxury",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.16",
+            "verseOrgIds": [
+              "HAB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:16"
+      },
+      "items": [
+        {
+          "text": "and enjoys the choicest food.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.16",
+            "verseOrgIds": [
+              "HAB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "HAB 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Is he to keep on emptying his net,",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.17",
+            "verseOrgIds": [
+              "HAB.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "HAB 1:17"
+      },
+      "items": [
+        {
+          "text": "destroying nations without mercy?",
+          "type": "text",
+          "attrs": {
+            "verseId": "HAB.1.17",
+            "verseOrgIds": [
+              "HAB.1.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HAB.2",
+    "number": "2",
+    "bookId": "HAB"
+  },
+  "previous": {
+    "id": "HAB.intro",
+    "number": "intro",
+    "bookId": "HAB"
+  }
+}

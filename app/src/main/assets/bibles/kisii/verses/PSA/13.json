@@ -1,0 +1,436 @@
+{
+  "id": "PSA.13",
+  "number": "13",
+  "bookId": "PSA",
+  "reference": "Zaburi 13",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "PSA 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosaba gw’okonyora obokonyi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gwa Daudi)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, ngoika ririri oragenderere konyeba? Ngoika kare na kare?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.1",
+            "verseOrgIds": [
+              "PSA.13.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ngoika ririri orabe kobisete obosio bwao ng’a tondora?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.1",
+            "verseOrgIds": [
+              "PSA.13.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngoika ririri ndabe ndemereretie emechando ase omoyo one,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "imbe nobororo ase enkoro yane rituko ase rituko?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ngoika ririri omobisa one arabe okogokera emechando yane?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, aye Nyasae one, ondigererie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ong’iranerie ase ogosaba kwane!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Ondamokie amaiso aane,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "timbaisa korara chitoro chi’amakweri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Totiga omobisa one ateebe ng’a ombuire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.4",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ababisa baane bonsi bachengere okogwa kwane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.4",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninsemerie obwanchani bwao botari koera,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.5",
+            "verseOrgIds": [
+              "PSA.13.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "enkoro yane negokere ogotooreka gokorwa asore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.5",
+            "verseOrgIds": [
+              "PSA.13.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningoterere aye Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.6",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekiagera gwankoreire amaya amange.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.6",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.14",
+    "number": "14",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.12",
+    "number": "12",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "id": "EPH.6",
+  "number": "6",
+  "bookId": "EPH",
+  "reference": "Aefeso 6",
+  "verseCount": 24,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "EPH 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ciana na Aciari",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EPH 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inyuĩ ciana-rĩ, athĩkagĩrai aciari anyu thĩinĩ wa Mwathani, nĩgũkorwo gwĩka ũguo nĩguo kwagĩrĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.1",
+            "verseOrgIds": [
+              "EPH.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EPH 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tĩĩa thoguo na nyũkwa,” rĩu nĩrĩo rĩathani rĩa mbere rĩrĩa rĩrĩ na kĩĩranĩro,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.2",
+            "verseOrgIds": [
+              "EPH.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EPH 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“nĩguo maũndũ maku mothe magaacĩre, na ũkenere gũtũũra muoyo hĩndĩ ndaaya gũkũ thĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.3",
+            "verseOrgIds": [
+              "EPH.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EPH 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na inyuĩ maithe-rĩ, mũtikarakaragie ciana cianyu; handũ ha ũguo-rĩ, cireragei mũgĩcirutaga na mũgĩcitaaraga thĩinĩ wa Mwathani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.4",
+            "verseOrgIds": [
+              "EPH.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngombo na Aathani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EPH 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inyuĩ ngombo-rĩ, athĩkagĩrai aathani anyu a gũkũ thĩ, mũkĩmatĩĩaga na mũkĩmetigĩraga, mũtarĩ na ũhinga ngoro-inĩ, o taarĩ Kristũ mũrathĩkĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.5",
+            "verseOrgIds": [
+              "EPH.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EPH 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtikamaathĩkagĩre o hĩndĩ ĩrĩa maramuona atĩ nĩguo mamwendage; no ĩkagai ũguo ta mũrĩ ngombo cia Kristũ, mũgĩĩkaga maũndũ marĩa Ngai endaga mekwo mwĩendeire na ngoro cianyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.6",
+            "verseOrgIds": [
+              "EPH.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EPH 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tungatagai na ngoro yothe mũtarĩ na kĩnyiria, taarĩ Mwathani mũratungatĩra, no ti andũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.7",
+            "verseOrgIds": [
+              "EPH.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EPH 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩ ũndũ nĩ mũũĩ atĩ Mwathani nĩakarĩha o mũndũ ũndũ o wothe mwega ekaga arĩ ngombo kana atarĩ ngombo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.8",
+            "verseOrgIds": [
+              "EPH.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EPH 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na inyuĩ aathani-rĩ, ĩkagai ngombo cianyu o ro ũguo. Mũtigaciĩhĩtagĩre, tondũ nĩ mũũĩ atĩ Mwathani wacio, na nowe Mwathani wanyu, arĩ o kũu igũrũ, nake ndarĩ mũthutũkanio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.9",
+            "verseOrgIds": [
+              "EPH.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Indo cia Ngai cia Mbaara",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EPH 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro wa kũrigĩrĩria ngũmwĩra atĩrĩ, gĩagai na hinya thĩinĩ wa Mwathani mũkĩhotithagio nĩ ũhoti wake mũnene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.10",
+            "verseOrgIds": [
+              "EPH.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EPH 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwĩohei indo ciothe cia Ngai cia mbaara nĩguo mũhote gwĩtiiria mawara ma mũcukani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.11",
+            "verseOrgIds": [
+              "EPH.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EPH 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo kũgiana gwitũ ti gwa kũgiana na arĩa marĩ na mwĩrĩ na thakame, no tũgianaga na aathani, na mothamaki, na maahinya ma gũkũ thĩ ĩno ĩrĩ nduma, o na mbũtũ cia maroho mooru marĩ kũrĩa igũrũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.12",
+            "verseOrgIds": [
+              "EPH.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EPH 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, mwĩohei indo ciothe cia Ngai cia mbaara, nĩguo mũkaahota gwĩtiiria mũthenya ũrĩa mũũru wakinya, na mwarĩkia gwĩka maũndũ macio mothe, no mwĩhaande.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.13",
+            "verseOrgIds": [
+              "EPH.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EPH 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mwĩhaandei wega, mwĩhotorete mũcibi wa ũhoro ũrĩa wa ma njohero, na mwĩohete gako ga kũgitĩra gĩthũri karĩa ka ũthingu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.14",
+            "verseOrgIds": [
+              "EPH.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EPH 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "namo magũrũ manyu mũmahaarĩrie gũthiĩ kũhunjia Ũhoro-ũrĩa-Mwega wa thayũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.15",
+            "verseOrgIds": [
+              "EPH.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EPH 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamwe na indo icio ciothe, oyai ngo ya wĩtĩkio, ĩrĩa mũrĩhotaga kũhoria nayo mĩguĩ yothe ĩrĩa yakanaga mwaki ya ũrĩa mũũru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.16",
+            "verseOrgIds": [
+              "EPH.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EPH 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ĩkĩrai ngũbia ya kĩgera ya ũhonokio, na mwĩohe rũhiũ rwa njora rwa Roho, naruo nĩruo kiugo kĩa Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.17",
+            "verseOrgIds": [
+              "EPH.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EPH 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na mũhooyage hĩndĩ ciothe na mahooya ma mĩthemba yothe, mũgĩthaithanaga mũrĩ na Roho. Mwarĩkia gwĩka ũguo-rĩ, ikaragai mwĩhũgĩte, na mũhooyagĩre andũ arĩa aamũre hĩndĩ ciothe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.18",
+            "verseOrgIds": [
+              "EPH.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EPH 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na niĩ mwene-rĩ, hooyagĩrai, nĩguo rĩrĩa rĩothe ngũtumũra kanua, heagwo ciugo na ngaaria itegwĩtigĩra ngĩmenyithania hitho ya Ũhoro-ũrĩa-Mwega,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.19",
+            "verseOrgIds": [
+              "EPH.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EPH 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o ũrĩa niĩ ndĩ mwarĩrĩria waguo, na noguo ũtũmĩte njohwo! Hooyagĩrai nĩguo ndĩũheanage itegwĩtigĩra, o ta ũrĩa njagĩrĩirwo nĩ gwĩka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.20",
+            "verseOrgIds": [
+              "EPH.6.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngeithi cia Kũrigĩrĩria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EPH 6:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tukiko, mũrũ wa Ithe witũ ũrĩa mwende na ndungata ĩĩhokekete wĩra-inĩ wa Mwathani, nĩwe ũkũmwĩra maũndũ mothe, nĩgeetha o na inyuĩ mũmenye ũrĩa ndariĩ na ũrĩa njĩkaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.21",
+            "verseOrgIds": [
+              "EPH.6.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EPH 6:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndĩramũtũma kũrĩ inyuĩ nĩ ũndũ wa gĩtũmi gĩkĩ kĩũmbe, nĩguo mũmenye ũhoro witũ ũrĩa tũtariĩ, na nĩguo amũũmĩrĩrie ngoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.22",
+            "verseOrgIds": [
+              "EPH.6.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EPH 6:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ariũ na aarĩ a Ithe witũ, mũrogĩa na thayũ, na wendani hamwe na wĩtĩkio ciumĩte kũrĩ Ngai Ithe witũ o na kuuma kũrĩ Mwathani witũ Jesũ Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.23",
+            "verseOrgIds": [
+              "EPH.6.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EPH 6:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wega wa Ngai ũrogĩa na arĩa othe mendete Mwathani witũ Jesũ Kristũ na wendo ũrĩa ũtathiraga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EPH.6.24",
+            "verseOrgIds": [
+              "EPH.6.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PHP.intro",
+    "number": "intro",
+    "bookId": "PHP"
+  },
+  "previous": {
+    "id": "EPH.5",
+    "number": "5",
+    "bookId": "EPH"
+  }
+}

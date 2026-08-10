@@ -1,0 +1,792 @@
+{
+  "id": "PSA.141",
+  "number": "141",
+  "bookId": "PSA",
+  "reference": "Psalms 141",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "141",
+        "style": "c",
+        "sid": "PSA 141"
+      },
+      "items": [
+        {
+          "text": "141",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 141:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.1",
+                "verseOrgIds": [
+                  "PSA.141.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.1",
+            "verseOrgIds": [
+              "PSA.141.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 141:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let my prayer be set forth before thee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.2",
+            "verseOrgIds": [
+              "PSA.141.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.2",
+                "verseOrgIds": [
+                  "PSA.141.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "incense;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.2",
+            "verseOrgIds": [
+              "PSA.141.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.2",
+                "verseOrgIds": [
+                  "PSA.141.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the lifting up of my hands",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.2",
+            "verseOrgIds": [
+              "PSA.141.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.2",
+                "verseOrgIds": [
+                  "PSA.141.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the evening sacrifice.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.2",
+            "verseOrgIds": [
+              "PSA.141.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 141:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Set a watch, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.3",
+            "verseOrgIds": [
+              "PSA.141.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.3",
+                "verseOrgIds": [
+                  "PSA.141.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", before my mouth; keep the door of my lips.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.3",
+            "verseOrgIds": [
+              "PSA.141.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 141:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Incline not my heart to",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.4",
+            "verseOrgIds": [
+              "PSA.141.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "any",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.4",
+                "verseOrgIds": [
+                  "PSA.141.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.4",
+            "verseOrgIds": [
+              "PSA.141.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 141:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the righteous smite me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.5",
+            "verseOrgIds": [
+              "PSA.141.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.5",
+                "verseOrgIds": [
+                  "PSA.141.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a kindness: and let him reprove me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.5",
+            "verseOrgIds": [
+              "PSA.141.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.5",
+                "verseOrgIds": [
+                  "PSA.141.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "an excellent oil,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.5",
+            "verseOrgIds": [
+              "PSA.141.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.5",
+                "verseOrgIds": [
+                  "PSA.141.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall not break my head: for yet my prayer also",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.5",
+            "verseOrgIds": [
+              "PSA.141.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.5",
+                "verseOrgIds": [
+                  "PSA.141.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in their calamities.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.5",
+            "verseOrgIds": [
+              "PSA.141.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 141:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.6",
+            "verseOrgIds": [
+              "PSA.141.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 141:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.7",
+            "verseOrgIds": [
+              "PSA.141.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "wood",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.7",
+                "verseOrgIds": [
+                  "PSA.141.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.7",
+            "verseOrgIds": [
+              "PSA.141.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 141:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But mine eyes",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.8",
+            "verseOrgIds": [
+              "PSA.141.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.8",
+                "verseOrgIds": [
+                  "PSA.141.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto thee, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.8",
+            "verseOrgIds": [
+              "PSA.141.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "GOD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.8",
+                "verseOrgIds": [
+                  "PSA.141.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the Lord: in thee is my trust; leave not my soul destitute.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.8",
+            "verseOrgIds": [
+              "PSA.141.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 141:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keep me from the snares",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.9",
+            "verseOrgIds": [
+              "PSA.141.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.141.9",
+                "verseOrgIds": [
+                  "PSA.141.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they have laid for me, and the gins of the workers of iniquity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.9",
+            "verseOrgIds": [
+              "PSA.141.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 141:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the wicked fall into their own nets, whilst that I withal escape.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.141.10",
+            "verseOrgIds": [
+              "PSA.141.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.142",
+    "number": "142",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.140",
+    "number": "140",
+    "bookId": "PSA"
+  }
+}

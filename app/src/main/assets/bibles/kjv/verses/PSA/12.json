@@ -1,0 +1,726 @@
+{
+  "id": "PSA.12",
+  "number": "12",
+  "bookId": "PSA",
+  "reference": "Psalms 12",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "PSA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician upon Sheminith, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Help,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.1",
+            "verseOrgIds": [
+              "PSA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.1",
+                "verseOrgIds": [
+                  "PSA.12.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; for the godly man ceaseth; for the faithful fail from among the children of men.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.1",
+            "verseOrgIds": [
+              "PSA.12.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They speak vanity every one with his neighbour:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.2",
+                "verseOrgIds": [
+                  "PSA.12.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "flattering lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.2",
+                "verseOrgIds": [
+                  "PSA.12.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with a double heart do they speak.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.2",
+            "verseOrgIds": [
+              "PSA.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.3",
+                "verseOrgIds": [
+                  "PSA.12.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall cut off all flattering lips,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.3",
+                "verseOrgIds": [
+                  "PSA.12.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the tongue that speaketh proud things:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.3",
+            "verseOrgIds": [
+              "PSA.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who have said, With our tongue will we prevail; our lips",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.4",
+                "verseOrgIds": [
+                  "PSA.12.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our own: who",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.4",
+                "verseOrgIds": [
+                  "PSA.12.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lord over us?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.4",
+            "verseOrgIds": [
+              "PSA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.5",
+                "verseOrgIds": [
+                  "PSA.12.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; I will set",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.5",
+                "verseOrgIds": [
+                  "PSA.12.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in safety",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "from him that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.5",
+                "verseOrgIds": [
+                  "PSA.12.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "puffeth at him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.5",
+            "verseOrgIds": [
+              "PSA.12.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The words of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.6",
+                "verseOrgIds": [
+                  "PSA.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.6",
+                "verseOrgIds": [
+                  "PSA.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "pure words:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.6",
+                "verseOrgIds": [
+                  "PSA.12.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "silver tried in a furnace of earth, purified seven times.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.6",
+            "verseOrgIds": [
+              "PSA.12.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou shalt keep them, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.7",
+            "verseOrgIds": [
+              "PSA.12.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.12.7",
+                "verseOrgIds": [
+                  "PSA.12.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou shalt preserve them from this generation for ever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.7",
+            "verseOrgIds": [
+              "PSA.12.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The wicked walk on every side, when the vilest men are exalted.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.12.8",
+            "verseOrgIds": [
+              "PSA.12.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.13",
+    "number": "13",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.11",
+    "number": "11",
+    "bookId": "PSA"
+  }
+}

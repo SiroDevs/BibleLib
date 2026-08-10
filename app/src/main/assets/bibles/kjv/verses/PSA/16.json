@@ -1,0 +1,961 @@
+{
+  "id": "PSA.16",
+  "number": "16",
+  "bookId": "PSA",
+  "reference": "Psalms 16",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "16",
+        "style": "c",
+        "sid": "PSA 16"
+      },
+      "items": [
+        {
+          "text": "16",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Michtam of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 16:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Preserve me, O God: for in thee do I put my trust.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.1",
+            "verseOrgIds": [
+              "PSA.16.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 16:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "O my soul",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.2",
+                "verseOrgIds": [
+                  "PSA.16.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou hast said unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.2",
+            "verseOrgIds": [
+              "PSA.16.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.2",
+                "verseOrgIds": [
+                  "PSA.16.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.2",
+            "verseOrgIds": [
+              "PSA.16.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.2",
+                "verseOrgIds": [
+                  "PSA.16.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my Lord: my goodness",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.2",
+            "verseOrgIds": [
+              "PSA.16.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "extendeth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.2",
+                "verseOrgIds": [
+                  "PSA.16.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not to thee;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.2",
+            "verseOrgIds": [
+              "PSA.16.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 16:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "But",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.3",
+                "verseOrgIds": [
+                  "PSA.16.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to the saints that",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.3",
+            "verseOrgIds": [
+              "PSA.16.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.3",
+                "verseOrgIds": [
+                  "PSA.16.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the earth, and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.3",
+            "verseOrgIds": [
+              "PSA.16.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "to",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.3",
+                "verseOrgIds": [
+                  "PSA.16.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the excellent, in whom",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.3",
+            "verseOrgIds": [
+              "PSA.16.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.3",
+                "verseOrgIds": [
+                  "PSA.16.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "all my delight.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.3",
+            "verseOrgIds": [
+              "PSA.16.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 16:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Their sorrows shall be multiplied",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.4",
+            "verseOrgIds": [
+              "PSA.16.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.4",
+                "verseOrgIds": [
+                  "PSA.16.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hasten",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.4",
+            "verseOrgIds": [
+              "PSA.16.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "after",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.4",
+                "verseOrgIds": [
+                  "PSA.16.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "another",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.4",
+            "verseOrgIds": [
+              "PSA.16.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "god:",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.4",
+                "verseOrgIds": [
+                  "PSA.16.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "their drink offerings of blood will I not offer, nor take up their names into my lips.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.4",
+            "verseOrgIds": [
+              "PSA.16.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 16:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.5",
+            "verseOrgIds": [
+              "PSA.16.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.5",
+                "verseOrgIds": [
+                  "PSA.16.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.5",
+            "verseOrgIds": [
+              "PSA.16.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.5",
+                "verseOrgIds": [
+                  "PSA.16.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the portion of mine inheritance and of my cup: thou maintainest my lot.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.5",
+            "verseOrgIds": [
+              "PSA.16.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 16:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The lines are fallen unto me in pleasant",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.6",
+            "verseOrgIds": [
+              "PSA.16.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "places;",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.6",
+                "verseOrgIds": [
+                  "PSA.16.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "yea, I have a goodly heritage.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.6",
+            "verseOrgIds": [
+              "PSA.16.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 16:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will bless the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.7",
+            "verseOrgIds": [
+              "PSA.16.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.7",
+                "verseOrgIds": [
+                  "PSA.16.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", who hath given me counsel: my reins also instruct me in the night seasons.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.7",
+            "verseOrgIds": [
+              "PSA.16.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 16:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have set the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.8",
+            "verseOrgIds": [
+              "PSA.16.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.8",
+                "verseOrgIds": [
+                  "PSA.16.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "always before me: because",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.8",
+            "verseOrgIds": [
+              "PSA.16.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "he is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.8",
+                "verseOrgIds": [
+                  "PSA.16.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "at my right hand, I shall not be moved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.8",
+            "verseOrgIds": [
+              "PSA.16.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 16:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.9",
+            "verseOrgIds": [
+              "PSA.16.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 16:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.10",
+            "verseOrgIds": [
+              "PSA.16.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 16:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou wilt shew me the path of life: in thy presence",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.11",
+            "verseOrgIds": [
+              "PSA.16.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.11",
+                "verseOrgIds": [
+                  "PSA.16.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "fulness of joy; at thy right hand",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.11",
+            "verseOrgIds": [
+              "PSA.16.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.16.11",
+                "verseOrgIds": [
+                  "PSA.16.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "pleasures for evermore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.16.11",
+            "verseOrgIds": [
+              "PSA.16.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.17",
+    "number": "17",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.15",
+    "number": "15",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "id": "PSA.3",
+  "number": "3",
+  "bookId": "PSA",
+  "reference": "Psalms 3",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "PSA 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David, when he fled from Absalom his son.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.1",
+                "verseOrgIds": [
+                  "PSA.3.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", how are they increased that trouble me! many",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.1",
+                "verseOrgIds": [
+                  "PSA.3.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they that rise up against me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.1",
+            "verseOrgIds": [
+              "PSA.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Many",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.2",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.2",
+                "verseOrgIds": [
+                  "PSA.3.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "which say of my soul,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.2",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "There is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.2",
+                "verseOrgIds": [
+                  "PSA.3.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no help for him in God. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.2",
+            "verseOrgIds": [
+              "PSA.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But thou, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.3",
+                "verseOrgIds": [
+                  "PSA.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.3",
+                "verseOrgIds": [
+                  "PSA.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a shield for me; my glory, and the lifter up of mine head.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.3",
+            "verseOrgIds": [
+              "PSA.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I cried unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.4",
+            "verseOrgIds": [
+              "PSA.3.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.4",
+                "verseOrgIds": [
+                  "PSA.3.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with my voice, and he heard me out of his holy hill. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.4",
+            "verseOrgIds": [
+              "PSA.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I laid me down and slept; I awaked; for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.5",
+            "verseOrgIds": [
+              "PSA.3.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.5",
+                "verseOrgIds": [
+                  "PSA.3.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sustained me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.5",
+            "verseOrgIds": [
+              "PSA.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will not be afraid of ten thousands of people, that have set",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.6",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "themselves",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.6",
+                "verseOrgIds": [
+                  "PSA.3.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "against me round about.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.6",
+            "verseOrgIds": [
+              "PSA.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arise, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.7",
+                "verseOrgIds": [
+                  "PSA.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; save me, O my God: for thou hast smitten all mine enemies",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "upon",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.7",
+                "verseOrgIds": [
+                  "PSA.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the cheek bone; thou hast broken the teeth of the ungodly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.7",
+            "verseOrgIds": [
+              "PSA.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Salvation",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "belongeth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.8",
+                "verseOrgIds": [
+                  "PSA.3.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.8",
+                "verseOrgIds": [
+                  "PSA.3.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": thy blessing",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.3.8",
+                "verseOrgIds": [
+                  "PSA.3.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon thy people. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.3.8",
+            "verseOrgIds": [
+              "PSA.3.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.4",
+    "number": "4",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.2",
+    "number": "2",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,936 @@
+{
+  "id": "LEV.15",
+  "number": "15",
+  "bookId": "LEV",
+  "reference": "Abalawi 15",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 33,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "LEV 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Eubi ekorua ase omobere o Mwanyabaanto ekomokora abe oyotachenegeti",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LEV 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agakwana na Musa na Aroni, akabateebia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.1",
+            "verseOrgIds": [
+              "LEV.15.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LEV 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Kwana n’Abaisraeli, mobateebie ng’a onye omonto omosacha okorua amaache anga buna chimengere korwa ase ekiimo kiaye ki’obosacha, amaache ayio neubi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.2",
+            "verseOrgIds": [
+              "LEV.15.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LEV 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro achiikire ase amang’ana ayio: Amaache ayio karagenderere korua, gose atigire korua, omonto oyio tachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.3",
+            "verseOrgIds": [
+              "LEV.15.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LEV 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebirarero bionsi araararere, gose araikaransere, nigo biraabe ebitachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.4",
+            "verseOrgIds": [
+              "LEV.15.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LEV 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Monto onde bwensi aise gokuna ebiraarero bi’omonto oyio goika asibie chianga chiaye, esibie nomobere namaache, ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.5",
+            "verseOrgIds": [
+              "LEV.15.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LEV 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na onde bwensi oraikaransere egento omonto oria omorwaire aikaranserete, goika asibie chianga chiaye, esibie nomobere namaache, ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.6",
+            "verseOrgIds": [
+              "LEV.15.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LEV 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na onde bwensi orakune omonto oyio omorwaire goika asibie chianga chiaye, esibie nomobere namaache, ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.7",
+            "verseOrgIds": [
+              "LEV.15.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LEV 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oyio omorwaire karatwere omonto ochenegete amate, nere goika asibie chianga chiaye, esibie nomobere namaache, naende abe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.8",
+            "verseOrgIds": [
+              "LEV.15.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LEV 15:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Egeikaransero gekobekerwa eng’iti ekoriinwa, gokeraikaranserwe nomonto oria omorwaire, nakebe egetachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.9",
+            "verseOrgIds": [
+              "LEV.15.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LEV 15:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto aise gokuna egento kende gionsi kiareenge inse y’omonto oria omorwaire nabe oyotachenegeti goika omogoroba oyio; na onde bwensi oraimokie egento buna ekio nigo arasibie chianga chiaye, esibie nomobere namaache, ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.10",
+            "verseOrgIds": [
+              "LEV.15.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LEV 15:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye omonto oria omorwaire ogokuna omonto onde ataraisaba amaboko, oria okunwa goika asibie chianga chiaye, esibie nomobere namaache naende nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.11",
+            "verseOrgIds": [
+              "LEV.15.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LEV 15:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyongo ende yonsi omonto oria omorwaire arakune goika yaatwe, na egekorero kende gionsi keroiseirie omote arakune goika gesibigwe namaache.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.12",
+            "verseOrgIds": [
+              "LEV.15.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LEV 15:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omonto oria gachenekire korwa ase okorua kw’amaache aria anga buna achimengere goika abare amatuko atano na abere ay’ogocheneka kwaye. Erio asibie chianga chiaye, esibie nomobere namaache amaya a rooche, ere nabe oyochenegete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.13",
+            "verseOrgIds": [
+              "LEV.15.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LEV 15:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase rituko ria gatano na gatato aire amaruma abere, gose amage ’amaruma abere, ase obosio bwane inche Omonene agwo ase egesoero ki’Eema y’Omosangererekano, ayae Omokuani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.14",
+            "verseOrgIds": [
+              "LEV.15.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LEV 15:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omokuani arue erimo ribe ekeng’wanso ki’ebibe, na erinde ribe ekeng’wanso ki’ogosaambwa. Ase enchera eyio akore okobwatanigwa ase omonto oria ase obosio bwane, ase engencho y’okorua kwaye kw’amaache anga buna chimengere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.15",
+            "verseOrgIds": [
+              "LEV.15.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LEV 15:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Onye omonto omosacha ogosokia embusuro yaye y’oroiboro, rirorio esibie omobere namaache, na agenderere koba oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.16",
+            "verseOrgIds": [
+              "LEV.15.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LEV 15:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eanga ende yonsi, na ebinto binde bionsi bi’amasankwa, embusuro eyio y’oroiboro eratonyere, goika bisibigwe namaache, nabirobio nabibe ebitachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.17",
+            "verseOrgIds": [
+              "LEV.15.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LEV 15:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto onye orarire n’omokuungu, na omobekeire embusuro y’oroiboro, bonsi babere goika besibie emebere yabo namaache, nabarabwo nababe abatachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.18",
+            "verseOrgIds": [
+              "LEV.15.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LEV 15:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero omokungu are nomotienyi nigo arabe oyotachenegeti ase engaki y’amatuko atano na abere. Onde bwensi oramokune nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.19",
+            "verseOrgIds": [
+              "LEV.15.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LEV 15:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gento kende gionsi arabe okoraarera ekero are nomotienyi, nigo keraabe egetachenegeti, boigo n’ebinto bionsi araikaransere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.20",
+            "verseOrgIds": [
+              "LEV.15.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LEV 15:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onde bwensi orakune ebiraarero bi’omokuungu oyio goika asibie chianga chiaye, esibie nomobere namaache, ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.21",
+            "verseOrgIds": [
+              "LEV.15.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LEV 15:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na onde bwensi orakune egento omokungu oyio aikaranserete, nigo arasibie chianga chiaye, esibie nomobere namaache; ere nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.22",
+            "verseOrgIds": [
+              "LEV.15.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "LEV 15:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo kobiraabe ebiraarero, gose egento omokungu oria aikaranserete, omonto karabikune nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.23",
+            "verseOrgIds": [
+              "LEV.15.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "LEV 15:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omosacha karaarare n’omokuungu ore nomotienyi, ogotacheneka kw’omokuungu oyio nakobe asare, ere nabe oyotachenegeti ase engaki y’amatuko atano na abere, na gento kende gionsi araararere nakebe egetachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.24",
+            "verseOrgIds": [
+              "LEV.15.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "LEV 15:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omokungu karagenderere goiteka amanyinga ase amatuko amange atari ay’omotienyi oye, gose ayagoiteka goetania amatuko aye ay’omotienyi, nigo arabe oyotachenegeti ase engaki eyio yonsi arabe ogoiteka amanyinga; nabe oyotachenegeti buna ekero are nomotienyi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.25",
+            "verseOrgIds": [
+              "LEV.15.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LEV 15:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebiraarero bionsi are koraarera ekero agoiteka amanyinga, nigo biraabe ebitachenegeti buna ebi akoraarera ekero are nomotienyi, naboigo na kende gionsi araikaransere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.26",
+            "verseOrgIds": [
+              "LEV.15.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LEV 15:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na onde bwensi orakune ebinto ebio nabe oyotachenegeti; ere asibie chianga chiaye, esibie nomobere namaache, naende nabe oyotachenegeti goika omogoroba oyio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.27",
+            "verseOrgIds": [
+              "LEV.15.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LEV 15:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero ogoiteka kwaye kw’amanyinga gwakamire, abare amatuko atano na abere, erio nabe ochenekire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.28",
+            "verseOrgIds": [
+              "LEV.15.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LEV 15:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase rituko ria gatano na gatato aire amaruma abere gose amage ’amaruma abere ase Omokuani agwo ase egesoero ki’Eema y’Omosangererekano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.29",
+            "verseOrgIds": [
+              "LEV.15.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LEV 15:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omokuani arue erimo ribe ekeng’wanso ki’ebibe, na erinde eki’ogosaambwa. Ase enchera eyio nakore okobwatanigwa ase omokungu oria ase obosio bwane, ase engencho y’ogotacheneka kwaye kw’ogoiteka kw’amanyinga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.30",
+            "verseOrgIds": [
+              "LEV.15.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "LEV 15:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase enchera eyio okuurere Abaisraeli igoro y’ogotacheneka kwabo, tibaabaisa kogera Obomenyo bwane Obochenu bore ase egati yabo bobe obotachenegeti. Baise gokora bo, nigo barakwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.31",
+            "verseOrgIds": [
+              "LEV.15.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "LEV 15:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amachiiko ase omonto okorua amaache anga buna chimengere, na oyogosokia embusuro yaye y’oroiboro, na koba oyotachenegeti ase engencho eyio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.32",
+            "verseOrgIds": [
+              "LEV.15.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "LEV 15:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "naboigo nase omokungu ore nomotienyi, na ase onde bwensi, omosacha okorua amaache anga buna chimengere, na omokungu ogoiteka amanyinga, naende ase omosacha okoraara n’omokuungu otachenegeti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LEV.15.33",
+            "verseOrgIds": [
+              "LEV.15.33"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LEV.16",
+    "number": "16",
+    "bookId": "LEV"
+  },
+  "previous": {
+    "id": "LEV.14",
+    "number": "14",
+    "bookId": "LEV"
+  }
+}

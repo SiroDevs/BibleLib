@@ -1,0 +1,903 @@
+{
+  "id": "JOS.13",
+  "number": "13",
+  "bookId": "JOS",
+  "reference": "Joshua 13",
+  "verseCount": 33,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "JOS 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bũrũri ũrĩa Watigaire Gũtahwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, rĩrĩa Joshua aarĩ mũndũ mũkũrũ na mĩaka yake ĩkaingĩha-rĩ, Jehova akĩmwĩra atĩrĩ, “Ũrĩ mũkũrũ mũno,na no gũtigarĩte bũrũri mũnene mũno wa kwĩgwatĩrwo ũtuĩke wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.1",
+            "verseOrgIds": [
+              "JOS.13.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ũyũ nĩguo bũrũri ũrĩa ũtigarĩte: nĩ ngʼongo ciothe cia Afilisti na cia Ageshuru:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.2",
+            "verseOrgIds": [
+              "JOS.13.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuuma Rũũĩ rwa Shihoru mwena wa irathĩro wa bũrũri wa Misiri, o nginya bũrũri wa Ekironi ũrĩa ũrĩ mwena wa gathigathini, ũrĩa wonagwo ũrĩ bũrũri wa Akaanani (nĩguo bũrũri wa aathani arĩa atano a Afilisti arĩa maathanaga kũu Gaza, na Ashidodi, na Ashikeloni, na Gathu, na Ekironi, nĩguo bũrũri wa Aavimu);",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.3",
+            "verseOrgIds": [
+              "JOS.13.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kuuma gũthini, bũrũri wothe wa andũ a Kaanani, kuuma Ara kwa Asidoni gũthiĩ nginya Afeku, rũgongo rwa Aamori,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.4",
+            "verseOrgIds": [
+              "JOS.13.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na bũrũri wa a Gebali; na Lebanoni guothe nginya mwena wa irathĩro, kuuma Baali-Gadi mũhuro wa kĩrĩma kĩa Herimoni nginya Lebo-Hamathu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.5",
+            "verseOrgIds": [
+              "JOS.13.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Andũ othe arĩa matũũraga bũrũri ũrĩa ũrĩ irĩma kuuma Lebanoni nginya Misirefothu-Maimu, na nĩo Asidoni othe, nĩ niĩ ngaamaingata mehere mbere ya andũ a Isiraeli. Nawe ũtigĩrĩre nĩwagaĩra Isiraeli bũrũri ũcio ũtuĩke igai rĩao o ta ũrĩa ngwathĩte,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.6",
+            "verseOrgIds": [
+              "JOS.13.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 13:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ũũgae ũtuĩke igai harĩ mĩhĩrĩga ĩyo kenda, hamwe na nuthu ya mũhĩrĩga wa Manase.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.7",
+            "verseOrgIds": [
+              "JOS.13.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kũgaywo kwa Bũrũri wa Mwena wa Irathĩro rĩa Jorodani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 13:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nuthu ĩyo ĩngĩ ya andũ a mũhĩrĩga wa Manase, na wa Rubeni na wa Gadi nĩmarĩkĩtie kwamũkĩra igai rĩrĩa Musa aamaheete kũu mwena wa irathĩro rĩa Rũũĩ rwa Jorodani, ta ũrĩa we Musa ndungata ya Jehova aamaheete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.8",
+            "verseOrgIds": [
+              "JOS.13.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 13:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo mũhaka ũcio woimĩte Aroeri rũteere-inĩ rwa mũkuru wa Arinoni, na kuuma itũũra rĩrĩa rĩarĩ gatagatĩ ka mũkuru ũcio, hamwe na werũ ũrĩa mũtũũgĩru kũu Medeba, nginya o Diboni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.9",
+            "verseOrgIds": [
+              "JOS.13.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 13:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na matũũra mothe ma Sihoni mũthamaki wa Aamori, ũrĩa wathamakaga Heshiboni, nginya o mũhaka wa Aamoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.10",
+            "verseOrgIds": [
+              "JOS.13.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOS 13:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ ũgakinya Gileadi, bũrũri wa andũ a Geshuru na Maaka, o na kĩrĩma kĩa Herimoni guothe, na Bashani guothe, o nginya Saleka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.11",
+            "verseOrgIds": [
+              "JOS.13.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 13:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ũguo nĩ kuuga ũthamaki wothe wa Ogu kũu Bashani, ũrĩa waathanaga Ashitarothu na Edirei, nake ũcio nĩwe warĩ wa mũico wa matigari ma Arefaimu. Musa nĩamatooretie na agataha bũrũri wao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.12",
+            "verseOrgIds": [
+              "JOS.13.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOS 13:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, andũ a Isiraeli matiigana kũingata andũ a Geshuru na Maaka; nĩ ũndũ ũcio matũũraga hamwe na andũ a Isiraeli nginya ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.13",
+            "verseOrgIds": [
+              "JOS.13.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOS 13:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No ndaigana kũhe Alawii igai, kuona atĩ maruta mothe ma njino marĩa maarutagĩrwo Jehova, Ngai wa Isiraeli, nĩmo maarĩ igai rĩao, o ta ũrĩa aamerĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.14",
+            "verseOrgIds": [
+              "JOS.13.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOS 13:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Musa akĩgaĩra mũhĩrĩga wa Rubeni, kũringana na ũrĩa mbarĩ ciao ciatariĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.15",
+            "verseOrgIds": [
+              "JOS.13.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOS 13:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bũrũri ũrĩa uumĩte Aroeri rũteere-inĩ rwa mũkuru wa Arinoni, na kuuma itũũra rĩrĩa rĩarĩ gatagatĩ ka mũkuru ũcio, na kũrĩa guothe gũtũũgĩru kũhĩtũka Medeba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.16",
+            "verseOrgIds": [
+              "JOS.13.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOS 13:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nginya Heshiboni na matũũra marĩo marĩa maarĩ werũ-inĩ ũcio mũtũũgĩru, na nĩmo Diboni, na Bamothu Baali, na Bethi-Baali-Meoni, na",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.17",
+            "verseOrgIds": [
+              "JOS.13.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOS 13:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jahazu, na Kedemothu, na Mefaathu, na",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.18",
+            "verseOrgIds": [
+              "JOS.13.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOS 13:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kiriathaimu, na Sibima, na Zerethu-Shaharu rĩrĩa rĩrĩ kĩrĩma igũrũ kĩrĩa kĩarĩ kũu gĩtuamba kĩu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.19",
+            "verseOrgIds": [
+              "JOS.13.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOS 13:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na Bethi-Peoru, na iharũrũka cia Pisiga, na Bethi-Jeshimothu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.20",
+            "verseOrgIds": [
+              "JOS.13.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JOS 13:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "o na matũũra mothe marĩa maarĩ werũ-inĩ ũcio mũtũũgĩru o hamwe na ũthamaki wothe wa Sihoni mũthamaki wa Aamori, ũrĩa waathanaga Heshiboni. Musa nĩamũtooretie na agatooria anene a Midiani, na Evi, nao nĩ Rekemu, na Zuru, na Huri, na Reba, anene maanyiitanĩte na Sihoni arĩa maatũire bũrũri ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.21",
+            "verseOrgIds": [
+              "JOS.13.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JOS 13:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamwe na arĩa mooragĩirwo mbaara-inĩ, andũ a Isiraeli nĩmooragĩte Balamu mũrũ wa Beori ũrĩa warĩ mũragũri na rũhiũ rwa njora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.22",
+            "verseOrgIds": [
+              "JOS.13.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "JOS 13:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũhaka wa mũhĩrĩga wa Rubeni warĩ hũgũrũrũ-inĩ cia Rũũĩ rwa Jorodani. Matũũra macio hamwe na tũtũũra twamo nĩmo maarĩ igai rĩa mũhĩrĩga wa Rubeni, kũringana na ũrĩa mbarĩ ciao ciatariĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.23",
+            "verseOrgIds": [
+              "JOS.13.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "JOS 13:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo bũrũri ũrĩa Musa aaheete mũhĩrĩga wa Gadi, kũringana na ũrĩa mbarĩ ciao ciatariĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.24",
+            "verseOrgIds": [
+              "JOS.13.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "JOS 13:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ bũrũri wa Jazeri, na matũũra mothe ma Gileadi, na nuthu ya bũrũri wa andũ a Amoni o nginya Aroeri, gũkuhĩ na Raba;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.25",
+            "verseOrgIds": [
+              "JOS.13.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "JOS 13:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kuuma Heshiboni nginya Ramathu-Mizipe na Betonimu, na kuuma Mahanaimu o nginya bũrũri wa Debiri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.26",
+            "verseOrgIds": [
+              "JOS.13.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "JOS 13:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kũu gĩtuamba-inĩ, na Bethi-Haramu, na Bethi-Nimira, na Sukothu, na Zafoni hamwe na kũu kũngĩ gwathanagwo nĩ Sihoni mũthamaki wa Heshiboni (mwena wa irathĩro wa Rũũĩ rwa Jorodani, bũrũri ũrĩa ũkinyĩte mũthia-inĩ wa Iria rĩa Kinerethu).",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.27",
+            "verseOrgIds": [
+              "JOS.13.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "JOS 13:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Matũũra macio hamwe na tũtũũra twamo nĩmo maatuĩkire igai rĩa mũhĩrĩga wa Gadi, kũringana na ũrĩa mbarĩ ciao ciatariĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.28",
+            "verseOrgIds": [
+              "JOS.13.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "JOS 13:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũyũ nĩguo bũrũri ũrĩa Musa aaheete nuthu ya mũhĩrĩga wa Manase, ũguo nĩ kuuga nuthu ya nyũmba ya njiaro cia Manase, kũringana na ũrĩa mbarĩ ciao ciatariĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.29",
+            "verseOrgIds": [
+              "JOS.13.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "JOS 13:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ bũrũri ũrĩa uumĩte o Mahanaimu, hamwe na Bashani guothe, kũrĩa guothe gwathanagwo nĩ Ogu mũthamaki wa Bashani, o na matũũra mothe ma Jairu kũu Bashani, namo mothe nĩ matũũra mĩrongo ĩtandatũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.30",
+            "verseOrgIds": [
+              "JOS.13.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "JOS 13:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nuthu ya Gileadi, na Ashitarothu na Edirei (matũũra ma mũthamaki ma Ogu marĩa maarĩ kũu Bashani). Kũu nĩkuo kwarĩ kwa njiaro cia Makiru mũrũ wa Manase, ũguo nĩ kuuga nuthu ya ariũ a Makiru, kũringana na ũrĩa mbarĩ ciao ciatariĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.31",
+            "verseOrgIds": [
+              "JOS.13.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "JOS 13:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩĩrĩ nĩrĩo igai rĩrĩa Musa aaheanĩte hĩndĩ ĩrĩa aarĩ kũu werũ-inĩ wa Amoabi mũrĩmo wa Rũũĩ rwa Jorodani, mwena wa irathĩro wa Jeriko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.32",
+            "verseOrgIds": [
+              "JOS.13.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "JOS 13:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, mũhĩrĩga wa Lawi ndwaheirwo igai nĩ Musa; Jehova, Ngai wa Isiraeli, nĩwe igai rĩao, o ta ũrĩa aamerĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.13.33",
+            "verseOrgIds": [
+              "JOS.13.33"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.14",
+    "number": "14",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.12",
+    "number": "12",
+    "bookId": "JOS"
+  }
+}

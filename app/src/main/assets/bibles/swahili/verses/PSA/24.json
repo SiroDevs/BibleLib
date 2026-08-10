@@ -1,0 +1,904 @@
+{
+  "id": "PSA.24",
+  "number": "24",
+  "bookId": "PSA",
+  "reference": "Zaburi 24",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "24",
+        "style": "c",
+        "sid": "PSA 24"
+      },
+      "items": [
+        {
+          "text": "24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 24",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mfalme Mkuu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Zaburi ya Daudi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 24:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dunia ni mali ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.1",
+                "verseOrgIds": [
+                  "PSA.24.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", na vyote vilivyomo ndani yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:1"
+      },
+      "items": [
+        {
+          "text": "ulimwengu, na wote waishio ndani yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.1",
+            "verseOrgIds": [
+              "PSA.24.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 24:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "maana aliiwekea misingi yake baharini",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.2",
+            "verseOrgIds": [
+              "PSA.24.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:2"
+      },
+      "items": [
+        {
+          "text": "na kuifanya imara juu ya maji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.2",
+            "verseOrgIds": [
+              "PSA.24.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 24:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nani awezaye kuupanda mlima wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.3",
+                "verseOrgIds": [
+                  "PSA.24.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:3"
+      },
+      "items": [
+        {
+          "text": "Ni nani awezaye kusimama patakatifu pake?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.3",
+            "verseOrgIds": [
+              "PSA.24.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 24:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni yule mwenye mikono safi na moyo mweupe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:4"
+      },
+      "items": [
+        {
+          "text": "yule ambaye hakuinulia sanamu nafsi yake",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:4"
+      },
+      "items": [
+        {
+          "text": "au kuapa kwa kitu cha uongo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.4",
+            "verseOrgIds": [
+              "PSA.24.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 24:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huyo atapokea baraka kutoka kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.5",
+                "verseOrgIds": [
+                  "PSA.24.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:5"
+      },
+      "items": [
+        {
+          "text": "na hukumu ya haki kutoka kwa Mungu Mwokozi wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.5",
+            "verseOrgIds": [
+              "PSA.24.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 24:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hiki ndicho kizazi cha wale wamtafutao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:6"
+      },
+      "items": [
+        {
+          "text": "wale wautafutao uso wako, Ee Mungu wa Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.6",
+            "verseOrgIds": [
+              "PSA.24.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 24:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inueni vichwa vyenu, enyi malango,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:7"
+      },
+      "items": [
+        {
+          "text": "inukeni enyi milango ya kale,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:7"
+      },
+      "items": [
+        {
+          "text": "ili mfalme wa utukufu apate kuingia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.7",
+            "verseOrgIds": [
+              "PSA.24.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 24:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani huyu Mfalme wa utukufu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:8"
+      },
+      "items": [
+        {
+          "text": "Ni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "aliye na nguvu na uweza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:8"
+      },
+      "items": [
+        {
+          "text": "ni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.8",
+                "verseOrgIds": [
+                  "PSA.24.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "aliye hodari katika vita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.8",
+            "verseOrgIds": [
+              "PSA.24.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 24:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inueni vichwa vyenu, enyi malango,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:9"
+      },
+      "items": [
+        {
+          "text": "viinueni juu enyi milango ya kale,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:9"
+      },
+      "items": [
+        {
+          "text": "ili Mfalme wa utukufu apate kuingia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.9",
+            "verseOrgIds": [
+              "PSA.24.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 24:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani yeye, huyu Mfalme wa utukufu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:10"
+      },
+      "items": [
+        {
+          "text": "Ni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.24.10",
+                "verseOrgIds": [
+                  "PSA.24.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mwenye Nguvu Zote;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 24:10"
+      },
+      "items": [
+        {
+          "text": "yeye ndiye Mfalme wa utukufu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.24.10",
+            "verseOrgIds": [
+              "PSA.24.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.25",
+    "number": "25",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.23",
+    "number": "23",
+    "bookId": "PSA"
+  }
+}

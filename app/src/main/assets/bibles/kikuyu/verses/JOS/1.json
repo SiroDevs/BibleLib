@@ -1,0 +1,506 @@
+{
+  "id": "JOS.1",
+  "number": "1",
+  "bookId": "JOS",
+  "reference": "Joshua 1",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOS 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jehova Gwatha Joshua",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, thuutha wa gĩkuũ kĩa Musa ndungata ya Ngai, Jehova akĩĩra Joshua mũrũ wa Nuni, ũrĩa watungatagĩra Musa, atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.1",
+            "verseOrgIds": [
+              "JOS.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Musa ndungata yakwa nĩakuĩte. Na rĩrĩ, wee na andũ aya othe, mwĩhaarĩriei kũringa Rũũĩ rwa Jorodani mũtoonye bũrũri ũrĩa ngũmũhe, o ũcio ngũhe andũ a Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.2",
+            "verseOrgIds": [
+              "JOS.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, handũ o hothe harĩa mũgaakinya na makinya manyu nĩngamũhe, o ta ũrĩa ndeerire Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.3",
+            "verseOrgIds": [
+              "JOS.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bũrũri wanyu ũgaatambũrũka kuuma werũ-inĩ o nginya Lebanoni, na kuuma rũũĩ rũrĩa rũnene rwa Farati, nĩguo bũrũri wothe wa Ahiti, o nginya Iria-inĩ rĩrĩa Inene rĩa mwena wa ithũĩro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.4",
+            "verseOrgIds": [
+              "JOS.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gũtikagĩa mũndũ ũkaahota gũgwĩtiiria matukũ mothe ma muoyo waku. O ta ũrĩa ndaarĩ na Musa, ũguo noguo ngũkorwo hamwe nawe; ndigagũtiganĩria kana ngũtirike.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.5",
+            "verseOrgIds": [
+              "JOS.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Gĩa na hinya na ũũmĩrĩrie, nĩgũkorwo nĩwe ũgũtongoria andũ aya mathiĩ makagae bũrũri ũrĩa ndehĩtire na mwĩhĩtwa kũrĩ maithe mao atĩ nĩngamahe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.6",
+            "verseOrgIds": [
+              "JOS.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gĩa na hinya na ũũmĩrĩrie mũno. Menyagĩrĩra gwathĩkagĩra watho wothe ũrĩa ndungata yakwa Musa aagwathire wĩkage; ndũkanagarũrũke na mwena wa ũrĩo kana wa ũmotho ũũtige, nĩgeetha ũgĩĩage na ũhootani kũrĩa guothe ũrĩthiiaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.7",
+            "verseOrgIds": [
+              "JOS.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ciugo cia Ibuku rĩĩrĩ rĩa Watho itikanatige kwario nĩ kanua gaku; no wĩcũũranagie ũhoro warĩo mũthenya na ũtukũ, nĩgeetha ũmenyagĩrĩre gwĩka maũndũ marĩa mothe maandĩkĩtwo thĩinĩ warĩo. Hĩndĩ ĩyo nĩ ũkaagaacĩra, na ũgĩe na ũhootani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.8",
+            "verseOrgIds": [
+              "JOS.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Githĩ ti-niĩ ngwathĩte? Wee gĩa o na hinya na ũũmĩrĩrie. Ndũkanetigĩre o na kana; ũũrwo nĩ hinya, nĩgũkorwo Jehova Ngai waku arĩ hamwe nawe kũrĩa guothe ũrĩthiiaga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.9",
+            "verseOrgIds": [
+              "JOS.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOS 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Joshua agĩatha anene arĩa maaroraga andũ atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.10",
+            "verseOrgIds": [
+              "JOS.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOS 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Tuĩkanĩriai kambĩ-inĩ mũkĩĩraga andũ atĩrĩ, ‘Haarĩriai rĩĩgu mũige, nĩ ũndũ mĩthenya ĩtatũ kuuma ũmũthĩ yathira nĩguo mũkaaringa Rũũĩ rwa Jorodani nĩgeetha mũthiĩ mũtoonye na mwĩgwatĩre bũrũri ũrĩa Jehova Ngai wanyu ekũmũhe ũtuĩke wanyu.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.11",
+            "verseOrgIds": [
+              "JOS.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOS 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Joshua akĩarĩria andũ a mũhĩrĩga wa Rubeni, na wa Gadi, na nuthu ya mũhĩrĩga wa Manase, akĩmeera atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.12",
+            "verseOrgIds": [
+              "JOS.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOS 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ririkanai watho ũrĩa mwaheirwo nĩ Musa ndungata ya Jehova, akiuga atĩrĩ, ‘Jehova Ngai wanyu nĩamũheete ũhurũko na nĩamũheete bũrũri ũyũ.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.13",
+            "verseOrgIds": [
+              "JOS.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOS 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atumia anyu, na ciana cianyu, na ũhiũ wanyu no maikare bũrũri ũrĩa mwaheirwo nĩ Musa mwena wa irathĩro rĩa Rũũĩ rwa Jorodani, no arũme othe anyu othe arĩa njamba cia ita meeohete indo cia mbaara, no nginya maringe mũrĩmo ũũrĩa ũngĩ matongoretie ariũ a ithe wanyu. No nginya mũgateithie ariũ a ithe wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.14",
+            "verseOrgIds": [
+              "JOS.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOS 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nginya rĩrĩa Jehova akaamahe ũhurũko o ta ũrĩa amũheete inyuĩ, na nginya rĩrĩa o nao makegwatĩra bũrũri ũrĩa Jehova Ngai wanyu ekũmahe. Thuutha ũcio, no mũcooke mũgaikare bũrũri wanyu inyuĩ ene, ũrĩa mwaheirwo nĩ Musa ndungata ya Jehova mwena wa irathĩro wa Jorodani, ũcio ũrorete mwena ũrĩa riũa rĩrathagĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.15",
+            "verseOrgIds": [
+              "JOS.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOS 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo magĩcookeria Joshua, makĩmwĩra atĩrĩ, “Nĩtũgwĩka ũrĩa wothe ũgũtwatha na nĩ tũgũthiĩ kũrĩa guothe ũgũtũtũma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.16",
+            "verseOrgIds": [
+              "JOS.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOS 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O ta ũrĩa twaathĩkĩire Musa maũndũ-inĩ mothe-rĩ, ũguo noguo tũrĩgwathĩkagĩra. No rĩrĩ, Jehova Ngai waku arokorwo hamwe nawe o ta ũrĩa aarĩ hamwe na Musa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.17",
+            "verseOrgIds": [
+              "JOS.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOS 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ wothe ũkaaremera uuge waku na arege gwathĩkĩra maũndũ mothe marĩa ũkaamatha, no nginya mũndũ ũcio akooragwo. No rĩrĩ, gĩa na hinya na ũũmĩrĩrie!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.1.18",
+            "verseOrgIds": [
+              "JOS.1.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.2",
+    "number": "2",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.intro",
+    "number": "intro",
+    "bookId": "JOS"
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "id": "EXO.5",
+  "number": "5",
+  "bookId": "EXO",
+  "reference": "Thaama 5",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "5",
+        "style": "c",
+        "sid": "EXO 5"
+      },
+      "items": [
+        {
+          "text": "5",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gũthondeka Maturubarĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 5:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha-inĩ Musa na Harũni nĩmathiire kũrĩ Firaũni, makĩmwĩra atĩrĩ, “Jehova, o we Ngai wa Isiraeli, oigĩte ũũ: ‘Reke andũ akwa mathiĩ, nĩgeetha makagĩe na gĩathĩ gĩakwa werũ-inĩ.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.1",
+            "verseOrgIds": [
+              "EXO.5.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 5:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Firaũni akĩmooria atĩrĩ, “Jehova nĩwe ũ, atĩ ndĩmwathĩkĩre na ndekererie andũ a Isiraeli mathiĩ? Niĩ ndiũĩ Jehova na ndikũrekereria andũ a Isiraeli mathiĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.2",
+            "verseOrgIds": [
+              "EXO.5.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 5:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ makĩmwĩra atĩrĩ, “Ngai wa Ahibirania nĩatwarĩirie. Nĩ ũndũ ũcio twĩtĩkĩrie tũthiĩ rũgendo rwa mĩthenya ĩtatũ werũ-inĩ tũkarutĩre Jehova Ngai witũ magongona, kwaga ũguo no atũrehithĩrie mĩthiro kana atũniine na rũhiũ rwa njora.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.3",
+            "verseOrgIds": [
+              "EXO.5.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 5:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũthamaki wa bũrũri wa Misiri akĩmooria atĩrĩ, “Musa na Harũni, nĩ kĩĩ kĩratũma mũrute andũ wĩra-inĩ wao? Cookai wĩra-inĩ wanyu!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.4",
+            "verseOrgIds": [
+              "EXO.5.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 5:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Firaũni akiuga atĩrĩ, “Ta rorai, andũ a bũrũri rĩu nĩmaingĩhĩte, na inyuĩ nĩmũragiria marute wĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.5",
+            "verseOrgIds": [
+              "EXO.5.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 5:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya o ũcio Firaũni agĩatha arũgamĩrĩri a ngombo o na nyabaara cia andũ,akĩmeera atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.6",
+            "verseOrgIds": [
+              "EXO.5.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 5:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Mũtigacooke kũhe andũ a Isiraeli nyeki ya gũthondeka maturubarĩ; nĩmathiĩ magecarĩrie nyeki o ene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.7",
+            "verseOrgIds": [
+              "EXO.5.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 5:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũmeere atĩ no nginya mathondeke maturubarĩ mũigana o ta wa mbere; mũtikamanyiihĩrie gĩthimo. Nĩ igũũta; nĩkĩo mararĩra makoiga atĩrĩ, ‘Nĩtũrekwo tũthiĩ tũkarutĩre Ngai witũ igongona.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.8",
+            "verseOrgIds": [
+              "EXO.5.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 5:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maritũhĩriei wĩra nĩgeetha makoragwo makĩruta wĩra hĩndĩ ciothe, na mũtige gũthikĩrĩria ũhoro wa maheeni.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.9",
+            "verseOrgIds": [
+              "EXO.5.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 5:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao arũgamĩrĩri a ngombo na nyabaara cia andũ magĩthiĩ makĩĩra andũ atĩrĩ, “Firaũni ekuuga ũũ: ‘Ndigũcooka kũmũhe nyeki rĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.10",
+            "verseOrgIds": [
+              "EXO.5.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 5:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thiĩi mũgecarĩrie nyeki yanyu kũrĩa guothe mũrĩmĩona, no wĩra wanyu ndũkũnyihanyiihio o na hanini.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.11",
+            "verseOrgIds": [
+              "EXO.5.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 5:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ makĩhurunjũkĩra bũrũri wa Misiri guothe kũngania makoni ma ngano mamatũmĩre ta nyeki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.12",
+            "verseOrgIds": [
+              "EXO.5.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 5:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arũgamĩrĩri a ngombo makĩmahinyĩrĩria mũno, makameeraga atĩrĩ, “Rĩĩkiai wĩra ũrĩa mwagĩrĩirwo wa o mũthenya, o ta ũrĩa mwekaga rĩrĩa mwaheagwo nyeki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.13",
+            "verseOrgIds": [
+              "EXO.5.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 5:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ a Isiraeli arĩa maarĩ nyabaara arĩa maathuurĩtwo nĩ anene a ngombo a Firaũni magakĩhũũragwo, makoorio atĩrĩ, “Nĩ kĩĩ kĩragiririe mũhingie mũigana wa maturubarĩ ma ira kana ma ũmũthĩ, ta ũrĩa mũrekaga mbere?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.14",
+            "verseOrgIds": [
+              "EXO.5.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 5:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ a Isiraeli arĩa maarĩ nyabaara magĩthiĩ kũrĩ Firaũni kũmũthaitha, makĩmũũria atĩrĩ: “Nĩ kĩĩ gĩtũmĩte wĩke ndungata ciaku maũndũ maya?",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.15",
+            "verseOrgIds": [
+              "EXO.5.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 5:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndungata ciaku itiraheo nyeki, na no tũrerwo, ‘Thondekai maturubarĩ!’ Ndungata ciaku nĩirahũũrwo, no andũ aku nĩo marĩ na mahĩtia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.16",
+            "verseOrgIds": [
+              "EXO.5.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 5:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Firaũni agĩcookia atĩrĩ, “Igũũta ici! Inyuĩ mũrĩ igũũta! Nĩkĩo mũraikara mũkiugaga atĩrĩ, ‘Nĩtũrekwo tũkarutĩre Jehova igongona.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.17",
+            "verseOrgIds": [
+              "EXO.5.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 5:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cookai wĩra-inĩ. Mũtikũheo nyeki, na no nginya mũthondeke mũigana wa maturubarĩ marĩa mwagĩrĩirwo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.18",
+            "verseOrgIds": [
+              "EXO.5.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 5:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ a Isiraeli arĩa maarĩ nyabaara makĩmenya atĩ maarĩ thĩĩna-inĩ rĩrĩa meerirwo atĩrĩ, “Mũtikũnyiihĩrio mũigana wa maturubarĩ marĩa mwagĩrĩirwo gũthondeka o mũthenya.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.19",
+            "verseOrgIds": [
+              "EXO.5.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 5:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa moimire harĩ Firaũni-rĩ, magĩkora Musa na Harũni arĩa maametereire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.20",
+            "verseOrgIds": [
+              "EXO.5.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 5:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nao anyabara acio makĩmeera atĩrĩ, “Jehova aromuona na amũtuĩre ciira! Mũtũmĩte tũtuĩke kĩndũ kĩnungu kũrĩ Firaũni na anene ake, na mũkamane rũhiũ rwa njora moko-inĩ mao matũũrage.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.21",
+            "verseOrgIds": [
+              "EXO.5.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ngai Kwĩranĩra Gũkũũra Andũ Ake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 5:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa agĩcooka kũrĩ, Jehova akĩmũũria atĩrĩ, “Mwathani, nĩ kĩĩ gĩtũmĩte ũrehithĩrie andũ aya thĩĩna? Gĩkĩ nĩkĩo gĩatũmire ũndũme?",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.22",
+            "verseOrgIds": [
+              "EXO.5.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 5:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuuma rĩrĩa ndaathiire kũrĩ Firaũni kũmwarĩria thĩinĩ wa rĩĩtwa rĩaku, nĩareheire andũ aya thĩĩna, nawe ũkaaga gũteithũra andũ aku o na hanini.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.5.23",
+            "verseOrgIds": [
+              "EXO.5.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.6",
+    "number": "6",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.4",
+    "number": "4",
+    "bookId": "EXO"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "id": "2SA.20",
+  "number": "20",
+  "bookId": "2SA",
+  "reference": "2 Samũeli 20",
+  "verseCount": 26,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "2SA 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sheba Kũremera Daudi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, kwarĩ mũndũ wa ngũĩ wetagwo Sheba mũrũ wa Bikiri, Mũbenjamini, nake agĩkorwo aarĩ hau. Akĩhuha karumbeta, akĩanĩrĩra, akiuga atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.1",
+            "verseOrgIds": [
+              "2SA.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ othe a Isiraeli magĩtiganĩria Daudi, makĩrũmĩrĩra Sheba mũrũ wa Bikiri. No andũ a Juda makĩrũmĩrĩra mũthamaki wao kuuma Jorodani nginya Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.2",
+            "verseOrgIds": [
+              "2SA.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Daudi aacookire gĩikaro kĩa nyũmba yake ya ũthamaki kũu Jerusalemu-rĩ, akĩoya thuriya iria ikũmi aatigĩte imenyagĩrĩre nyũmba ya ũthamaki, makĩigwo nyũmba marangagĩrwo. Nĩamaheaga irio, no ndaakomire nao. Maatũũraga marĩ ahingĩre na matariĩ ta atumia a ndigwa nginya mũthenya wa gũkua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.3",
+            "verseOrgIds": [
+              "2SA.20.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthamaki akĩĩra Amasa atĩrĩ, “Tũmanĩra andũ a Juda moke kũrĩ niĩ mũira wa matukũ matatũ mataanathira, nawe mwene ũgaakorwo ho.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.4",
+            "verseOrgIds": [
+              "2SA.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩa Amasa aathiire gwĩta andũ a Juda, agĩikara ihinda iraaya kũrĩ rĩrĩa mũthamaki aamwĩrĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.5",
+            "verseOrgIds": [
+              "2SA.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Daudi akĩĩra Abishai atĩrĩ, “Rĩu Sheba mũrũ wa Bikiri nĩegũtũgera ngero nene kũrĩ ĩrĩa twagerirwo nĩ Abisalomu. Oya andũ a mwathi waku mũmũtengʼerie, kwaga ũguo aahota kuona matũũra mairigĩre oorĩre kuo, na ithuĩ twage kũmuona.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.6",
+            "verseOrgIds": [
+              "2SA.20.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ a Joabu, na Akerethi, na Apelethi, na njamba ciothe iria ciarĩ hinya makiumagara matongoretio nĩ Abishai. Nao magĩthiĩ moimĩte Jerusalemu, matengʼeretie Sheba mũrũ wa Bikiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.7",
+            "verseOrgIds": [
+              "2SA.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa maarĩ ihiga-inĩ rĩrĩa inene kũu Gibeoni, Amasa agĩũka kũmatũnga. Joabu eehumbĩte nguo ciake cia mbaara, na akehotora mũcibi na rũhiũ rũrĩ njora thĩinĩ. Rĩrĩa aathiire mbere, rũhiũ rũu rũkiuma njora-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.8",
+            "verseOrgIds": [
+              "2SA.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joabu akĩĩra Amasa atĩrĩ, “Ũrĩ mwega, mũrũ wa baba?” Hĩndĩ ĩyo Joabu akĩnyiita Amasa nderu na guoko gwake kwa ũrĩo nĩguo amũmumunye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.9",
+            "verseOrgIds": [
+              "2SA.20.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 20:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amasa ndaatindanĩrĩire na rũhiũ rũrĩa Joabu aanyiitĩte na guoko, nake Joabu akĩmũtheeca nda naruo, namo mara make makiuma makĩgũa thĩ, na ndaigana kũmũtheeca rĩngĩ, nake Amasa agĩkua. Ningĩ Joabu na mũrũ wa nyina Abishai magĩtengʼeria Sheba mũrũ wa Bikiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.10",
+            "verseOrgIds": [
+              "2SA.20.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 20:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũmwe wa andũ a Joabu akĩrũgama mwena-inĩ wa Amasa, akiuga atĩrĩ, “Mũndũ ũrĩa wothe ũrĩ mwena wa Joabu na mwena wa Daudi, nĩarũmĩrĩre Joabu!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.11",
+            "verseOrgIds": [
+              "2SA.20.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 20:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Amasa eegaragaragia thakame-inĩ yake arĩ njĩra gatagatĩ, nake mũndũ ũcio akĩona atĩ mbũtũ ciothe cia ita nĩciarũgamaga hau. Rĩrĩa aamenyire atĩ o mũndũ aakinyaga harĩ Amasa akarũgama-rĩ, akĩmũkururia kuuma njĩra-inĩ, akĩmũiga gĩthaka-inĩ, na akĩmũhumbĩra na nguo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.12",
+            "verseOrgIds": [
+              "2SA.20.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2SA 20:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amasa aarĩkia kweherio njĩra-inĩ, andũ othe makĩrũmĩrĩra Joabu, magĩtengʼeria Sheba mũrũ wa Bikiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.13",
+            "verseOrgIds": [
+              "2SA.20.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2SA 20:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sheba akĩhĩtũkĩra mĩhĩrĩga-inĩ yothe ya Isiraeli, agĩkinya Abeli-Bethi-Maaka, akĩhĩtũkĩra bũrũri-inĩ wothe wa Aberi, arĩa moonganire hamwe na makĩmũrũmĩrĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.14",
+            "verseOrgIds": [
+              "2SA.20.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2SA 20:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nacio mbũtũ ciothe cia ita hamwe na Joabu igĩũka na ikĩrigiicĩria Sheba kũu Abeli-Bethi-Maaka. Magĩthondeka kĩhumbu gĩa tĩĩri kũrigania na itũũra, nakĩo gĩkĩambatio nginya rũthingo rwa na nja rwa ũgitĩri wa itũũra. Na rĩrĩa maahũũraga rũthingo nĩguo marũmomore-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.15",
+            "verseOrgIds": [
+              "2SA.20.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2SA 20:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mũndũ-wa-nja ũmwe mũũgĩ agĩĩtana arĩ thĩinĩ wa itũũra rĩu, akiuga atĩrĩ, “Ta thikĩrĩriai! Ta thikĩrĩriai! Ĩrai Joabu oke haha nĩguo njarie nake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.16",
+            "verseOrgIds": [
+              "2SA.20.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2SA 20:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake agĩthiĩ erekeire harĩ we; nake mũndũ-wa-nja ũcio akĩmũũria atĩrĩ, “Wee nĩwe Joabu?” Nake agĩcookia atĩrĩ, “Ĩĩ nĩ niĩ.” Nake akiuga atĩrĩ, “Gĩthikĩrĩrie ũrĩa ndungata yaku ĩkuuga.” Nake akiuga atĩrĩ, “Nĩ thikĩrĩirie.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.17",
+            "verseOrgIds": [
+              "2SA.20.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2SA 20:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ-wa-nja ũcio agĩthiĩ na mbere kwaria, akiuga atĩrĩ, “Tene-rĩ, ciugo ici nĩciaragio, gũkeerwo atĩrĩ ‘Andũ makaahooyaga kĩrĩra kũu Abeli.’ Naguo ũhoro ũgaathirĩra kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.18",
+            "verseOrgIds": [
+              "2SA.20.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2SA 20:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ithuĩ-rĩ, tũrĩ andũ a thayũ na ehokeku thĩinĩ wa Isiraeli. Wee ũrageria kwananga itũũra rĩĩrĩ, na nĩrĩo nyina wa Isiraeli. Nĩ kĩĩ gĩgũtũma wende kũniina igai rĩa Jehova?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.19",
+            "verseOrgIds": [
+              "2SA.20.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2SA 20:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joabu agĩcookia atĩrĩ, “Ũhoro ũcio ũrondaihĩrĩria! Ũhoro wa kũniina na kwananga ũrondaihĩrĩria!",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.20",
+            "verseOrgIds": [
+              "2SA.20.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2SA 20:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũguo tiguo ũhoro ũtariĩ. Mũndũ wĩtagwo Sheba mũrũ wa Bikiri, kuuma bũrũri ũrĩa ũrĩ irĩma wa Efiraimu, nĩarĩkĩtie kwambararia guoko ookĩrĩre mũthamaki, ookĩrĩre Daudi. Tũnengerei mũndũ ũcio ũmwe tu, na nĩngũtigana na itũũra rĩĩrĩ.” Mũndũ-wa-nja ũcio akĩĩra Joabu atĩrĩ, “Nĩũgũikĩrio mũtwe wake kuuma rũthingo-inĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.21",
+            "verseOrgIds": [
+              "2SA.20.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2SA 20:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo mũtumia ũcio agĩthiĩ kũrĩ andũ othe arĩ na mataaro macio make ma ũũgĩ, nao magĩtinia mũtwe wa Sheba mũrũ wa Bikiri, makĩũikĩria Joabu. Nĩ ũndũ ũcio Joabu akĩhuha karumbeta, nao andũ ake makĩharagana kuuma itũũra-inĩ, o mũndũ agĩcooka gwake mũciĩ. Nake Joabu agĩcooka kũrĩ mũthamaki kũu Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.22",
+            "verseOrgIds": [
+              "2SA.20.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2SA 20:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Joabu nĩwe warĩ mũnene wa mbũtũ ciothe cia ita cia Isiraeli; nake Benaia mũrũ wa Jehoiada aarĩ mũnene wa Akerethi, o na Apelethi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.23",
+            "verseOrgIds": [
+              "2SA.20.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "2SA 20:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adoniramu aarĩ mũtongoria wa kũrutithia wĩra wa hinya; nake Jehoshafatu mũrũ wa Ahiludu nĩwe warĩ mwandĩki wa maũndũ ma ihinda rĩu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.24",
+            "verseOrgIds": [
+              "2SA.20.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "2SA 20:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nake Sheva nĩwe warĩ mwandĩki-marũa; Zadoku na Abiatharu maarĩ athĩnjĩri-Ngai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.25",
+            "verseOrgIds": [
+              "2SA.20.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "2SA 20:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nake Ira, ũrĩa Mũnjairi, aarĩ mũthĩnjĩri-Ngai wa Daudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.20.26",
+            "verseOrgIds": [
+              "2SA.20.26"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.21",
+    "number": "21",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.19",
+    "number": "19",
+    "bookId": "2SA"
+  }
+}

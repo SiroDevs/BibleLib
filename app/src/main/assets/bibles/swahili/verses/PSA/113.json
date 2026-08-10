@@ -1,0 +1,860 @@
+{
+  "id": "PSA.113",
+  "number": "113",
+  "bookId": "PSA",
+  "reference": "Zaburi 113",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "113",
+        "style": "c",
+        "sid": "PSA 113"
+      },
+      "items": [
+        {
+          "text": "113",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 113",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kumsifu",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa Wema Wake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 113:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.1",
+                "verseOrgIds": [
+                  "PSA.113.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 113:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 113:1"
+      },
+      "items": [
+        {
+          "text": "Enyi watumishi wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.1",
+                "verseOrgIds": [
+                  "PSA.113.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "msifuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:1"
+      },
+      "items": [
+        {
+          "text": "lisifuni jina la",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.1",
+                "verseOrgIds": [
+                  "PSA.113.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.1",
+            "verseOrgIds": [
+              "PSA.113.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 113:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jina la",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.2",
+            "verseOrgIds": [
+              "PSA.113.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.2",
+                "verseOrgIds": [
+                  "PSA.113.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "na lisifiwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.2",
+            "verseOrgIds": [
+              "PSA.113.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:2"
+      },
+      "items": [
+        {
+          "text": "sasa na hata milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.2",
+            "verseOrgIds": [
+              "PSA.113.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 113:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuanzia mawio ya jua hadi machweo yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.3",
+            "verseOrgIds": [
+              "PSA.113.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:3"
+      },
+      "items": [
+        {
+          "text": "jina la",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.3",
+            "verseOrgIds": [
+              "PSA.113.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.3",
+                "verseOrgIds": [
+                  "PSA.113.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "linapaswa kusifiwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.3",
+            "verseOrgIds": [
+              "PSA.113.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 113:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.4",
+                "verseOrgIds": [
+                  "PSA.113.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ametukuka juu ya mataifa yote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.4",
+            "verseOrgIds": [
+              "PSA.113.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:4"
+      },
+      "items": [
+        {
+          "text": "utukufu wake juu ya mbingu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.4",
+            "verseOrgIds": [
+              "PSA.113.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 113:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani aliye kama",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.5",
+            "verseOrgIds": [
+              "PSA.113.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.5",
+                "verseOrgIds": [
+                  "PSA.113.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wetu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.5",
+            "verseOrgIds": [
+              "PSA.113.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:5"
+      },
+      "items": [
+        {
+          "text": "Yeye ambaye ameketi juu kwenye kiti cha enzi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.5",
+            "verseOrgIds": [
+              "PSA.113.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 113:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ambaye huinama atazame chini",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.6",
+            "verseOrgIds": [
+              "PSA.113.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:6"
+      },
+      "items": [
+        {
+          "text": "aone mbingu na nchi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.6",
+            "verseOrgIds": [
+              "PSA.113.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 113:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huwainua maskini kutoka mavumbini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.7",
+            "verseOrgIds": [
+              "PSA.113.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:7"
+      },
+      "items": [
+        {
+          "text": "na kuwanyanyua wahitaji kutoka kwenye jalala,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.7",
+            "verseOrgIds": [
+              "PSA.113.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 113:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "huwaketisha pamoja na wakuu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.8",
+            "verseOrgIds": [
+              "PSA.113.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:8"
+      },
+      "items": [
+        {
+          "text": "pamoja na wakuu wa watu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.8",
+            "verseOrgIds": [
+              "PSA.113.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 113:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Humjalia mwanamke tasa kutulia nyumbani mwake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.9",
+            "verseOrgIds": [
+              "PSA.113.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 113:9"
+      },
+      "items": [
+        {
+          "text": "akiwa mama watoto mwenye furaha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.9",
+            "verseOrgIds": [
+              "PSA.113.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 113:9"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 113:9"
+      },
+      "items": [
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.9",
+            "verseOrgIds": [
+              "PSA.113.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.113.9",
+                "verseOrgIds": [
+                  "PSA.113.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.113.9",
+            "verseOrgIds": [
+              "PSA.113.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.114",
+    "number": "114",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.112",
+    "number": "112",
+    "bookId": "PSA"
+  }
+}

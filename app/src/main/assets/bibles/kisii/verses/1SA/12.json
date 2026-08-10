@@ -1,0 +1,765 @@
+{
+  "id": "1SA.12",
+  "number": "12",
+  "bookId": "1SA",
+  "reference": "1 Samweli 12",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "1SA 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Samweli ogotigana n’Abaisraeli",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samweli agateebia Abaisraeli bonsi: “Rora, nabeire nkoigwa amang’ana aino; nakorire aya mwamboria, nabekire omorwoti orabagambere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.1",
+            "verseOrgIds": [
+              "1SA.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono omorwoti oino oyio orabaraae. Inche bono nagotire, namerire chimbuche; abamura baane nigo bare amo nainwe. Inche nabeire nkobaraa korwa obosae bwane goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.2",
+            "verseOrgIds": [
+              "1SA.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono inche nao inde aa. Inwe mobe kirori ase ’nde ase obosio bw’Omonene na obw’omoakwa amaguta oye. Inee! Neng’ombe ya ng’o nairete? Gose netigere ya ng’o nairete? Ning’o naunereretie, gose nakorerete bobe? Gose nkorwa ase okoboko kwa ng’o naetwe riaaki rikang’ukoria amaiso aane? Onye nakorete ayio, nimbairanerie ebio nairete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.3",
+            "verseOrgIds": [
+              "1SA.12.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bakairaneria: “Aye tigwatoriananetie kende, gose tigwatokorerete bobe, gose tikwairete gento ki’omonto onde bwensi.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.4",
+            "verseOrgIds": [
+              "1SA.12.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samweli akabateebia, “Rituko ria rero Omonene nigo are kirori ase more, boigo omoakwa amaguta oye nigo are kirori ng’a inwe timonyoreti gento kende gionsi ase okoboko kwane.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.5",
+            "verseOrgIds": [
+              "1SA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Barabwo bakairaneria, “Ee, Omonene nere kirori.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.5",
+            "verseOrgIds": [
+              "1SA.12.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samweli agateebia Abanto, “Omonene, oria ochorete Musa na Aroni, naende akarenta chisokoro chiaino korwa ase ense ya Misiri, nere kirori.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.6",
+            "verseOrgIds": [
+              "1SA.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki bono tenena, mokire‐kiri, erinde mbasoere ase obosio bw’Omonene ase okobainyoria ogokora gwonsi okoronge, okw’Omonene abakorerete inwe ne chisokoro chiaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.7",
+            "verseOrgIds": [
+              "1SA.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Yakobo asoete Misiri, na Abamisiri bakabachanda, chisokoro chiaino chikarera ase Omonene ng’a achikoonye, n’Omonene agatoma Musa na Aroni. Barabwo bakabang’anyia korwa Misiri, bakabarenta bamenye ase ense eye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.8",
+            "verseOrgIds": [
+              "1SA.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende barabwo bakeba Omonene, Nyasae obo. Ase igo ere akababeeka ase amaboko a Sisera, omotang’ani bw’abarwani b’omochie o Hazori na ay’Abafilisti, na ay’omorwoti bw’Abamoabu, nabarabwo bakabarwania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.9",
+            "verseOrgIds": [
+              "1SA.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo bakarera ase Omonene, bakaboora; Twakorire ebibe, ekiagera twatigire Omonene; twakoreire chinyasae chiria chikorokwa Baali na Asitaroti. Bono totoorie korwa ase amaboko yababisa baito, naintwe ntogokorere aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.10",
+            "verseOrgIds": [
+              "1SA.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eri’Omonene agatoma Yeruba‐Baali,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.11",
+            "verseOrgIds": [
+              "1SA.12.11"
+            ]
+          }
+        },
+        {
+          "text": "na Baraki, na Yefita, na inche Samweli, akabatooria korwa ase amaboko yababisa baino baabaetanaine, nainwe mokaba mokomenya ase obotoereru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.11",
+            "verseOrgIds": [
+              "1SA.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ekero mwaroche Nahasi, omorwoti bw’Abaamoni, ogocha kobarwania moganteebia: Ntorigetie omorwoti oratogambere, nony’Omonene orenge omorwoti oino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.12",
+            "verseOrgIds": [
+              "1SA.12.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1SA 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Gaki bono morigererie omorwoti oino mwachorire, oyo mwaboria moegwe. Rora, Omonene obekire omorwoti abagaambere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.13",
+            "verseOrgIds": [
+              "1SA.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1SA 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Komoramoiroke Omonene na komokorera, na koigwa eriogi riaye, na timwanga koigwera amachiiko aye, naende onye inwe amo nomorwoti oyo okobagaambera mokomotunyan’Omonene, Nyasae oino, rirorio nebe buya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.14",
+            "verseOrgIds": [
+              "1SA.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Motaigwereti eriogi ri’Omonene, korende mokwanga koigwera amachiiko aya, rirorio okoboko kwaye nigo korabe mamincha yaino buna kwareenge mamincha ye chisokoro chiaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.15",
+            "verseOrgIds": [
+              "1SA.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1SA 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono tenena, mokire‐kiri, morore ring’ana eri rinene Omonene arakore ase amaiso aino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.16",
+            "verseOrgIds": [
+              "1SA.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1SA 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Bono tari engaki ye rigesa ri’engano? Nonya nabo nimosabe Omonene arente enkoba na embura, erinde momanye ng’a mwakorire obobe obonene ase okoboria ng’a moegwe omorwoti.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.17",
+            "verseOrgIds": [
+              "1SA.12.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1SA 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo Samweli agasaba Omonene, nere agatoma enkoba na embura ase rituko riria. Abanto bonsi bakoboa Omonene, bakoboa na Samweli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.18",
+            "verseOrgIds": [
+              "1SA.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1SA 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagateebia Samweli, “Tosabere intwe, abasomba bao, ase Omonene, Nyasae oo, erinde titokwa. Twarorire ng’a amo nebibe biaito bionsi twamentire ebibe binde ebiaao bi’okoboria ng’a toegwe omorwoti.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.19",
+            "verseOrgIds": [
+              "1SA.12.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1SA 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Samweli akabairaneria, “Timwoboa! Amaene, mwakorire amabe aya onsi, korende nonya nabo, timobaisa koonchoka gochia ensemo na gotiga koigwera Omonene, korende momokorere ne chinkoro chiaino chionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.20",
+            "verseOrgIds": [
+              "1SA.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1SA 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timoonchokera chinyasae chire bosa chitanyare kobakoonya gose kobatooria, ekiagera nigo chire bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.21",
+            "verseOrgIds": [
+              "1SA.12.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1SA 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engencho y’erieta riaye Omonene takobaanga inwe Abanto baye, ekiagera nigo anchete kobakora mobe abaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.22",
+            "verseOrgIds": [
+              "1SA.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1SA 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana ayio abe aare nainche ng’a ninkore ebibe ase Omonene ase ogotiga kobasabera inwe. Ribaga ri’ayio nimborokie enchera ere engiya na endonge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.23",
+            "verseOrgIds": [
+              "1SA.12.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1SA 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moiroke Omonene bweka, momokorere ase obwegenwa bwe chinkoro chiaino chionsi, mobe mokoinyora aya onsi amanene abakoreire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.24",
+            "verseOrgIds": [
+              "1SA.12.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1SA 12:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende onye mokogenderera gokora ebibe, rirorio nigo morasirigwe amo nomorwoti oino.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.12.25",
+            "verseOrgIds": [
+              "1SA.12.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.13",
+    "number": "13",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.11",
+    "number": "11",
+    "bookId": "1SA"
+  }
+}

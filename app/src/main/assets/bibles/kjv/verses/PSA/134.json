@@ -1,0 +1,353 @@
+{
+  "id": "PSA.134",
+  "number": "134",
+  "bookId": "PSA",
+  "reference": "Psalms 134",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "134",
+        "style": "c",
+        "sid": "PSA 134"
+      },
+      "items": [
+        {
+          "text": "134",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Song of degrees.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 134:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, bless ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.1",
+                "verseOrgIds": [
+                  "PSA.134.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", all",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "ye",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.1",
+                "verseOrgIds": [
+                  "PSA.134.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "servants of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.1",
+                "verseOrgIds": [
+                  "PSA.134.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", which by night stand in the house of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.1",
+                "verseOrgIds": [
+                  "PSA.134.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 134:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lift up your hands",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.2",
+            "verseOrgIds": [
+              "PSA.134.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "in",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.2",
+                "verseOrgIds": [
+                  "PSA.134.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the sanctuary, and bless the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.2",
+            "verseOrgIds": [
+              "PSA.134.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.2",
+                "verseOrgIds": [
+                  "PSA.134.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.2",
+            "verseOrgIds": [
+              "PSA.134.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 134:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.3",
+            "verseOrgIds": [
+              "PSA.134.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.134.3",
+                "verseOrgIds": [
+                  "PSA.134.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "that made heaven and earth bless thee out of Zion.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.3",
+            "verseOrgIds": [
+              "PSA.134.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.135",
+    "number": "135",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.133",
+    "number": "133",
+    "bookId": "PSA"
+  }
+}

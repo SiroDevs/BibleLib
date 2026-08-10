@@ -1,0 +1,356 @@
+{
+  "id": "ECC.11",
+  "number": "11",
+  "bookId": "ECC",
+  "reference": "Omorandia 11",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "ECC 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Aya omonto omong’aini agokora",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eteria endagera yao igoro ye chinyancha, na magega y’amatuko amange nekoiranere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.1",
+            "verseOrgIds": [
+              "ECC.11.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 11:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atanana ebi obwate oe abanto batano na babere, gose batano na batato, ekiagera tomanyeti amabe agochia konyora ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.2",
+            "verseOrgIds": [
+              "ECC.11.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amare gaichoire nembura, nigo embura eyio egotwa igoro ase ense, na omote koragwe ororie ensemo ya Irianyi gose eya sugusu, nigo oragenderere kobeera inse agwo ase ogwete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.3",
+            "verseOrgIds": [
+              "ECC.11.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 11:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto okona‐korigereria komanya igoro y’embeo tagosimeka, na oyo okona‐korigereria amare buna are takogesa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.4",
+            "verseOrgIds": [
+              "ECC.11.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 11:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna otamanyeti ase embeo ekogusa gochia, gose buna amauga ’omwana ore ase enda ya ng’ina agokina, naboigo tokonyara komanya emeremo ya Nyasae oyio ogokora amang’ana onsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.5",
+            "verseOrgIds": [
+              "ECC.11.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 11:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Busura embusuro yao mambia, nonya mogoroba totiga koyebusura, ekiagera tomanyeti eye erame, neye gose neria, gose nchionsi amo chirame buya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.6",
+            "verseOrgIds": [
+              "ECC.11.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 11:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omobaso nigo ore omwansu, na amaiso nigo akogokigwa korora erioba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.7",
+            "verseOrgIds": [
+              "ECC.11.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto karagenderere koba moyo ase engaki y’emiaka emenge, tiga agokere engaki eyio yonsi, korende goika ainyore ng’a amatuko ’omosunte nabe amange mono. Onsi aya agochi‐gocha nigo are bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.8",
+            "verseOrgIds": [
+              "ECC.11.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosemigwa kw’abasae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye omosae, gokera engaki y’obosae bwao, tiga enkoro yao ekorentere omogooko ase amatuko ’obosae bwao; bwatia chinchera chi’okogania gw’enkoro yao, na aya amaiso ao akorora. Korende oinyore ng’a ase ayio onsi Nyasae nakorangerie ase ekiina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.9",
+            "verseOrgIds": [
+              "ECC.11.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio tiga aya akogochanda arue ase enkoro yao, na aya akorenta obororo ase omobere oo arue boigo, ekiagera obosae na obuya bw’obogima nigo bore bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.10",
+            "verseOrgIds": [
+              "ECC.11.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.12",
+    "number": "12",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.10",
+    "number": "10",
+    "bookId": "ECC"
+  }
+}

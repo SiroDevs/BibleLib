@@ -1,0 +1,923 @@
+{
+  "id": "PSA.140",
+  "number": "140",
+  "bookId": "PSA",
+  "reference": "Psalms 140",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "140",
+        "style": "c",
+        "sid": "PSA 140"
+      },
+      "items": [
+        {
+          "text": "140",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 140:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Deliver me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.1",
+            "verseOrgIds": [
+              "PSA.140.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.1",
+                "verseOrgIds": [
+                  "PSA.140.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", from the evil man: preserve me from the violent man;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.1",
+            "verseOrgIds": [
+              "PSA.140.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 140:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Which imagine mischiefs in",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.2",
+            "verseOrgIds": [
+              "PSA.140.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "their",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.2",
+                "verseOrgIds": [
+                  "PSA.140.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "heart; continually are they gathered together",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.2",
+            "verseOrgIds": [
+              "PSA.140.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.2",
+                "verseOrgIds": [
+                  "PSA.140.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "war.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.2",
+            "verseOrgIds": [
+              "PSA.140.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 140:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They have sharpened their tongues like a serpent; adders' poison",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.3",
+            "verseOrgIds": [
+              "PSA.140.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.3",
+                "verseOrgIds": [
+                  "PSA.140.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "under their lips. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.3",
+            "verseOrgIds": [
+              "PSA.140.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 140:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keep me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.4",
+            "verseOrgIds": [
+              "PSA.140.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.4",
+                "verseOrgIds": [
+                  "PSA.140.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.4",
+            "verseOrgIds": [
+              "PSA.140.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 140:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.5",
+            "verseOrgIds": [
+              "PSA.140.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 140:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I said unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.6",
+            "verseOrgIds": [
+              "PSA.140.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.6",
+                "verseOrgIds": [
+                  "PSA.140.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.6",
+            "verseOrgIds": [
+              "PSA.140.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.6",
+                "verseOrgIds": [
+                  "PSA.140.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God: hear the voice of my supplications, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.6",
+            "verseOrgIds": [
+              "PSA.140.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.6",
+                "verseOrgIds": [
+                  "PSA.140.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.6",
+            "verseOrgIds": [
+              "PSA.140.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 140:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.7",
+            "verseOrgIds": [
+              "PSA.140.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "GOD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.7",
+                "verseOrgIds": [
+                  "PSA.140.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.7",
+            "verseOrgIds": [
+              "PSA.140.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 140:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Grant not, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.8",
+            "verseOrgIds": [
+              "PSA.140.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.8",
+                "verseOrgIds": [
+                  "PSA.140.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", the desires of the wicked: further not his wicked device;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.8",
+            "verseOrgIds": [
+              "PSA.140.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "lest",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.8",
+                "verseOrgIds": [
+                  "PSA.140.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they exalt themselves. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.8",
+            "verseOrgIds": [
+              "PSA.140.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 140:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "As for",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.9",
+                "verseOrgIds": [
+                  "PSA.140.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the head of those that compass me about, let the mischief of their own lips cover them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.9",
+            "verseOrgIds": [
+              "PSA.140.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 140:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.10",
+            "verseOrgIds": [
+              "PSA.140.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 140:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.11",
+            "verseOrgIds": [
+              "PSA.140.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "him",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.11",
+                "verseOrgIds": [
+                  "PSA.140.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.11",
+            "verseOrgIds": [
+              "PSA.140.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 140:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I know that the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.12",
+            "verseOrgIds": [
+              "PSA.140.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.12",
+                "verseOrgIds": [
+                  "PSA.140.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will maintain the cause of the afflicted,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.12",
+            "verseOrgIds": [
+              "PSA.140.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.140.12",
+                "verseOrgIds": [
+                  "PSA.140.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the right of the poor.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.12",
+            "verseOrgIds": [
+              "PSA.140.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 140:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.140.13",
+            "verseOrgIds": [
+              "PSA.140.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.141",
+    "number": "141",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.139",
+    "number": "139",
+    "bookId": "PSA"
+  }
+}

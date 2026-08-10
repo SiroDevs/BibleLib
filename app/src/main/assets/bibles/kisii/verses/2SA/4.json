@@ -1,0 +1,384 @@
+{
+  "id": "2SA.4",
+  "number": "4",
+  "bookId": "2SA",
+  "reference": "2 Samweli 4",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "2SA 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Isi‐Boseti ogoitwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2SA 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Isi‐Boseti, mosinto o Saulo, aigwete ng’a Abineri oitirwe agwo Heburoni, akerusia moyo, na Abaisraeli bonsi bagaichana na gokumia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.1",
+            "verseOrgIds": [
+              "2SA.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2SA 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mosinto oria o Saulo nabwate abanto babere abatang’ani b’abarwani b’esegi, abareenge abasakori. Oyomo nigo are korokwa Baana, na oria onde Rekabu. Barabwo nigo barenge basinto ba Rimoni o Beeroti, omochie bw’orogongo rwa Benjamini. (Beeroti nigo obaretwe koba orogongo rwa Benjamini.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.2",
+            "verseOrgIds": [
+              "2SA.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2SA 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Beeroti konya batamire gochia Gitaimu, agwo nao bamenyete goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.3",
+            "verseOrgIds": [
+              "2SA.4.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2SA 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yonathani, mosinto o Saulo, nabwate omwana oremarete amagoro. Omwana oyio konya okoorire emiaka etano ekero amang’ana y’ogokwa gwa Saulo na okwa Yonathani arentetwe korwa Yesireeli. Omoreri akaimokia omwana oria, na ekero arenge gotama, omwana oria agaakera inse, na igo akaba ekerema. Omwana oria nigo are korokwa Mefiboseti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.4",
+            "verseOrgIds": [
+              "2SA.4.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2SA 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rekabu na Baana, basinto ba Rimoni Omobeeroti, bagachaaka orogendo rw’abo, na ekero kia mobaso gati bagaika ase enyomba ya Isi‐Boseti, bakamonyora otimogete nyomba mwaye okendererete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.5",
+            "verseOrgIds": [
+              "2SA.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2SA 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagekora buna n’engaano bagochia kwoyia. Ekero baigete nyomba ime, bakabeta Isi‐Boseti omoyio enda. Erio Rekabu na Baana omwabo bagatama.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.6",
+            "verseOrgIds": [
+              "2SA.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2SA 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo banyorete Isi‐Boseti oraire borere bwaye agwo ase akanyomba g’okorara bakamoika ang’e bakamoita, bakamobutora omotwe bakayoira; erio bakageenda ase obotuko bwonsi goetera ase enchera y’Ekerubo Ekiomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.7",
+            "verseOrgIds": [
+              "2SA.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2SA 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakaira omotwe oyio o Isi‐Boseti ase Daudi agwo Heburoni, bakamotebia, “Rora, oyo nomotwe o Isi‐Boseti, mosinto o Saulo, omobisa oo, oyo orenge korigia obogima bwao. Rero Omonene okoruseirie aye, Omonene oito, egesiomba igoro ya Saulo na igoro y’ororeria rw’aye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.8",
+            "verseOrgIds": [
+              "2SA.4.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2SA 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Daudi akairaneria Rekabu na Baana omwabo, abareenge basinto ba Rimoni Omobeeroti, akabora, “Ekeene, buna Omonene are moyo, oyo ontooretie korwa ase emechaando emenge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.9",
+            "verseOrgIds": [
+              "2SA.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2SA 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekero omonto antebetie igoro y’ogokwa gwa Saulo, na okagete ng’a igo andeteire amang’ana amaya, inche nigo namobwatete nkamoita aaria Sikilagi. Oko nakwo ogoakana namoete ase amang’ana aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.10",
+            "verseOrgIds": [
+              "2SA.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2SA 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Tari bobe mono kobua, ekero abanto ababe baitire omonyaboronge karaire borere nyomba mwaye? Tinkomoruseria egesiomba na gosiria abwo bamoitire korwa ase ense?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.11",
+            "verseOrgIds": [
+              "2SA.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2SA 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Daudi agachiika abanto baye, barabwo bagaita Rekabu na Baana, bakababutora amaboko na amagoro, bakabasunga ang’e ne ritibo agwo Heburoni. Korende omotwe o Isi‐Boseti bakayoira, bakayotindeka ase embeera y’Abineri agwo Heburoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2SA.4.12",
+            "verseOrgIds": [
+              "2SA.4.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2SA.5",
+    "number": "5",
+    "bookId": "2SA"
+  },
+  "previous": {
+    "id": "2SA.3",
+    "number": "3",
+    "bookId": "2SA"
+  }
+}

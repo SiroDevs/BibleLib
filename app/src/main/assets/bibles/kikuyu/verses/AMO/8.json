@@ -1,0 +1,406 @@
+{
+  "id": "AMO.8",
+  "number": "8",
+  "bookId": "AMO",
+  "reference": "Amosi 8",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "AMO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Gĩkabũ kĩa Matunda Meeru",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "AMO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwathani Jehova aanyonirie ũũ: aanyonirie gĩkabũ kĩrĩ na matunda meeru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.1",
+            "verseOrgIds": [
+              "AMO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "AMO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩnjũũria atĩrĩ, “Amosi, nĩ kĩĩ kĩu ũroona?” Ngĩmũcookeria atĩrĩ, “Ndĩrona gĩkabũ kĩrĩ na matunda meeru.” Ningĩ Jehova akĩnjĩĩra atĩrĩ, “Ihinda rĩa mũthia nĩ ikinyu rĩa andũ akwa a Isiraeli; ndigacooka kũmaiguĩra tha rĩngĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.2",
+            "verseOrgIds": [
+              "AMO.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "AMO 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwathani Jehova ekuuga atĩrĩ, “Mũthenya ũcio-rĩ, nyĩmbo iria ciinagwo kũu hekarũ-inĩ ikaagarũrũka ituĩke kĩrĩro. Ciimba nyingĩ mũno igaateagwo kũndũ guothe gũkirĩtwo ki!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.3",
+            "verseOrgIds": [
+              "AMO.8.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "AMO 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.4",
+            "verseOrgIds": [
+              "AMO.8.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "AMO 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.5",
+            "verseOrgIds": [
+              "AMO.8.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "AMO 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.6",
+            "verseOrgIds": [
+              "AMO.8.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "AMO 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova o we ũrĩa Jakubu etĩĩagĩra, ehĩtĩte akoiga atĩrĩ, “Ndirĩ hĩndĩ ngariganĩrwo nĩ ciĩko ciothe iria maneeka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.7",
+            "verseOrgIds": [
+              "AMO.8.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "AMO 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.8",
+            "verseOrgIds": [
+              "AMO.8.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "AMO 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwathani Jehova ekuuga atĩrĩ, “Mũthenya ũcio-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.9",
+            "verseOrgIds": [
+              "AMO.8.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "AMO 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.10",
+            "verseOrgIds": [
+              "AMO.8.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "AMO 8:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.11",
+            "verseOrgIds": [
+              "AMO.8.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "AMO 8:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.12",
+            "verseOrgIds": [
+              "AMO.8.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "AMO 8:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Mũthenya ũcio-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.13",
+            "verseOrgIds": [
+              "AMO.8.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "AMO 8:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "AMO.8.14",
+            "verseOrgIds": [
+              "AMO.8.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "AMO.9",
+    "number": "9",
+    "bookId": "AMO"
+  },
+  "previous": {
+    "id": "AMO.7",
+    "number": "7",
+    "bookId": "AMO"
+  }
+}

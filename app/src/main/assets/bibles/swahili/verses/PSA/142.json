@@ -1,0 +1,744 @@
+{
+  "id": "PSA.142",
+  "number": "142",
+  "bookId": "PSA",
+  "reference": "Zaburi 142",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "142",
+        "style": "c",
+        "sid": "PSA 142"
+      },
+      "items": [
+        {
+          "text": "142",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 142",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Maombi Ya Kuokolewa Dhidi Ya Watesi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Utenzi wa Daudi. Alipokuwa pangoni. Maombi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 142:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namlilia",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.1",
+            "verseOrgIds": [
+              "PSA.142.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.142.1",
+                "verseOrgIds": [
+                  "PSA.142.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "kwa sauti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.1",
+            "verseOrgIds": [
+              "PSA.142.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:1"
+      },
+      "items": [
+        {
+          "text": "nainua sauti yangu kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.1",
+            "verseOrgIds": [
+              "PSA.142.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.142.1",
+                "verseOrgIds": [
+                  "PSA.142.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "anihurumie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.1",
+            "verseOrgIds": [
+              "PSA.142.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 142:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namimina malalamiko yangu mbele zake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.2",
+            "verseOrgIds": [
+              "PSA.142.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:2"
+      },
+      "items": [
+        {
+          "text": "mbele zake naeleza shida zangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.2",
+            "verseOrgIds": [
+              "PSA.142.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 142:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati roho yangu inapozimia ndani yangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.3",
+            "verseOrgIds": [
+              "PSA.142.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:3"
+      },
+      "items": [
+        {
+          "text": "wewe ndiwe unajua njia zangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.3",
+            "verseOrgIds": [
+              "PSA.142.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 142:3"
+      },
+      "items": [
+        {
+          "text": "Katika njia ninayopita",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.3",
+            "verseOrgIds": [
+              "PSA.142.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:3"
+      },
+      "items": [
+        {
+          "text": "watu wameniwekea mtego.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.3",
+            "verseOrgIds": [
+              "PSA.142.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 142:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama kuume kwangu na uone,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.4",
+            "verseOrgIds": [
+              "PSA.142.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:4"
+      },
+      "items": [
+        {
+          "text": "hakuna hata mmoja anayejihusisha nami.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.4",
+            "verseOrgIds": [
+              "PSA.142.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 142:4"
+      },
+      "items": [
+        {
+          "text": "Sina kimbilio,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.4",
+            "verseOrgIds": [
+              "PSA.142.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:4"
+      },
+      "items": [
+        {
+          "text": "hakuna anayejali maisha yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.4",
+            "verseOrgIds": [
+              "PSA.142.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 142:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.5",
+            "verseOrgIds": [
+              "PSA.142.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.142.5",
+                "verseOrgIds": [
+                  "PSA.142.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", nakulilia wewe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.5",
+            "verseOrgIds": [
+              "PSA.142.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:5"
+      },
+      "items": [
+        {
+          "text": "nasema, \"Wewe ni kimbilio langu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.5",
+            "verseOrgIds": [
+              "PSA.142.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:5"
+      },
+      "items": [
+        {
+          "text": "fungu langu katika nchi ya walio hai.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.5",
+            "verseOrgIds": [
+              "PSA.142.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 142:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sikiliza kilio changu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.6",
+            "verseOrgIds": [
+              "PSA.142.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:6"
+      },
+      "items": [
+        {
+          "text": "kwa sababu mimi ni mhitaji sana;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.6",
+            "verseOrgIds": [
+              "PSA.142.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 142:6"
+      },
+      "items": [
+        {
+          "text": "niokoe na wale wanaonifuatilia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.6",
+            "verseOrgIds": [
+              "PSA.142.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:6"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa wamenizidi nguvu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.6",
+            "verseOrgIds": [
+              "PSA.142.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 142:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nifungue kutoka kifungo changu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.7",
+            "verseOrgIds": [
+              "PSA.142.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:7"
+      },
+      "items": [
+        {
+          "text": "ili niweze kulisifu jina lako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.7",
+            "verseOrgIds": [
+              "PSA.142.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 142:7"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 142:7"
+      },
+      "items": [
+        {
+          "text": "Ndipo wenye haki watanizunguka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.7",
+            "verseOrgIds": [
+              "PSA.142.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 142:7"
+      },
+      "items": [
+        {
+          "text": "kwa sababu ya wema wako kwangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.142.7",
+            "verseOrgIds": [
+              "PSA.142.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.143",
+    "number": "143",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.141",
+    "number": "141",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,1125 @@
+{
+  "id": "ACT.15",
+  "number": "15",
+  "bookId": "ACT",
+  "reference": "Atũmwo 15",
+  "verseCount": 41,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "ACT 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mũcemanio wa Kanitha Jerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, andũ amwe magĩikũrũka kuuma Judea magĩthiĩ Antiokia, na nĩmarutaga ariũ a Ithe witũ makameera atĩrĩ: “Mũngĩaga kũrua kũringana na mũtugo ũrĩa warutanirwo nĩ Musa, mũtingĩhonoka.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.1",
+            "verseOrgIds": [
+              "ACT.15.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũndũ ũyũ ũgĩtũma Paũlũ na Baranaba macookanĩrie na makararanie mũno nao. Nĩ ũndũ ũcio Paũlũ na Baranaba makĩamũrwo, marĩ na etĩkia angĩ, maambate mathiĩ Jerusalemu makone atũmwo na athuuri nĩ ũndũ wa ũhoro ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.2",
+            "verseOrgIds": [
+              "ACT.15.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo kanitha ũkĩmoimagaria, na rĩrĩa maatuĩkanagĩria Foinike na Samaria, nĩmaheanaga ũhoro wa ũrĩa andũ-a-Ndũrĩrĩ maagarũrũkire kũrĩ Ngai. Ũhoro ũcio ũgĩkenia ariũ a Ithe witũ mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.3",
+            "verseOrgIds": [
+              "ACT.15.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na maakinya Jerusalemu, makĩamũkĩrwo nĩ kanitha, na atũmwo, na athuuri, nao makĩmeera maũndũ mothe marĩa Ngai eekĩte agereire harĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.4",
+            "verseOrgIds": [
+              "ACT.15.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo andũ amwe a arĩa meetĩkĩtie a thiritũ ya Afarisai makĩrũgama, makiuga atĩrĩ, “Andũ a Ndũrĩrĩ no nginya marue na maathwo atĩ marũmagie watho wa Musa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.5",
+            "verseOrgIds": [
+              "ACT.15.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao atũmwo na athuuri magĩcemania nĩgeetha maarĩrĩrie ũhoro ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.6",
+            "verseOrgIds": [
+              "ACT.15.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa mĩario mĩingĩ, Petero akĩrũgama, akĩmarĩria, akĩmeera atĩrĩ, “Ariũ na aarĩ a Ithe witũ, nĩmũũĩ atĩ ihinda rĩhĩtũku, Ngai nĩathuurire kuuma gatagatĩ kanyu nĩguo andũ-a-Ndũrĩrĩ maigue ndũmĩrĩri ya Ũhoro-ũrĩa-Mwega kuuma kũrĩ niĩ na nĩguo metĩkie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.7",
+            "verseOrgIds": [
+              "ACT.15.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai, ũrĩa ũũĩ ngoro, akĩonania atĩ nĩametĩkĩrĩte na ũndũ wa kũmahe Roho Mũtheru, o ta ũrĩa aatũhete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.8",
+            "verseOrgIds": [
+              "ACT.15.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 15:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndeekĩrire ngũũrani gatagatĩ gaitũ nao, nĩgũkorwo maatheririe ngoro ciao na ũndũ wa wĩtĩkio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.9",
+            "verseOrgIds": [
+              "ACT.15.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 15:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hakĩrĩ ũguo-rĩ, nĩ kĩĩ kĩratũma mwende kũgeria Ngai na ũndũ wa gwĩkĩra arutwo icooki ngingo rĩrĩa ithuĩ o na kana maithe maitũ tũtarĩ twahota gũkuua?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.10",
+            "verseOrgIds": [
+              "ACT.15.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 15:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aca! Twĩtĩkĩtie atĩ tũhonokete nĩ ũndũ wa wega wa Mwathani witũ Jesũ, o ta ũrĩa o nao mahonokete.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.11",
+            "verseOrgIds": [
+              "ACT.15.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 15:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nakĩo kĩũngano gĩothe gĩgĩkira ki gĩgĩthikĩrĩria Baranaba na Paũlũ makĩheana ũhoro wa ciama na morirũ iria Ngai eekĩte kũrĩ andũ-a-Ndũrĩrĩ agereire harĩo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.12",
+            "verseOrgIds": [
+              "ACT.15.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 15:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa maarĩkirie kwaria, Jakubu akĩaria akĩmeera atĩrĩ, “Ariũ na aarĩ a Ithe witũ, ta thikĩrĩriai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.13",
+            "verseOrgIds": [
+              "ACT.15.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 15:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simoni nĩatũtaarĩria ũrĩa Ngai oonanirie wendo wake hĩndĩ ya mbere na ũndũ wa gwĩthuurĩra andũ kuuma kũrĩ andũ-a-Ndũrĩrĩ nĩguo matuĩke aake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.14",
+            "verseOrgIds": [
+              "ACT.15.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 15:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nacio ciugo cia anabii ikaringana na ũhoro ũcio, o ta ũrĩa kwandĩkĩtwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.15",
+            "verseOrgIds": [
+              "ACT.15.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ACT 15:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.16",
+            "verseOrgIds": [
+              "ACT.15.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 15:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.17",
+            "verseOrgIds": [
+              "ACT.15.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ACT 15:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.18",
+            "verseOrgIds": [
+              "ACT.15.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ACT 15:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio-rĩ, niĩ ngũtua atĩrĩ, tũtige kũritũhĩria ũhoro andũ-a-Ndũrĩrĩ arĩa maragarũrũka kũrĩ Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.19",
+            "verseOrgIds": [
+              "ACT.15.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 15:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Handũ ha ũguo-rĩ, twagĩrĩirwo tũmaandĩkĩre marũa, tũmeere metheemage kuumana na irio iria ithaahĩtio nĩ mĩhianano, ningĩ metheemage kuumana na ũmaraya, na kuumana na nyama cia nyamũ cia gũitwo, o na kuumana na thakame.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.20",
+            "verseOrgIds": [
+              "ACT.15.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ACT 15:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo ũhoro wa Musa nĩwahunjagio matũũra-inĩ mothe o kuuma mahinda ma tene mũno, na nĩũthomagwo thunagogi-inĩ mĩthenya yothe ya Thabatũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.21",
+            "verseOrgIds": [
+              "ACT.15.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Marũa ma Kĩama kũrĩ Andũ-a-Ndũrĩrĩ arĩa Metĩkĩtie",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ACT 15:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo atũmwo na athuuri, hamwe na kanitha wothe, magĩtua itua mathuure andũ amwe ao mamatũme Antiokia marĩ na Paũlũ na Baranaba. Magĩthuura Judasi (ũrĩa wetagwo Barasaba) na Sila, nao andũ aya eerĩ maarĩ atongoria thĩinĩ wa ariũ a Ithe witũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.22",
+            "verseOrgIds": [
+              "ACT.15.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ACT 15:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makĩmatũma na marũa maya:\nNĩ ithuĩ atũmwo na athuuri, o ithuĩ ariũ a Ithe wanyu,\nKũrĩ andũ-a-Ndũrĩrĩ arĩa metĩkĩtie kũu Antiokia, na Suriata, na Kilikia:\nAmũkĩrai ngeithi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.23",
+            "verseOrgIds": [
+              "ACT.15.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ACT 15:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩtũiguĩte atĩ andũ amwe nĩmooimire kũrĩ ithuĩ matarĩ na rũũtha rwitũ, na makĩmũthĩĩnia, na makĩnyariira meciiria manyu nĩ ũndũ wa maũndũ marĩa maaririe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.24",
+            "verseOrgIds": [
+              "ACT.15.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ACT 15:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, ithuothe nĩtũiguanĩire tũthuure andũ amwe tũmatũme kũrĩ inyuĩ marĩ na arata aitũ endwa, Baranaba na Paũlũ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.25",
+            "verseOrgIds": [
+              "ACT.15.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ACT 15:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "andũ arĩa matwarĩrĩirie mĩoyo yao ũgwati-inĩ nĩ ũndũ wa rĩĩtwa rĩa Mwathani witũ Jesũ Kristũ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.26",
+            "verseOrgIds": [
+              "ACT.15.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "ACT 15:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio nĩtwatũma Judasi na Sila nĩgeetha makindĩre ũhoro ũyũ tũramwandĩkĩra na ciugo cia tũnua twao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.27",
+            "verseOrgIds": [
+              "ACT.15.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "ACT 15:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩkuonekete arĩ wega kũrĩ Roho Mũtheru o na kũrĩ ithuĩ twage kũmũkuuithia mũrigo ũkĩrĩte maũndũ maya:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.28",
+            "verseOrgIds": [
+              "ACT.15.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "ACT 15:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, mũtikarĩĩage irio iria irutĩirwo mĩhianano, na mũtikanyuuage thakame, na mũtikarĩĩage nyama cia nyamũ cia gũitwo, na mũtigane na ũmaraya. Mwetheema maũndũ macio-rĩ, nĩmũgwĩka wega.\nTigwoi ũhoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.29",
+            "verseOrgIds": [
+              "ACT.15.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "ACT 15:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ acio makiugĩrwo ũhoro, na makĩharũrũka magĩthiĩ Antiokia, kũrĩa maacookanĩrĩirie kanitha hamwe, na makĩneana marũa macio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.30",
+            "verseOrgIds": [
+              "ACT.15.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "ACT 15:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa andũ maathomire marũa macio, magĩkena nĩ ũndũ wa ndũmĩrĩri ya kũmoomĩrĩria ĩrĩa yaandĩkĩtwo marũa-inĩ macio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.31",
+            "verseOrgIds": [
+              "ACT.15.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "ACT 15:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao Judasi na Sila, arĩa o ene maarĩ anabii, makĩaria maũndũ maingĩ ma kũũmĩrĩria na kuongerera ariũ a Ithe witũ hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.32",
+            "verseOrgIds": [
+              "ACT.15.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "ACT 15:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa gũikara kũu kwa ihinda-rĩ, makiugĩrwo ũhoro na irathimo cia thayũ nĩ ariũ na aarĩ a Ithe witũ, nĩguo macooke kũrĩ andũ arĩa maamatũmĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.33",
+            "verseOrgIds": [
+              "ACT.15.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "ACT 15:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(Nowe Sila akĩona arĩ wega aikare kũu.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.34",
+            "verseOrgIds": [
+              "ACT.15.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "ACT 15:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Paũlũ na Baranaba magĩtigwo kũu Antiokia, kũrĩa o, na andũ angĩ aingĩ maarutanaga na makahunjia kiugo kĩa Mwathani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.35",
+            "verseOrgIds": [
+              "ACT.15.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paũlũ na Baranaba Gũkararania",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "ACT 15:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa mĩthenya ĩigana ũna, Paũlũ akĩĩra Baranaba atĩrĩ, “Reke tũcooke tũgaceerere ariũ na aarĩ a Ithe witũ matũũra-inĩ mothe marĩa tũhunjĩtie kiugo kĩa Mwathani, tũkamenye ũrĩa matariĩ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.36",
+            "verseOrgIds": [
+              "ACT.15.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "ACT 15:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baranaba nĩeendaga kuoya Johana, ũrĩa wetagwo Mariko mathiĩ nake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.37",
+            "verseOrgIds": [
+              "ACT.15.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "ACT 15:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no Paũlũ ndonaga arĩ wega mathiĩ nake, tondũ nĩamatiganĩirie rĩrĩa maarĩ Pamufilia na akĩaga gũthiĩ kũruta wĩra nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.38",
+            "verseOrgIds": [
+              "ACT.15.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "ACT 15:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makĩgĩa na gũkararania kũnene o nginya makĩamũkana. Baranaba akĩoya Mariko, makĩhaica marikabu, magĩthiĩ Kuporo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.39",
+            "verseOrgIds": [
+              "ACT.15.39"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "ACT 15:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no Paũlũ agĩthuura Sila, na maarĩkia kũhooerwo wega wa Mwathani nĩ ariũ na aarĩ a Ithe witũ, magĩthiĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.40",
+            "verseOrgIds": [
+              "ACT.15.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "ACT 15:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agĩtuĩkanĩria Suriata na Kilikia, agĩĩkagĩra makanitha hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.15.41",
+            "verseOrgIds": [
+              "ACT.15.41"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.16",
+    "number": "16",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.14",
+    "number": "14",
+    "bookId": "ACT"
+  }
+}

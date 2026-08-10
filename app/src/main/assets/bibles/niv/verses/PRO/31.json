@@ -1,0 +1,1810 @@
+{
+  "id": "PRO.31",
+  "number": "31",
+  "bookId": "PRO",
+  "reference": "Prov. 31",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 31,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "31",
+        "style": "c",
+        "sid": "PRO 31"
+      },
+      "items": [
+        {
+          "text": "31",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms1"
+      },
+      "items": [
+        {
+          "text": "Sayings of King Lemuel",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PRO 31:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The sayings of King Lemuel—an inspired utterance his mother taught him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.1",
+            "verseOrgIds": [
+              "PRO.31.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PRO 31:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Listen, my son! Listen, son of my womb!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.2",
+            "verseOrgIds": [
+              "PRO.31.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:2"
+      },
+      "items": [
+        {
+          "text": "Listen, my son, the answer to my prayers!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.2",
+            "verseOrgIds": [
+              "PRO.31.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PRO 31:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do not spend your strength",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.3",
+            "verseOrgIds": [
+              "PRO.31.3"
+            ]
+          }
+        },
+        {
+          "text": "on women,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.3",
+            "verseOrgIds": [
+              "PRO.31.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:3"
+      },
+      "items": [
+        {
+          "text": "your vigor on those who ruin kings.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.3",
+            "verseOrgIds": [
+              "PRO.31.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PRO 31:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "It is not for kings, Lemuel—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.4",
+            "verseOrgIds": [
+              "PRO.31.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:4"
+      },
+      "items": [
+        {
+          "text": "it is not for kings to drink wine,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.4",
+            "verseOrgIds": [
+              "PRO.31.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:4"
+      },
+      "items": [
+        {
+          "text": "not for rulers to crave beer,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.4",
+            "verseOrgIds": [
+              "PRO.31.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PRO 31:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lest they drink and forget what has been decreed,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.5",
+            "verseOrgIds": [
+              "PRO.31.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:5"
+      },
+      "items": [
+        {
+          "text": "and deprive all the oppressed of their rights.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.5",
+            "verseOrgIds": [
+              "PRO.31.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PRO 31:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let beer be for those who are perishing,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.6",
+            "verseOrgIds": [
+              "PRO.31.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:6"
+      },
+      "items": [
+        {
+          "text": "wine for those who are in anguish!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.6",
+            "verseOrgIds": [
+              "PRO.31.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PRO 31:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let them drink and forget their poverty",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.7",
+            "verseOrgIds": [
+              "PRO.31.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:7"
+      },
+      "items": [
+        {
+          "text": "and remember their misery no more.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.7",
+            "verseOrgIds": [
+              "PRO.31.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PRO 31:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Speak up for those who cannot speak for themselves,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.8",
+            "verseOrgIds": [
+              "PRO.31.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:8"
+      },
+      "items": [
+        {
+          "text": "for the rights of all who are destitute.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.8",
+            "verseOrgIds": [
+              "PRO.31.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PRO 31:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Speak up and judge fairly;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.9",
+            "verseOrgIds": [
+              "PRO.31.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:9"
+      },
+      "items": [
+        {
+          "text": "defend the rights of the poor and needy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.9",
+            "verseOrgIds": [
+              "PRO.31.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "ms1"
+      },
+      "items": [
+        {
+          "text": "Epilogue: The Wife of Noble Character",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PRO 31:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A wife of noble character who can find?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.10",
+            "verseOrgIds": [
+              "PRO.31.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:10"
+      },
+      "items": [
+        {
+          "text": "She is worth far more than rubies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.10",
+            "verseOrgIds": [
+              "PRO.31.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PRO 31:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Her husband has full confidence in her",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.11",
+            "verseOrgIds": [
+              "PRO.31.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:11"
+      },
+      "items": [
+        {
+          "text": "and lacks nothing of value.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.11",
+            "verseOrgIds": [
+              "PRO.31.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PRO 31:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She brings him good, not harm,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.12",
+            "verseOrgIds": [
+              "PRO.31.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:12"
+      },
+      "items": [
+        {
+          "text": "all the days of her life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.12",
+            "verseOrgIds": [
+              "PRO.31.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PRO 31:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She selects wool and flax",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.13",
+            "verseOrgIds": [
+              "PRO.31.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:13"
+      },
+      "items": [
+        {
+          "text": "and works with eager hands.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.13",
+            "verseOrgIds": [
+              "PRO.31.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PRO 31:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She is like the merchant ships,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.14",
+            "verseOrgIds": [
+              "PRO.31.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:14"
+      },
+      "items": [
+        {
+          "text": "bringing her food from afar.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.14",
+            "verseOrgIds": [
+              "PRO.31.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PRO 31:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She gets up while it is still night;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.15",
+            "verseOrgIds": [
+              "PRO.31.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:15"
+      },
+      "items": [
+        {
+          "text": "she provides food for her family",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.15",
+            "verseOrgIds": [
+              "PRO.31.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:15"
+      },
+      "items": [
+        {
+          "text": "and portions for her female servants.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.15",
+            "verseOrgIds": [
+              "PRO.31.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PRO 31:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She considers a field and buys it;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.16",
+            "verseOrgIds": [
+              "PRO.31.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:16"
+      },
+      "items": [
+        {
+          "text": "out of her earnings she plants a vineyard.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.16",
+            "verseOrgIds": [
+              "PRO.31.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PRO 31:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She sets about her work vigorously;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.17",
+            "verseOrgIds": [
+              "PRO.31.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:17"
+      },
+      "items": [
+        {
+          "text": "her arms are strong for her tasks.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.17",
+            "verseOrgIds": [
+              "PRO.31.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PRO 31:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She sees that her trading is profitable,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.18",
+            "verseOrgIds": [
+              "PRO.31.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:18"
+      },
+      "items": [
+        {
+          "text": "and her lamp does not go out at night.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.18",
+            "verseOrgIds": [
+              "PRO.31.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PRO 31:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In her hand she holds the distaff",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.19",
+            "verseOrgIds": [
+              "PRO.31.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:19"
+      },
+      "items": [
+        {
+          "text": "and grasps the spindle with her fingers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.19",
+            "verseOrgIds": [
+              "PRO.31.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PRO 31:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She opens her arms to the poor",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.20",
+            "verseOrgIds": [
+              "PRO.31.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:20"
+      },
+      "items": [
+        {
+          "text": "and extends her hands to the needy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.20",
+            "verseOrgIds": [
+              "PRO.31.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PRO 31:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When it snows, she has no fear for her household;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.21",
+            "verseOrgIds": [
+              "PRO.31.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:21"
+      },
+      "items": [
+        {
+          "text": "for all of them are clothed in scarlet.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.21",
+            "verseOrgIds": [
+              "PRO.31.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PRO 31:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She makes coverings for her bed;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.22",
+            "verseOrgIds": [
+              "PRO.31.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:22"
+      },
+      "items": [
+        {
+          "text": "she is clothed in fine linen and purple.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.22",
+            "verseOrgIds": [
+              "PRO.31.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "PRO 31:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Her husband is respected at the city gate,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.23",
+            "verseOrgIds": [
+              "PRO.31.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:23"
+      },
+      "items": [
+        {
+          "text": "where he takes his seat among the elders of the land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.23",
+            "verseOrgIds": [
+              "PRO.31.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "PRO 31:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She makes linen garments and sells them,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.24",
+            "verseOrgIds": [
+              "PRO.31.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:24"
+      },
+      "items": [
+        {
+          "text": "and supplies the merchants with sashes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.24",
+            "verseOrgIds": [
+              "PRO.31.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "PRO 31:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She is clothed with strength and dignity;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.25",
+            "verseOrgIds": [
+              "PRO.31.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:25"
+      },
+      "items": [
+        {
+          "text": "she can laugh at the days to come.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.25",
+            "verseOrgIds": [
+              "PRO.31.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "PRO 31:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She speaks with wisdom,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.26",
+            "verseOrgIds": [
+              "PRO.31.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:26"
+      },
+      "items": [
+        {
+          "text": "and faithful instruction is on her tongue.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.26",
+            "verseOrgIds": [
+              "PRO.31.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "PRO 31:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "She watches over the affairs of her household",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.27",
+            "verseOrgIds": [
+              "PRO.31.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:27"
+      },
+      "items": [
+        {
+          "text": "and does not eat the bread of idleness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.27",
+            "verseOrgIds": [
+              "PRO.31.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "PRO 31:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Her children arise and call her blessed;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.28",
+            "verseOrgIds": [
+              "PRO.31.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:28"
+      },
+      "items": [
+        {
+          "text": "her husband also, and he praises her:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.28",
+            "verseOrgIds": [
+              "PRO.31.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "PRO 31:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Many women do noble things,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.29",
+            "verseOrgIds": [
+              "PRO.31.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:29"
+      },
+      "items": [
+        {
+          "text": "but you surpass them all.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.29",
+            "verseOrgIds": [
+              "PRO.31.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "PRO 31:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Charm is deceptive, and beauty is fleeting;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.30",
+            "verseOrgIds": [
+              "PRO.31.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:30"
+      },
+      "items": [
+        {
+          "text": "but a woman who fears the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.30",
+            "verseOrgIds": [
+              "PRO.31.30"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PRO.31.30",
+                "verseOrgIds": [
+                  "PRO.31.30"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is to be praised.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.30",
+            "verseOrgIds": [
+              "PRO.31.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "PRO 31:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Honor her for all that her hands have done,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.31",
+            "verseOrgIds": [
+              "PRO.31.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PRO 31:31"
+      },
+      "items": [
+        {
+          "text": "and let her works bring her praise at the city gate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PRO.31.31",
+            "verseOrgIds": [
+              "PRO.31.31"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.intro",
+    "number": "intro",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "PRO.30",
+    "number": "30",
+    "bookId": "PRO"
+  }
+}

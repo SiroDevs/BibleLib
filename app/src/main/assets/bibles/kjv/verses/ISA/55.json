@@ -1,0 +1,919 @@
+{
+  "id": "ISA.55",
+  "number": "55",
+  "bookId": "ISA",
+  "reference": "Isaiah 55",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "55",
+        "style": "c",
+        "sid": "ISA 55"
+      },
+      "items": [
+        {
+          "text": "55",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 55:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.1",
+            "verseOrgIds": [
+              "ISA.55.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 55:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wherefore do ye spend money for",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.2",
+            "verseOrgIds": [
+              "ISA.55.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that which is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.2",
+                "verseOrgIds": [
+                  "ISA.55.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not bread? and your labour for",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.2",
+            "verseOrgIds": [
+              "ISA.55.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that which",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.2",
+                "verseOrgIds": [
+                  "ISA.55.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "satisfieth not? hearken diligently unto me, and eat ye",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.2",
+            "verseOrgIds": [
+              "ISA.55.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that which is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.2",
+                "verseOrgIds": [
+                  "ISA.55.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "good, and let your soul delight itself in fatness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.2",
+            "verseOrgIds": [
+              "ISA.55.2"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.2",
+            "verseOrgIds": [
+              "ISA.55.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 55:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.3",
+            "verseOrgIds": [
+              "ISA.55.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.3",
+                "verseOrgIds": [
+                  "ISA.55.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the sure mercies of David.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.3",
+            "verseOrgIds": [
+              "ISA.55.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 55:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, I have given him",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.4",
+            "verseOrgIds": [
+              "ISA.55.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.4",
+                "verseOrgIds": [
+                  "ISA.55.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a witness to the people, a leader and commander to the people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.4",
+            "verseOrgIds": [
+              "ISA.55.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 55:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, thou shalt call a nation",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.5",
+            "verseOrgIds": [
+              "ISA.55.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.5",
+                "verseOrgIds": [
+                  "ISA.55.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou knowest not, and nations",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.5",
+            "verseOrgIds": [
+              "ISA.55.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.5",
+                "verseOrgIds": [
+                  "ISA.55.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "knew not thee shall run unto thee because of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.5",
+            "verseOrgIds": [
+              "ISA.55.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.5",
+                "verseOrgIds": [
+                  "ISA.55.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy God, and for the Holy One of Israel; for he hath glorified thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.5",
+            "verseOrgIds": [
+              "ISA.55.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 55:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Seek ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.6",
+            "verseOrgIds": [
+              "ISA.55.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.6",
+                "verseOrgIds": [
+                  "ISA.55.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "while he may be found, call ye upon him while he is near:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.6",
+            "verseOrgIds": [
+              "ISA.55.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 55:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.7",
+            "verseOrgIds": [
+              "ISA.55.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.7",
+                "verseOrgIds": [
+                  "ISA.55.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.7",
+            "verseOrgIds": [
+              "ISA.55.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 55:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ For my thoughts",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.8",
+            "verseOrgIds": [
+              "ISA.55.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.8",
+                "verseOrgIds": [
+                  "ISA.55.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not your thoughts, neither",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.8",
+            "verseOrgIds": [
+              "ISA.55.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.8",
+                "verseOrgIds": [
+                  "ISA.55.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "your ways my ways, saith the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.8",
+            "verseOrgIds": [
+              "ISA.55.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.8",
+                "verseOrgIds": [
+                  "ISA.55.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.8",
+            "verseOrgIds": [
+              "ISA.55.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 55:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.9",
+            "verseOrgIds": [
+              "ISA.55.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.9",
+                "verseOrgIds": [
+                  "ISA.55.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.9",
+            "verseOrgIds": [
+              "ISA.55.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 55:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.10",
+            "verseOrgIds": [
+              "ISA.55.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 55:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.11",
+            "verseOrgIds": [
+              "ISA.55.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "in the thing",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.11",
+                "verseOrgIds": [
+                  "ISA.55.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "whereto I sent it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.11",
+            "verseOrgIds": [
+              "ISA.55.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 55:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.12",
+            "verseOrgIds": [
+              "ISA.55.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "their",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.12",
+                "verseOrgIds": [
+                  "ISA.55.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hands.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.12",
+            "verseOrgIds": [
+              "ISA.55.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 55:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.13",
+            "verseOrgIds": [
+              "ISA.55.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.13",
+                "verseOrgIds": [
+                  "ISA.55.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "for a name, for an everlasting sign",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.13",
+            "verseOrgIds": [
+              "ISA.55.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "ISA.55.13",
+                "verseOrgIds": [
+                  "ISA.55.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall not be cut off.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.55.13",
+            "verseOrgIds": [
+              "ISA.55.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.56",
+    "number": "56",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.54",
+    "number": "54",
+    "bookId": "ISA"
+  }
+}

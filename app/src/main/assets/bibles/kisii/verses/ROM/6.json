@@ -1,0 +1,681 @@
+{
+  "id": "ROM.6",
+  "number": "6",
+  "bookId": "ROM",
+  "reference": "Abarumi 6",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "ROM 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okobwatana na Kristo nogotabwatana n’ebibe",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ROM 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninki rende torateebe? Togenderere ase ebibe, erinde amaabera amenteke abe amange kobua?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.1",
+            "verseOrgIds": [
+              "ROM.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ROM 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yaya, taibo! Intwe abatwakuure korwa ase ebibe, inaki toranyare komenya ase ebibe naende?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.2",
+            "verseOrgIds": [
+              "ROM.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ROM 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timomanyeti ng’a intwe twensi abatwabatisetwe ase Kristo Yeso nigo twabatisetwe ase amakweri aye?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.3",
+            "verseOrgIds": [
+              "ROM.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ROM 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo twatindegetwe amo nere ase enchera y’ebatiso ase amakweri, erinde buna Kristo abogetigwe korwa ase abakuure ase obonene bwa Ise, naboigo naintwe, totaare ase obogima oboyia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.4",
+            "verseOrgIds": [
+              "ROM.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ROM 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki onye twabwatanire nere ase amakweri buna ayaye, naboigo torabwatane nere ase okobokigwa buna ok’waye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.5",
+            "verseOrgIds": [
+              "ROM.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ROM 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twamanyire ng’a obo Mwanyabaanto bwaito bwa kare nigo bwabambetwe amo nere, erinde omobere bw’ebibe osirigwe, titoba abasomba b’ebibe naende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.6",
+            "verseOrgIds": [
+              "ROM.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ROM 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki ere oy okuure osiboirwe korwa ase ebibe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.7",
+            "verseOrgIds": [
+              "ROM.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ROM 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende onye twakwete amo na Kristo, twegenire ng’a inatobe moyo amo nere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.8",
+            "verseOrgIds": [
+              "ROM.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ROM 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Twamanyire ng’a Kristo oyobogetigwe korwa ase abakuure tagokwa naende; amakweri takomogaambera naende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.9",
+            "verseOrgIds": [
+              "ROM.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ROM 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ogokwa koria akwete nigo akwerete ebibe ara rimo rioka, korende obogima boria are nabwo nigo are nabwo ase Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.10",
+            "verseOrgIds": [
+              "ROM.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ROM 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo nainwe mwebare ng’a mwabeire abakuure ase ebibe, korende mwabeire moyo ase Nyasae ime ase Kristo Yeso.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.11",
+            "verseOrgIds": [
+              "ROM.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ROM 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono timotiga ebibe bigaambe ime ase emebere yaino ey’ekonyorekana n’amakweri, na timobaisa koigwera okogania kwabo okobe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.12",
+            "verseOrgIds": [
+              "ROM.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ROM 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timobaisa korua ebiimo biaino bikore ebibe buna ebikorero bi’obobe, korende mwerue abanyene ase Nyasae buna abanto barusetigwe korwa ase ogokwa na babekirwe ase obogima, na ebiimo biaino ase Nyasae bibe ebikorero bi’oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.13",
+            "verseOrgIds": [
+              "ROM.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ROM 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki ebibe tibikobaagaambera inwe, ekiagera timori inse y’amachiiko korende inse y’amaabera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.14",
+            "verseOrgIds": [
+              "ROM.6.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okworokereria korwa ase obosomba",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ROM 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninki rende? Tokore ebibe ekiagera totari inse y’amachiiko korende inse y’amaabera? Yaya taibo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.15",
+            "verseOrgIds": [
+              "ROM.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ROM 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Timomanyeti ng’a onye mwerure ase omonto onde koba abasomba baye na komoigwera, nigo more abasomba baye ere oria moigwerete, onye n’obosomba bw’ebibe obokoraa gochia ase amakweri, gose obosomba bw’okoigwera obokoraa gochia ase oboronge?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.16",
+            "verseOrgIds": [
+              "ROM.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ROM 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende Nyasae aakerwe ng’a mbuya mono, ekiagera inwe, abamwarenge abasomba b’ebibe, mwabeire abaigweri ase chinkoro chiaino ase okworokereria koria mwaetwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.17",
+            "verseOrgIds": [
+              "ROM.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ROM 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ekero mwasiboretwe korwa ase ebibe mogakorwa koba abasomba b’oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.18",
+            "verseOrgIds": [
+              "ROM.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ROM 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo ngokwana buna engencho ya Mwanyabaanto ase engencho y’oboreu bwaino bwa Mwanyabaanto, Inaki koreng’ana buna inwe ritang’ani mwaruete ebiimo biaino bibe ebisomba bi’obonyaka na ase ogosaria okonene mono, naboigo na bono karue ebiimo biaino bikorere oboronge, monyare gokorwa koba abachenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.19",
+            "verseOrgIds": [
+              "ROM.6.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ROM 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki ekero mwarenge abasomba b’ebibe nigo mwarenge abasibore korwa ase oboronge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.20",
+            "verseOrgIds": [
+              "ROM.6.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ROM 6:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nkwama ki rende mwanyorete korwa ase ebinto biria bikobarentera obosooku bono? Inaki omoerio bw’ebinto ebi n’amakweri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.21",
+            "verseOrgIds": [
+              "ROM.6.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ROM 6:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende bono ekero mwasiboirwe korwa ase ebibe na gokorwa koba abasomba ba Nyasae, okwama kwaino more nakwo noko, ng’a mokorwe koba abachenu, na omoerio oye nobogima bwa kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.22",
+            "verseOrgIds": [
+              "ROM.6.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ROM 6:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inaki eng’eria y’ebibe n’amakweri, korende ekeegwa kia Nyasae nobogima bwa kare na kare ase Kristo Yeso, Omonene oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ROM.6.23",
+            "verseOrgIds": [
+              "ROM.6.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ROM.7",
+    "number": "7",
+    "bookId": "ROM"
+  },
+  "previous": {
+    "id": "ROM.5",
+    "number": "5",
+    "bookId": "ROM"
+  }
+}

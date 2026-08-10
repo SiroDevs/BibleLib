@@ -1,0 +1,535 @@
+{
+  "id": "PSA.150",
+  "number": "150",
+  "bookId": "PSA",
+  "reference": "Zaburi 150",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "150",
+        "style": "c",
+        "sid": "PSA 150"
+      },
+      "items": [
+        {
+          "text": "150",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 150",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Msifuni",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa Ukuu Wake",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 150:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.1",
+                "verseOrgIds": [
+                  "PSA.150.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 150:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 150:1"
+      },
+      "items": [
+        {
+          "text": "Msifuni Mungu katika patakatifu pake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:1"
+      },
+      "items": [
+        {
+          "text": "msifuni katika mbingu zake kuu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 150:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni kwa matendo yake makuu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.2",
+            "verseOrgIds": [
+              "PSA.150.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:2"
+      },
+      "items": [
+        {
+          "text": "msifuni kwa kadiri ya wingi wa ukuu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.2",
+            "verseOrgIds": [
+              "PSA.150.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 150:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msifuni kwa mvumo wa tarumbeta,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.3",
+            "verseOrgIds": [
+              "PSA.150.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:3"
+      },
+      "items": [
+        {
+          "text": "msifuni kwa kinubi na zeze,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.3",
+            "verseOrgIds": [
+              "PSA.150.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 150:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "msifuni kwa matari na kucheza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.4",
+            "verseOrgIds": [
+              "PSA.150.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:4"
+      },
+      "items": [
+        {
+          "text": "msifuni kwa kinanda cha nyuzi na filimbi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.4",
+            "verseOrgIds": [
+              "PSA.150.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 150:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "msifuni kwa matoazi yaliayo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.5",
+            "verseOrgIds": [
+              "PSA.150.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:5"
+      },
+      "items": [
+        {
+          "text": "msifuni kwa matoazi yavumayo sana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.5",
+            "verseOrgIds": [
+              "PSA.150.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 150:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila chenye pumzi na kimsifu",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.6",
+                "verseOrgIds": [
+                  "PSA.150.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 150:6"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 150:6"
+      },
+      "items": [
+        {
+          "text": "Msifuni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.6",
+                "verseOrgIds": [
+                  "PSA.150.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.intro",
+    "number": "intro",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PSA.149",
+    "number": "149",
+    "bookId": "PSA"
+  }
+}

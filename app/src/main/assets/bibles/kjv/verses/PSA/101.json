@@ -1,0 +1,465 @@
+{
+  "id": "PSA.101",
+  "number": "101",
+  "bookId": "PSA",
+  "reference": "Psalms 101",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "101",
+        "style": "c",
+        "sid": "PSA 101"
+      },
+      "items": [
+        {
+          "text": "101",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Psalm of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 101:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will sing of mercy and judgment: unto thee, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.101.1",
+                "verseOrgIds": [
+                  "PSA.101.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", will I sing.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.1",
+            "verseOrgIds": [
+              "PSA.101.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 101:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.2",
+            "verseOrgIds": [
+              "PSA.101.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 101:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.3",
+            "verseOrgIds": [
+              "PSA.101.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.101.3",
+                "verseOrgIds": [
+                  "PSA.101.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall not cleave to me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.3",
+            "verseOrgIds": [
+              "PSA.101.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 101:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A froward heart shall depart from me: I will not know a wicked",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.4",
+            "verseOrgIds": [
+              "PSA.101.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "person",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.101.4",
+                "verseOrgIds": [
+                  "PSA.101.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.4",
+            "verseOrgIds": [
+              "PSA.101.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 101:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.5",
+            "verseOrgIds": [
+              "PSA.101.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 101:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mine eyes",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.101.6",
+                "verseOrgIds": [
+                  "PSA.101.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.6",
+            "verseOrgIds": [
+              "PSA.101.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 101:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.7",
+            "verseOrgIds": [
+              "PSA.101.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 101:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.8",
+            "verseOrgIds": [
+              "PSA.101.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.101.8",
+                "verseOrgIds": [
+                  "PSA.101.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.101.8",
+            "verseOrgIds": [
+              "PSA.101.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.102",
+    "number": "102",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  }
+}

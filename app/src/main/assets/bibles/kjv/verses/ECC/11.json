@@ -1,0 +1,641 @@
+{
+  "id": "ECC.11",
+  "number": "11",
+  "bookId": "ECC",
+  "reference": "Ecclesiastes 11",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "ECC 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.1",
+            "verseOrgIds": [
+              "ECC.11.1"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.1",
+            "verseOrgIds": [
+              "ECC.11.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 11:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.2",
+            "verseOrgIds": [
+              "ECC.11.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If the clouds be full of rain, they empty",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.3",
+            "verseOrgIds": [
+              "ECC.11.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "themselves",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.3",
+                "verseOrgIds": [
+                  "ECC.11.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.3",
+            "verseOrgIds": [
+              "ECC.11.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 11:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.4",
+            "verseOrgIds": [
+              "ECC.11.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 11:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As thou knowest not what",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.5",
+            "verseOrgIds": [
+              "ECC.11.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.5",
+                "verseOrgIds": [
+                  "ECC.11.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the way of the spirit,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.5",
+            "verseOrgIds": [
+              "ECC.11.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "nor",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.5",
+                "verseOrgIds": [
+                  "ECC.11.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "how the bones",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.5",
+            "verseOrgIds": [
+              "ECC.11.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "do grow",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.5",
+                "verseOrgIds": [
+                  "ECC.11.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.5",
+            "verseOrgIds": [
+              "ECC.11.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 11:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.6",
+            "verseOrgIds": [
+              "ECC.11.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.6",
+                "verseOrgIds": [
+                  "ECC.11.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "alike good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.6",
+            "verseOrgIds": [
+              "ECC.11.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 11:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Truly the light",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.7",
+            "verseOrgIds": [
+              "ECC.11.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.7",
+                "verseOrgIds": [
+                  "ECC.11.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sweet, and a pleasant",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.7",
+            "verseOrgIds": [
+              "ECC.11.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "thing it is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.7",
+                "verseOrgIds": [
+                  "ECC.11.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "for the eyes to behold the sun:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.7",
+            "verseOrgIds": [
+              "ECC.11.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But if a man live many years,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.8",
+            "verseOrgIds": [
+              "ECC.11.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.8",
+                "verseOrgIds": [
+                  "ECC.11.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.8",
+            "verseOrgIds": [
+              "ECC.11.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.8",
+                "verseOrgIds": [
+                  "ECC.11.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "vanity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.8",
+            "verseOrgIds": [
+              "ECC.11.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.9",
+            "verseOrgIds": [
+              "ECC.11.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "things",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.9",
+                "verseOrgIds": [
+                  "ECC.11.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God will bring thee into judgment.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.9",
+            "verseOrgIds": [
+              "ECC.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.10",
+            "verseOrgIds": [
+              "ECC.11.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "ECC.11.10",
+                "verseOrgIds": [
+                  "ECC.11.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "vanity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.11.10",
+            "verseOrgIds": [
+              "ECC.11.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.12",
+    "number": "12",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.10",
+    "number": "10",
+    "bookId": "ECC"
+  }
+}

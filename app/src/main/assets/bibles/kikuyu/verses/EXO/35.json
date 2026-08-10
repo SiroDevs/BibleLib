@@ -1,0 +1,975 @@
+{
+  "id": "EXO.35",
+  "number": "35",
+  "bookId": "EXO",
+  "reference": "Thaama 35",
+  "verseCount": 35,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "35",
+        "style": "c",
+        "sid": "EXO 35"
+      },
+      "items": [
+        {
+          "text": "35",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mawatho ma Thabatũ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 35:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa nĩonganirie mũingĩ wothe wa andũ a Isiraeli, akĩmeera atĩrĩ, “Maya nĩmo maũndũ marĩa Jehova aamwathĩte mwĩkage:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.1",
+            "verseOrgIds": [
+              "EXO.35.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 35:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wĩra nĩũrutagwo mĩthenya ĩtandatũ, no mũthenya wa mũgwanja ũrĩkoragwo ũrĩ mũthenya wanyu mũtheru, Thabatũ ya Jehova ya kũhurũka. Ũrĩa ũkaaruta wĩra mũthenya ũcio no nginya ooragwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.2",
+            "verseOrgIds": [
+              "EXO.35.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 35:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũtigaakagie mwaki mũthenya ũcio wa Thabatũ kũrĩa guothe mũrĩtũũraga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.3",
+            "verseOrgIds": [
+              "EXO.35.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Indo cia gwaka Hema ĩrĩa Nyamũre",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 35:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Musa akĩĩra mũingĩ wothe wa andũ a Isiraeli atĩrĩ, “Ũũ nĩguo Jehova aathanĩte:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.4",
+            "verseOrgIds": [
+              "EXO.35.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 35:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rutĩrai Jehova maruta kuuma indo-inĩ iria mũrĩ nacio. Mũndũ ũrĩa wothe ũkũigua akĩenda, nĩarehere Jehova iruta rĩa thahabu, na rĩa betha na rĩa gĩcango;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.5",
+            "verseOrgIds": [
+              "EXO.35.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 35:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na rĩa ndigi cia rangi wa bururu, na cia rangi wa ndathi, na cia rangi mũtune ta gakarakũ; o na gatani ĩrĩa njega; na guoya wa mbũri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.6",
+            "verseOrgIds": [
+              "EXO.35.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 35:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "njũa cia ndũrũme itoboketio rangi-inĩ mũtune igatunĩha, na njũa cia pomboo; na mbaũ cia mũgaa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.7",
+            "verseOrgIds": [
+              "EXO.35.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 35:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na maguta ma mũtamaiyũ ma gwakia tawa; na mahuti manungi wega ma gwĩkĩrwo maguta-inĩ ma gũitanĩrĩrio, na ma ũbumba ũrĩa mũnungi wega;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.8",
+            "verseOrgIds": [
+              "EXO.35.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 35:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na tũhiga twa onigithi na tũhiga tũngĩ twa goro twa gũtumĩrĩrwo nguo ya ebodi na gakuo ga gĩthũri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.9",
+            "verseOrgIds": [
+              "EXO.35.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 35:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Arĩa othe marĩ na ũũgĩ wa ũbundi gatagatĩ-inĩ kanyu, nĩmoke mathondeke indo ciothe iria Jehova aathanĩte, nacio nĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.10",
+            "verseOrgIds": [
+              "EXO.35.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 35:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hema ĩrĩa nyamũre na hema yayo o na kĩndũ gĩa kũmĩhumbĩra, na ngathĩka cia kũnyiita, na mbaũ ciakĩo, na mĩgamba yakĩo, na itugĩ na itina ciayo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.11",
+            "verseOrgIds": [
+              "EXO.35.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 35:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ithandũkũ rĩa kĩrĩkanĩro hamwe na mĩtĩ yarĩo, na gĩtĩ gĩa tha, hamwe na gĩtambaya gĩa gũcuurio kĩrĩa gĩa kũhakania;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.12",
+            "verseOrgIds": [
+              "EXO.35.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 35:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "metha na mĩtĩ yayo, na indo ciayo ciothe, hamwe na mĩgate ya kũigwo mbere ya Jehova,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.13",
+            "verseOrgIds": [
+              "EXO.35.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 35:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na mũtĩ wa kũigĩrĩrwo matawa ma kũmũrĩkaga, hamwe na indo ciaguo, na matawa hamwe na maguta ma kũmaakia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.14",
+            "verseOrgIds": [
+              "EXO.35.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 35:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kĩgongona kĩa ũbumba na mĩtĩ yakĩo, na maguta ma gũitanĩrĩrio, na ũbumba mũnungi wega; na gĩtambaya gĩa gũcuurio mũrango-inĩ wa itoonyero-inĩ rĩa hema ĩyo nyamũre;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.15",
+            "verseOrgIds": [
+              "EXO.35.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 35:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na kĩgongona kĩa iruta rĩa njino hamwe na gĩtara gĩakĩo gĩa gĩcango, na mĩtĩ yakĩo, na indo ciakĩo ciothe; na kĩraĩ gĩa gĩcango na kĩgũrũ gĩakĩo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.16",
+            "verseOrgIds": [
+              "EXO.35.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 35:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na itambaya cia gũcuurio cia itoonyero rĩa nja hamwe na itugĩ na itina ciacio na gĩtambaya gĩa gũcuurio gĩa itoonyero rĩa kuuma nja ya hema",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.17",
+            "verseOrgIds": [
+              "EXO.35.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 35:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na higĩ cia hema ĩrĩa nyamũre, na cia nja yayo, na mĩkanda yayo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.18",
+            "verseOrgIds": [
+              "EXO.35.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 35:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na nguo ndume cia kwĩhumbagwo mũndũ agĩtungata arĩ handũ-harĩa-haamũre; nĩcio nguo iria nyamũre cia Harũni ũrĩa mũthĩnjĩri-Ngai o na cia ariũ ake rĩrĩa megũtungata marĩ athĩnjĩri-Ngai.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.19",
+            "verseOrgIds": [
+              "EXO.35.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 35:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo mũingĩ wothe wa andũ a Isiraeli ũkĩehera harĩ Musa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.20",
+            "verseOrgIds": [
+              "EXO.35.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 35:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na mũndũ o wothe ũrĩa weyendeire na ngoro yake yahĩĩahĩaga, nĩokire na akĩrehera Jehova kĩndũ gĩa kũmũrutĩra nĩ ũndũ wa wĩra wa hema-ya-Gũtũnganwo na mawĩra mayo mothe, o na nĩ ũndũ wa nguo iria nyamũre.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.21",
+            "verseOrgIds": [
+              "EXO.35.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 35:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arĩa maiguire metĩkĩra ũhoro ũcio, arũme na andũ-a-nja o ũndũ ũmwe, nĩmookire na makĩrehe mathaga ma thahabu ma mĩthemba yothe: namo nĩ mbini ngʼemie cia gwĩkĩrwo nguo-inĩ, na icũhĩ cia matũ, na icũhĩ cia ciara na mathaga mangĩ. Othe nĩmarehire thahabu yao ĩtuĩke iruta rĩa gũthũngũthio harĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.22",
+            "verseOrgIds": [
+              "EXO.35.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "EXO 35:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũrĩa wothe warĩ na ndigi cia rangi wa bururu, kana cia rangi wa ndathi, kana cia rangi mũtune ta gakarakũ, kana gatani ĩrĩa njega, kana guoya wa mbũri, kana njũa cia ndũrũme itoboketio rangi-inĩ mũtune igatunĩha, kana njũa cia pomboo, nĩacireehire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.23",
+            "verseOrgIds": [
+              "EXO.35.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "EXO 35:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ arĩa maarehire iruta rĩa betha kana rĩa gĩcango, maarĩrehire rĩrĩ iruta harĩ Jehova, na ũrĩa wothe warĩ na mbaũ cia mũgaa nĩ ũndũ wa wĩra ũcio nĩacireehire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.24",
+            "verseOrgIds": [
+              "EXO.35.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "EXO 35:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ-wa-nja o wothe warĩ mũũgĩ wĩra-inĩ wa kuogotha ndigi na moko make, akĩrehe kĩrĩa ogothete, ndigi cia rangi wa bururu, kana cia rangi wa ndathi, kana cia rangi mũtune ta gakarakũ, kana gatani ĩrĩa njega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.25",
+            "verseOrgIds": [
+              "EXO.35.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "EXO 35:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao andũ-a-nja othe arĩa meyendeire na nĩ maarĩ na ũũgĩ ũcio, nĩmoogothire ndigi cia guoya wa mbũri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.26",
+            "verseOrgIds": [
+              "EXO.35.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "EXO 35:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Atongoria marehire tũhiga twa onigithi na tũhiga tũngĩ twa goro tũtumĩrĩrwo nguo-inĩ ya ebodi na gakuo ga gĩthũri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.27",
+            "verseOrgIds": [
+              "EXO.35.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "EXO 35:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩmacookire makĩrehe mahuti manungi wega, na maguta ma mĩtamaiyũ ma gwakia tawa, na maguta ma gũitanĩrĩrio o na ma gũthondeka ũbumba ũrĩa mũnungi wega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.28",
+            "verseOrgIds": [
+              "EXO.35.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "EXO 35:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ a Isiraeli othe, arũme na andũ-a-nja arĩa meyendeire, nĩmareheire Jehova maruta ma kwĩyendera nĩ ũndũ wa wĩra ũrĩa Jehova aamaathĩte na kanua ka Musa marute.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.29",
+            "verseOrgIds": [
+              "EXO.35.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Bezaleli na Oholiabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "EXO 35:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Musa akĩĩra andũ a Isiraeli atĩrĩ, “Onei, Jehova nĩathuurĩte Bezaleli mũrũ wa Uri ũrĩa mũriũ wa Huri, wa mũhĩrĩga wa Juda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.30",
+            "verseOrgIds": [
+              "EXO.35.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "EXO 35:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na nĩamũiyũrĩtie na Roho wa Ngai, na ũũgĩ, na ũhoti, na ũmenyo wa mawĩra mothe ma ũbundi",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.31",
+            "verseOrgIds": [
+              "EXO.35.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "EXO 35:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩgeetha athugunde mĩcoro ya ũũgĩ ya indo-inĩ cia thahabu, na betha, na gĩcango,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.32",
+            "verseOrgIds": [
+              "EXO.35.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "EXO 35:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na gwacũhia tũhiga twa goro twa gũthecererwo indo-inĩ, na kũruta wĩra wa gũkaaya mbaũ, na kũruta mawĩra ma mĩcoro ma mĩthemba yothe ya ũbundi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.33",
+            "verseOrgIds": [
+              "EXO.35.33"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "EXO 35:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na eerĩ, we marĩ na Oholiabu mũrũ wa Ahisamaku wa mũhĩrĩga wa Dani, nĩamaheete ũhoti wa kũruta andũ arĩa angĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.34",
+            "verseOrgIds": [
+              "EXO.35.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "EXO 35:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩamaiyũrĩtie na ũũgĩ wa kũruta mawĩra mothe, marĩ mabundi, na acori, na agemia na ndigi cia rangi wa bururu, na cia rangi wa ndathi, na cia rangi mũtune ta gakarakũ, na gatani ĩrĩa njega, o na atumi: othe marĩ mabundi moogĩ, na acori oogĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.35.35",
+            "verseOrgIds": [
+              "EXO.35.35"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.36",
+    "number": "36",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.34",
+    "number": "34",
+    "bookId": "EXO"
+  }
+}

@@ -1,0 +1,988 @@
+{
+  "id": "SNG.7",
+  "number": "7",
+  "bookId": "SNG",
+  "reference": "Song of Solomon 7",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "SNG 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "SNG 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.1",
+            "verseOrgIds": [
+              "SNG.7.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.1",
+                "verseOrgIds": [
+                  "SNG.7.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like jewels, the work of the hands of a cunning workman.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.1",
+            "verseOrgIds": [
+              "SNG.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "SNG 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy navel",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.2",
+            "verseOrgIds": [
+              "SNG.7.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is like",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.2",
+                "verseOrgIds": [
+                  "SNG.7.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a round goblet,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.2",
+            "verseOrgIds": [
+              "SNG.7.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.2",
+                "verseOrgIds": [
+                  "SNG.7.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "wanteth not liquor: thy belly",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.2",
+            "verseOrgIds": [
+              "SNG.7.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is like",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.2",
+                "verseOrgIds": [
+                  "SNG.7.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "an heap of wheat set about with lilies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.2",
+            "verseOrgIds": [
+              "SNG.7.3"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.2",
+            "verseOrgIds": [
+              "SNG.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "SNG 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy two breasts",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.3",
+            "verseOrgIds": [
+              "SNG.7.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.3",
+                "verseOrgIds": [
+                  "SNG.7.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like two young roes",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.3",
+            "verseOrgIds": [
+              "SNG.7.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.3",
+                "verseOrgIds": [
+                  "SNG.7.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "twins.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.3",
+            "verseOrgIds": [
+              "SNG.7.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "SNG 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy neck",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.4",
+            "verseOrgIds": [
+              "SNG.7.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.4",
+                "verseOrgIds": [
+                  "SNG.7.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a tower of ivory; thine eyes",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.4",
+            "verseOrgIds": [
+              "SNG.7.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "like",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.4",
+                "verseOrgIds": [
+                  "SNG.7.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.4",
+            "verseOrgIds": [
+              "SNG.7.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.4",
+                "verseOrgIds": [
+                  "SNG.7.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as the tower of Lebanon which looketh toward Damascus.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.4",
+            "verseOrgIds": [
+              "SNG.7.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "SNG 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thine head upon thee",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.5",
+            "verseOrgIds": [
+              "SNG.7.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.5",
+                "verseOrgIds": [
+                  "SNG.7.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like Carmel, and the hair of thine head like purple; the king",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.5",
+            "verseOrgIds": [
+              "SNG.7.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.5",
+                "verseOrgIds": [
+                  "SNG.7.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "held in the galleries.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.5",
+            "verseOrgIds": [
+              "SNG.7.6"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.5",
+            "verseOrgIds": [
+              "SNG.7.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "SNG 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "How fair and how pleasant art thou, O love, for delights!",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.6",
+            "verseOrgIds": [
+              "SNG.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "SNG 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This thy stature is like to a palm tree, and thy breasts to clusters",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.7",
+            "verseOrgIds": [
+              "SNG.7.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "of grapes",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.7",
+                "verseOrgIds": [
+                  "SNG.7.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.7",
+            "verseOrgIds": [
+              "SNG.7.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "SNG 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.8",
+            "verseOrgIds": [
+              "SNG.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "SNG 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the roof of thy mouth like the best wine for my beloved, that goeth",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.9",
+            "verseOrgIds": [
+              "SNG.7.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "down",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.9",
+                "verseOrgIds": [
+                  "SNG.7.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sweetly, causing the lips of those that are asleep to speak.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.9",
+            "verseOrgIds": [
+              "SNG.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "SNG 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ I",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.10",
+            "verseOrgIds": [
+              "SNG.7.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.10",
+                "verseOrgIds": [
+                  "SNG.7.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my beloved's, and his desire",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.10",
+            "verseOrgIds": [
+              "SNG.7.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.10",
+                "verseOrgIds": [
+                  "SNG.7.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "toward me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.10",
+            "verseOrgIds": [
+              "SNG.7.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "SNG 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.11",
+            "verseOrgIds": [
+              "SNG.7.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "SNG 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let us get up early to the vineyards; let us see if the vine flourish,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.12",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "whether",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.12",
+                "verseOrgIds": [
+                  "SNG.7.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the tender grape appear,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.12",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.12",
+                "verseOrgIds": [
+                  "SNG.7.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the pomegranates bud forth: there will I give thee my loves.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.12",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.12",
+            "verseOrgIds": [
+              "SNG.7.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "SNG 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The mandrakes give a smell, and at our gates",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.13",
+                "verseOrgIds": [
+                  "SNG.7.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "all manner of pleasant",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "fruits",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.13",
+                "verseOrgIds": [
+                  "SNG.7.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", new and old,",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "SNG.7.13",
+                "verseOrgIds": [
+                  "SNG.7.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "I have laid up for thee, O my beloved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "SNG.7.13",
+            "verseOrgIds": [
+              "SNG.7.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "SNG.8",
+    "number": "8",
+    "bookId": "SNG"
+  },
+  "previous": {
+    "id": "SNG.6",
+    "number": "6",
+    "bookId": "SNG"
+  }
+}

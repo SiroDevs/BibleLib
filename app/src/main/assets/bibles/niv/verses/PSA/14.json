@@ -1,0 +1,738 @@
+{
+  "id": "PSA.14",
+  "number": "14",
+  "bookId": "PSA",
+  "reference": "Psalm 14",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "PSA 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. Of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The fool",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        },
+        {
+          "text": "says in his heart,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:1"
+      },
+      "items": [
+        {
+          "text": "\"There is no God.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 14:1"
+      },
+      "items": [
+        {
+          "text": "They are corrupt, their deeds are vile;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:1"
+      },
+      "items": [
+        {
+          "text": "there is no one who does good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.1",
+            "verseOrgIds": [
+              "PSA.14.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 14:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.2",
+            "verseOrgIds": [
+              "PSA.14.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.14.2",
+                "verseOrgIds": [
+                  "PSA.14.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "looks down from heaven",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.2",
+            "verseOrgIds": [
+              "PSA.14.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:2"
+      },
+      "items": [
+        {
+          "text": "on all mankind",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.2",
+            "verseOrgIds": [
+              "PSA.14.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 14:2"
+      },
+      "items": [
+        {
+          "text": "to see if there are any who understand,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.2",
+            "verseOrgIds": [
+              "PSA.14.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:2"
+      },
+      "items": [
+        {
+          "text": "any who seek God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.2",
+            "verseOrgIds": [
+              "PSA.14.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 14:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All have turned away, all have become corrupt;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.3",
+            "verseOrgIds": [
+              "PSA.14.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:3"
+      },
+      "items": [
+        {
+          "text": "there is no one who does good,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.3",
+            "verseOrgIds": [
+              "PSA.14.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:3"
+      },
+      "items": [
+        {
+          "text": "not even one.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.3",
+            "verseOrgIds": [
+              "PSA.14.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 14:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do all these evildoers know nothing?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.4",
+            "verseOrgIds": [
+              "PSA.14.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 14:4"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 14:4"
+      },
+      "items": [
+        {
+          "text": "They devour my people as though eating bread;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.4",
+            "verseOrgIds": [
+              "PSA.14.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:4"
+      },
+      "items": [
+        {
+          "text": "they never call on the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.4",
+            "verseOrgIds": [
+              "PSA.14.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.14.4",
+                "verseOrgIds": [
+                  "PSA.14.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.4",
+            "verseOrgIds": [
+              "PSA.14.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 14:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But there they are, overwhelmed with dread,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.5",
+            "verseOrgIds": [
+              "PSA.14.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:5"
+      },
+      "items": [
+        {
+          "text": "for God is present in the company of the righteous.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.5",
+            "verseOrgIds": [
+              "PSA.14.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 14:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You evildoers frustrate the plans of the poor,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.6",
+            "verseOrgIds": [
+              "PSA.14.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:6"
+      },
+      "items": [
+        {
+          "text": "but the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.6",
+            "verseOrgIds": [
+              "PSA.14.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.14.6",
+                "verseOrgIds": [
+                  "PSA.14.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is their refuge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.6",
+            "verseOrgIds": [
+              "PSA.14.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 14:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oh, that salvation for Israel would come out of Zion!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.7",
+            "verseOrgIds": [
+              "PSA.14.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:7"
+      },
+      "items": [
+        {
+          "text": "When the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.7",
+            "verseOrgIds": [
+              "PSA.14.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.14.7",
+                "verseOrgIds": [
+                  "PSA.14.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "restores his people,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.7",
+            "verseOrgIds": [
+              "PSA.14.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 14:7"
+      },
+      "items": [
+        {
+          "text": "let Jacob rejoice and Israel be glad!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.14.7",
+            "verseOrgIds": [
+              "PSA.14.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.15",
+    "number": "15",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.13",
+    "number": "13",
+    "bookId": "PSA"
+  }
+}

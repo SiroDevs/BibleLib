@@ -1,0 +1,541 @@
+{
+  "id": "PSA.13",
+  "number": "13",
+  "bookId": "PSA",
+  "reference": "Zaburi 13",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "13",
+        "style": "c",
+        "sid": "PSA 13"
+      },
+      "items": [
+        {
+          "text": "13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 13",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sala Ya Kuomba Msaada",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Kwa mwimbishaji. Zaburi ya Daudi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 13:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpaka lini, Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.1",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.13.1",
+                "verseOrgIds": [
+                  "PSA.13.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "? Je, utanisahau milele?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.1",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:1"
+      },
+      "items": [
+        {
+          "text": "Utanificha uso wako mpaka lini?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.1",
+            "verseOrgIds": [
+              "PSA.13.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 13:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitapambana na mawazo yangu mpaka lini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:2"
+      },
+      "items": [
+        {
+          "text": "na kila siku kuwa na majonzi moyoni mwangu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:2"
+      },
+      "items": [
+        {
+          "text": "Adui zangu watanishinda mpaka lini?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.2",
+            "verseOrgIds": [
+              "PSA.13.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 13:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitazame, unijibu, Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.13.3",
+                "verseOrgIds": [
+                  "PSA.13.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:3"
+      },
+      "items": [
+        {
+          "text": "Yatie nuru macho yangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:3"
+      },
+      "items": [
+        {
+          "text": "ama sivyo nitalala usingizi wa mauti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.3",
+            "verseOrgIds": [
+              "PSA.13.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 13:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adui yangu atasema, \"Nimemshinda,\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.4",
+            "verseOrgIds": [
+              "PSA.13.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:4"
+      },
+      "items": [
+        {
+          "text": "nao adui zangu watashangilia nitakapoanguka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.4",
+            "verseOrgIds": [
+              "PSA.13.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 13:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini ninategemea upendo wako usiokoma;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.5",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:5"
+      },
+      "items": [
+        {
+          "text": "moyo wangu unashangilia katika wokovu wako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.5",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 13:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitamwimbia",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.6",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.13.6",
+                "verseOrgIds": [
+                  "PSA.13.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.6",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 13:6"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa amekuwa mwema kwangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.13.6",
+            "verseOrgIds": [
+              "PSA.13.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.14",
+    "number": "14",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.12",
+    "number": "12",
+    "bookId": "PSA"
+  }
+}

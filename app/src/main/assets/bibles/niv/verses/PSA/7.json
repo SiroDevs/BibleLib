@@ -1,0 +1,1376 @@
+{
+  "id": "PSA.7",
+  "number": "7",
+  "bookId": "PSA",
+  "reference": "Psalm 7",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "PSA 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "shiggaion",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David, which he sang to the",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "concerning Cush, a Benjamite.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.1",
+                "verseOrgIds": [
+                  "PSA.7.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, I take refuge in you;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.1",
+            "verseOrgIds": [
+              "PSA.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:1"
+      },
+      "items": [
+        {
+          "text": "save and deliver me from all who pursue me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.1",
+            "verseOrgIds": [
+              "PSA.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "or they will tear me apart like a lion",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.2",
+            "verseOrgIds": [
+              "PSA.7.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:2"
+      },
+      "items": [
+        {
+          "text": "and rip me to pieces with no one to rescue me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.2",
+            "verseOrgIds": [
+              "PSA.7.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.3",
+                "verseOrgIds": [
+                  "PSA.7.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, if I have done this",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.3",
+            "verseOrgIds": [
+              "PSA.7.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:3"
+      },
+      "items": [
+        {
+          "text": "and there is guilt on my hands—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.3",
+            "verseOrgIds": [
+              "PSA.7.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "if I have repaid my ally with evil",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.4",
+            "verseOrgIds": [
+              "PSA.7.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:4"
+      },
+      "items": [
+        {
+          "text": "or without cause have robbed my foe—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.4",
+            "verseOrgIds": [
+              "PSA.7.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "then let my enemy pursue and overtake me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.5",
+            "verseOrgIds": [
+              "PSA.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:5"
+      },
+      "items": [
+        {
+          "text": "let him trample my life to the ground",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.5",
+            "verseOrgIds": [
+              "PSA.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:5"
+      },
+      "items": [
+        {
+          "text": "and make me sleep in the dust.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.5",
+            "verseOrgIds": [
+              "PSA.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arise,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.6",
+                "verseOrgIds": [
+                  "PSA.7.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", in your anger;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:6"
+      },
+      "items": [
+        {
+          "text": "rise up against the rage of my enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:6"
+      },
+      "items": [
+        {
+          "text": "Awake, my God; decree justice.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the assembled peoples gather around you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.7",
+            "verseOrgIds": [
+              "PSA.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:7"
+      },
+      "items": [
+        {
+          "text": "while you sit enthroned over them on high.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.7",
+            "verseOrgIds": [
+              "PSA.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.8",
+                "verseOrgIds": [
+                  "PSA.7.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "judge the peoples.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 7:8"
+      },
+      "items": [
+        {
+          "text": "Vindicate me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.8",
+                "verseOrgIds": [
+                  "PSA.7.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", according to my righteousness,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:8"
+      },
+      "items": [
+        {
+          "text": "according to my integrity, O Most High.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bring to an end the violence of the wicked",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.9",
+            "verseOrgIds": [
+              "PSA.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:9"
+      },
+      "items": [
+        {
+          "text": "and make the righteous secure—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.9",
+            "verseOrgIds": [
+              "PSA.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 7:9"
+      },
+      "items": [
+        {
+          "text": "you, the righteous God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.9",
+            "verseOrgIds": [
+              "PSA.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:9"
+      },
+      "items": [
+        {
+          "text": "who probes minds and hearts.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.9",
+            "verseOrgIds": [
+              "PSA.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My shield",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.10",
+            "verseOrgIds": [
+              "PSA.7.11"
+            ]
+          }
+        },
+        {
+          "text": "is God Most High,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.10",
+            "verseOrgIds": [
+              "PSA.7.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:10"
+      },
+      "items": [
+        {
+          "text": "who saves the upright in heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.10",
+            "verseOrgIds": [
+              "PSA.7.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God is a righteous judge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.11",
+            "verseOrgIds": [
+              "PSA.7.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:11"
+      },
+      "items": [
+        {
+          "text": "a God who displays his wrath every day.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.11",
+            "verseOrgIds": [
+              "PSA.7.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If he does not relent,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.12",
+            "verseOrgIds": [
+              "PSA.7.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:12"
+      },
+      "items": [
+        {
+          "text": "he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.12",
+            "verseOrgIds": [
+              "PSA.7.13"
+            ]
+          }
+        },
+        {
+          "text": "will sharpen his sword;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.12",
+            "verseOrgIds": [
+              "PSA.7.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:12"
+      },
+      "items": [
+        {
+          "text": "he will bend and string his bow.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.12",
+            "verseOrgIds": [
+              "PSA.7.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He has prepared his deadly weapons;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.13",
+            "verseOrgIds": [
+              "PSA.7.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:13"
+      },
+      "items": [
+        {
+          "text": "he makes ready his flaming arrows.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.13",
+            "verseOrgIds": [
+              "PSA.7.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 7:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whoever is pregnant with evil",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.14",
+            "verseOrgIds": [
+              "PSA.7.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:14"
+      },
+      "items": [
+        {
+          "text": "conceives trouble and gives birth to disillusionment.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.14",
+            "verseOrgIds": [
+              "PSA.7.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 7:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whoever digs a hole and scoops it out",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.15",
+            "verseOrgIds": [
+              "PSA.7.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:15"
+      },
+      "items": [
+        {
+          "text": "falls into the pit they have made.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.15",
+            "verseOrgIds": [
+              "PSA.7.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 7:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The trouble they cause recoils on them;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.16",
+            "verseOrgIds": [
+              "PSA.7.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:16"
+      },
+      "items": [
+        {
+          "text": "their violence comes down on their own heads.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.16",
+            "verseOrgIds": [
+              "PSA.7.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 7:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will give thanks to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.17",
+                "verseOrgIds": [
+                  "PSA.7.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "because of his righteousness;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 7:17"
+      },
+      "items": [
+        {
+          "text": "I will sing the praises of the name of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.17",
+                "verseOrgIds": [
+                  "PSA.7.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Most High.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.8",
+    "number": "8",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.6",
+    "number": "6",
+    "bookId": "PSA"
+  }
+}

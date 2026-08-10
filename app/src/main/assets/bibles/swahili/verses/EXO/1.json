@@ -1,0 +1,670 @@
+{
+  "id": "EXO.1",
+  "number": "1",
+  "bookId": "EXO",
+  "reference": "Kutoka 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EXO 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Waisraeli Waonewa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EXO 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Haya ndiyo majina ya wana wa Israeli ambao walikwenda Misri na Yakobo, kila mmoja akiwa pamoja na jamaa yake:",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.1",
+            "verseOrgIds": [
+              "EXO.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EXO 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Reubeni, Simeoni, Lawi na Yuda;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.2",
+            "verseOrgIds": [
+              "EXO.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EXO 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Isakari, Zabuloni na Benyamini;",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.3",
+            "verseOrgIds": [
+              "EXO.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EXO 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Dani na Naftali, Gadi na Asheri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.4",
+            "verseOrgIds": [
+              "EXO.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EXO 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wazao wote wa Yakobo walikuwa watu sabini; Yosefu alikuwa tayari yuko Misri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.5",
+            "verseOrgIds": [
+              "EXO.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EXO 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Yosefu na kaka zake wote na kizazi kile chote walikufa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.6",
+            "verseOrgIds": [
+              "EXO.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EXO 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "lakini Waisraeli walikuwa wamezaana na kuongezeka sana, idadi yao ikawa kubwa mno, kwa hiyo wakaijaza nchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.7",
+            "verseOrgIds": [
+              "EXO.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EXO 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha mfalme mpya ambaye hakufahamu habari za Yosefu akatawala Misri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.8",
+            "verseOrgIds": [
+              "EXO.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EXO 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akawaambia watu wake, \"Tazameni, Waisraeli wamekuwa wengi mno kwa idadi kutuliko sisi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.9",
+            "verseOrgIds": [
+              "EXO.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EXO 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Njooni, ni lazima tuwashughulikie kwa uangalifu, la sivyo watazidi kuwa wengi zaidi, na ikiwa patatokea vita, watajiunga na adui zetu kupigana dhidi yetu na kuondoka katika nchi hii.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.10",
+            "verseOrgIds": [
+              "EXO.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EXO 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi Wamisri wakaweka wasimamizi wa kuwasimamia na kuwatesa Waisraeli kwa kazi ngumu, nao wakajenga miji ya Pithomu na Ramesesi ya kuweka akiba ya Farao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.11",
+            "verseOrgIds": [
+              "EXO.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EXO 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini walivyozidi kuteswa ndivyo walivyozidi kuongezeka na kuenea katika nchi; Wamisri wakawaogopa Waisraeli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.12",
+            "verseOrgIds": [
+              "EXO.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EXO 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa hiyo wakawatumikisha kwa ukatili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.13",
+            "verseOrgIds": [
+              "EXO.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EXO 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakafanya maisha ya Waisraeli kuwa machungu kwa kufanya kazi ngumu ya kutengeneza lami na kufyatua matofali, na kazi zote za mashambani; katika kazi zao zote ngumu, Wamisri waliwatumia Waisraeli kwa ukatili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.14",
+            "verseOrgIds": [
+              "EXO.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EXO 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme wa Misri akawaambia wakunga wa Kimisri waliowazalisha wanawake wa Kiebrania, ambao majina yao ni Shifra na Pua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.15",
+            "verseOrgIds": [
+              "EXO.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EXO 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Mtakapowazalisha wanawake wa Kiebrania, chunguzeni wanapojifungua. Ikiwa ni mtoto wa kiume, muueni, lakini ikiwa ni msichana, mwacheni aishi.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.16",
+            "verseOrgIds": [
+              "EXO.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EXO 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini hao wakunga walimcha Mungu na hawakufanya kile mfalme wa Misri alichowaambia kufanya, bali wakawaacha watoto wa kiume waishi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.17",
+            "verseOrgIds": [
+              "EXO.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EXO 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo mfalme wa Misri akawaita hao wakunga, akawauliza, \"Kwa nini mmefanya hivi? Mbona mmeacha watoto wa kiume waishi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.18",
+            "verseOrgIds": [
+              "EXO.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EXO 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakunga wakamjibu Farao, \"Wanawake wa Kiebrania ni tofauti na wanawake wa Kimisri; wao wana nguvu, nao hujifungua watoto kabla wakunga hawajafika.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.19",
+            "verseOrgIds": [
+              "EXO.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EXO 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo Mungu akawatendea mema wakunga hao. Waisraeli wakaongezeka na kuendelea kuwa wengi zaidi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.20",
+            "verseOrgIds": [
+              "EXO.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EXO 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa vile hao wakunga walimcha Mungu, Mungu akawajalia kuwa na jamaa zao wenyewe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.21",
+            "verseOrgIds": [
+              "EXO.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EXO 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Farao akatoa agizo hili kwa watu wake wote: \"Kila mtoto wa kiume atakayezaliwa kwa Waebrania lazima atupwe katika Mto Naili, bali kila mtoto wa kike aachwe aishi.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EXO.1.22",
+            "verseOrgIds": [
+              "EXO.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EXO.2",
+    "number": "2",
+    "bookId": "EXO"
+  },
+  "previous": {
+    "id": "EXO.intro",
+    "number": "intro",
+    "bookId": "EXO"
+  }
+}

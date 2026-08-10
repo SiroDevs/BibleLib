@@ -1,0 +1,824 @@
+{
+  "id": "PSA.95",
+  "number": "95",
+  "bookId": "PSA",
+  "reference": "Psalm 95",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "95",
+        "style": "c",
+        "sid": "PSA 95"
+      },
+      "items": [
+        {
+          "text": "95",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 95",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 95:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Come, let us sing for joy to the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.1",
+            "verseOrgIds": [
+              "PSA.95.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.95.1",
+                "verseOrgIds": [
+                  "PSA.95.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.1",
+            "verseOrgIds": [
+              "PSA.95.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:1"
+      },
+      "items": [
+        {
+          "text": "let us shout aloud to the Rock of our salvation.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.1",
+            "verseOrgIds": [
+              "PSA.95.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 95:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let us come before him with thanksgiving",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.2",
+            "verseOrgIds": [
+              "PSA.95.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:2"
+      },
+      "items": [
+        {
+          "text": "and extol him with music and song.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.2",
+            "verseOrgIds": [
+              "PSA.95.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 95:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.3",
+            "verseOrgIds": [
+              "PSA.95.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.95.3",
+                "verseOrgIds": [
+                  "PSA.95.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is the great God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.3",
+            "verseOrgIds": [
+              "PSA.95.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:3"
+      },
+      "items": [
+        {
+          "text": "the great King above all gods.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.3",
+            "verseOrgIds": [
+              "PSA.95.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 95:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In his hand are the depths of the earth,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.4",
+            "verseOrgIds": [
+              "PSA.95.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:4"
+      },
+      "items": [
+        {
+          "text": "and the mountain peaks belong to him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.4",
+            "verseOrgIds": [
+              "PSA.95.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 95:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The sea is his, for he made it,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.5",
+            "verseOrgIds": [
+              "PSA.95.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:5"
+      },
+      "items": [
+        {
+          "text": "and his hands formed the dry land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.5",
+            "verseOrgIds": [
+              "PSA.95.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 95:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Come, let us bow down in worship,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.6",
+            "verseOrgIds": [
+              "PSA.95.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:6"
+      },
+      "items": [
+        {
+          "text": "let us kneel before the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.6",
+            "verseOrgIds": [
+              "PSA.95.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.95.6",
+                "verseOrgIds": [
+                  "PSA.95.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our Maker;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.6",
+            "verseOrgIds": [
+              "PSA.95.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 95:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "for he is our God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.7",
+            "verseOrgIds": [
+              "PSA.95.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:7"
+      },
+      "items": [
+        {
+          "text": "and we are the people of his pasture,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.7",
+            "verseOrgIds": [
+              "PSA.95.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:7"
+      },
+      "items": [
+        {
+          "text": "the flock under his care.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.7",
+            "verseOrgIds": [
+              "PSA.95.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 95:7"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 95:7"
+      },
+      "items": [
+        {
+          "text": "Today, if only you would hear his voice,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.7",
+            "verseOrgIds": [
+              "PSA.95.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 95:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Do not harden your hearts as you did at Meribah,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.8",
+            "verseOrgIds": [
+              "PSA.95.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:8"
+      },
+      "items": [
+        {
+          "text": "as you did that day at Massah",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.8",
+            "verseOrgIds": [
+              "PSA.95.8"
+            ]
+          }
+        },
+        {
+          "text": "in the wilderness,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.8",
+            "verseOrgIds": [
+              "PSA.95.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 95:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "where your ancestors tested me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.9",
+            "verseOrgIds": [
+              "PSA.95.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:9"
+      },
+      "items": [
+        {
+          "text": "they tried me, though they had seen what I did.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.9",
+            "verseOrgIds": [
+              "PSA.95.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 95:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For forty years I was angry with that generation;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.10",
+            "verseOrgIds": [
+              "PSA.95.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:10"
+      },
+      "items": [
+        {
+          "text": "I said, 'They are a people whose hearts go astray,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.10",
+            "verseOrgIds": [
+              "PSA.95.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:10"
+      },
+      "items": [
+        {
+          "text": "and they have not known my ways.'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.10",
+            "verseOrgIds": [
+              "PSA.95.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 95:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So I declared on oath in my anger,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.11",
+            "verseOrgIds": [
+              "PSA.95.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 95:11"
+      },
+      "items": [
+        {
+          "text": "'They shall never enter my rest.' \"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.95.11",
+            "verseOrgIds": [
+              "PSA.95.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.96",
+    "number": "96",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.94",
+    "number": "94",
+    "bookId": "PSA"
+  }
+}

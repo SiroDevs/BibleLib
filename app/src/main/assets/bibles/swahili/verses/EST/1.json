@@ -1,0 +1,689 @@
+{
+  "id": "EST.1",
+  "number": "1",
+  "bookId": "EST",
+  "reference": "Esta 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "EST 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Malkia Vashti Aondolewa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hili ndilo lililotokea wakati wa utawala wa Mfalme Ahasuero, yule aliyetawala juu ya majimbo mia na ishirini na saba tangu Bara Hindi hadi Kushi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.1",
+            "verseOrgIds": [
+              "EST.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo Mfalme Ahasuero alitawala katika kiti chake cha enzi katika ngome ya mji wa Shushani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.2",
+            "verseOrgIds": [
+              "EST.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mwaka wa tatu wa utawala wake, alifanya karamu kwa ajili ya wakuu wake wote pamoja na maafisa. Akawaalika viongozi wa jeshi wa Uajemi na Umedi, wana wa wafalme na wakuu wa majimbo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.3",
+            "verseOrgIds": [
+              "EST.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa siku zote 180 mfalme alionyesha utajiri mwingi wa ufalme wake, fahari na utukufu wa enzi yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.4",
+            "verseOrgIds": [
+              "EST.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku hizo zilipopita, mfalme alifanya karamu kwa muda wa siku saba, katika bustani ya ndani katika jumba la kifalme, kwa ajili ya watu wote kuanzia mdogo hadi mkubwa, waliokuwa katika ngome ya mji wa Shushani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.5",
+            "verseOrgIds": [
+              "EST.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bustani ilikuwa na mapazia ya kitani nyeupe na buluu, yaliyofungiwa kamba za kitani nyeupe na kitambaa cha zambarau, kwenye pete za fedha juu ya nguzo za marmar. Kulikuwepo viti vya dhahabu na vya fedha vilivyokuwa vimewekwa kwenye ile sakafu iliyotengenezwa kwa mawe ya rangi, marmar, lulumizi na mawe mengine ya thamani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.6",
+            "verseOrgIds": [
+              "EST.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Vyombo vya dhahabu vilitumika kwa watu kunywea mvinyo, kila kimoja tofauti na kingine, naye mfalme akatoa mvinyo kwa wingi kwa kadiri ya ukarimu wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.7",
+            "verseOrgIds": [
+              "EST.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa amri ya mfalme kila mgeni aliruhusiwa kunywa alichotaka, kwa kuwa mfalme alitoa maagizo kwa watumishi wote wa kuhudumu mvinyo kumhudumia kila mtu kwa jinsi alivyotaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.8",
+            "verseOrgIds": [
+              "EST.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Malkia Vashti pia akawafanyia wanawake karamu katika jumba la kifalme la Mfalme Ahasuero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.9",
+            "verseOrgIds": [
+              "EST.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku ya saba, wakati Mfalme Ahasuero alikuwa amesisimka roho yake kwa mvinyo, aliamuru matowashi saba waliokuwa wakimhudumia, yaani, Mehumani, Biztha, Harbona, Bigtha, Abagtha, Zethari na Karkasi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.10",
+            "verseOrgIds": [
+              "EST.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kumleta Malkia Vashti mbele ya mfalme akiwa amevaa taji lake la kifalme, ili aonyeshe uzuri wake kwa watu na wakuu, kwa kuwa alikuwa ni mzuri wa kupendeza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.11",
+            "verseOrgIds": [
+              "EST.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wakati watumishi walipotoa amri ya mfalme, Malkia Vashti alikataa kuja. Ndipo mfalme alighadhibika, na hasira yake ikawaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.12",
+            "verseOrgIds": [
+              "EST.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa kuwa ilikuwa desturi ya mfalme kupata ushauri kwa wataalamu katika mambo ya sheria na haki, alizungumza na watu wenye busara, ambao walijua nyakati,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.13",
+            "verseOrgIds": [
+              "EST.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nao waliokuwa karibu na mfalme ni Karshena, Shethari, Admatha, Tarshishi, Meresi, Marsena na Memukani, wakuu saba wa Uajemi na Umedi waliokuwa na nafasi ya pekee kwa mfalme nao walikuwa na vyeo vya juu kabisa katika utawala wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.14",
+            "verseOrgIds": [
+              "EST.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme akauliza, \"Kulingana na sheria, Malkia Vashti anapaswa kutendewa nini? Malkia hakutii amri ya Mfalme Ahasuero ambayo matowashi walimpelekea.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.15",
+            "verseOrgIds": [
+              "EST.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "EST 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha Memukani akajibu mbele ya mfalme na wakuu, \"Malkia Vashti si kwamba amemkosea mfalme tu bali pia amewakosea wakuu wote na watu wa himaya yote ya Mfalme Ahasuero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.16",
+            "verseOrgIds": [
+              "EST.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "EST 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana tendo hili la malkia litajulikana kwa wanawake wote, kwa hiyo watawadharau waume zao na kusema, 'Mfalme Ahasuero aliagiza Malkia Vashti aletwe mbele yake, lakini alikataa.'",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.17",
+            "verseOrgIds": [
+              "EST.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "EST 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Leo hii wanawake wa wakuu wa Uajemi na Umedi ambao wamesikia juu ya tabia ya malkia watawatendea wakuu wote wa mfalme vivyo hivyo. Hapatakuwepo na mwisho wa dharau na magomvi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.18",
+            "verseOrgIds": [
+              "EST.1.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "EST 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Kwa hiyo, kama itampendeza mfalme, atoe amri ya kifalme na iandikwe katika sheria ya Uajemi na Umedi, ambayo haitabadilika, kwamba Vashti kamwe asije tena mbele ya Mfalme Ahasuero. Pia mfalme na atoe hiyo nafasi yake ya umalkia kwa mwanamke mwingine aliye bora kumliko yeye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.19",
+            "verseOrgIds": [
+              "EST.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "EST 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha mbiu hii ya mfalme itakapotangazwa katika himaya yake iliyo kubwa sana, wanawake wote watawaheshimu waume zao, kuanzia mdogo hadi mkubwa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.20",
+            "verseOrgIds": [
+              "EST.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "EST 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mfalme na wakuu wake walipendezwa na shauri hili, hivyo basi mfalme akafanya kama Memukani alivyopendekeza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.21",
+            "verseOrgIds": [
+              "EST.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "EST 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipeleka barua katika sehemu zote za ufalme wake, kwa kila jimbo kwa maandishi yake mwenyewe na kwa kila watu katika lugha yao wenyewe, akitangaza kwa msemo wa kila watu kwamba inampasa kila mwanaume kuwa mtawala wa nyumba yake mwenyewe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.1.22",
+            "verseOrgIds": [
+              "EST.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.intro",
+    "number": "intro",
+    "bookId": "EST"
+  }
+}

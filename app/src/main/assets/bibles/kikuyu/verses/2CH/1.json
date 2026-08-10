@@ -1,0 +1,481 @@
+{
+  "id": "2CH.1",
+  "number": "1",
+  "bookId": "2CH",
+  "reference": "2 Maũndũ ma Matukũ ma Tene 1",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "2CH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Solomoni Kũhooya Aheo Ũũgĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2CH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni, mũrũ wa Daudi, nĩehaandire akĩrũma wega ũthamaki-inĩ wake, nĩgũkorwo Jehova Ngai wake aarĩ hamwe nake na akĩmũnenehia mũno makĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.1",
+            "verseOrgIds": [
+              "2CH.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2CH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Solomoni akĩarĩria andũ a Isiraeli othe: akĩarĩria anene a mbũtũ cia o ngiri ngiri, na anene a mbũtũ cia o igana igana, na aciiri, o na atongoria othe a kũu Isiraeli, na atongoria a nyũmba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.2",
+            "verseOrgIds": [
+              "2CH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2CH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Solomoni na kĩũngano kĩu gĩothe makĩambata kũndũ kũrĩa gũtũũgĩru kũu Gibeoni, nĩgũkorwo Hema-ya-Gũtũnganwo ya Ngai nĩkuo yarĩ, ĩrĩa Musa ndungata ya Jehova aathondekeire kũu werũ-inĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.3",
+            "verseOrgIds": [
+              "2CH.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2CH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Daudi nĩambatĩtie ithandũkũ rĩa Ngai kuuma Kiriathu-Jearimu akarĩiga harĩa aarĩthondekeire, tondũ nĩarĩambĩire hema kũu Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.4",
+            "verseOrgIds": [
+              "2CH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2CH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No kĩgongona gĩa gĩcango kĩrĩa gĩathondeketwo nĩ Bezaleli mũrũ wa Uri, mũrũ wa Huru, kĩarĩ Gibeoni mbere ya hema ĩrĩa nyamũre ya Jehova; nĩ ũndũ ũcio Solomoni na kĩũngano kĩu magĩthiĩ hau gũtuĩria ũhoro kuuma kũrĩ Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.5",
+            "verseOrgIds": [
+              "2CH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2CH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni akĩambata kĩgongona-inĩ kĩu gĩa gĩcango o hau mbere ya Jehova thĩinĩ wa Hema-ya-Gũtũnganwo, na akĩrutĩra hau igũrũ wakĩo magongona ngiri ĩmwe ma njino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.6",
+            "verseOrgIds": [
+              "2CH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2CH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũtukũ o ro ũcio-rĩ, Ngai akiumĩrĩra Solomoni, akĩmwĩra atĩrĩ, “Hooya kĩrĩa gĩothe ũkwenda ngũhe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.7",
+            "verseOrgIds": [
+              "2CH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2CH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni agĩcookeria Ngai atĩrĩ, “Nĩwekĩire baba Daudi maũndũ manene ma ũtugi na nĩũnduĩte mũthamaki ithenya rĩake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.8",
+            "verseOrgIds": [
+              "2CH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2CH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Wee Jehova Ngai, reke ũrĩa werĩire baba Daudi ũhinge, nĩgũkorwo nĩũnduĩte mũthamaki wa andũ aingĩ o ta rũkũngũ rwa thĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.9",
+            "verseOrgIds": [
+              "2CH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2CH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He ũũgĩ na ũmenyo, nĩguo ndongoragie andũ aya, nĩ ũndũ-rĩ, nũũ ũngĩhota gwatha andũ aya aku aingĩ ũũ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.10",
+            "verseOrgIds": [
+              "2CH.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2CH 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngai akĩĩra Solomoni atĩrĩ, “Kuona atĩ ũndũ ũyũ nĩguo wendi wa ngoro yaku na ndũnahooya ũtonga, kana kũgĩa indo nyingĩ o na kana gĩtĩĩo, kana gĩkuũ gĩa thũ ciaku, na kuona atĩ ndũnahooya ũtũũre muoyo matukũ maingĩ, no wahooya ũũgĩ na ũmenyo wa gwathaga andũ akwa arĩa ngũtuĩte mũthamaki wao-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.11",
+            "verseOrgIds": [
+              "2CH.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2CH 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nĩ ũndũ ũcio nĩũkũheo ũũgĩ na ũmenyo. O na ningĩ nĩngũkũhe ũtonga, na indo nyingĩ o na gĩtĩĩo, iria itarĩ mũthamaki ũrĩ wakorwo nacio mbere ĩyo, na gũtarĩ mũthamaki ũkaagĩa nacio thuutha waku.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.12",
+            "verseOrgIds": [
+              "2CH.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2CH 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Solomoni agĩthiĩ Jerusalemu oimĩte handũ harĩa hatũũgĩru kũu Gibeoni hau mbere ya Hema-ya-Gũtũnganwo. Nake agĩthamakĩra Isiraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.13",
+            "verseOrgIds": [
+              "2CH.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2CH 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Solomoni nĩacookanĩrĩirie ngaari cia ita na mbarathi; aarĩ na ngaari cia ita 1,400 na mbarathi 12,000 iria aigĩte matũũra-inĩ manene ma ngaari cia ita, na akaiga iria ingĩ hakuhĩ nake kũu Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.14",
+            "verseOrgIds": [
+              "2CH.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2CH 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki nĩatũmire betha na thahabu cingĩhe Jerusalemu o ta mahiga, mĩtarakwa nayo yarĩ mĩingĩ o ta mĩkũyũ ĩrĩa ĩrĩ magũrũ-inĩ ma irĩma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.15",
+            "verseOrgIds": [
+              "2CH.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2CH 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mbarathi cia Solomoni cioimaga Misiri na kuuma Kilikia, nao onjorithia a mũthamaki maacigũraga kuuma Kilikia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.16",
+            "verseOrgIds": [
+              "2CH.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2CH 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maagũraga ngaari ĩmwe ya ita kuuma Misiri cekeri 600cia betha, nayo mbarathi ĩmwe ĩkoima cekeri 150.Ningĩ nĩmacookaga magacitwara ikenderio athamaki othe a Ahiti na a Suriata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2CH.1.17",
+            "verseOrgIds": [
+              "2CH.1.17"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2CH.2",
+    "number": "2",
+    "bookId": "2CH"
+  },
+  "previous": {
+    "id": "2CH.intro",
+    "number": "intro",
+    "bookId": "2CH"
+  }
+}

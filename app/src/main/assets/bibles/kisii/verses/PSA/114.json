@@ -1,0 +1,472 @@
+{
+  "id": "PSA.114",
+  "number": "114",
+  "bookId": "PSA",
+  "reference": "Zaburi 114",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "114",
+        "style": "c",
+        "sid": "PSA 114"
+      },
+      "items": [
+        {
+          "text": "114",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogoteera kw’erituko rinene ri’Epasaka",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 114:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Abaisraeli barwete Misiri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.1",
+            "verseOrgIds": [
+              "PSA.114.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, ekero abanto ba Yakobo barwete ase abanto barenge konoga omonwa omoao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.1",
+            "verseOrgIds": [
+              "PSA.114.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 114:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abayuda bakaba aase aachenu a Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.2",
+            "verseOrgIds": [
+              "PSA.114.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na Abaisraeli bakaba ab’obogaambi bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.2",
+            "verseOrgIds": [
+              "PSA.114.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 114:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyancha ekarora ayio egatama,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.3",
+            "verseOrgIds": [
+              "PSA.114.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na orooche rwa Yorodani rokanacheka, rokairana magega.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.3",
+            "verseOrgIds": [
+              "PSA.114.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 114:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebitunwa bigatuma-tuma buna chimingichi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.4",
+            "verseOrgIds": [
+              "PSA.114.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na ebigoro buna chimanwa chi’eching’ondi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.4",
+            "verseOrgIds": [
+              "PSA.114.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 114:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye enyancha, ninki kwarooche, erinde ogatama?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.5",
+            "verseOrgIds": [
+              "PSA.114.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Aye Yorodani, ninki kiabeete asore, erinde okanacheka okairana magega?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.5",
+            "verseOrgIds": [
+              "PSA.114.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 114:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe ebitunwa, ninki kiagerete mogatuma‐tuma buna chimingichi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.6",
+            "verseOrgIds": [
+              "PSA.114.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nainwe ebigoro boigo buna chimanwa chi’eching’ondi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.6",
+            "verseOrgIds": [
+              "PSA.114.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 114:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye ense, tengecha ase obosio Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.7",
+            "verseOrgIds": [
+              "PSA.114.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ee, ase obosio bwa Nyasae o Yakobo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.7",
+            "verseOrgIds": [
+              "PSA.114.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 114:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyio oonchorete egetare gekaba ritibo ri’amaache,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.8",
+            "verseOrgIds": [
+              "PSA.114.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ne rigena riikong’u rikaba ensoko y’amaache.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.114.8",
+            "verseOrgIds": [
+              "PSA.114.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.115",
+    "number": "115",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.113",
+    "number": "113",
+    "bookId": "PSA"
+  }
+}

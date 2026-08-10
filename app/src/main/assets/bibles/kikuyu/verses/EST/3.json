@@ -1,0 +1,431 @@
+{
+  "id": "EST.3",
+  "number": "3",
+  "bookId": "EST",
+  "reference": "Esiteri 3",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "EST 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hamani Gũciirĩra Kũniina Ayahudi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa maũndũ macio, Mũthamaki Ahasuerusu nĩatũũgĩririe Hamani mũrũ wa Hamedatha, ũrĩa Mũagagi, akĩmũnenehia na akĩmũhe gĩtĩĩo gĩakĩrĩte kĩa andũ arĩa angĩ othe maarĩ igweta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.1",
+            "verseOrgIds": [
+              "EST.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Anene othe a mũthamaki arĩa maarĩ hau kĩhingo-inĩ kĩa mũciĩ wa mũthamaki nĩmaturagia maru na makainamĩrĩra, magatĩĩa Hamani, nĩ ũndũ mũthamaki nĩathanĩte gwĩkagwo ũguo nĩ ũndũ wake. No Moridekai ndaigana gũturia maru kana kũmũinamĩrĩra amũtĩĩe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.2",
+            "verseOrgIds": [
+              "EST.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo anene a mũthamaki arĩa maarĩ kĩhingo-inĩ kĩa mũciĩ wa mũthamaki makĩũria Moridekai atĩrĩ, “Ũregete gwathĩkĩra watho wa mũthamaki nĩkĩ?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.3",
+            "verseOrgIds": [
+              "EST.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O mũthenya nĩmamwaragĩria no akĩrega kũmaigua. Nĩ ũndũ ũcio makĩhe Hamani ũhoro ũcio nĩgeetha mone kana mũtugo ũcio wa Moridekai no ũkirĩrĩrio, nĩgũkorwo nĩameerĩte atĩ we aarĩ Mũyahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.4",
+            "verseOrgIds": [
+              "EST.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Hamani onire atĩ Moridekai ndangĩmũturĩria maru kana amũtĩĩe, akĩngʼũrĩka mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.5",
+            "verseOrgIds": [
+              "EST.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No aarĩkia kũmenya rũrĩrĩ rwa andũ a Moridekai rwarĩ rũrĩkũ, akĩona kũũragithia Moridekai arĩ o wiki ti kũiganu. Handũ ha ũguo, Hamani agĩcaria njĩra ya kũniinithia rũrĩrĩ ruothe rwa andũ a Moridekai, na nĩo Ayahudi, arĩa maarĩ mabũrũri-inĩ mothe marĩa maathagwo nĩ Mũthamaki Ahasuerusu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.6",
+            "verseOrgIds": [
+              "EST.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwaka-inĩ wa ikũmi na ĩĩrĩ wa Mũthamaki Ahasuerusu, mweri wa mbere, mweri wa Nisani, magĩcuuka puri (ũguo nĩ ta kuuga gũcuuka mĩtĩ) mbere ya Hamani nĩguo mathuure mũthenya na mweri. Naguo mũtĩ ũkĩgwĩra mweri wa ikũmi na ĩĩrĩ, nĩguo mweri wa Adari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.7",
+            "verseOrgIds": [
+              "EST.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani agĩcooka akĩĩra Mũthamaki Ahasuerusu atĩrĩ, “Nĩ kũrĩ rũrĩrĩ rũhurunjũkĩire ndũrĩrĩ-inĩ cia mabũrũri mothe marĩa ũthamakagĩra, rũrĩa mĩtugo yao ĩtahaanaine na ya andũ arĩa angĩ othe, na andũ a rũrĩrĩ rũu matiathĩkagĩra mawatho ma mũthamaki; nĩ ũndũ ũcio hatirĩ bata wa mũthamaki kũmakirĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.8",
+            "verseOrgIds": [
+              "EST.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki angĩona kwagĩrĩire-rĩ, no kũrutwo watho wa kũmaniinithia, na niĩ nĩngũiga taranda 10,000cia betha thĩinĩ wa kĩgĩĩna kĩa ũthamaki cia kũrĩha andũ arĩa mekũruta wĩra ũcio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.9",
+            "verseOrgIds": [
+              "EST.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mũthamaki akĩruta gĩcũhĩ kĩa mũhũũri wake kuuma kĩara-inĩ gĩake, agĩkĩnengera Hamani mũrũ wa Hamedatha, ũrĩa Mũagagi, ũcio thũ ya Ayahudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.10",
+            "verseOrgIds": [
+              "EST.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki akĩĩra Hamani atĩrĩ, “Ikara na mbeeca icio ciaku, na wĩke na andũ acio o ũrĩa ũkwenda.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.11",
+            "verseOrgIds": [
+              "EST.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, mũthenya wa ikũmi na ĩtatũ wa mweri wa mbere, aandĩki-marũa a mũthamaki magĩĩtwo. Makĩandĩka ũrĩa wothe Hamani aathanĩte, na mwandĩkĩre wa o bũrũri, na rũthiomi rwa o rũrĩrĩ, makĩandĩkĩra anene a mũthamaki, na abarũthi a mabũrũri a kũndũ na kũndũ, na andũ arĩa maarĩ igweta a ndũrĩrĩ mwanya. Marũa macio maandĩkirwo na rĩĩtwa rĩa Mũthamaki Ahasuerusu we mwene, na magĩĩkĩrwo mũhũũri wa gĩcũhĩ gĩake mwene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.12",
+            "verseOrgIds": [
+              "EST.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Marũa macio maatwarirwo mabũrũri-inĩ mothe ma mũthamaki nĩ andũ arĩa maakuuaga marũa, namo maaheanĩte watho wa kwananga, na kũũraga, na kũhukia Ayahudi othe, andũ ethĩ na arĩa akũrũ, na andũ-a-nja na twana tũnini, maniinwo mũthenya o ro ũmwe, arĩ guo mũthenya wa ikũmi na ĩtatũ, mweri wa ikũmi na ĩĩrĩ, mweri wa Adari, na matahe indo ciao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.13",
+            "verseOrgIds": [
+              "EST.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kobi ĩmwe ya marũa macio ma watho ũcio yarĩ ĩtũmwo ĩrĩ watho wa kũrũmĩrĩrwo mabũrũri-inĩ mothe, na ũmenyithio andũ a ndũrĩrĩ ciothe, nĩgeetha mehaarĩrie nĩ ũndũ wa mũthenya ũcio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.14",
+            "verseOrgIds": [
+              "EST.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "EST 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ wa ũrĩa watho wa mũthamaki warĩ wa na ihenya, atwari a marũa makiumagara o narua tondũ watho ũcio waheanirwo kuuma thĩinĩ wa nyũmba ya ũthamaki kũu gĩikaro kĩrĩa kĩarĩ kĩirigĩre gĩa Shushani. Mũthamaki na Hamani magĩikara thĩ kũnyua, no itũũra rĩu inene rĩa Shushani rĩkĩgagaya mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.3.15",
+            "verseOrgIds": [
+              "EST.3.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.4",
+    "number": "4",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.2",
+    "number": "2",
+    "bookId": "EST"
+  }
+}

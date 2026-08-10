@@ -1,0 +1,1175 @@
+{
+  "id": "PSA.17",
+  "number": "17",
+  "bookId": "PSA",
+  "reference": "Psalms 17",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "PSA 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Prayer of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear the right, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.1",
+            "verseOrgIds": [
+              "PSA.17.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.1",
+                "verseOrgIds": [
+                  "PSA.17.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", attend unto my cry, give ear unto my prayer,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.1",
+            "verseOrgIds": [
+              "PSA.17.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that goeth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.1",
+                "verseOrgIds": [
+                  "PSA.17.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not out of feigned lips.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.1",
+            "verseOrgIds": [
+              "PSA.17.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.2",
+            "verseOrgIds": [
+              "PSA.17.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou hast proved mine heart; thou hast visited",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.3",
+            "verseOrgIds": [
+              "PSA.17.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "me",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.3",
+                "verseOrgIds": [
+                  "PSA.17.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the night; thou hast tried me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.3",
+            "verseOrgIds": [
+              "PSA.17.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.3",
+                "verseOrgIds": [
+                  "PSA.17.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shalt find nothing; I am purposed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.3",
+            "verseOrgIds": [
+              "PSA.17.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.3",
+                "verseOrgIds": [
+                  "PSA.17.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my mouth shall not transgress.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.3",
+            "verseOrgIds": [
+              "PSA.17.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Concerning the works of men, by the word of thy lips I have kept",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.4",
+            "verseOrgIds": [
+              "PSA.17.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "me from",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.4",
+                "verseOrgIds": [
+                  "PSA.17.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the paths of the destroyer.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.4",
+            "verseOrgIds": [
+              "PSA.17.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hold up my goings in thy paths,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.5",
+            "verseOrgIds": [
+              "PSA.17.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.5",
+                "verseOrgIds": [
+                  "PSA.17.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my footsteps slip not.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.5",
+            "verseOrgIds": [
+              "PSA.17.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.6",
+            "verseOrgIds": [
+              "PSA.17.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and hear",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.6",
+                "verseOrgIds": [
+                  "PSA.17.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my speech.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.6",
+            "verseOrgIds": [
+              "PSA.17.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.7",
+            "verseOrgIds": [
+              "PSA.17.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "in thee",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.7",
+                "verseOrgIds": [
+                  "PSA.17.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "from those that rise up",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.7",
+            "verseOrgIds": [
+              "PSA.17.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "against them",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.7",
+                "verseOrgIds": [
+                  "PSA.17.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.7",
+            "verseOrgIds": [
+              "PSA.17.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.8",
+            "verseOrgIds": [
+              "PSA.17.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "From the wicked that oppress me,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.9",
+            "verseOrgIds": [
+              "PSA.17.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "from",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.9",
+                "verseOrgIds": [
+                  "PSA.17.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my deadly enemies,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.9",
+            "verseOrgIds": [
+              "PSA.17.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "who",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.9",
+                "verseOrgIds": [
+                  "PSA.17.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "compass me about.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.9",
+            "verseOrgIds": [
+              "PSA.17.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They are inclosed in their own fat: with their mouth they speak proudly.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.10",
+            "verseOrgIds": [
+              "PSA.17.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.11",
+            "verseOrgIds": [
+              "PSA.17.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Like as a lion",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.12",
+            "verseOrgIds": [
+              "PSA.17.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.12",
+                "verseOrgIds": [
+                  "PSA.17.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is greedy of his prey, and as it were a young lion lurking in secret places.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.12",
+            "verseOrgIds": [
+              "PSA.17.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arise, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.13",
+            "verseOrgIds": [
+              "PSA.17.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.13",
+                "verseOrgIds": [
+                  "PSA.17.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", disappoint him, cast him down: deliver my soul from the wicked,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.13",
+            "verseOrgIds": [
+              "PSA.17.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.13",
+                "verseOrgIds": [
+                  "PSA.17.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy sword:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.13",
+            "verseOrgIds": [
+              "PSA.17.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 17:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "From men",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy hand, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", from men of the world,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which have",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "their portion in",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "this",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "life, and whose belly thou fillest with thy hid",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "treasure:",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they are full of children, and leave the rest of their",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "substance",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.17.14",
+                "verseOrgIds": [
+                  "PSA.17.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to their babes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.14",
+            "verseOrgIds": [
+              "PSA.17.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 17:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.17.15",
+            "verseOrgIds": [
+              "PSA.17.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.18",
+    "number": "18",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.16",
+    "number": "16",
+    "bookId": "PSA"
+  }
+}

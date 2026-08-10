@@ -1,0 +1,632 @@
+{
+  "id": "PSA.121",
+  "number": "121",
+  "bookId": "PSA",
+  "reference": "Zaburi 121",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "121",
+        "style": "c",
+        "sid": "PSA 121"
+      },
+      "items": [
+        {
+          "text": "121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 121",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mlinzi Wetu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 121:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nayainua macho yangu nitazame vilima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:1"
+      },
+      "items": [
+        {
+          "text": "msaada wangu utatoka wapi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.1",
+            "verseOrgIds": [
+              "PSA.121.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 121:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Msaada wangu hutoka kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.2",
+                "verseOrgIds": [
+                  "PSA.121.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:2"
+      },
+      "items": [
+        {
+          "text": "Muumba wa mbingu na dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.2",
+            "verseOrgIds": [
+              "PSA.121.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 121:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hatauacha mguu wako uteleze,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:3"
+      },
+      "items": [
+        {
+          "text": "yeye akulindaye hatasinzia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.3",
+            "verseOrgIds": [
+              "PSA.121.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 121:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "hakika, yeye alindaye Israeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.4",
+            "verseOrgIds": [
+              "PSA.121.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:4"
+      },
+      "items": [
+        {
+          "text": "hatasinzia wala hatalala usingizi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.4",
+            "verseOrgIds": [
+              "PSA.121.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 121:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.5",
+                "verseOrgIds": [
+                  "PSA.121.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "anakulinda,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:5"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.5",
+                "verseOrgIds": [
+                  "PSA.121.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ni uvuli wako mkono wako wa kuume,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.5",
+            "verseOrgIds": [
+              "PSA.121.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 121:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "jua halitakudhuru mchana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:6"
+      },
+      "items": [
+        {
+          "text": "wala mwezi wakati wa usiku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.6",
+            "verseOrgIds": [
+              "PSA.121.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 121:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.7",
+                "verseOrgIds": [
+                  "PSA.121.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atakukinga na madhara yote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:7"
+      },
+      "items": [
+        {
+          "text": "atayalinda maisha yako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.7",
+            "verseOrgIds": [
+              "PSA.121.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 121:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.121.8",
+                "verseOrgIds": [
+                  "PSA.121.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "atakulinda unapoingia na unapotoka,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 121:8"
+      },
+      "items": [
+        {
+          "text": "tangu sasa na hata milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.121.8",
+            "verseOrgIds": [
+              "PSA.121.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.120",
+    "number": "120",
+    "bookId": "PSA"
+  }
+}

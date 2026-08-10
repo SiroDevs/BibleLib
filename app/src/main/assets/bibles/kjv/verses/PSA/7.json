@@ -1,0 +1,1115 @@
+{
+  "id": "PSA.7",
+  "number": "7",
+  "bookId": "PSA",
+  "reference": "Psalms 7",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 17,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "PSA 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Shiggaion of David, which he sang unto the",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ", concerning the words of Cush the Benjamite.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.1",
+            "verseOrgIds": [
+              "PSA.7.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.1",
+                "verseOrgIds": [
+                  "PSA.7.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.1",
+            "verseOrgIds": [
+              "PSA.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lest he tear my soul like a lion, rending",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.2",
+            "verseOrgIds": [
+              "PSA.7.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.2",
+                "verseOrgIds": [
+                  "PSA.7.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in pieces, while",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.2",
+            "verseOrgIds": [
+              "PSA.7.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.2",
+                "verseOrgIds": [
+                  "PSA.7.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "none to deliver.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.2",
+            "verseOrgIds": [
+              "PSA.7.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.3",
+            "verseOrgIds": [
+              "PSA.7.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.3",
+                "verseOrgIds": [
+                  "PSA.7.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my God, if I have done this; if there be iniquity in my hands;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.3",
+            "verseOrgIds": [
+              "PSA.7.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.4",
+            "verseOrgIds": [
+              "PSA.7.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let the enemy persecute my soul, and take",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.5",
+            "verseOrgIds": [
+              "PSA.7.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it;",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.5",
+                "verseOrgIds": [
+                  "PSA.7.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.5",
+            "verseOrgIds": [
+              "PSA.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arise, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.6",
+                "verseOrgIds": [
+                  "PSA.7.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", in thine anger, lift up thyself because of the rage of mine enemies: and awake for me",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "to",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.6",
+                "verseOrgIds": [
+                  "PSA.7.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the judgment",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.6",
+                "verseOrgIds": [
+                  "PSA.7.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou hast commanded.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.6",
+            "verseOrgIds": [
+              "PSA.7.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.7",
+            "verseOrgIds": [
+              "PSA.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.8",
+                "verseOrgIds": [
+                  "PSA.7.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall judge the people: judge me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.8",
+                "verseOrgIds": [
+                  "PSA.7.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", according to my righteousness, and according to mine integrity",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.8",
+                "verseOrgIds": [
+                  "PSA.7.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.8",
+            "verseOrgIds": [
+              "PSA.7.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.9",
+            "verseOrgIds": [
+              "PSA.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My defence",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.10",
+            "verseOrgIds": [
+              "PSA.7.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.10",
+                "verseOrgIds": [
+                  "PSA.7.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of God, which saveth the upright in heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.10",
+            "verseOrgIds": [
+              "PSA.7.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God judgeth the righteous, and God is angry",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.11",
+            "verseOrgIds": [
+              "PSA.7.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "with the wicked",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.11",
+                "verseOrgIds": [
+                  "PSA.7.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "every day.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.11",
+            "verseOrgIds": [
+              "PSA.7.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.12",
+            "verseOrgIds": [
+              "PSA.7.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.13",
+            "verseOrgIds": [
+              "PSA.7.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 7:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.14",
+            "verseOrgIds": [
+              "PSA.7.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 7:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He made a pit, and digged it, and is fallen into the ditch",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.15",
+            "verseOrgIds": [
+              "PSA.7.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.15",
+                "verseOrgIds": [
+                  "PSA.7.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he made.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.15",
+            "verseOrgIds": [
+              "PSA.7.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 7:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.16",
+            "verseOrgIds": [
+              "PSA.7.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 7:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will praise the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.17",
+                "verseOrgIds": [
+                  "PSA.7.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "according to his righteousness: and will sing praise to the name of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.7.17",
+                "verseOrgIds": [
+                  "PSA.7.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "most high.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.7.17",
+            "verseOrgIds": [
+              "PSA.7.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.8",
+    "number": "8",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.6",
+    "number": "6",
+    "bookId": "PSA"
+  }
+}

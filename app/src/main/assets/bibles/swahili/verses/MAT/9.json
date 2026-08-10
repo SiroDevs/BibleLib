@@ -1,0 +1,1870 @@
+{
+  "id": "MAT.9",
+  "number": "9",
+  "bookId": "MAT",
+  "reference": "Mathayo 9",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 38,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "MAT 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amponya Mtu Aliyepooza",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MRK.2.1-MRK.2.12"
+          },
+          "items": [
+            {
+              "text": "Marko 2:1-12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.5.17-LUK.5.26"
+          },
+          "items": [
+            {
+              "text": "Luka 5:17-26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akaingia kwenye chombo, akavuka na kufika katika mji wa kwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.1",
+            "verseOrgIds": [
+              "MAT.9.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 9:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo wakamletea mtu aliyepooza, akiwa amelazwa kwenye mkeka. Yesu alipoiona imani yao, alimwambia yule mtu aliyepooza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.2",
+            "verseOrgIds": [
+              "MAT.9.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Mwanangu, jipe moyo mkuu. Dhambi zako zimesamehewa.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.2",
+                "verseOrgIds": [
+                  "MAT.9.2"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 9:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ajili ya jambo hili, baadhi ya walimu wa sheria wakasema mioyoni mwao, \"Huyu mtu anakufuru!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.3",
+            "verseOrgIds": [
+              "MAT.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 9:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Yesu akiyafahamu mawazo yao, akawaambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.4",
+            "verseOrgIds": [
+              "MAT.9.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Kwa nini mnawaza maovu mioyoni mwenu?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.4",
+                "verseOrgIds": [
+                  "MAT.9.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.4",
+            "verseOrgIds": [
+              "MAT.9.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 9:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Je, ni lipi lililo rahisi zaidi: kusema, 'Umesamehewa dhambi zako,' au kusema, 'Inuka, uende'?",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.5",
+                "verseOrgIds": [
+                  "MAT.9.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.5",
+            "verseOrgIds": [
+              "MAT.9.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 9:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Lakini, ili mpate kujua kwamba Mwana wa Adamu anayo mamlaka duniani kusamehe dhambi…\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.6",
+                "verseOrgIds": [
+                  "MAT.9.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Ndipo akamwambia yule aliyepooza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.6",
+            "verseOrgIds": [
+              "MAT.9.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Inuka, chukua mkeka wako, uende nyumbani kwako.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.6",
+                "verseOrgIds": [
+                  "MAT.9.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.6",
+            "verseOrgIds": [
+              "MAT.9.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 9:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yule mtu akasimama, akaenda nyumbani kwake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.7",
+            "verseOrgIds": [
+              "MAT.9.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 9:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Makutano walipoyaona haya, wakajawa na hofu ya Mungu, wakamtukuza Mungu ambaye alikuwa ametoa mamlaka kama haya kwa wanadamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.8",
+            "verseOrgIds": [
+              "MAT.9.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuitwa Kwa Mathayo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MRK.2.13-MRK.2.17"
+          },
+          "items": [
+            {
+              "text": "Marko 2:13-17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.5.27-LUK.5.32"
+          },
+          "items": [
+            {
+              "text": "Luka 5:27-32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 9:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akienda kutoka huko, alimwona mtu mmoja jina lake Mathayo akiwa ameketi forodhani mahali pa kutoza ushuru. Yesu akamwambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.9",
+            "verseOrgIds": [
+              "MAT.9.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Nifuate.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.9",
+                "verseOrgIds": [
+                  "MAT.9.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mathayo akaondoka, akamfuata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.9",
+            "verseOrgIds": [
+              "MAT.9.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 9:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akila chakula ndani ya nyumba ya Mathayo, watoza ushuru wengi na \"wenye dhambi\" wakaja kula pamoja naye na wanafunzi wake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.10",
+            "verseOrgIds": [
+              "MAT.9.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 9:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mafarisayo walipoona mambo haya, wakawauliza wanafunzi wake, \"Kwa nini Mwalimu wenu anakula pamoja na watoza ushuru na 'wenye dhambi'?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.11",
+            "verseOrgIds": [
+              "MAT.9.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 9:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Yesu aliposikia hayo, akawaambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.12",
+            "verseOrgIds": [
+              "MAT.9.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Watu wenye afya hawahitaji tabibu, lakini wale walio wagonjwa ndio wanaohitaji tabibu.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.12",
+                "verseOrgIds": [
+                  "MAT.9.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.12",
+            "verseOrgIds": [
+              "MAT.9.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 9:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Nendeni mkajifunze maana ya maneno haya: 'Nataka rehema, wala si dhabihu.' Kwa maana sikuja kuwaita wenye haki, bali wenye dhambi.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.13",
+                "verseOrgIds": [
+                  "MAT.9.13"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Aulizwa Kuhusu Kufunga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MRK.2.18-MRK.2.22"
+          },
+          "items": [
+            {
+              "text": "Marko 2:18-22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.5.33-LUK.5.39"
+          },
+          "items": [
+            {
+              "text": "Luka 5:33-39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 9:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wanafunzi wa Yohana Mbatizaji wakaja na kumuuliza Yesu, \"Imekuwaje kwamba sisi na Mafarisayo tunafunga, lakini wanafunzi wako hawafungi?\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.14",
+            "verseOrgIds": [
+              "MAT.9.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 9:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akawajibu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.15",
+            "verseOrgIds": [
+              "MAT.9.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Wageni wa bwana arusi wawezaje kuomboleza wakati angali pamoja nao? Wakati utafika ambapo bwana arusi ataondolewa kwao. Hapo ndipo watakapofunga.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.15",
+                "verseOrgIds": [
+                  "MAT.9.15"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 9:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Hakuna mtu anayeshonea kiraka kipya kwenye nguo iliyochakaa, kwa maana kile kiraka kitachanika kutoka kwenye hiyo nguo, nayo hiyo nguo itachanika zaidi.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.16",
+                "verseOrgIds": [
+                  "MAT.9.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.16",
+            "verseOrgIds": [
+              "MAT.9.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 9:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Wala watu hawaweki divai mpya kwenye viriba vikuukuu. Kama wakifanya hivyo, viriba vitapasuka nayo divai itamwagika, navyo viriba vitaharibika. Lakini divai mpya huwekwa kwenye viriba vipya, na hivyo divai na viriba huwa salama.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.17",
+                "verseOrgIds": [
+                  "MAT.9.17"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mwanamke Aponywa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "MRK.5.21-MRK.5.43"
+          },
+          "items": [
+            {
+              "text": "Marko 5:21-43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LUK.8.40-LUK.8.56"
+          },
+          "items": [
+            {
+              "text": "Luka 8:40-56",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 9:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akiwaambia mambo haya, mara akaingia kiongozi wa sinagogi akapiga magoti mbele yake, akamwambia, \"Binti yangu amekufa sasa hivi. Lakini njoo uweke mkono wako juu yake, naye atakuwa hai.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.18",
+            "verseOrgIds": [
+              "MAT.9.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 9:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akaondoka akafuatana naye, nao wanafunzi wake pia wakaandamana naye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.19",
+            "verseOrgIds": [
+              "MAT.9.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 9:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo, mwanamke mmoja, ambaye alikuwa na ugonjwa wa kutokwa damu kwa muda wa miaka kumi na miwili, akaja nyuma ya Yesu, akagusa upindo wa vazi lake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.20",
+            "verseOrgIds": [
+              "MAT.9.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 9:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa maana alisema moyoni mwake, \"Kama nikigusa tu vazi lake, nitaponywa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.21",
+            "verseOrgIds": [
+              "MAT.9.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 9:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akageuka, naye alipomwona akamwambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.22",
+            "verseOrgIds": [
+              "MAT.9.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Binti, jipe moyo mkuu, imani yako imekuponya.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.22",
+                "verseOrgIds": [
+                  "MAT.9.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Naye yule mwanamke akapona kuanzia saa ile ile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.22",
+            "verseOrgIds": [
+              "MAT.9.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amfufua Binti Wa Kiongozi Wa Sinagogi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 9:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipofika nyumbani kwa yule kiongozi wa sinagogi na kuwaona waombolezaji wakipiga filimbi za maombolezo na watu wengi wakipiga kelele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.23",
+            "verseOrgIds": [
+              "MAT.9.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 9:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akawaambia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.24",
+            "verseOrgIds": [
+              "MAT.9.24"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Ondokeni! Kwa maana binti huyu hakufa, bali amelala.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.24",
+                "verseOrgIds": [
+                  "MAT.9.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Wakamcheka kwa dhihaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.24",
+            "verseOrgIds": [
+              "MAT.9.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 9:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini watu walipokwisha kutolewa nje, akaingia mle ndani na kumshika yule binti mkono, naye akaamka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.25",
+            "verseOrgIds": [
+              "MAT.9.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 9:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Habari hizi zikaenea katika maeneo yale yote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.26",
+            "verseOrgIds": [
+              "MAT.9.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Awaponya Vipofu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 9:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu alipokuwa akiondoka mahali pale, vipofu wawili wakamfuata wakipiga kelele kwa nguvu na kusema, \"Mwana wa Daudi, tuhurumie!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.27",
+            "verseOrgIds": [
+              "MAT.9.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 9:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipoingia mle nyumbani wale vipofu wakamjia. Naye Yesu akawauliza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.28",
+            "verseOrgIds": [
+              "MAT.9.28"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Mnaamini kwamba ninaweza kufanya jambo hili?\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.28",
+                "verseOrgIds": [
+                  "MAT.9.28"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "MAT 9:28"
+      },
+      "items": [
+        {
+          "text": "Wakamjibu, \"Ndiyo, Bwana.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.28",
+            "verseOrgIds": [
+              "MAT.9.28"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MAT 9:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Yesu akagusa macho yao na kusema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.29",
+            "verseOrgIds": [
+              "MAT.9.29"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Iwe kwenu sawasawa na imani yenu.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.29",
+                "verseOrgIds": [
+                  "MAT.9.29"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.29",
+            "verseOrgIds": [
+              "MAT.9.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MAT 9:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Macho yao yakafunguka. Yesu akawaonya vikali, akisema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.30",
+            "verseOrgIds": [
+              "MAT.9.30"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Angalieni mtu yeyote asijue kuhusu jambo hili.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.30",
+                "verseOrgIds": [
+                  "MAT.9.30"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.30",
+            "verseOrgIds": [
+              "MAT.9.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MAT 9:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wao wakaenda na kueneza habari zake katika eneo lile lote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.31",
+            "verseOrgIds": [
+              "MAT.9.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Yesu Amponya Mtu Bubu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MAT 9:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipokuwa wanatoka, mtu mmoja aliyekuwa amepagawa na pepo mchafu na ambaye hakuweza kuongea aliletwa kwa Yesu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.32",
+            "verseOrgIds": [
+              "MAT.9.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MAT 9:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yule pepo mchafu alipotolewa, yule mtu aliyekuwa bubu akaongea. Ule umati wa watu ukastaajabu na kusema, \"Jambo kama hili kamwe halijapata kuonekana katika Israeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.33",
+            "verseOrgIds": [
+              "MAT.9.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MAT 9:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Mafarisayo wakasema, \"Huyo anatoa pepo wachafu kwa uwezo wa mkuu wa pepo wachafu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.34",
+            "verseOrgIds": [
+              "MAT.9.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Watendakazi Ni Wachache",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MAT 9:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesu akazunguka katika miji yote na vijiji vyote, akifundisha katika masinagogi yao, akihubiri habari njema za Ufalme, na akiponya kila ugonjwa na kila aina ya maradhi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.35",
+            "verseOrgIds": [
+              "MAT.9.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MAT 9:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alipoona makutano, aliwahurumia kwa sababu walikuwa wanasumbuka bila msaada, kama kondoo wasiokuwa na mchungaji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.36",
+            "verseOrgIds": [
+              "MAT.9.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MAT 9:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo akawaambia wanafunzi wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.37",
+            "verseOrgIds": [
+              "MAT.9.37"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Mavuno ni mengi lakini watendakazi ni wachache.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.37",
+                "verseOrgIds": [
+                  "MAT.9.37"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.9.37",
+            "verseOrgIds": [
+              "MAT.9.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MAT 9:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Kwa hiyo mwombeni Bwana wa mavuno, ili apeleke watendakazi katika shamba lake la mavuno.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.9.38",
+                "verseOrgIds": [
+                  "MAT.9.38"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.10",
+    "number": "10",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.8",
+    "number": "8",
+    "bookId": "MAT"
+  }
+}

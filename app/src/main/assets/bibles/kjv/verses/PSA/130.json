@@ -1,0 +1,618 @@
+{
+  "id": "PSA.130",
+  "number": "130",
+  "bookId": "PSA",
+  "reference": "Psalms 130",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "130",
+        "style": "c",
+        "sid": "PSA 130"
+      },
+      "items": [
+        {
+          "text": "130",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Song of degrees.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 130:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Out of the depths have I cried unto thee, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.1",
+            "verseOrgIds": [
+              "PSA.130.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.1",
+                "verseOrgIds": [
+                  "PSA.130.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.1",
+            "verseOrgIds": [
+              "PSA.130.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 130:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.2",
+            "verseOrgIds": [
+              "PSA.130.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 130:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If thou,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.3",
+            "verseOrgIds": [
+              "PSA.130.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.3",
+                "verseOrgIds": [
+                  "PSA.130.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", shouldest mark iniquities, O Lord, who shall stand?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.3",
+            "verseOrgIds": [
+              "PSA.130.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 130:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.4",
+            "verseOrgIds": [
+              "PSA.130.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.4",
+                "verseOrgIds": [
+                  "PSA.130.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "forgiveness with thee, that thou mayest be feared.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.4",
+            "verseOrgIds": [
+              "PSA.130.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 130:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I wait for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.5",
+            "verseOrgIds": [
+              "PSA.130.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.5",
+                "verseOrgIds": [
+                  "PSA.130.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", my soul doth wait, and in his word do I hope.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.5",
+            "verseOrgIds": [
+              "PSA.130.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 130:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My soul",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.6",
+            "verseOrgIds": [
+              "PSA.130.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "waiteth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.6",
+                "verseOrgIds": [
+                  "PSA.130.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "for the Lord more than they that watch for the morning:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.6",
+            "verseOrgIds": [
+              "PSA.130.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "I say, more than",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.6",
+                "verseOrgIds": [
+                  "PSA.130.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "they that watch for the morning.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.6",
+            "verseOrgIds": [
+              "PSA.130.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 130:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let Israel hope in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.7",
+            "verseOrgIds": [
+              "PSA.130.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.7",
+                "verseOrgIds": [
+                  "PSA.130.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ": for with the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.7",
+            "verseOrgIds": [
+              "PSA.130.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.7",
+                "verseOrgIds": [
+                  "PSA.130.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.7",
+            "verseOrgIds": [
+              "PSA.130.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.7",
+                "verseOrgIds": [
+                  "PSA.130.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mercy, and with him",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.7",
+            "verseOrgIds": [
+              "PSA.130.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.130.7",
+                "verseOrgIds": [
+                  "PSA.130.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "plenteous redemption.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.7",
+            "verseOrgIds": [
+              "PSA.130.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 130:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And he shall redeem Israel from all his iniquities.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.130.8",
+            "verseOrgIds": [
+              "PSA.130.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.131",
+    "number": "131",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.129",
+    "number": "129",
+    "bookId": "PSA"
+  }
+}

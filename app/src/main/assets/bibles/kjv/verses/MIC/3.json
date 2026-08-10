@@ -1,0 +1,682 @@
+{
+  "id": "MIC.3",
+  "number": "3",
+  "bookId": "MIC",
+  "reference": "Micah 3",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "MIC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "Is it",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.1",
+                "verseOrgIds": [
+                  "MIC.3.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not for you to know judgment?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.1",
+            "verseOrgIds": [
+              "MIC.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.2",
+            "verseOrgIds": [
+              "MIC.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.3",
+            "verseOrgIds": [
+              "MIC.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then shall they cry unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.4",
+            "verseOrgIds": [
+              "MIC.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.4",
+                "verseOrgIds": [
+                  "MIC.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.4",
+            "verseOrgIds": [
+              "MIC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ Thus saith the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.5",
+            "verseOrgIds": [
+              "MIC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.5",
+                "verseOrgIds": [
+                  "MIC.3.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.5",
+            "verseOrgIds": [
+              "MIC.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore night",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.6",
+            "verseOrgIds": [
+              "MIC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.6",
+                "verseOrgIds": [
+                  "MIC.3.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine; and the sun shall go down over the prophets, and the day shall be dark over them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.6",
+            "verseOrgIds": [
+              "MIC.3.6"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.6",
+            "verseOrgIds": [
+              "MIC.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.7",
+            "verseOrgIds": [
+              "MIC.3.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.7",
+                "verseOrgIds": [
+                  "MIC.3.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no answer of God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.7",
+            "verseOrgIds": [
+              "MIC.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "¶ But truly I am full of power by the spirit of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.8",
+            "verseOrgIds": [
+              "MIC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.8",
+                "verseOrgIds": [
+                  "MIC.3.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.8",
+            "verseOrgIds": [
+              "MIC.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.9",
+            "verseOrgIds": [
+              "MIC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They build up Zion with blood, and Jerusalem with iniquity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.10",
+            "verseOrgIds": [
+              "MIC.3.10"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.10",
+            "verseOrgIds": [
+              "MIC.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.11",
+                "verseOrgIds": [
+                  "MIC.3.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and say,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "Is",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.11",
+                "verseOrgIds": [
+                  "MIC.3.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.11",
+                "verseOrgIds": [
+                  "MIC.3.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "among us? none evil can come upon us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.11",
+            "verseOrgIds": [
+              "MIC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore shall Zion for your sake be plowed",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.12",
+            "verseOrgIds": [
+              "MIC.3.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "as",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.3.12",
+                "verseOrgIds": [
+                  "MIC.3.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.3.12",
+            "verseOrgIds": [
+              "MIC.3.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.4",
+    "number": "4",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  }
+}

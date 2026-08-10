@@ -1,0 +1,326 @@
+{
+  "id": "PSA.150",
+  "number": "150",
+  "bookId": "PSA",
+  "reference": "Psalms 150",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "150",
+        "style": "c",
+        "sid": "PSA 150"
+      },
+      "items": [
+        {
+          "text": "150",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 150:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.1",
+                "verseOrgIds": [
+                  "PSA.150.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Praise God in his sanctuary: praise him in the firmament of his power.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.1",
+            "verseOrgIds": [
+              "PSA.150.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 150:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.2",
+            "verseOrgIds": [
+              "PSA.150.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 150:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.3",
+            "verseOrgIds": [
+              "PSA.150.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 150:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.4",
+            "verseOrgIds": [
+              "PSA.150.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 150:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.5",
+            "verseOrgIds": [
+              "PSA.150.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 150:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let every thing that hath breath praise the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.6",
+                "verseOrgIds": [
+                  "PSA.150.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Praise ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.150.6",
+                "verseOrgIds": [
+                  "PSA.150.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.150.6",
+            "verseOrgIds": [
+              "PSA.150.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PRO.intro",
+    "number": "intro",
+    "bookId": "PRO"
+  },
+  "previous": {
+    "id": "PSA.149",
+    "number": "149",
+    "bookId": "PSA"
+  }
+}

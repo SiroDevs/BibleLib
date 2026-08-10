@@ -1,0 +1,728 @@
+{
+  "id": "PSA.26",
+  "number": "26",
+  "bookId": "PSA",
+  "reference": "Psalms 26",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "26",
+        "style": "c",
+        "sid": "PSA 26"
+      },
+      "items": [
+        {
+          "text": "26",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 26:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Judge me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.1",
+            "verseOrgIds": [
+              "PSA.26.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.1",
+                "verseOrgIds": [
+                  "PSA.26.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; for I have walked in mine integrity: I have trusted also in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.1",
+            "verseOrgIds": [
+              "PSA.26.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.1",
+                "verseOrgIds": [
+                  "PSA.26.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.1",
+            "verseOrgIds": [
+              "PSA.26.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "therefore",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.1",
+                "verseOrgIds": [
+                  "PSA.26.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "I shall not slide.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.1",
+            "verseOrgIds": [
+              "PSA.26.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 26:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Examine me, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.2",
+            "verseOrgIds": [
+              "PSA.26.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.2",
+                "verseOrgIds": [
+                  "PSA.26.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and prove me; try my reins and my heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.2",
+            "verseOrgIds": [
+              "PSA.26.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 26:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thy lovingkindness",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.3",
+            "verseOrgIds": [
+              "PSA.26.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.3",
+                "verseOrgIds": [
+                  "PSA.26.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "before mine eyes: and I have walked in thy truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.3",
+            "verseOrgIds": [
+              "PSA.26.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 26:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have not sat with vain persons, neither will I go in with dissemblers.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.4",
+            "verseOrgIds": [
+              "PSA.26.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 26:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.5",
+            "verseOrgIds": [
+              "PSA.26.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 26:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will wash mine hands in innocency: so will I compass thine altar, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.6",
+            "verseOrgIds": [
+              "PSA.26.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.6",
+                "verseOrgIds": [
+                  "PSA.26.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ":",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.6",
+            "verseOrgIds": [
+              "PSA.26.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 26:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.7",
+            "verseOrgIds": [
+              "PSA.26.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 26:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.8",
+                "verseOrgIds": [
+                  "PSA.26.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.8",
+            "verseOrgIds": [
+              "PSA.26.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 26:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gather not my soul with sinners, nor my life with bloody men:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.9",
+            "verseOrgIds": [
+              "PSA.26.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 26:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In whose hands",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.10",
+            "verseOrgIds": [
+              "PSA.26.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.10",
+                "verseOrgIds": [
+                  "PSA.26.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "mischief, and their right hand is full of bribes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.10",
+            "verseOrgIds": [
+              "PSA.26.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 26:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.11",
+            "verseOrgIds": [
+              "PSA.26.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 26:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My foot standeth in an even place: in the congregations will I bless the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.12",
+            "verseOrgIds": [
+              "PSA.26.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.26.12",
+                "verseOrgIds": [
+                  "PSA.26.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.26.12",
+            "verseOrgIds": [
+              "PSA.26.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.27",
+    "number": "27",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.25",
+    "number": "25",
+    "bookId": "PSA"
+  }
+}

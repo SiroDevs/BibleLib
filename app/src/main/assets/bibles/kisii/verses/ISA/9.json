@@ -1,0 +1,1103 @@
+{
+  "id": "ISA.9",
+  "number": "9",
+  "bookId": "ISA",
+  "reference": "Isaya 9",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 21,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "9",
+        "style": "c",
+        "sid": "ISA 9"
+      },
+      "items": [
+        {
+          "text": "9",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Eira y’omorwoti bw’omorembe oyio ogochia koiborwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 9:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omosunte tokogenderera koba ase ogochandeka kore bono. Amatuko a kare Omonene nigo atigete ense ya Sabuloni, na eya Nafutali, na chirochio chigachaywa, korende ase amatuko agochi‐gocha narente obonene bw’ogosikwa ase ense ere ang’e nenchera ekogenda ase enyancha, ng’umbu ya Yorodani, nero Galili, ense y’abanto b’ebisaku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.1",
+            "verseOrgIds": [
+              "ISA.9.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 9:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo baarenge gotaara ase omosunte,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.2",
+            "verseOrgIds": [
+              "ISA.9.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "bono barorire omobaso omonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.2",
+            "verseOrgIds": [
+              "ISA.9.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo bamenyete ase ense y’ekiriri ki’amakweri",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.2",
+            "verseOrgIds": [
+              "ISA.9.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "omobaso obabareire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.2",
+            "verseOrgIds": [
+              "ISA.9.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 9:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene gwasesenirie egesaku, na kerokio kiabuchire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.3",
+            "verseOrgIds": [
+              "ISA.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kwarure omogooko, na oro obeire omonge;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.3",
+            "verseOrgIds": [
+              "ISA.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abanto abwo nigo bare nomochengo ase obosio bwao,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.3",
+            "verseOrgIds": [
+              "ISA.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "buna abanto bakoba nomochengo ase engaki ye rigesa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.3",
+            "verseOrgIds": [
+              "ISA.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na buna bakogoka ekero bagwatanana ebisakorwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.3",
+            "verseOrgIds": [
+              "ISA.9.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 9:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye kwabunire rikorogoto riarenge ririto ase bare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.4",
+            "verseOrgIds": [
+              "ISA.9.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "kwabunire enyimbo eria yarenge goaka amareko abo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.4",
+            "verseOrgIds": [
+              "ISA.9.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "enyimbo eyio yarenge ey’abachandi babo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.4",
+            "verseOrgIds": [
+              "ISA.9.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "buna gwakorete ase engaki y’Abamidiani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.4",
+            "verseOrgIds": [
+              "ISA.9.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 9:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebikoroto bi’abasikari bagotitiria aase esegi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.5",
+            "verseOrgIds": [
+              "ISA.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ne chianga chionsi chiaakirwe amanyinga,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.5",
+            "verseOrgIds": [
+              "ISA.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ebio bionsi mbisambwe nomorero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.5",
+            "verseOrgIds": [
+              "ISA.9.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 9:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omwana oiboirwe ase engencho yaito,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "intwe twaeirwe omwana omomura;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "obogaambi mbobe ase amareko aye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ere nigo ararokwe:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Omosemia bw’Ogokumia, Nyasae bw’Okobua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Tata o Kare na Kare, Omogambi bw’omorembe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.6",
+            "verseOrgIds": [
+              "ISA.9.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 9:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obogaambi bwaye nigo borabe obonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na omorembe oye tokoba nomoerio",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "igoro ase ekerogo ki’obonene gia Daudi na ase oborwoti bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Obwo nigo borakong’igwe ase ekeene na oboronge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korwa bono na goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Risemi ri’Omonene bw’Emeganda ndikore amang’ana ayio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.7",
+            "verseOrgIds": [
+              "ISA.9.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omonene nae Abaisraeli egesusuro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 9:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene otomire ring’ana kogambia ororeeria rwa Yakobo, narirorio ndibaikere Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.8",
+            "verseOrgIds": [
+              "ISA.9.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 9:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bonsi mbarimanye, nonya nabamenyete ase ense y’Abaefraimu, na ey’Abasamaria, abwo bagokwana noboenenu na obomwenu bwe chinkoro, bateeba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.9",
+            "verseOrgIds": [
+              "ISA.9.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 9:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Amaagacho ’amatabori agure inse, korende nigo torayaagache namagena abaachire. Emeko yagechirwe, korende ntosimeke emecharake ribaga ri’eyio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.10",
+            "verseOrgIds": [
+              "ISA.9.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 9:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene oseegetire na korenta ababisa ba Resini bache kobarwania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.11",
+            "verseOrgIds": [
+              "ISA.9.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 9:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abasiiria bamenyete moocha, na Abafirisiti bamenyete bosongo, baasamirie emenwa yabo bamere Abaisraeli. Nonya ayio are bo, Omonene taratiga endamwamu yaye; nigo agendererete korambora okoboko kwaye kobaa egesusuro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.12",
+            "verseOrgIds": [
+              "ISA.9.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 9:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto tibamoiranerete oria obaete egesusuro, gose tibamorigetie Omonene bw’Emeganda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.13",
+            "verseOrgIds": [
+              "ISA.9.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 9:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio ase rituko erimo rioka Omonene nanache omotwe bw’Abaisraeli na ekemincha, boigo nanache orosagia rw’omokendo na esaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.14",
+            "verseOrgIds": [
+              "ISA.9.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ISA 9:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omogaka bw’amasikani nere omotwe, na omobani okworokereria oborimo nere ekemincha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.15",
+            "verseOrgIds": [
+              "ISA.9.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ISA 9:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bakoraa abanto aba baabasirie, na abwo bakoraagwa nabaanto abwo mbasirigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.16",
+            "verseOrgIds": [
+              "ISA.9.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ISA 9:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio Omonene tari nomogooko ase abasae babo, na tari namaabera ase chintakana na ababoraka babo, ekiagera kera omonto nomosaria ase Nyasae, na omokori amabe, na kera oyomo nigo agokwana ay’oboriri. Ase engencho y’ayio onsi Omonene taratiga endamwamu yaye; nigo agendererete korambora okoboko kwaye kobaa egesusuro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.17",
+            "verseOrgIds": [
+              "ISA.9.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ISA 9:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obobe nigo bogosamba buna omorero; noro nigo ogosamba amageri na amagwa, nigo ogosamba rinani rinoru, riaerera ase erioki richongororogete gochia igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.18",
+            "verseOrgIds": [
+              "ISA.9.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ISA 9:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Endamwamu y’Omonene bw’Emeganda yasambire ense; abanto nigo banga buna chinko chigwokia omorero, na monto onde takororera oyomwabo amaabera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.19",
+            "verseOrgIds": [
+              "ISA.9.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ISA 9:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo nigo bakona‐gotaboria ebinto ase ensemo ya borio, korende nigo bagendererete koba nenchara; nigo bakwenyorera ebinto korwa ase ensemo ya bomosi, korende tibari koigota. Kera oyomo nigo akoria chinyama chi’omobere bw’oyomwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.20",
+            "verseOrgIds": [
+              "ISA.9.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ISA 9:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Manase mbarie abaefraimu, na abaefraimu mbarie Abamanase, na abwo amo mbaonchokere Abayuda. Ase engencho y’ayi’Omonene taratiga endamwamu yaye; nigo agendererete korambora okoboko kwaye kobaa egesusuro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.9.21",
+            "verseOrgIds": [
+              "ISA.9.21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.10",
+    "number": "10",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.8",
+    "number": "8",
+    "bookId": "ISA"
+  }
+}

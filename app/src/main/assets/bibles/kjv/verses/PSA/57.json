@@ -1,0 +1,865 @@
+{
+  "id": "PSA.57",
+  "number": "57",
+  "bookId": "PSA",
+  "reference": "Psalms 57",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "57",
+        "style": "c",
+        "sid": "PSA 57"
+      },
+      "items": [
+        {
+          "text": "57",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician, Al-taschith, Michtam of David, when he fled from Saul in the cave.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 57:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.1",
+            "verseOrgIds": [
+              "PSA.57.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "these",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.1",
+                "verseOrgIds": [
+                  "PSA.57.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "calamities be overpast.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.1",
+            "verseOrgIds": [
+              "PSA.57.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 57:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will cry unto God most high; unto God that performeth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.2",
+            "verseOrgIds": [
+              "PSA.57.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "all things",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.2",
+                "verseOrgIds": [
+                  "PSA.57.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "for me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.2",
+            "verseOrgIds": [
+              "PSA.57.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 57:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He shall send from heaven, and save me",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.3",
+            "verseOrgIds": [
+              "PSA.57.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "from",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.3",
+                "verseOrgIds": [
+                  "PSA.57.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.3",
+            "verseOrgIds": [
+              "PSA.57.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 57:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My soul",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.4",
+                "verseOrgIds": [
+                  "PSA.57.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "among lions:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.4",
+                "verseOrgIds": [
+                  "PSA.57.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "I lie",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even among",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.4",
+                "verseOrgIds": [
+                  "PSA.57.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "them that are set on fire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.4",
+                "verseOrgIds": [
+                  "PSA.57.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the sons of men, whose teeth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.4",
+                "verseOrgIds": [
+                  "PSA.57.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "spears and arrows, and their tongue a sharp sword.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.4",
+            "verseOrgIds": [
+              "PSA.57.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 57:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be thou exalted, O God, above the heavens;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.5",
+            "verseOrgIds": [
+              "PSA.57.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "let",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.5",
+                "verseOrgIds": [
+                  "PSA.57.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy glory",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.5",
+            "verseOrgIds": [
+              "PSA.57.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.5",
+                "verseOrgIds": [
+                  "PSA.57.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "above all the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.5",
+            "verseOrgIds": [
+              "PSA.57.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 57:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.6",
+            "verseOrgIds": [
+              "PSA.57.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "themselves",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.6",
+                "verseOrgIds": [
+                  "PSA.57.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.6",
+            "verseOrgIds": [
+              "PSA.57.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 57:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My heart is fixed, O God, my heart is fixed: I will sing and give praise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.7",
+            "verseOrgIds": [
+              "PSA.57.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 57:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Awake up, my glory; awake, psaltery and harp: I",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.8",
+            "verseOrgIds": [
+              "PSA.57.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "myself",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.8",
+                "verseOrgIds": [
+                  "PSA.57.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "will awake early.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.8",
+            "verseOrgIds": [
+              "PSA.57.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 57:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.9",
+            "verseOrgIds": [
+              "PSA.57.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 57:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thy mercy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.10",
+            "verseOrgIds": [
+              "PSA.57.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.10",
+                "verseOrgIds": [
+                  "PSA.57.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "great unto the heavens, and thy truth unto the clouds.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.10",
+            "verseOrgIds": [
+              "PSA.57.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 57:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be thou exalted, O God, above the heavens:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.11",
+            "verseOrgIds": [
+              "PSA.57.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "let",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.11",
+                "verseOrgIds": [
+                  "PSA.57.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy glory",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.11",
+            "verseOrgIds": [
+              "PSA.57.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.57.11",
+                "verseOrgIds": [
+                  "PSA.57.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "above all the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.57.11",
+            "verseOrgIds": [
+              "PSA.57.12"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.58",
+    "number": "58",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.56",
+    "number": "56",
+    "bookId": "PSA"
+  }
+}

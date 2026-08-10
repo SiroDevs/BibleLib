@@ -1,0 +1,528 @@
+{
+  "id": "PSA.100",
+  "number": "100",
+  "bookId": "PSA",
+  "reference": "Zaburi 100",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "100",
+        "style": "c",
+        "sid": "PSA 100"
+      },
+      "items": [
+        {
+          "text": "100",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 100",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Dunia Yote Yaitwa Kumsifu Mungu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Zaburi ya shukrani.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 100:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpigieni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.1",
+            "verseOrgIds": [
+              "PSA.100.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.1",
+                "verseOrgIds": [
+                  "PSA.100.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "kelele za shangwe, dunia yote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.1",
+            "verseOrgIds": [
+              "PSA.100.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 100:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwabuduni",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.2",
+            "verseOrgIds": [
+              "PSA.100.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.2",
+                "verseOrgIds": [
+                  "PSA.100.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "kwa furaha;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.2",
+            "verseOrgIds": [
+              "PSA.100.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:2"
+      },
+      "items": [
+        {
+          "text": "njooni mbele zake kwa nyimbo za shangwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.2",
+            "verseOrgIds": [
+              "PSA.100.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 100:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jueni kwamba",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.3",
+                "verseOrgIds": [
+                  "PSA.100.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ndiye Mungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:3"
+      },
+      "items": [
+        {
+          "text": "Yeye ndiye alituumba, sisi tu mali yake;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 100:3"
+      },
+      "items": [
+        {
+          "text": "sisi tu watu wake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:3"
+      },
+      "items": [
+        {
+          "text": "kondoo wa malisho yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.3",
+            "verseOrgIds": [
+              "PSA.100.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 100:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ingieni malangoni mwake kwa shukrani",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:4"
+      },
+      "items": [
+        {
+          "text": "na katika nyua zake kwa kusifu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:4"
+      },
+      "items": [
+        {
+          "text": "mshukuruni yeye na kulisifu jina lake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.4",
+            "verseOrgIds": [
+              "PSA.100.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 100:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.100.5",
+                "verseOrgIds": [
+                  "PSA.100.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ni mwema",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:5"
+      },
+      "items": [
+        {
+          "text": "na upendo wake wadumu milele;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 100:5"
+      },
+      "items": [
+        {
+          "text": "uaminifu wake unadumu kwa vizazi vyote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.100.5",
+            "verseOrgIds": [
+              "PSA.100.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.101",
+    "number": "101",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.99",
+    "number": "99",
+    "bookId": "PSA"
+  }
+}

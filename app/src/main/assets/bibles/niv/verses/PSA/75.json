@@ -1,0 +1,714 @@
+{
+  "id": "PSA.75",
+  "number": "75",
+  "bookId": "PSA",
+  "reference": "Psalm 75",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "75",
+        "style": "c",
+        "sid": "PSA 75"
+      },
+      "items": [
+        {
+          "text": "75",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 75",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. To the tune of \"Do Not Destroy.\" A psalm of Asaph. A song.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 75:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We praise you, God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:1"
+      },
+      "items": [
+        {
+          "text": "we praise you, for your Name is near;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:1"
+      },
+      "items": [
+        {
+          "text": "people tell of your wonderful deeds.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.1",
+            "verseOrgIds": [
+              "PSA.75.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 75:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You say, \"I choose the appointed time;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.2",
+            "verseOrgIds": [
+              "PSA.75.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:2"
+      },
+      "items": [
+        {
+          "text": "it is I who judge with equity.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.2",
+            "verseOrgIds": [
+              "PSA.75.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 75:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When the earth and all its people quake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.3",
+            "verseOrgIds": [
+              "PSA.75.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:3"
+      },
+      "items": [
+        {
+          "text": "it is I who hold its pillars firm.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.3",
+            "verseOrgIds": [
+              "PSA.75.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 75:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "To the arrogant I say, 'Boast no more,'",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.4",
+            "verseOrgIds": [
+              "PSA.75.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:4"
+      },
+      "items": [
+        {
+          "text": "and to the wicked, 'Do not lift up your horns.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.4",
+            "verseOrgIds": [
+              "PSA.75.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 75:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Do not lift your horns against heaven;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.5",
+            "verseOrgIds": [
+              "PSA.75.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:5"
+      },
+      "items": [
+        {
+          "text": "do not speak so defiantly.' \"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.5",
+            "verseOrgIds": [
+              "PSA.75.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 75:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No one from the east or the west",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.6",
+            "verseOrgIds": [
+              "PSA.75.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:6"
+      },
+      "items": [
+        {
+          "text": "or from the desert can exalt themselves.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.6",
+            "verseOrgIds": [
+              "PSA.75.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 75:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "It is God who judges:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.7",
+            "verseOrgIds": [
+              "PSA.75.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:7"
+      },
+      "items": [
+        {
+          "text": "He brings one down, he exalts another.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.7",
+            "verseOrgIds": [
+              "PSA.75.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 75:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In the hand of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.75.8",
+                "verseOrgIds": [
+                  "PSA.75.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is a cup",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:8"
+      },
+      "items": [
+        {
+          "text": "full of foaming wine mixed with spices;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 75:8"
+      },
+      "items": [
+        {
+          "text": "he pours it out, and all the wicked of the earth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:8"
+      },
+      "items": [
+        {
+          "text": "drink it down to its very dregs.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.8",
+            "verseOrgIds": [
+              "PSA.75.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 75:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "As for me, I will declare this forever;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.9",
+            "verseOrgIds": [
+              "PSA.75.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:9"
+      },
+      "items": [
+        {
+          "text": "I will sing praise to the God of Jacob,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.9",
+            "verseOrgIds": [
+              "PSA.75.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 75:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "who says, \"I will cut off the horns of all the wicked,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.10",
+            "verseOrgIds": [
+              "PSA.75.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 75:10"
+      },
+      "items": [
+        {
+          "text": "but the horns of the righteous will be lifted up.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.75.10",
+            "verseOrgIds": [
+              "PSA.75.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.76",
+    "number": "76",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.74",
+    "number": "74",
+    "bookId": "PSA"
+  }
+}

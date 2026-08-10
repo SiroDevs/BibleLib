@@ -1,0 +1,181 @@
+{
+  "id": "HOS.3",
+  "number": "3",
+  "bookId": "HOS",
+  "reference": "Hosea 3",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "HOS 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hosea na Mũtumia Wake Kũiguana Rĩngĩ",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "HOS 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jehova akĩnjĩĩra atĩrĩ, “Thiĩ, wonie mũtumia waku wendo rĩngĩ, o na gũtuĩka nĩendetwo nĩ mũndũ ũngĩ na nĩ mũtharia. Mwende o ta ũrĩa Jehova endete andũ a Isiraeli, o na gũtuĩka nĩmagarũrũkagĩra ngai ingĩ na makenda keki iria nyamũre cia thabibũ nyũmũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.1",
+            "verseOrgIds": [
+              "HOS.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "HOS 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio ngĩmũgũra na thogora wa cekeri ikũmi na ithanocia betha, na ta homeri na letheku ĩmweya cairi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.2",
+            "verseOrgIds": [
+              "HOS.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "HOS 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩcooka ngĩmwĩra atĩrĩ, “Nĩũgũtũũrania na niĩ matukũ maingĩ, na no nginya ũtige ũmaraya na ndũkendane na mũndũ ũngĩ, na niĩ nĩngũtũũrania nawe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.3",
+            "verseOrgIds": [
+              "HOS.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "HOS 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo andũ a Isiraeli nĩmegũtũũra matukũ maingĩ matarĩ na mũthamaki kana mũnene, na matarĩ na igongona kana mahiga maamũre, na matarĩ na ebodi kana mũhianano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.4",
+            "verseOrgIds": [
+              "HOS.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "HOS 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha ũcio andũ a Isiraeli nĩmagacooka na marongorie Jehova Ngai wao na Daudi mũthamaki wao. Nĩmagooka makĩinainaga kũrĩ Jehova na kũrĩ irathimo ciake matukũ-inĩ ma mũthia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "HOS.3.5",
+            "verseOrgIds": [
+              "HOS.3.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HOS.4",
+    "number": "4",
+    "bookId": "HOS"
+  },
+  "previous": {
+    "id": "HOS.2",
+    "number": "2",
+    "bookId": "HOS"
+  }
+}

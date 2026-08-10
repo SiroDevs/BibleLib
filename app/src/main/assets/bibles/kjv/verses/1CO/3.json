@@ -1,0 +1,898 @@
+{
+  "id": "1CO.3",
+  "number": "3",
+  "bookId": "1CO",
+  "reference": "1 Corinthians 3",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "1CO 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.1",
+            "verseOrgIds": [
+              "1CO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "even",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.1",
+                "verseOrgIds": [
+                  "1CO.3.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as unto babes in Christ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.1",
+            "verseOrgIds": [
+              "1CO.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have fed you with milk, and not with meat: for hitherto ye were not able",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.2",
+            "verseOrgIds": [
+              "1CO.3.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "to bear it",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.2",
+                "verseOrgIds": [
+                  "1CO.3.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", neither yet now are ye able.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.2",
+            "verseOrgIds": [
+              "1CO.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For ye are yet carnal: for whereas",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.3",
+            "verseOrgIds": [
+              "1CO.3.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.3",
+                "verseOrgIds": [
+                  "1CO.3.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "among you envying, and strife, and divisions, are ye not carnal, and walk as men?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.3",
+            "verseOrgIds": [
+              "1CO.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For while one saith, I am of Paul; and another, I",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.4",
+            "verseOrgIds": [
+              "1CO.3.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "am",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.4",
+                "verseOrgIds": [
+                  "1CO.3.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "of Apollos; are ye not carnal?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.4",
+            "verseOrgIds": [
+              "1CO.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who then is Paul, and who",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.5",
+            "verseOrgIds": [
+              "1CO.3.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.5",
+                "verseOrgIds": [
+                  "1CO.3.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Apollos, but ministers by whom ye believed, even as the Lord gave to every man?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.5",
+            "verseOrgIds": [
+              "1CO.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I have planted, Apollos watered; but God gave the increase.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.6",
+            "verseOrgIds": [
+              "1CO.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.7",
+            "verseOrgIds": [
+              "1CO.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.8",
+            "verseOrgIds": [
+              "1CO.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For we are labourers together with God: ye are God's husbandry,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.9",
+            "verseOrgIds": [
+              "1CO.3.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "ye are",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.9",
+                "verseOrgIds": [
+                  "1CO.3.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God's building.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.9",
+            "verseOrgIds": [
+              "1CO.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CO 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.10",
+            "verseOrgIds": [
+              "1CO.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CO 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For other foundation can no man lay than that is laid, which is Jesus Christ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.11",
+            "verseOrgIds": [
+              "1CO.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CO 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.12",
+            "verseOrgIds": [
+              "1CO.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CO 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.13",
+            "verseOrgIds": [
+              "1CO.3.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1CO 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If any man's work abide which he hath built thereupon, he shall receive a reward.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.14",
+            "verseOrgIds": [
+              "1CO.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1CO 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.15",
+            "verseOrgIds": [
+              "1CO.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1CO 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Know ye not that ye are the temple of God, and",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.16",
+            "verseOrgIds": [
+              "1CO.3.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.16",
+                "verseOrgIds": [
+                  "1CO.3.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the Spirit of God dwelleth in you?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.16",
+            "verseOrgIds": [
+              "1CO.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1CO 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.17",
+            "verseOrgIds": [
+              "1CO.3.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "temple",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.17",
+                "verseOrgIds": [
+                  "1CO.3.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ye are.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.17",
+            "verseOrgIds": [
+              "1CO.3.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1CO 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.18",
+            "verseOrgIds": [
+              "1CO.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1CO 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.19",
+            "verseOrgIds": [
+              "1CO.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1CO 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And again, The Lord knoweth the thoughts of the wise, that they are vain.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.20",
+            "verseOrgIds": [
+              "1CO.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1CO 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore let no man glory in men. For all things are yours;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.21",
+            "verseOrgIds": [
+              "1CO.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1CO 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.22",
+            "verseOrgIds": [
+              "1CO.3.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1CO 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And ye are Christ's; and Christ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.23",
+            "verseOrgIds": [
+              "1CO.3.23"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "1CO.3.23",
+                "verseOrgIds": [
+                  "1CO.3.23"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God's.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.3.23",
+            "verseOrgIds": [
+              "1CO.3.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.4",
+    "number": "4",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.2",
+    "number": "2",
+    "bookId": "1CO"
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "id": "1SA.11",
+  "number": "11",
+  "bookId": "1SA",
+  "reference": "1 Samweli 11",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "11",
+        "style": "c",
+        "sid": "1SA 11"
+      },
+      "items": [
+        {
+          "text": "11",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sauli Aukomboa Mji Wa Yabeshi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1SA 11:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nahashi yule Mwamoni, akakwea kuuzunguka kwa jeshi mji wa Yabeshi-Gileadi. Watu wote wa Yabeshi wakamwambia, \"Fanya mkataba na sisi, na tutakuwa chini yako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.1",
+            "verseOrgIds": [
+              "1SA.11.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1SA 11:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Nahashi yule Mwamoni akajibu, \"Nitafanya mkataba na ninyi tu kwa sharti kwamba nitangʼoa jicho la kulia la kila mmoja wenu, na hivyo kuleta aibu juu ya Israeli yote.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.2",
+            "verseOrgIds": [
+              "1SA.11.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1SA 11:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Viongozi wa Yabeshi wakamwambia, \"Tupe siku saba ili tuweze kutuma wajumbe katika Israeli yote, kama hakuna hata mmoja anayekuja kutuokoa, tutajisalimisha kwako.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.3",
+            "verseOrgIds": [
+              "1SA.11.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1SA 11:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wajumbe walipofika Gibea ya Sauli na kutoa taarifa juu ya masharti haya kwa watu, wote walilia kwa sauti kubwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.4",
+            "verseOrgIds": [
+              "1SA.11.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1SA 11:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakati huo huo Sauli alikuwa anarudi kutoka mashambani, akiwa nyuma ya maksai wake, naye akauliza, \"Watu wana nini? Mbona wanalia?\" Ndipo wakamweleza jinsi watu wa Yabeshi walivyokuwa wamesema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.5",
+            "verseOrgIds": [
+              "1SA.11.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1SA 11:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sauli aliposikia maneno yao, Roho wa Mungu akaja juu yake kwa nguvu, naye akawaka hasira.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.6",
+            "verseOrgIds": [
+              "1SA.11.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1SA 11:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akachukua jozi ya maksai na kuwakata vipande vipande, naye kuvituma hivyo vipande kupitia wajumbe katika Israeli yote, wakitangaza, \"Hivi ndivyo itakavyofanyika kwa maksai wa kila mmoja ambaye hatamfuata Sauli na Samweli.\" Kisha hofu ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.7",
+            "verseOrgIds": [
+              "1SA.11.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.11.7",
+                "verseOrgIds": [
+                  "1SA.11.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ikawaangukia watu, nao wakatoka kama mtu mmoja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.7",
+            "verseOrgIds": [
+              "1SA.11.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1SA 11:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sauli alipowakusanya huko Bezeki, watu wa Israeli walikuwa 300,000 na watu wa Yuda 30,000.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.8",
+            "verseOrgIds": [
+              "1SA.11.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1SA 11:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakawaambia wale wajumbe waliokuwa wamekuja, \"Waambieni watu wa Yabeshi-Gileadi, 'Kesho kabla jua halijawa kali, mtaokolewa.' \" Wajumbe walipokwenda na kutoa taarifa hii kwa watu wa Yabeshi, wakafurahi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.9",
+            "verseOrgIds": [
+              "1SA.11.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1SA 11:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakawaambia Waamoni, \"Kesho tutajisalimisha kwenu, nanyi mtaweza kututendea chochote mnachoona chema kwenu.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.10",
+            "verseOrgIds": [
+              "1SA.11.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1SA 11:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kesho yake Sauli alitenganisha watu wake katika vikosi vitatu; wakati wa zamu ya mwisho ya usiku wakaingia katika kambi ya Waamoni na kuwachinja mpaka mchana. Wale walionusurika wakasambaa, kiasi kwamba hawakusalia watu wawili pamoja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.11",
+            "verseOrgIds": [
+              "1SA.11.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Sauli Athibitishwa Kuwa Mfalme",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1SA 11:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha watu wakamwambia Samweli, \"Ni nani yule aliyeuliza, 'Je, Sauli atatawala juu yetu?' Tuletee hawa watu, nasi tutawaua.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.12",
+            "verseOrgIds": [
+              "1SA.11.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1SA 11:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini Sauli akasema, \"Hakuna hata mmoja atakayeuawa leo, kwa kuwa siku hii",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.13",
+            "verseOrgIds": [
+              "1SA.11.13"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.11.13",
+                "verseOrgIds": [
+                  "1SA.11.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "ameokoa Israeli.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.13",
+            "verseOrgIds": [
+              "1SA.11.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1SA 11:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo Samweli akawaambia watu, \"Njooni, twendeni Gilgali na huko tuthibitishe ufalme.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.14",
+            "verseOrgIds": [
+              "1SA.11.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1SA 11:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo watu wote wakaenda Gilgali na kumthibitisha Sauli kuwa mfalme mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.15",
+            "verseOrgIds": [
+              "1SA.11.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.11.15",
+                "verseOrgIds": [
+                  "1SA.11.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ". Huko wakatoa dhabihu za sadaka za amani mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.15",
+            "verseOrgIds": [
+              "1SA.11.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "1SA.11.15",
+                "verseOrgIds": [
+                  "1SA.11.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", naye Sauli na Waisraeli wote wakafanya karamu kubwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1SA.11.15",
+            "verseOrgIds": [
+              "1SA.11.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1SA.12",
+    "number": "12",
+    "bookId": "1SA"
+  },
+  "previous": {
+    "id": "1SA.10",
+    "number": "10",
+    "bookId": "1SA"
+  }
+}

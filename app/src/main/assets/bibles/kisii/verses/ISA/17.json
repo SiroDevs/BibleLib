@@ -1,0 +1,484 @@
+{
+  "id": "ISA.17",
+  "number": "17",
+  "bookId": "ISA",
+  "reference": "Isaya 17",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "17",
+        "style": "c",
+        "sid": "ISA 17"
+      },
+      "items": [
+        {
+          "text": "17",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae nae Abasiiria na Abaisraeli egesusuro",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 17:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amang’ana igoro ya Damesiki:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.1",
+            "verseOrgIds": [
+              "ISA.17.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "text": "“Naama! Damesiki tokogenderera koba omochie; nosarigwe, otumbwe amo obe ebinge.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.1",
+            "verseOrgIds": [
+              "ISA.17.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 17:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Emechie y’Aroeri neng’anywe etigwe ere bosa. Nigo eraabe amarisio. Chitugo nchibe chikorara aroro, na onde tari orachioboyie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.2",
+            "verseOrgIds": [
+              "ISA.17.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 17:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene bw’Emeganda nigo agoteeba iga: Chiburi chi’Efraimu nchisarigwe kegima, na oborwoti bwa Damesiki mbosirigwe; na abatigari b’Abasiiria mbaurwe obonene bwabo buna Abaisraeli bauretwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.3",
+            "verseOrgIds": [
+              "ISA.17.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 17:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ase engaki eyio obonene bw’abaanto ba Yakobo mbokeeigwe kegima, na obonetu bw’emebere yabo mboree.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.4",
+            "verseOrgIds": [
+              "ISA.17.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 17:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nigo eraabe buna ekero omogesi akogesa namaboko aye ebigara bi’endagera eteneine, na buna ekero omonto agochora ebigara bi’endagera ase ense omweremu y’Abarefai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.5",
+            "verseOrgIds": [
+              "ISA.17.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 17:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee, abanto abake mono mbatigareo, banga buna ekero omote bw’emezeituni okonyegerigwa, amazeituni abere, gose atato, atigare ase omote igoro, na ane, gose atano, atigare ase chinsagia. Nab’Omonene, Nyasae bw’Abaisraeli, agoteeba.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.6",
+            "verseOrgIds": [
+              "ISA.17.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 17:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio abanto mbarigie ogokonywa korwa ase Omotongi obo, mbabe namasikani ase Oyore Omochenu bw’Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.7",
+            "verseOrgIds": [
+              "ISA.17.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 17:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tibagosemeria ebisasimero ebire emeremo y’amaboko abo, gose tibakorigereria emete eteneneirie Asera, enyasae yabo enkuungu, gose ebisasimero bi’ogosambera ubani, ebi baroisirie nebiara biabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.8",
+            "verseOrgIds": [
+              "ISA.17.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 17:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eyio emechie yabo egiteire chindwaki neebe buna amatombe are ase amanani na ase ebitunwa igoro, ayio atigetwe ekero Abaisraeli bachete aroro. Emechie eyio nesarigwe etigare ere bosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.9",
+            "verseOrgIds": [
+              "ISA.17.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 17:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe mwebire Nyasae ore ogotooreka kwaino, na timori koinyora Egetare kere obotamero bwaino. Ase ayio nigo mokoroisia emegondo emiya, mwasimeka emesabibu emiegarori.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.10",
+            "verseOrgIds": [
+              "ISA.17.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 17:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nonya y’are koba ng’a ase rituko erio okoyesimeka noyegitere orobago, na mambia yaye esiche, okwama kwaye nigo korasirigwe ekero rituko ri’emechando rirache, rire nobororo botari gokwaneka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.11",
+            "verseOrgIds": [
+              "ISA.17.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ebisaku bire ababisa bikobugwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 17:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obee! Okwogana okwo kw’abaanto abange nogwa ki? Nigo bakwogana buna amaache ’enyancha. Okong’ung’ura okwo kw’ebisaku nogwa ki? Nigo baokong’ung’ura buna amaache are ne chinguru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.12",
+            "verseOrgIds": [
+              "ISA.17.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 17:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto b’ebisaku nigo baokong’ung’ura buna amaache amange, korende Omonene nabatogonyere, nabarabwo batame gochia aare: mbaserigwe, babe buna omoiriro okoirurukigwa nomwaga igoro ase ebitunwa, na buna orotu rokoirurukigwa nekembugu‐mbugu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.13",
+            "verseOrgIds": [
+              "ISA.17.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 17:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero kia mogoroba, rora, obwoba mboreo, na mambia botarakiamoka, abakwoboyia tibaiyo. Eke nakio egetari ki’abachandi baito, abwo bagotosakora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.17.14",
+            "verseOrgIds": [
+              "ISA.17.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.18",
+    "number": "18",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.16",
+    "number": "16",
+    "bookId": "ISA"
+  }
+}

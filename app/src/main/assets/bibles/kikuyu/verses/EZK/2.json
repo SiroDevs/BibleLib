@@ -1,0 +1,306 @@
+{
+  "id": "EZK.2",
+  "number": "2",
+  "bookId": "EZK",
+  "reference": "Ezekieli 2",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "EZK 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Ũrĩa Ezekieli Eetirwo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZK 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũndũ ũcio akĩnjĩĩra atĩrĩ, “Mũrũ wa mũndũ, wĩrũgamie na magũrũ maku, ngwarĩrie.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.1",
+            "verseOrgIds": [
+              "EZK.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZK 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O hĩndĩ ĩyo aanjaragĩria, Roho agĩtoonya thĩinĩ wakwa, akĩnjoya akĩndũgamia, na niĩ ngĩigua akĩnjarĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.2",
+            "verseOrgIds": [
+              "EZK.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EZK 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩnjĩĩra atĩrĩ, “Mũrũ wa mũndũ, nĩngũgũtũma kũrĩ andũ a Isiraeli, ũthiĩ kũrĩ rũrĩrĩ rũu rũremu, o rũu rũnemeire; ruo rwene o na maithe maaruo rũtũũrĩte rũregete kũnjathĩkĩra nginya ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.3",
+            "verseOrgIds": [
+              "EZK.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EZK 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ acio ndĩragũtũma kũrĩ o-rĩ, nĩmanyũmĩirie ngoro na makaangʼathĩria. Meere atĩrĩ, ‘Ũũ nĩguo Mwathani Jehova aroiga.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.4",
+            "verseOrgIds": [
+              "EZK.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EZK 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, andũ acio mangĩthikĩrĩria kana marege gũthikĩrĩria, nĩgũkorwo nĩ andũ a nyũmba ya ũremi, nĩmakamenya atĩ nĩhakoretwo na mũnabii gatagatĩ-inĩ kao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.5",
+            "verseOrgIds": [
+              "EZK.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EZK 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe mũrũ wa mũndũ-rĩ, ndũkametigĩre kana wĩtigĩre ciugo ciao. Ndũgetigĩre, o na akorwo congʼe na mĩigua nĩcigũthiũrũrũkĩirie, na ũikaraga gatagatĩ ga tũngʼaurũ. Ndũgetigĩre ũrĩa mekuuga kana ũmakio nĩo, o na akorwo nĩ andũ a nyũmba ya ũremi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.6",
+            "verseOrgIds": [
+              "EZK.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EZK 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nginya ũmaarĩrie na ciugo ciakwa, kana nĩmegũthikĩrĩria kana matigũthikĩrĩria, nĩ ũndũ nĩ aremi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.7",
+            "verseOrgIds": [
+              "EZK.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EZK 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No wee mũrũ wa mũndũ-rĩ, thikĩrĩria ũrĩa ngũkwĩra. Ndũkareme ta nyũmba ĩyo ya ũremi; athamia kanua gaku na ũrĩe kĩrĩa ngũkũhe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.8",
+            "verseOrgIds": [
+              "EZK.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EZK 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngĩcooka ngĩcũthĩrĩria, ngĩona ndaambũrũkĩirio guoko. Guoko kũu kwanyiitĩte ibuku rĩa gĩkũnjo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.9",
+            "verseOrgIds": [
+              "EZK.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EZK 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "nake akĩrĩkũnjũrĩra hau mbere yakwa. Narĩo rĩandĩkĩtwo ciugo cia macakaya mĩena yeerĩ, na cia kĩrĩro, o na cia kĩeha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZK.2.10",
+            "verseOrgIds": [
+              "EZK.2.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZK.3",
+    "number": "3",
+    "bookId": "EZK"
+  },
+  "previous": {
+    "id": "EZK.1",
+    "number": "1",
+    "bookId": "EZK"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "id": "PSA.123",
+  "number": "123",
+  "bookId": "PSA",
+  "reference": "Psalms 123",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 4,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "123",
+        "style": "c",
+        "sid": "PSA 123"
+      },
+      "items": [
+        {
+          "text": "123",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Song of degrees.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 123:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.1",
+            "verseOrgIds": [
+              "PSA.123.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 123:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, as the eyes of servants",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "look",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto the hand of their masters,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as the eyes of a maiden unto the hand of her mistress; so our eyes",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "wait",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upon the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.2",
+                "verseOrgIds": [
+                  "PSA.123.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God, until that he have mercy upon us.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.2",
+            "verseOrgIds": [
+              "PSA.123.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 123:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Have mercy upon us, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.3",
+                "verseOrgIds": [
+                  "PSA.123.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", have mercy upon us: for we are exceedingly filled with contempt.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.3",
+            "verseOrgIds": [
+              "PSA.123.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 123:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Our soul is exceedingly filled with the scorning of those that are at ease,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.123.4",
+                "verseOrgIds": [
+                  "PSA.123.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "with the contempt of the proud.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.123.4",
+            "verseOrgIds": [
+              "PSA.123.4"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.122",
+    "number": "122",
+    "bookId": "PSA"
+  }
+}

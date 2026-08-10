@@ -1,0 +1,826 @@
+{
+  "id": "PSA.60",
+  "number": "60",
+  "bookId": "PSA",
+  "reference": "Zaburi 60",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "PSA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuomba Kuokolewa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Kwa mwimbishaji. Mtindo wa \"Shushani Eduthi.\" Utenzi wa Daudi wa kufundisha. Wakati alipopigana na Waaramu kutoka Aramu-Naharaimu na Aramu-Soba, naye Yoabu akarudi nyuma na kuwaua Waedomu 12,000 katika Bonde la Chumvi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 60:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mungu, umetukataa na kutokea ghafula juu yetu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.1",
+            "verseOrgIds": [
+              "PSA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:1"
+      },
+      "items": [
+        {
+          "text": "umekasirika: sasa turejeshe upya!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.1",
+            "verseOrgIds": [
+              "PSA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 60:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umetetemesha nchi na kuipasua;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.2",
+            "verseOrgIds": [
+              "PSA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:2"
+      },
+      "items": [
+        {
+          "text": "uiponye mavunjiko yake, kwa maana inatetemeka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.2",
+            "verseOrgIds": [
+              "PSA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 60:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umewaonyesha watu wako nyakati za kukata tamaa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.3",
+            "verseOrgIds": [
+              "PSA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:3"
+      },
+      "items": [
+        {
+          "text": "umetunywesha mvinyo unaotuyumbisha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.3",
+            "verseOrgIds": [
+              "PSA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 60:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa wale wanaokucha wewe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.4",
+            "verseOrgIds": [
+              "PSA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:4"
+      },
+      "items": [
+        {
+          "text": "umewainulia bendera,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.4",
+            "verseOrgIds": [
+              "PSA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:4"
+      },
+      "items": [
+        {
+          "text": "ili iweze kutwekwa dhidi ya upinde.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.4",
+            "verseOrgIds": [
+              "PSA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 60:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuokoe na utusaidie kwa mkono wako wa kuume,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.5",
+            "verseOrgIds": [
+              "PSA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:5"
+      },
+      "items": [
+        {
+          "text": "ili wale uwapendao wapate kuokolewa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.5",
+            "verseOrgIds": [
+              "PSA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 60:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mungu amenena kutoka patakatifu pake:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:6"
+      },
+      "items": [
+        {
+          "text": "\"Nitaigawa Shekemu kwa ushindi",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:6"
+      },
+      "items": [
+        {
+          "text": "na kulipima Bonde la Sukothi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 60:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gileadi ni yangu na Manase ni yangu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:7"
+      },
+      "items": [
+        {
+          "text": "Efraimu ni kofia yangu ya chuma,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:7"
+      },
+      "items": [
+        {
+          "text": "nayo Yuda ni fimbo yangu ya utawala.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 60:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moabu ni sinia langu la kunawia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:8"
+      },
+      "items": [
+        {
+          "text": "juu ya Edomu natupa kiatu changu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:8"
+      },
+      "items": [
+        {
+          "text": "nashangilia kwa kushindwa kwa Ufilisti.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 60:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani atakayenipeleka hadi mji wenye ngome?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.9",
+            "verseOrgIds": [
+              "PSA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:9"
+      },
+      "items": [
+        {
+          "text": "Ni nani atakayeniongoza hadi nifike Edomu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.9",
+            "verseOrgIds": [
+              "PSA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 60:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Mungu, si ni wewe uliyetukataa sisi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.10",
+            "verseOrgIds": [
+              "PSA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:10"
+      },
+      "items": [
+        {
+          "text": "na hutoki tena na majeshi yetu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.10",
+            "verseOrgIds": [
+              "PSA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 60:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tuletee msaada dhidi ya adui,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.11",
+            "verseOrgIds": [
+              "PSA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:11"
+      },
+      "items": [
+        {
+          "text": "kwa maana msaada wa mwanadamu haufai kitu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.11",
+            "verseOrgIds": [
+              "PSA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 60:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa msaada wa Mungu tutapata ushindi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.12",
+            "verseOrgIds": [
+              "PSA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:12"
+      },
+      "items": [
+        {
+          "text": "naye atawaponda adui zetu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.12",
+            "verseOrgIds": [
+              "PSA.60.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.61",
+    "number": "61",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.59",
+    "number": "59",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "id": "PSA.110",
+  "number": "110",
+  "bookId": "PSA",
+  "reference": "Zaburi 110",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "110",
+        "style": "c",
+        "sid": "PSA 110"
+      },
+      "items": [
+        {
+          "text": "110",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omonene na omorwoti oye omochoore",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "(Ogoteera gwa Daudi)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 110:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene agateebia Nyasae Omonene one,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Ikaransa ensemo y’okoboko kwane gw’okorio",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "goika mbeeke ababisa bao babe inse y’amagoro ao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.1",
+            "verseOrgIds": [
+              "PSA.110.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 110:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korwa Sayoni Omonene narambore enyimbo yao y’obogaambi ere n’okobua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.2",
+            "verseOrgIds": [
+              "PSA.110.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ateebe, “Gamba ase egati y’ababisa bao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.2",
+            "verseOrgIds": [
+              "PSA.110.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 110:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bao mberue n’ogwancha kwabo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekero orasangererie abarwani bao b’esegi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Abamura bao mbaache asore beboetie oboseera obochenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "buna riime ria mambia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.3",
+            "verseOrgIds": [
+              "PSA.110.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 110:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene otianire, takoonchora ebirengererio biaye:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Aye nigo ore Omokuani goika kare na kare,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "koreng’ana buna Melkizedeki.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.4",
+            "verseOrgIds": [
+              "PSA.110.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 110:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene nigo ateneine ase ensemo y’okoboko kwao gw’okorio;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.5",
+            "verseOrgIds": [
+              "PSA.110.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ere nasenyente abarwoti ase rituko ri’endamwamu yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.5",
+            "verseOrgIds": [
+              "PSA.110.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 110:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nanachere abanto b’ebisaku ekiina,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.6",
+            "verseOrgIds": [
+              "PSA.110.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ense neichore n’ebitondo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.6",
+            "verseOrgIds": [
+              "PSA.110.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nasenyente emetwe y’abagaambi b’ense engima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.6",
+            "verseOrgIds": [
+              "PSA.110.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 110:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabe okonywa amaache y’ensoko ekero are ase orogeendo rwaye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.7",
+            "verseOrgIds": [
+              "PSA.110.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase ayio naimokererie omotwe oye igoro kabuire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.110.7",
+            "verseOrgIds": [
+              "PSA.110.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.111",
+    "number": "111",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.109",
+    "number": "109",
+    "bookId": "PSA"
+  }
+}

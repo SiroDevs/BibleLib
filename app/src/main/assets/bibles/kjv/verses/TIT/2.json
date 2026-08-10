@@ -1,0 +1,602 @@
+{
+  "id": "TIT.2",
+  "number": "2",
+  "bookId": "TIT",
+  "reference": "Titus 2",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 15,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "TIT 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "TIT 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But speak thou the things which become sound doctrine:",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.1",
+            "verseOrgIds": [
+              "TIT.2.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "TIT 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.2",
+            "verseOrgIds": [
+              "TIT.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "TIT 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The aged women likewise, that",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.3",
+            "verseOrgIds": [
+              "TIT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "they be",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.3",
+                "verseOrgIds": [
+                  "TIT.2.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.3",
+            "verseOrgIds": [
+              "TIT.2.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "TIT 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That they may teach the young women to be sober, to love their husbands, to love their children,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.4",
+            "verseOrgIds": [
+              "TIT.2.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "TIT 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "To be",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.5",
+                "verseOrgIds": [
+                  "TIT.2.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.5",
+            "verseOrgIds": [
+              "TIT.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "TIT 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Young men likewise exhort to be sober minded.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.6",
+            "verseOrgIds": [
+              "TIT.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "TIT 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In all things shewing thyself a pattern of good works: in doctrine",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.7",
+            "verseOrgIds": [
+              "TIT.2.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shewing",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.7",
+                "verseOrgIds": [
+                  "TIT.2.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "uncorruptness, gravity, sincerity,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.7",
+            "verseOrgIds": [
+              "TIT.2.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "TIT 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.8",
+            "verseOrgIds": [
+              "TIT.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "TIT 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "Exhort",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.9",
+                "verseOrgIds": [
+                  "TIT.2.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "servants to be obedient unto their own masters,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.9",
+                "verseOrgIds": [
+                  "TIT.2.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to please",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "them",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.9",
+                "verseOrgIds": [
+                  "TIT.2.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "well in all",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "things",
+              "type": "text",
+              "attrs": {
+                "verseId": "TIT.2.9",
+                "verseOrgIds": [
+                  "TIT.2.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; not answering again;",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.9",
+            "verseOrgIds": [
+              "TIT.2.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "TIT 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.10",
+            "verseOrgIds": [
+              "TIT.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "TIT 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For the grace of God that bringeth salvation hath appeared to all men,",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.11",
+            "verseOrgIds": [
+              "TIT.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "TIT 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.12",
+            "verseOrgIds": [
+              "TIT.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "TIT 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.13",
+            "verseOrgIds": [
+              "TIT.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "TIT 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.14",
+            "verseOrgIds": [
+              "TIT.2.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "TIT 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "TIT.2.15",
+            "verseOrgIds": [
+              "TIT.2.15"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "TIT.3",
+    "number": "3",
+    "bookId": "TIT"
+  },
+  "previous": {
+    "id": "TIT.1",
+    "number": "1",
+    "bookId": "TIT"
+  }
+}

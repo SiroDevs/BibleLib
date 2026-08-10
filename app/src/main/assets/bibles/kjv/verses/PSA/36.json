@@ -1,0 +1,875 @@
+{
+  "id": "PSA.36",
+  "number": "36",
+  "bookId": "PSA",
+  "reference": "Psalms 36",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "36",
+        "style": "c",
+        "sid": "PSA 36"
+      },
+      "items": [
+        {
+          "text": "36",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "To the chief Musician,",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David the servant of the",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 36:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The transgression of the wicked saith within my heart,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.1",
+            "verseOrgIds": [
+              "PSA.36.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.1",
+                "verseOrgIds": [
+                  "PSA.36.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no fear of God before his eyes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.1",
+            "verseOrgIds": [
+              "PSA.36.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 36:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.2",
+            "verseOrgIds": [
+              "PSA.36.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 36:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The words of his mouth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.3",
+            "verseOrgIds": [
+              "PSA.36.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.3",
+                "verseOrgIds": [
+                  "PSA.36.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "iniquity and deceit: he hath left off to be wise,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.3",
+            "verseOrgIds": [
+              "PSA.36.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.3",
+                "verseOrgIds": [
+                  "PSA.36.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to do good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.3",
+            "verseOrgIds": [
+              "PSA.36.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 36:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He deviseth mischief upon his bed; he setteth himself in a way",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.4",
+            "verseOrgIds": [
+              "PSA.36.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.4",
+                "verseOrgIds": [
+                  "PSA.36.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "not good; he abhorreth not evil.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.4",
+            "verseOrgIds": [
+              "PSA.36.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 36:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy mercy, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.5",
+                "verseOrgIds": [
+                  "PSA.36.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.5",
+                "verseOrgIds": [
+                  "PSA.36.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "in the heavens;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.5",
+                "verseOrgIds": [
+                  "PSA.36.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy faithfulness",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "reacheth",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.5",
+                "verseOrgIds": [
+                  "PSA.36.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "unto the clouds.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.5",
+            "verseOrgIds": [
+              "PSA.36.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 36:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy righteousness",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.6",
+            "verseOrgIds": [
+              "PSA.36.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.6",
+                "verseOrgIds": [
+                  "PSA.36.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "like the great mountains; thy judgments",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.6",
+            "verseOrgIds": [
+              "PSA.36.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.6",
+                "verseOrgIds": [
+                  "PSA.36.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "a great deep: O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.6",
+            "verseOrgIds": [
+              "PSA.36.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.6",
+                "verseOrgIds": [
+                  "PSA.36.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", thou preservest man and beast.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.6",
+            "verseOrgIds": [
+              "PSA.36.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 36:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "How excellent",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.7",
+            "verseOrgIds": [
+              "PSA.36.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.7",
+                "verseOrgIds": [
+                  "PSA.36.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.7",
+            "verseOrgIds": [
+              "PSA.36.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 36:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.8",
+            "verseOrgIds": [
+              "PSA.36.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 36:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For with thee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.9",
+            "verseOrgIds": [
+              "PSA.36.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.36.9",
+                "verseOrgIds": [
+                  "PSA.36.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the fountain of life: in thy light shall we see light.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.9",
+            "verseOrgIds": [
+              "PSA.36.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 36:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.10",
+            "verseOrgIds": [
+              "PSA.36.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 36:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.11",
+            "verseOrgIds": [
+              "PSA.36.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 36:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.36.12",
+            "verseOrgIds": [
+              "PSA.36.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.37",
+    "number": "37",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.35",
+    "number": "35",
+    "bookId": "PSA"
+  }
+}

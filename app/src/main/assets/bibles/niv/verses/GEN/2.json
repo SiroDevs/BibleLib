@@ -1,0 +1,1296 @@
+{
+  "id": "GEN.2",
+  "number": "2",
+  "bookId": "GEN",
+  "reference": "Gen. 2",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "2",
+        "style": "c",
+        "sid": "GEN 2"
+      },
+      "items": [
+        {
+          "text": "2",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "GEN 2:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thus the heavens and the earth were completed in all their vast array.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.1",
+            "verseOrgIds": [
+              "GEN.2.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "GEN 2:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.2",
+            "verseOrgIds": [
+              "GEN.2.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "GEN 2:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.3",
+            "verseOrgIds": [
+              "GEN.2.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Adam and Eve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "GEN 2:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "This is the account of the heavens and the earth when they were created, when the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.4",
+            "verseOrgIds": [
+              "GEN.2.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.4",
+                "verseOrgIds": [
+                  "GEN.2.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God made the earth and the heavens.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.4",
+            "verseOrgIds": [
+              "GEN.2.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "GEN 2:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now no shrub had yet appeared on the earth",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.5",
+            "verseOrgIds": [
+              "GEN.2.5"
+            ]
+          }
+        },
+        {
+          "text": "and no plant had yet sprung up, for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.5",
+            "verseOrgIds": [
+              "GEN.2.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.5",
+                "verseOrgIds": [
+                  "GEN.2.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God had not sent rain on the earth and there was no one to work the ground,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.5",
+            "verseOrgIds": [
+              "GEN.2.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "GEN 2:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but streams",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.6",
+            "verseOrgIds": [
+              "GEN.2.6"
+            ]
+          }
+        },
+        {
+          "text": "came up from the earth and watered the whole surface of the ground.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.6",
+            "verseOrgIds": [
+              "GEN.2.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "GEN 2:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.7",
+            "verseOrgIds": [
+              "GEN.2.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.7",
+                "verseOrgIds": [
+                  "GEN.2.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God formed a man",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.7",
+            "verseOrgIds": [
+              "GEN.2.7"
+            ]
+          }
+        },
+        {
+          "text": "from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.7",
+            "verseOrgIds": [
+              "GEN.2.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "GEN 2:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.8",
+            "verseOrgIds": [
+              "GEN.2.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.8",
+                "verseOrgIds": [
+                  "GEN.2.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God had planted a garden in the east, in Eden; and there he put the man he had formed.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.8",
+            "verseOrgIds": [
+              "GEN.2.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "GEN 2:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.9",
+            "verseOrgIds": [
+              "GEN.2.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.9",
+                "verseOrgIds": [
+                  "GEN.2.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.9",
+            "verseOrgIds": [
+              "GEN.2.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "GEN 2:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "A river watering the garden flowed from Eden; from there it was separated into four headwaters.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.10",
+            "verseOrgIds": [
+              "GEN.2.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "GEN 2:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The name of the first is the Pishon; it winds through the entire land of Havilah, where there is gold.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.11",
+            "verseOrgIds": [
+              "GEN.2.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "GEN 2:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(The gold of that land is good; aromatic resin",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.12",
+            "verseOrgIds": [
+              "GEN.2.12"
+            ]
+          }
+        },
+        {
+          "text": "and onyx are also there.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.12",
+            "verseOrgIds": [
+              "GEN.2.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "GEN 2:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The name of the second river is the Gihon; it winds through the entire land of Cush.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.13",
+            "verseOrgIds": [
+              "GEN.2.13"
+            ]
+          }
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.13",
+            "verseOrgIds": [
+              "GEN.2.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "GEN 2:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The name of the third river is the Tigris; it runs along the east side of Ashur. And the fourth river is the Euphrates.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.14",
+            "verseOrgIds": [
+              "GEN.2.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "GEN 2:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.15",
+            "verseOrgIds": [
+              "GEN.2.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.15",
+                "verseOrgIds": [
+                  "GEN.2.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God took the man and put him in the Garden of Eden to work it and take care of it.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.15",
+            "verseOrgIds": [
+              "GEN.2.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "GEN 2:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "And the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.16",
+            "verseOrgIds": [
+              "GEN.2.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.16",
+                "verseOrgIds": [
+                  "GEN.2.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God commanded the man, \"You are free to eat from any tree in the garden;",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.16",
+            "verseOrgIds": [
+              "GEN.2.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "GEN 2:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.17",
+            "verseOrgIds": [
+              "GEN.2.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "GEN 2:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.18",
+            "verseOrgIds": [
+              "GEN.2.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.18",
+                "verseOrgIds": [
+                  "GEN.2.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God said, \"It is not good for the man to be alone. I will make a helper suitable for him.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.18",
+            "verseOrgIds": [
+              "GEN.2.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "GEN 2:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Now the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.19",
+            "verseOrgIds": [
+              "GEN.2.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.19",
+                "verseOrgIds": [
+                  "GEN.2.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.19",
+            "verseOrgIds": [
+              "GEN.2.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "GEN 2:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So the man gave names to all the livestock, the birds in the sky and all the wild animals.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.20",
+            "verseOrgIds": [
+              "GEN.2.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "GEN 2:20"
+      },
+      "items": [
+        {
+          "text": "But for Adam",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.20",
+            "verseOrgIds": [
+              "GEN.2.20"
+            ]
+          }
+        },
+        {
+          "text": "no suitable helper was found.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.20",
+            "verseOrgIds": [
+              "GEN.2.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "GEN 2:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "So the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.21",
+            "verseOrgIds": [
+              "GEN.2.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.21",
+                "verseOrgIds": [
+                  "GEN.2.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.21",
+            "verseOrgIds": [
+              "GEN.2.21"
+            ]
+          }
+        },
+        {
+          "text": "and then closed up the place with flesh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.21",
+            "verseOrgIds": [
+              "GEN.2.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "GEN 2:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then the",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.22",
+            "verseOrgIds": [
+              "GEN.2.22"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "GEN.2.22",
+                "verseOrgIds": [
+                  "GEN.2.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "God made a woman from the rib",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.22",
+            "verseOrgIds": [
+              "GEN.2.22"
+            ]
+          }
+        },
+        {
+          "text": "he had taken out of the man, and he brought her to the man.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.22",
+            "verseOrgIds": [
+              "GEN.2.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "GEN 2:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The man said,",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "GEN 2:23"
+      },
+      "items": [
+        {
+          "text": "\"This is now bone of my bones",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 2:23"
+      },
+      "items": [
+        {
+          "text": "and flesh of my flesh;",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "GEN 2:23"
+      },
+      "items": [
+        {
+          "text": "she shall be called 'woman,'",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "GEN 2:23"
+      },
+      "items": [
+        {
+          "text": "for she was taken out of man.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.23",
+            "verseOrgIds": [
+              "GEN.2.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "GEN 2:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.24",
+            "verseOrgIds": [
+              "GEN.2.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "GEN 2:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adam and his wife were both naked, and they felt no shame.",
+          "type": "text",
+          "attrs": {
+            "verseId": "GEN.2.25",
+            "verseOrgIds": [
+              "GEN.2.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "GEN.3",
+    "number": "3",
+    "bookId": "GEN"
+  },
+  "previous": {
+    "id": "GEN.1",
+    "number": "1",
+    "bookId": "GEN"
+  }
+}

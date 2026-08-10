@@ -1,0 +1,2070 @@
+{
+  "id": "MAT.10",
+  "number": "10",
+  "bookId": "MAT",
+  "reference": "Matt. 10",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 42,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "MAT 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jesus Sends Out the Twelve",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.1",
+            "verseOrgIds": [
+              "MAT.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "lh"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "These are the names of the twelve apostles:",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "MAT 10:2"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 10:2"
+      },
+      "items": [
+        {
+          "text": "first, Simon (who is called Peter) and his brother Andrew;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.2",
+            "verseOrgIds": [
+              "MAT.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 10:2"
+      },
+      "items": [
+        {
+          "text": "James son of Zebedee, and his brother John;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.2",
+            "verseOrgIds": [
+              "MAT.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Philip and Bartholomew;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.3",
+            "verseOrgIds": [
+              "MAT.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 10:3"
+      },
+      "items": [
+        {
+          "text": "Thomas and Matthew the tax collector;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.3",
+            "verseOrgIds": [
+              "MAT.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1",
+        "vid": "MAT 10:3"
+      },
+      "items": [
+        {
+          "text": "James son of Alphaeus, and Thaddaeus;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.3",
+            "verseOrgIds": [
+              "MAT.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Simon the Zealot and Judas Iscariot, who betrayed him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.4",
+            "verseOrgIds": [
+              "MAT.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "These twelve Jesus sent out with the following instructions:",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.5",
+            "verseOrgIds": [
+              "MAT.10.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Do not go among the Gentiles or enter any town of the Samaritans.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.5",
+                "verseOrgIds": [
+                  "MAT.10.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.5",
+            "verseOrgIds": [
+              "MAT.10.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Go rather to the lost sheep of Israel.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.6",
+                "verseOrgIds": [
+                  "MAT.10.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.6",
+            "verseOrgIds": [
+              "MAT.10.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "As you go, proclaim this message: 'The kingdom of heaven has come near.'",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.7",
+                "verseOrgIds": [
+                  "MAT.10.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.7",
+            "verseOrgIds": [
+              "MAT.10.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Heal the sick, raise the dead, cleanse those who have leprosy,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.8",
+                "verseOrgIds": [
+                  "MAT.10.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.8",
+            "verseOrgIds": [
+              "MAT.10.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "drive out demons. Freely you have received; freely give.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.8",
+                "verseOrgIds": [
+                  "MAT.10.8"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Do not get any gold or silver or copper to take with you in your belts—",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.9",
+                "verseOrgIds": [
+                  "MAT.10.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.9",
+            "verseOrgIds": [
+              "MAT.10.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "no bag for the journey or extra shirt or sandals or a staff, for the worker is worth his keep.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.10",
+                "verseOrgIds": [
+                  "MAT.10.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.10",
+            "verseOrgIds": [
+              "MAT.10.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Whatever town or village you enter, search there for some worthy person and stay at their house until you leave.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.11",
+                "verseOrgIds": [
+                  "MAT.10.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.11",
+            "verseOrgIds": [
+              "MAT.10.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "As you enter the home, give it your greeting.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.12",
+                "verseOrgIds": [
+                  "MAT.10.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.12",
+            "verseOrgIds": [
+              "MAT.10.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "If the home is deserving, let your peace rest on it; if it is not, let your peace return to you.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.13",
+                "verseOrgIds": [
+                  "MAT.10.13"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.13",
+            "verseOrgIds": [
+              "MAT.10.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "If anyone will not welcome you or listen to your words, leave that home or town and shake the dust off your feet.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.14",
+                "verseOrgIds": [
+                  "MAT.10.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.14",
+            "verseOrgIds": [
+              "MAT.10.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.15",
+                "verseOrgIds": [
+                  "MAT.10.15"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.16",
+                "verseOrgIds": [
+                  "MAT.10.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.16",
+            "verseOrgIds": [
+              "MAT.10.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Be on your guard; you will be handed over to the local councils and be flogged in the synagogues.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.17",
+                "verseOrgIds": [
+                  "MAT.10.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.17",
+            "verseOrgIds": [
+              "MAT.10.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "On my account you will be brought before governors and kings as witnesses to them and to the Gentiles.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.18",
+                "verseOrgIds": [
+                  "MAT.10.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.18",
+            "verseOrgIds": [
+              "MAT.10.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.19",
+                "verseOrgIds": [
+                  "MAT.10.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.19",
+            "verseOrgIds": [
+              "MAT.10.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "for it will not be you speaking, but the Spirit of your Father speaking through you.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.20",
+                "verseOrgIds": [
+                  "MAT.10.20"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "MAT 10:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.21",
+                "verseOrgIds": [
+                  "MAT.10.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.21",
+            "verseOrgIds": [
+              "MAT.10.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "MAT 10:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "You will be hated by everyone because of me, but the one who stands firm to the end will be saved.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.22",
+                "verseOrgIds": [
+                  "MAT.10.22"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.22",
+            "verseOrgIds": [
+              "MAT.10.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "MAT 10:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.23",
+                "verseOrgIds": [
+                  "MAT.10.23"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "MAT 10:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"The student is not above the teacher, nor a servant above his master.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.24",
+                "verseOrgIds": [
+                  "MAT.10.24"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.24",
+            "verseOrgIds": [
+              "MAT.10.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "MAT 10:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "It is enough for students to be like their teachers, and servants like their masters. If the head of the house has been called Beelzebul, how much more the members of his household!",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.25",
+                "verseOrgIds": [
+                  "MAT.10.25"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "MAT 10:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"So do not be afraid of them, for there is nothing concealed that will not be disclosed, or hidden that will not be made known.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.26",
+                "verseOrgIds": [
+                  "MAT.10.26"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.26",
+            "verseOrgIds": [
+              "MAT.10.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "MAT 10:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.27",
+                "verseOrgIds": [
+                  "MAT.10.27"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.27",
+            "verseOrgIds": [
+              "MAT.10.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "MAT 10:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.28",
+                "verseOrgIds": [
+                  "MAT.10.28"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.28",
+            "verseOrgIds": [
+              "MAT.10.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "MAT 10:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.29",
+                "verseOrgIds": [
+                  "MAT.10.29"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.29",
+            "verseOrgIds": [
+              "MAT.10.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "MAT 10:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And even the very hairs of your head are all numbered.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.30",
+                "verseOrgIds": [
+                  "MAT.10.30"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.30",
+            "verseOrgIds": [
+              "MAT.10.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "MAT 10:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "So don't be afraid; you are worth more than many sparrows.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.31",
+                "verseOrgIds": [
+                  "MAT.10.31"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "MAT 10:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Whoever acknowledges me before others, I will also acknowledge before my Father in heaven.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.32",
+                "verseOrgIds": [
+                  "MAT.10.32"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.32",
+            "verseOrgIds": [
+              "MAT.10.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "MAT 10:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "But whoever disowns me before others, I will disown before my Father in heaven.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.33",
+                "verseOrgIds": [
+                  "MAT.10.33"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "MAT 10:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.34",
+                "verseOrgIds": [
+                  "MAT.10.34"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.34",
+            "verseOrgIds": [
+              "MAT.10.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "MAT 10:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "For I have come to turn",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.35",
+                "verseOrgIds": [
+                  "MAT.10.35"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MAT 10:35"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\" 'a man against his father,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.35",
+                "verseOrgIds": [
+                  "MAT.10.35"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MAT 10:35"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "a daughter against her mother,",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.35",
+                "verseOrgIds": [
+                  "MAT.10.35"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MAT 10:35"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "a daughter-in-law against her mother-in-law—",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.35",
+                "verseOrgIds": [
+                  "MAT.10.35"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "MAT 10:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "a man's enemies will be the members of his own household.'",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.36",
+                "verseOrgIds": [
+                  "MAT.10.36"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "MAT 10:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.37",
+                "verseOrgIds": [
+                  "MAT.10.37"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.37",
+            "verseOrgIds": [
+              "MAT.10.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "MAT 10:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Whoever does not take up their cross and follow me is not worthy of me.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.38",
+                "verseOrgIds": [
+                  "MAT.10.38"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.38",
+            "verseOrgIds": [
+              "MAT.10.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "MAT 10:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Whoever finds their life will lose it, and whoever loses their life for my sake will find it.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.39",
+                "verseOrgIds": [
+                  "MAT.10.39"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "MAT 10:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "\"Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.40",
+                "verseOrgIds": [
+                  "MAT.10.40"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.40",
+            "verseOrgIds": [
+              "MAT.10.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "MAT 10:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "Whoever welcomes a prophet as a prophet will receive a prophet's reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person's reward.",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.41",
+                "verseOrgIds": [
+                  "MAT.10.41"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.10.41",
+            "verseOrgIds": [
+              "MAT.10.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "MAT 10:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "wj"
+          },
+          "items": [
+            {
+              "text": "And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward.\"",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAT.10.42",
+                "verseOrgIds": [
+                  "MAT.10.42"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.11",
+    "number": "11",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAT.9",
+    "number": "9",
+    "bookId": "MAT"
+  }
+}

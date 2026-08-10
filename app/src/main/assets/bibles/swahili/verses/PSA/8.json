@@ -1,0 +1,771 @@
+{
+  "id": "PSA.8",
+  "number": "8",
+  "bookId": "PSA",
+  "reference": "Zaburi 8",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "PSA 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Utukufu Wa Mungu Na Heshima Ya Mwanadamu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Kwa mwimbishaji. Mtindo wa gitithi. Zaburi ya Daudi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.1",
+                "verseOrgIds": [
+                  "PSA.8.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Bwana wetu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:1"
+      },
+      "items": [
+        {
+          "text": "tazama jinsi lilivyo tukufu jina lako duniani mwote!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b",
+        "vid": "PSA 8:1"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 8:1"
+      },
+      "items": [
+        {
+          "text": "Umeuweka utukufu wako",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:1"
+      },
+      "items": [
+        {
+          "text": "juu ya mbingu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.1",
+            "verseOrgIds": [
+              "PSA.8.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Midomoni mwa watoto wachanga na wanyonyao",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.2",
+            "verseOrgIds": [
+              "PSA.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:2"
+      },
+      "items": [
+        {
+          "text": "umeamuru sifa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.2",
+            "verseOrgIds": [
+              "PSA.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 8:2"
+      },
+      "items": [
+        {
+          "text": "kwa sababu ya watesi wako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.2",
+            "verseOrgIds": [
+              "PSA.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:2"
+      },
+      "items": [
+        {
+          "text": "kumnyamazisha adui na mlipiza kisasi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.2",
+            "verseOrgIds": [
+              "PSA.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikiziangalia mbingu zako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.3",
+            "verseOrgIds": [
+              "PSA.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:3"
+      },
+      "items": [
+        {
+          "text": "kazi ya vidole vyako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.3",
+            "verseOrgIds": [
+              "PSA.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 8:3"
+      },
+      "items": [
+        {
+          "text": "mwezi na nyota,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.3",
+            "verseOrgIds": [
+              "PSA.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:3"
+      },
+      "items": [
+        {
+          "text": "ulizoziratibisha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.3",
+            "verseOrgIds": [
+              "PSA.8.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mwanadamu ni kitu gani hata unamfikiria,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.4",
+            "verseOrgIds": [
+              "PSA.8.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:4"
+      },
+      "items": [
+        {
+          "text": "binadamu ni nani hata unamjali?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.4",
+            "verseOrgIds": [
+              "PSA.8.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umemfanya chini kidogo kuliko viumbe wa mbinguni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.5",
+            "verseOrgIds": [
+              "PSA.8.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:5"
+      },
+      "items": [
+        {
+          "text": "ukamvika taji ya utukufu na heshima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.5",
+            "verseOrgIds": [
+              "PSA.8.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Umemfanya mtawala juu ya kazi za mikono yako;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.6",
+            "verseOrgIds": [
+              "PSA.8.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:6"
+      },
+      "items": [
+        {
+          "text": "umeweka vitu vyote chini ya miguu yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.6",
+            "verseOrgIds": [
+              "PSA.8.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mifugo na makundi yote pia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.7",
+            "verseOrgIds": [
+              "PSA.8.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:7"
+      },
+      "items": [
+        {
+          "text": "naam, na wanyama wa kondeni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.7",
+            "verseOrgIds": [
+              "PSA.8.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ndege wa angani na samaki wa baharini,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.8",
+            "verseOrgIds": [
+              "PSA.8.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:8"
+      },
+      "items": [
+        {
+          "text": "naam, kila kiogeleacho katika njia za bahari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.8",
+            "verseOrgIds": [
+              "PSA.8.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.8.9",
+                "verseOrgIds": [
+                  "PSA.8.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", Bwana wetu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 8:9"
+      },
+      "items": [
+        {
+          "text": "tazama jinsi lilivyo tukufu jina lako duniani mwote!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.8.9",
+            "verseOrgIds": [
+              "PSA.8.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.9",
+    "number": "9",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.7",
+    "number": "7",
+    "bookId": "PSA"
+  }
+}

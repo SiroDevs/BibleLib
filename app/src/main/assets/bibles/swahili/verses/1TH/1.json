@@ -1,0 +1,388 @@
+{
+  "id": "1TH.1",
+  "number": "1",
+  "bookId": "1TH",
+  "reference": "1 Wathesalonike 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 10,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "1TH 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Salamu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TH 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paulo, Silvano",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        },
+        {
+          "text": "na Timotheo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "1TH 1:1"
+      },
+      "items": [
+        {
+          "text": "Kwa kanisa la Wathesalonike, ninyi mlio ndani ya Mungu Baba yetu na ndani ya Bwana Yesu Kristo:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p",
+        "vid": "1TH 1:1"
+      },
+      "items": [
+        {
+          "text": "Neema iwe kwenu na amani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.1",
+            "verseOrgIds": [
+              "1TH.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Shukrani Kwa Ajili Ya Imani Ya Wathesalonike",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TH 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku zote tunamshukuru Mungu kwa ajili yenu ninyi nyote, tukiwataja kwenye maombi yetu daima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.2",
+            "verseOrgIds": [
+              "1TH.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TH 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tunaikumbuka daima kazi yenu ya imani mbele za Mungu aliye Baba yetu, taabu yenu katika upendo na saburi yenu ya tumaini katika Bwana wetu Yesu Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.3",
+            "verseOrgIds": [
+              "1TH.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TH 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndugu zetu mpendwao na Mungu, kwa kuwa tunajua kwamba Mungu amewachagua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.4",
+            "verseOrgIds": [
+              "1TH.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TH 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "kwa sababu ujumbe wetu wa Injili haukuja kwenu kwa maneno matupu bali pia ulidhihirishwa katika nguvu na katika Roho Mtakatifu, tena ukiwa na uthibitisho kamili, kama vile ninyi wenyewe mnavyojua jinsi tulivyoenenda katikati yenu kwa ajili yenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.5",
+            "verseOrgIds": [
+              "1TH.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TH 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nanyi mkawa wafuasi wetu na wa Bwana, ingawa mlipata mateso mengi, mlilipokea lile Neno kwa furaha katika Roho Mtakatifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.6",
+            "verseOrgIds": [
+              "1TH.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TH 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo ninyi mkawa kielelezo kwa waumini wote katika Makedonia na Akaya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.7",
+            "verseOrgIds": [
+              "1TH.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TH 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana kutoka kwenu neno la Bwana limesikika, si katika Makedonia na Akaya tu, bali pia imani yenu katika Mungu imejulikana kila mahali kiasi kwamba hatuna haja ya kusema lolote kwa habari yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.8",
+            "verseOrgIds": [
+              "1TH.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TH 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa maana watu wa maeneo hayo wenyewe wanaeleza jinsi mlivyotupokea na jinsi mlivyomgeukia Mungu mkaacha sanamu, ili kumtumikia Mungu aliye hai na wa kweli",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.9",
+            "verseOrgIds": [
+              "1TH.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TH 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ili kumngojea Mwanawe kutoka mbinguni, ambaye Mungu alimfufua kutoka kwa wafu: yaani, Yesu, yeye aliyetuokoa kutoka ghadhabu inayokuja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TH.1.10",
+            "verseOrgIds": [
+              "1TH.1.10"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TH.2",
+    "number": "2",
+    "bookId": "1TH"
+  },
+  "previous": {
+    "id": "1TH.intro",
+    "number": "intro",
+    "bookId": "1TH"
+  }
+}

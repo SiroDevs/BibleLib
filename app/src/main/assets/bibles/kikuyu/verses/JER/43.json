@@ -1,0 +1,368 @@
+{
+  "id": "JER.43",
+  "number": "43",
+  "bookId": "JER",
+  "reference": "Jeremia 43",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "43",
+        "style": "c",
+        "sid": "JER 43"
+      },
+      "items": [
+        {
+          "text": "43",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JER 43:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Jeremia aarĩkirie kũhe andũ acio ndũmĩrĩri ya Jehova Ngai wao, ũhoro ũrĩa wothe Jehova aamũtũmĩte akameere-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.1",
+            "verseOrgIds": [
+              "JER.43.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JER 43:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Azaria mũrũ wa Hoshaia, na Johanani mũrũ wa Karea, marĩ hamwe na andũ othe arĩa etĩĩi, makĩĩra Jeremia atĩrĩ, “Wee nĩũraheenania! Jehova Ngai witũ ndagũtũmĩte ũũke ũtwĩre atĩrĩ, ‘Mũtikanathiĩ bũrũri wa Misiri gũtũũra kuo.’",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.2",
+            "verseOrgIds": [
+              "JER.43.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JER 43:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, Baruku mũrũ wa Neria nĩwe ũkũringĩrĩirie ũtũũkĩrĩre, nĩguo tũneanwo kũrĩ andũ a Babuloni, nĩguo matũũrage, kana matũtahe, matũtware Babuloni.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.3",
+            "verseOrgIds": [
+              "JER.43.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JER 43:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Johanani mũrũ wa Karea marĩ hamwe na anene othe a mbũtũ cia ita, o na andũ othe, makĩrega gwathĩkĩra watho wa Jehova wa gũikara kũu bũrũri wa Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.4",
+            "verseOrgIds": [
+              "JER.43.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JER 43:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Handũ ha ũguo, Johanani mũrũ wa Karea hamwe na anene othe a mbũtũ cia ita magĩtongoria matigari mothe ma andũ a Juda, o acio macookete nĩguo maikare kũu bũrũri wa Juda moimĩte ndũrĩrĩ-inĩ ciothe kũrĩa mahurunjĩtwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.5",
+            "verseOrgIds": [
+              "JER.43.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JER 43:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ magĩtongoria arũme othe, na andũ-a-nja na ciana, o na airĩtu a mũthamaki acio Nebuzaradani mũnene wa arangĩri a mũthamaki aatigĩire Gedalia mũrũ wa Ahikamu, mũrũ wa Shafani, o na magĩtongoria Jeremia ũcio mũnabii, na Baruku mũrũ wa Neria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.6",
+            "verseOrgIds": [
+              "JER.43.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JER 43:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio magĩthiĩ bũrũri wa Misiri, makĩremera Jehova, na magĩthiĩ o nginya Tahapanahesi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.7",
+            "verseOrgIds": [
+              "JER.43.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JER 43:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na marĩ kũu Tahapanahesi, ndũmĩrĩri ya Jehova ĩgĩkinyĩra Jeremia, akĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.8",
+            "verseOrgIds": [
+              "JER.43.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JER 43:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Oya mahiga manene na guoko gwaku, Ayahudi makwĩroreire, ũthiĩ ũmathike na rĩũmba hau nja haarĩtwo maturubarĩ itoonyero-inĩ rĩa nyũmba ya Firaũni kũu Tahapanahesi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.9",
+            "verseOrgIds": [
+              "JER.43.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JER 43:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩyo ũmeere atĩrĩ, ‘Ũũ nĩguo Jehova Mwene-Hinya-Wothe, Ngai wa Isiraeli, ekuuga: Nĩngũtũmanĩra ndungata yakwa Nebukadinezaru mũthamaki wa Babuloni, na nĩngahaanda gĩtĩ gĩake kĩa ũthamaki igũrũ rĩa mahiga maya ndathika haha; nĩakamba hema yake ya ũnene igũrũ rĩamo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.10",
+            "verseOrgIds": [
+              "JER.43.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JER 43:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩagooka atharĩkĩre bũrũri wa Misiri, oragithie andũ arĩa maathĩrĩirio gũkua, na atũme arĩa maathĩrĩirio gũtahwo matahwo, nao arĩa maathĩrĩirio kũũragwo na rũhiũ rwa njora mooragwo naruo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.11",
+            "verseOrgIds": [
+              "JER.43.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JER 43:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩagacina hekarũ cia ngai cia Misiri; agaacina hekarũ ciao na atahe ngai ciao. O ta ũrĩa mũrĩithi ehumbaga nguo yake, noguo akehumba bũrũri wa Misiri, acooke oime kuo atarĩ mũhutie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.12",
+            "verseOrgIds": [
+              "JER.43.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JER 43:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩakoinanga itugĩ iria ihooyagwo, iria irĩ thĩinĩ wa hekarũ ya riũa kũu bũrũri wa Misiri, na acooke acine hekarũ cia ngai cia bũrũri wa Misiri ithire.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JER.43.13",
+            "verseOrgIds": [
+              "JER.43.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JER.44",
+    "number": "44",
+    "bookId": "JER"
+  },
+  "previous": {
+    "id": "JER.42",
+    "number": "42",
+    "bookId": "JER"
+  }
+}

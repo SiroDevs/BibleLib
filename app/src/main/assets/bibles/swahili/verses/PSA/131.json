@@ -1,0 +1,372 @@
+{
+  "id": "PSA.131",
+  "number": "131",
+  "bookId": "PSA",
+  "reference": "Zaburi 131",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "131",
+        "style": "c",
+        "sid": "PSA 131"
+      },
+      "items": [
+        {
+          "text": "131",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Zaburi 131",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kumtegemea Mungu Kwa Unyenyekevu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "Wimbo wa kwenda juu. Wa Daudi.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 131:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moyo wangu hauna kiburi, Ee",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.131.1",
+                "verseOrgIds": [
+                  "PSA.131.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 131:1"
+      },
+      "items": [
+        {
+          "text": "macho yangu hayajivuni;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 131:1"
+      },
+      "items": [
+        {
+          "text": "sijishughulishi na mambo makuu kunizidi",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 131:1"
+      },
+      "items": [
+        {
+          "text": "wala mambo ya ajabu mno kwangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.1",
+            "verseOrgIds": [
+              "PSA.131.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 131:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini nimetuliza na kunyamazisha nafsi yangu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 131:2"
+      },
+      "items": [
+        {
+          "text": "kama mtoto aliyeachishwa kunyonya na mama yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 131:2"
+      },
+      "items": [
+        {
+          "text": "kama mtoto aliyeachishwa kunyonya",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 131:2"
+      },
+      "items": [
+        {
+          "text": "ndivyo ilivyo nafsi iliyoko ndani yangu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.2",
+            "verseOrgIds": [
+              "PSA.131.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 131:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee Israeli, mtumaini",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.3",
+            "verseOrgIds": [
+              "PSA.131.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.131.3",
+                "verseOrgIds": [
+                  "PSA.131.3"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 131:3"
+      },
+      "items": [
+        {
+          "text": "tangu sasa na hata milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.131.3",
+            "verseOrgIds": [
+              "PSA.131.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.132",
+    "number": "132",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.130",
+    "number": "130",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "id": "ISA.58",
+  "number": "58",
+  "bookId": "ISA",
+  "reference": "Isaya 58",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "58",
+        "style": "c",
+        "sid": "ISA 58"
+      },
+      "items": [
+        {
+          "text": "58",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okweng’ata gw’ekeene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 58:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aka eriogi rinene, tobaisa gokira, aka eriogi buna eri’egetureeri! Teebia abanto baane ogosaria kwabo, bateebie abwo bare ab’ororeeria rwa Yakobo ebibe biabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.1",
+            "verseOrgIds": [
+              "ISA.58.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 58:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo nigo bakondigia kera rituko, na nigo bagokirie bamanye chinchera chiane. Nigo banga buna egesaku kegokora oboronge getana gotiga amachiiko a Nyasae obo. Barabwo nigo bakomboria mbagambie ebiina bi’oboronge, nigo baganetie Nyasae abaike ang’e.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.2",
+            "verseOrgIds": [
+              "ISA.58.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 58:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abwo nigo bagoteeba: Nase ki tokweng’ata, na aye Omonene tori korengereria amang’ana ayio? Nase ki togwekeyia, na aye tori korora ayio? Omonene nigo agoteeba: Rora rituko eri mokweng’ata nigo mokwerigeria aya akobagokia inwe abanyene, naende mwachanda abakori emeremo baino bonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.3",
+            "verseOrgIds": [
+              "ISA.58.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 58:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rora, inwe nigo mokweng’ata ase okwomana na okoamererania. Nigo mogoakana chinkundi chi’ogokora amabe. Okweng’ata kwaino buna okwe rituko ria reero nigo kogotanga ogosaba kwaino tikoigugwa igoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.4",
+            "verseOrgIds": [
+              "ISA.58.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 58:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Oko nakwo okweng’ata inche nganetie? Inee! Eye nero enchera endonge omonto agwekeyia? Ogwekumba omotwe buna risakwe, na kweboyia chigunia amo nokweaka ribu? Inee! Ayio naro mokoroka okweng’ata ne rituko rikomogwenera Omonene?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.5",
+            "verseOrgIds": [
+              "ISA.58.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 58:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okweng’ata inche nanchire noko: Mosibore chingataare chi’obobe; mosibore chinkini chi’amakorogoto, bae abachandegete ribaga bagende, na mobune kera rikorogoto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.6",
+            "verseOrgIds": [
+              "ISA.58.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 58:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwatananere abare nenchara endagera yaino; abanto abataka batabwati chinka, mobarente ase chinyomba chiaino; ekero mokorora omonto ore getirianda, momoboyie. Timobaisa kwanga gokonya abare nomobere na amanyinga buna inwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.7",
+            "verseOrgIds": [
+              "ISA.58.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 58:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korakore igo, omobaso oo nobare buna ensakia ya mambia, na okogwenigwa kwao nkogoikere bwango; oboronge bwao mbogotang’ane, na obonene Omonene nabogotunyane korwa magega, bobe bokorendete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.8",
+            "verseOrgIds": [
+              "ISA.58.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 58:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio norangerie, n’Omonene nakoiranerie, norere, nere nateebe iga: Nao inde aa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.9",
+            "verseOrgIds": [
+              "ISA.58.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Koratige kobekera abande amakorogoto, na kobaraga nekiara, na kobakwana bobe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.9",
+            "verseOrgIds": [
+              "ISA.58.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ISA 58:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "korakonye abare nenchara na oe oyochandegete eki’aremeire, rirorio omobaso oo nobare ase omosunte, na obotuko bwao mbobe buna mobaso gati.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.10",
+            "verseOrgIds": [
+              "ISA.58.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ISA 58:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Igo Omonene nakoraae kogenderera botambe, nagoisanekie n’ebinto ebiya, nakong’ie amauga ’omobere oo, naye obe buna omogondo ogoitororerwa amaache, na buna ensoko y’amaache etari gokama.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.11",
+            "verseOrgIds": [
+              "ISA.58.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ISA 58:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bao mbaagache naende amatombe aria a kare, noagache amaroso ’ebiaare ebinge; aye norokwe “Omoroisia bw’aase atagogete”, na “Oyokoroisia chinchera chibe chinyia, erinde ense emenywe”.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.12",
+            "verseOrgIds": [
+              "ISA.58.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obuya bw’okorenda Esabato",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ISA 58:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Koratange okogoro kwao ase rituko ri’Esabato na bwetange tokora amang’ana ao agokogokia ase rituko riane richenu; koraroke Esabato ebe omogooko oo, rituko riria richenu ri’Omonene rituko ri’ogosikwa; korarisike otari kobwatia chinchera chiao omonyene, gose kwerigeria aya agokogokia, na tokwana amang’ana atagwenereti,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.13",
+            "verseOrgIds": [
+              "ISA.58.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ISA 58:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "rirorio nonyore omogooko ase ’nde inche Omonene, nainche ningoetie ase ebitunwa bi’ense igoro, nkoe omwando o Yakobo, sokoro yao, oyorie.” Omonene nere okwanire amang’ana ayio korwa ase omonwa oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.58.14",
+            "verseOrgIds": [
+              "ISA.58.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.59",
+    "number": "59",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.57",
+    "number": "57",
+    "bookId": "ISA"
+  }
+}

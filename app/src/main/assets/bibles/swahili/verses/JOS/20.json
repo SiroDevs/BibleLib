@@ -1,0 +1,359 @@
+{
+  "id": "JOS.20",
+  "number": "20",
+  "bookId": "JOS",
+  "reference": "Yoshua 20",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "20",
+        "style": "c",
+        "sid": "JOS 20"
+      },
+      "items": [
+        {
+          "text": "20",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Miji Ya Makimbilio",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "NUM.35.9-NUM.35.34"
+          },
+          "items": [
+            {
+              "text": "Hesabu 35:9-34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOS 20:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "JOS.20.1",
+                "verseOrgIds": [
+                  "JOS.20.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "akamwambia Yoshua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.1",
+            "verseOrgIds": [
+              "JOS.20.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOS 20:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Waambie Waisraeli, watenge miji mikubwa ya kukimbilia, kama nilivyokuagiza kupitia Mose,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.2",
+            "verseOrgIds": [
+              "JOS.20.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOS 20:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ili mtu yeyote atakayemuua mtu kwa bahati mbaya na pasipo kukusudia aweze kukimbilia huko na kujiepusha na mlipiza kisasi wa damu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.3",
+            "verseOrgIds": [
+              "JOS.20.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOS 20:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Anapokimbilia mojawapo ya hii miji mikubwa atasimama kwenye maingilio ya lango la mji mkuu na kueleza wazee wa mji kuhusu shauri lake. Kisha watampokea katika mji wao na kumpa mahali pa kuishi nao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.4",
+            "verseOrgIds": [
+              "JOS.20.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOS 20:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama mlipiza kisasi wa damu akimfuatilia, wasimkabidhi yule mshtakiwa, kwa sababu alimuua jirani yake bila kukusudia, na bila kuwa na nia ya kudhuru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.5",
+            "verseOrgIds": [
+              "JOS.20.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOS 20:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huyu aliyeua atakaa kwenye mji mkubwa huo mpaka awe amesimama kukabili mashtaka yake mbele ya kusanyiko na mpaka kuhani mkuu anayehudumu kwa wakati huo atakapokufa. Ndipo atakapoweza kurudi nyumbani kwake katika mji ambao aliukimbia.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.6",
+            "verseOrgIds": [
+              "JOS.20.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOS 20:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Basi wakatenga Kedeshi katika Galilaya kwenye nchi ya vilima ya Naftali, Shekemu katika nchi ya vilima ya Efraimu, na Kiriath-Arba (yaani Hebroni) kwenye nchi ya vilima ya Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.7",
+            "verseOrgIds": [
+              "JOS.20.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOS 20:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika upande wa mashariki mwa Yordani ya Yeriko wakatenga Bezeri katika jangwa katika uwanda wa juu katika kabila la Reubeni, Ramothi katika Gileadi katika kabila la Gadi, na Golani huko Bashani katika kabila la Manase.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.8",
+            "verseOrgIds": [
+              "JOS.20.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOS 20:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwisraeli yeyote au mgeni yeyote aishiye miongoni mwao aliyemuua mtu kwa bahati mbaya, angeweza kukimbilia katika miji mikubwa hiyo iliyotengwa na asiuawe na mlipiza kisasi wa damu kabla hajasimama kukabili mashtaka mbele ya kusanyiko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOS.20.9",
+            "verseOrgIds": [
+              "JOS.20.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOS.21",
+    "number": "21",
+    "bookId": "JOS"
+  },
+  "previous": {
+    "id": "JOS.19",
+    "number": "19",
+    "bookId": "JOS"
+  }
+}

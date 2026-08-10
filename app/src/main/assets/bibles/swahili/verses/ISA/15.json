@@ -1,0 +1,942 @@
+{
+  "id": "ISA.15",
+  "number": "15",
+  "bookId": "ISA",
+  "reference": "Isaya 15",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "ISA 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Unabii Dhidi Ya Moabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ISA 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neno kuhusu Moabu:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:1"
+      },
+      "items": [
+        {
+          "text": "Ari iliyo Moabu imeangamizwa:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:1"
+      },
+      "items": [
+        {
+          "text": "imeharibiwa kwa usiku mmoja!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:1"
+      },
+      "items": [
+        {
+          "text": "Kiri iliyo Moabu imeangamizwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:1"
+      },
+      "items": [
+        {
+          "text": "imeharibiwa kwa usiku mmoja!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.1",
+            "verseOrgIds": [
+              "ISA.15.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ISA 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Diboni anakwea hadi kwenye hekalu lake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.2",
+            "verseOrgIds": [
+              "ISA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:2"
+      },
+      "items": [
+        {
+          "text": "mpaka mahali pake pa juu ili walie,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.2",
+            "verseOrgIds": [
+              "ISA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:2"
+      },
+      "items": [
+        {
+          "text": "Moabu anaombolezea Nebo na Medeba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.2",
+            "verseOrgIds": [
+              "ISA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:2"
+      },
+      "items": [
+        {
+          "text": "Kila kichwa kimenyolewa",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.2",
+            "verseOrgIds": [
+              "ISA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:2"
+      },
+      "items": [
+        {
+          "text": "na kila ndevu limeondolewa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.2",
+            "verseOrgIds": [
+              "ISA.15.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ISA 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wamevaa nguo za magunia barabarani,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.3",
+            "verseOrgIds": [
+              "ISA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:3"
+      },
+      "items": [
+        {
+          "text": "juu ya mapaa na kwenye viwanja",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.3",
+            "verseOrgIds": [
+              "ISA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:3"
+      },
+      "items": [
+        {
+          "text": "wote wanaomboleza,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.3",
+            "verseOrgIds": [
+              "ISA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:3"
+      },
+      "items": [
+        {
+          "text": "wamelala kifudifudi kwa kulia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.3",
+            "verseOrgIds": [
+              "ISA.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ISA 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Heshboni na Eleale wanalia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.4",
+            "verseOrgIds": [
+              "ISA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:4"
+      },
+      "items": [
+        {
+          "text": "sauti zao zinasikika hadi Yahazi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.4",
+            "verseOrgIds": [
+              "ISA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:4"
+      },
+      "items": [
+        {
+          "text": "Kwa hiyo watu wenye silaha wa Moabu wanapiga kelele,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.4",
+            "verseOrgIds": [
+              "ISA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:4"
+      },
+      "items": [
+        {
+          "text": "nayo mioyo yao imezimia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.4",
+            "verseOrgIds": [
+              "ISA.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ISA 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moyo wangu unamlilia Moabu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "wakimbizi wake wanakimbilia Soari,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "hadi Eglath-Shelishiya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "Wanapanda njia ya kwenda Luhithi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "wanakwenda huku wanalia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "barabarani iendayo Horonaimu",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:5"
+      },
+      "items": [
+        {
+          "text": "wanaombolezea maangamizi yao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.5",
+            "verseOrgIds": [
+              "ISA.15.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ISA 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maji ya Nimrimu yamekauka",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.6",
+            "verseOrgIds": [
+              "ISA.15.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:6"
+      },
+      "items": [
+        {
+          "text": "na majani yamenyauka;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.6",
+            "verseOrgIds": [
+              "ISA.15.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:6"
+      },
+      "items": [
+        {
+          "text": "mimea imekauka wala hakuna",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.6",
+            "verseOrgIds": [
+              "ISA.15.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:6"
+      },
+      "items": [
+        {
+          "text": "kitu chochote kibichi kilichobaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.6",
+            "verseOrgIds": [
+              "ISA.15.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ISA 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo mali waliyoipata na kujiwekea akiba",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.7",
+            "verseOrgIds": [
+              "ISA.15.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:7"
+      },
+      "items": [
+        {
+          "text": "wamezichukua na kuvuka Bonde la Mierebi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.7",
+            "verseOrgIds": [
+              "ISA.15.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ISA 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwangwi wa kilio chao umefika hadi mpakani mwa Moabu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.8",
+            "verseOrgIds": [
+              "ISA.15.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:8"
+      },
+      "items": [
+        {
+          "text": "kilio chao cha huzuni kimefika hadi Eglaimu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.8",
+            "verseOrgIds": [
+              "ISA.15.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:8"
+      },
+      "items": [
+        {
+          "text": "maombolezo yao hadi Beer-Elimu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.8",
+            "verseOrgIds": [
+              "ISA.15.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ISA 15:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maji ya Dimoni yamejaa damu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.9",
+            "verseOrgIds": [
+              "ISA.15.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:9"
+      },
+      "items": [
+        {
+          "text": "lakini bado nitaleta pigo jingine juu ya Dimoni:",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.9",
+            "verseOrgIds": [
+              "ISA.15.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "ISA 15:9"
+      },
+      "items": [
+        {
+          "text": "simba juu ya wakimbizi wa Moabu",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.9",
+            "verseOrgIds": [
+              "ISA.15.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "ISA 15:9"
+      },
+      "items": [
+        {
+          "text": "na juu ya wale wanaobaki katika nchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ISA.15.9",
+            "verseOrgIds": [
+              "ISA.15.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ISA.16",
+    "number": "16",
+    "bookId": "ISA"
+  },
+  "previous": {
+    "id": "ISA.14",
+    "number": "14",
+    "bookId": "ISA"
+  }
+}

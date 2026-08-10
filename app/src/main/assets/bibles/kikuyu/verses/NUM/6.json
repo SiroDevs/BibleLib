@@ -1,0 +1,753 @@
+{
+  "id": "NUM.6",
+  "number": "6",
+  "bookId": "NUM",
+  "reference": "Ndari 6",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "NUM 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mũnaziri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NUM 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova akĩĩra Musa atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.1",
+            "verseOrgIds": [
+              "NUM.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NUM 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Arĩria andũ a Isiraeli, ũmeere atĩrĩ: ‘Mũndũ mũrũme kana mũndũ-wa-nja angĩenda kwĩhĩta mwĩhĩtwa wa mwanya, ũrĩ mwĩhĩtwa wa kwĩyamũrĩra Jehova atuĩke Mũnaziri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.2",
+            "verseOrgIds": [
+              "NUM.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NUM 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no nginya atige kũnyua ndibei o na indo iria ingĩ ngagatu cia kũnyua, na ndakananyue thiki ĩthondeketwo kuuma kũrĩ ndibei kana kĩndũ kĩngĩ kĩgagatu gĩa kũnyua. Ndakananyue maaĩ ma thabibũ, kana arĩe thabibũ, kana thabibũ iria nyũmithie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.3",
+            "verseOrgIds": [
+              "NUM.6.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NUM 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa yothe arĩkoragwo arĩ Mũnaziri, ndakanarĩe kĩndũ gĩa kuuma he mũthabibũ, irĩ mbegũ kana makoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.4",
+            "verseOrgIds": [
+              "NUM.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NUM 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ihinda rĩothe rĩa mwĩhĩtwa ũcio wa kwĩyamũra, ndakanenjwo mũtwe. No nginya aikarage arĩ mũtheru o nginya ihinda rĩake rĩa kwĩyamũrĩra Jehova rĩthire; no nginya areke njuĩrĩ cia mũtwe wake ikũre iraihe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.5",
+            "verseOrgIds": [
+              "NUM.6.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NUM 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihinda rĩu rĩothe eyamũrĩire Jehova ndakanakuhĩrĩrie kĩimba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.6",
+            "verseOrgIds": [
+              "NUM.6.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NUM 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na ithe, kana nyina, kana mũrũ wa nyina, kana mwarĩ wa nyina angĩkua, ndakanethaahie nĩ ũndũ wao, tondũ arĩ na rũũri rwa kwĩyamũrĩra Ngai mũtwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.7",
+            "verseOrgIds": [
+              "NUM.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NUM 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ihinda rĩothe rĩa kwĩyamũra gwake arĩkoragwo aamũrĩirwo Jehova.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.8",
+            "verseOrgIds": [
+              "NUM.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NUM 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũndũ angĩkua gĩkuũ kĩa narua arĩ ho, naguo ũndũ ũcio ũthaahie njuĩrĩ ĩrĩa aamũrĩte, no nginya enjwo mũtwe mũthenya wake wa gũtherio, na nĩguo wa mũgwanja.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.9",
+            "verseOrgIds": [
+              "NUM.6.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NUM 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ mũthenya wa ĩnana no nginya atware ndirahũgĩ igĩrĩ kana tũtutuura twĩrĩ harĩ mũthĩnjĩri-Ngai hau itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.10",
+            "verseOrgIds": [
+              "NUM.6.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NUM 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake mũthĩnjĩri-Ngai arute ĩmwe ĩtuĩke igongona rĩa kũhoroherio mehia, nayo ĩyo ĩngĩ ĩtuĩke nĩ iruta rĩa njino nĩguo ahoroherio, nĩ ũndũ nĩehĩtie nĩgũkorwo arĩ hamwe na kĩimba. Mũthenya o ro ũcio no nginya aamũrĩre Jehova mũtwe wake rĩngĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.11",
+            "verseOrgIds": [
+              "NUM.6.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NUM 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No nginya eyamũrĩre Jehova ihinda rĩu rĩa kwĩyamũra, na no nginya arute gatũrũme ka mwaka ũmwe gatuĩke ka igongona rĩa mahĩtia. Mĩthenya ĩrĩa mĩhĩtũku ndĩgũtarwo, tondũ nĩathaahirio ihinda rĩrĩa eyaamũrĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.12",
+            "verseOrgIds": [
+              "NUM.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NUM 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Na rĩrĩ, ũyũ nĩguo watho wa Mũnaziri ihinda rĩake rĩa kwĩyamũrĩra Ngai rĩathira. Nĩakarehwo itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.13",
+            "verseOrgIds": [
+              "NUM.6.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NUM 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hau nĩho akaarehe maruta make harĩ Jehova, namo nĩ: gatũrũme ka mwaka ũmwe gatarĩ na kaũũgũ gatuĩke ka iruta rĩa njino, na kamwatĩ ka mwaka ũmwe karĩ igongona rĩa kũhoroheria mehia, na ndũrũme ĩmwe ĩtarĩ na kaũũgũ ĩrĩ iruta rĩa ũiguano,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.14",
+            "verseOrgIds": [
+              "NUM.6.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NUM 6:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "hamwe na maruta ma mũtu na maruta ma kũnyuuo, na gĩkabũ kĩa mĩgate ĩtarĩ na ndawa ya kũimbia, na keki cia mũtu ũrĩa mũhinyu mũno ũtukanĩtio na maguta, na tũmĩgate tũhũthũ tũhakĩtwo maguta.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.15",
+            "verseOrgIds": [
+              "NUM.6.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NUM 6:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Mũthĩnjĩri-Ngai nĩakaiga indo icio mbere ya Jehova, na acooke arute igongona rĩa kũhoroheria mehia o na iruta rĩa njino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.16",
+            "verseOrgIds": [
+              "NUM.6.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NUM 6:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩakarehe gĩkabũ kĩu kĩa mĩgate ĩtarĩ mĩimbie na arute ndũrũme ĩyo ĩrĩ igongona rĩa ũiguano kũrĩ Jehova, hamwe na igongona rĩayo rĩa mũtu na rĩa indo cia kũnyuuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.17",
+            "verseOrgIds": [
+              "NUM.6.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NUM 6:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ningĩ hau itoonyero-inĩ rĩa Hema-ya-Gũtũnganwo, Mũnaziri no nginya enjwo njuĩrĩ ĩrĩa aamũrĩte. Nĩakoya njuĩrĩ ĩyo na amĩikie mwaki-inĩ ũrĩa ũrĩ rungu rwa igongona rĩu rĩa ũiguano.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.18",
+            "verseOrgIds": [
+              "NUM.6.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NUM 6:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Thuutha wa Mũnaziri ũcio kwenjwo njuĩrĩ yake ya kwĩyamũra, mũthĩnjĩri-Ngai nĩ akoya kĩande gĩtherũkĩtio kĩa ndũrũme ĩyo, na keki na tũmĩgate tũrĩa tũhũthũ kuuma gĩkabũ-inĩ kĩu, cierĩ itarĩ ndawa ya kũimbia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.19",
+            "verseOrgIds": [
+              "NUM.6.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NUM 6:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthĩnjĩri-Ngai acooke acithũngũthie mbere ya Jehova, ituĩke igongona rĩa gũthũngũthio; nĩ nyamũre, na nĩ cia mũthĩnjĩri-Ngai, hamwe na gĩthũri kĩrĩa gĩthũngũthĩtio, o na kĩero kĩrĩa kĩrutĩtwo. Thuutha ũcio Mũnaziri no anyue ndibei.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.20",
+            "verseOrgIds": [
+              "NUM.6.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NUM 6:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“ ‘Ũcio nĩguo watho wa Mũnaziri ũrĩa wĩhĩtaga kũrutĩra Jehova indo kũringana na ũrĩa eyaamũrĩte, hamwe na kĩrĩa kĩngĩ gĩothe angĩhota kũruta. No nginya ahingie mwĩhĩtwa ũrĩa ehĩtĩte, kũringana na watho wa Mũnaziri.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.21",
+            "verseOrgIds": [
+              "NUM.6.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kĩrathimo kĩa Mũthĩnjĩri-Ngai",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NUM 6:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ningĩ Jehova akĩĩra Musa atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.22",
+            "verseOrgIds": [
+              "NUM.6.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NUM 6:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ĩra Harũni na ariũ ake atĩrĩ, ‘Ũũ nĩguo mũrĩrathimaga andũ a Isiraeli. Meragei atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.23",
+            "verseOrgIds": [
+              "NUM.6.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NUM 6:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.24",
+            "verseOrgIds": [
+              "NUM.6.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NUM 6:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.25",
+            "verseOrgIds": [
+              "NUM.6.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NUM 6:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.26",
+            "verseOrgIds": [
+              "NUM.6.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NUM 6:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nĩ ũndũ ũcio athĩnjĩri-Ngai nĩmarĩgwetaga rĩĩtwa rĩakwa kũrĩ andũ a Isiraeli, na niĩ nĩndĩĩmarathimaga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NUM.6.27",
+            "verseOrgIds": [
+              "NUM.6.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NUM.7",
+    "number": "7",
+    "bookId": "NUM"
+  },
+  "previous": {
+    "id": "NUM.5",
+    "number": "5",
+    "bookId": "NUM"
+  }
+}

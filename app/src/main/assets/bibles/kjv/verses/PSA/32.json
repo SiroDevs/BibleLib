@@ -1,0 +1,878 @@
+{
+  "id": "PSA.32",
+  "number": "32",
+  "bookId": "PSA",
+  "reference": "Psalms 32",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "32",
+        "style": "c",
+        "sid": "PSA 32"
+      },
+      "items": [
+        {
+          "text": "32",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "A Psalm",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David, Maschil.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 32:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is he whose",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.1",
+                "verseOrgIds": [
+                  "PSA.32.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "transgression",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.1",
+                "verseOrgIds": [
+                  "PSA.32.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "forgiven,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "whose",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.1",
+                "verseOrgIds": [
+                  "PSA.32.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "sin",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.1",
+                "verseOrgIds": [
+                  "PSA.32.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "covered.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.1",
+            "verseOrgIds": [
+              "PSA.32.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 32:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.2",
+            "verseOrgIds": [
+              "PSA.32.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.2",
+                "verseOrgIds": [
+                  "PSA.32.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the man unto whom the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.2",
+            "verseOrgIds": [
+              "PSA.32.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.2",
+                "verseOrgIds": [
+                  "PSA.32.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "imputeth not iniquity, and in whose spirit",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.2",
+            "verseOrgIds": [
+              "PSA.32.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "there is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.2",
+                "verseOrgIds": [
+                  "PSA.32.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "no guile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.2",
+            "verseOrgIds": [
+              "PSA.32.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 32:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When I kept silence, my bones waxed old through my roaring all the day long.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.3",
+            "verseOrgIds": [
+              "PSA.32.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 32:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.4",
+            "verseOrgIds": [
+              "PSA.32.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 32:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.5",
+            "verseOrgIds": [
+              "PSA.32.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.5",
+                "verseOrgIds": [
+                  "PSA.32.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; and thou forgavest the iniquity of my sin. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.5",
+            "verseOrgIds": [
+              "PSA.32.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 32:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.6",
+            "verseOrgIds": [
+              "PSA.32.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 32:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.7",
+            "verseOrgIds": [
+              "PSA.32.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "art",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.7",
+                "verseOrgIds": [
+                  "PSA.32.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.7",
+            "verseOrgIds": [
+              "PSA.32.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 32:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.8",
+            "verseOrgIds": [
+              "PSA.32.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 32:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be ye not as the horse,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.9",
+            "verseOrgIds": [
+              "PSA.32.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "or",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.9",
+                "verseOrgIds": [
+                  "PSA.32.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as the mule,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.9",
+            "verseOrgIds": [
+              "PSA.32.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "which",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.9",
+                "verseOrgIds": [
+                  "PSA.32.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.9",
+            "verseOrgIds": [
+              "PSA.32.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 32:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Many sorrows",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.10",
+            "verseOrgIds": [
+              "PSA.32.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.10",
+                "verseOrgIds": [
+                  "PSA.32.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "to the wicked: but he that trusteth in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.10",
+            "verseOrgIds": [
+              "PSA.32.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.10",
+                "verseOrgIds": [
+                  "PSA.32.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", mercy shall compass him about.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.10",
+            "verseOrgIds": [
+              "PSA.32.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 32:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be glad in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.11",
+            "verseOrgIds": [
+              "PSA.32.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.11",
+                "verseOrgIds": [
+                  "PSA.32.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and rejoice, ye righteous: and shout for joy, all",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.11",
+            "verseOrgIds": [
+              "PSA.32.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "ye that are",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.32.11",
+                "verseOrgIds": [
+                  "PSA.32.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "upright in heart.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.32.11",
+            "verseOrgIds": [
+              "PSA.32.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.33",
+    "number": "33",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.31",
+    "number": "31",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,1905 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Mika 1",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Neno la",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.1",
+                "verseOrgIds": [
+                  "MIC.1.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "lilimjia Mika, Mmoreshethi, wakati wa utawala wa Yothamu, Ahazi na Hezekia, wafalme wa Yuda; ufunuo aliouona kuhusu Samaria na Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sikieni, enyi mataifa, enyi nyote,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "sikilizeni, ee dunia na wote mliomo ndani yake,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "ili",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.2",
+                "verseOrgIds": [
+                  "MIC.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mwenyezi ashuhudie dhidi yenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "Bwana kutoka Hekalu lake takatifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Hukumu Dhidi Ya Samaria Na Yerusalemu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tazama!",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.3",
+                "verseOrgIds": [
+                  "MIC.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "anakuja kutoka mahali pake;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:3"
+      },
+      "items": [
+        {
+          "text": "anashuka na kukanyaga",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:3"
+      },
+      "items": [
+        {
+          "text": "mahali palipoinuka juu pa dunia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Milima inayeyuka chini yake",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "na mabonde yanagawanyika",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "kama nta mbele ya moto,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "kama maji yatiririkayo kasi",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "kwenye mteremko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yote haya ni kwa sababu ya kosa la Yakobo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "ni kwa sababu ya dhambi za nyumba ya Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Kosa la Yakobo ni lipi?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Je, sio Samaria?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Je, mahali pa juu pa Yuda pa kuabudia miungu ni nini?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Je, sio Yerusalemu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Kwa hiyo nitaufanya Samaria kuwa lundo la kokoto,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "mahali pa kuotesha mizabibu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "Nitayamwaga mawe yake katika bonde",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "na kuacha wazi misingi yake.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sanamu zake zote",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "zitavunjwa vipande vipande;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "zawadi zake zote za Hekalu",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "zitachomwa kwa moto;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "nitaharibu vinyago vyake vyote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "Kwa kuwa alikusanya zawadi zake",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "kutokana na ujira wa kahaba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "nazo zitatumika tena",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "kulipa mishahara ya kahaba.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kulia Na Kuomboleza",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa ajili ya hili nitalia na kuomboleza;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "nitatembea bila viatu na tena uchi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "Nitabweka kama mbweha",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "na kuomboleza kama bundi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa sababu jeraha lake halitibiki;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "limekuja Yuda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "Limefika hasa kwenye lango la watu wangu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "hata Yerusalemu kwenyewe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Usiliseme hili huko Gathi;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "usilie hata kidogo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "Huko Beth-le-Afra",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "gaagaa mavumbini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Piteni mkiwa uchi na wenye aibu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "ninyi mkaao Shafiri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "Wale waishio Saanani",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "hawatatoka nje.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "Beth-Eseli iko katika maombolezo;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "kinga yake imeondolewa kwako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wale waishio Marothi wanagaagaa kwa maumivu",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "wakingoja msaada,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "kwa sababu maangamizi yamekuja",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "kutoka kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.12",
+                "verseOrgIds": [
+                  "MIC.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "hata katika lango la Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyi mkaao Lakishi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "fungeni farasi kwenye magari ya vita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "Mlikuwa chanzo cha dhambi",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "kwa Binti Sayuni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa makosa ya Israeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "yalikutwa kwako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa hiyo utaipa Moresheth-Gathi",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "zawadi za kuagana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "Mji wa Akzibu utaonyesha wazi udanganyifu",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "kwa wafalme wa Israeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nitawaleteeni atakayewashinda",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "ninyi mnaoishi Maresha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "Yeye aliye utukufu wa Israeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "atakuja Adulamu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MIC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyoeni nywele zenu katika kuomboleza",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "kwa ajili ya watoto wenu mnaowafurahia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "jifanyieni upara kama tai,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa watawaacha",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "na kwenda uhamishoni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  }
+}

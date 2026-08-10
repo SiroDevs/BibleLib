@@ -1,0 +1,1735 @@
+{
+  "id": "MIC.1",
+  "number": "1",
+  "bookId": "MIC",
+  "reference": "Micah 1",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "MIC 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MIC 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The word of the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.1",
+                "verseOrgIds": [
+                  "MIC.1.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.1",
+            "verseOrgIds": [
+              "MIC.1.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MIC 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear, you peoples, all of you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "listen, earth and all who live in it,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "that the Sovereign",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.2",
+                "verseOrgIds": [
+                  "MIC.1.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "may bear witness against you,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:2"
+      },
+      "items": [
+        {
+          "text": "the Lord from his holy temple.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.2",
+            "verseOrgIds": [
+              "MIC.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Judgment Against Samaria and Jerusalem",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MIC 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Look! The",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.3",
+                "verseOrgIds": [
+                  "MIC.1.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is coming from his dwelling place;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:3"
+      },
+      "items": [
+        {
+          "text": "he comes down and treads on the heights of the earth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.3",
+            "verseOrgIds": [
+              "MIC.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MIC 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The mountains melt beneath him",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "and the valleys split apart,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "like wax before the fire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:4"
+      },
+      "items": [
+        {
+          "text": "like water rushing down a slope.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.4",
+            "verseOrgIds": [
+              "MIC.1.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MIC 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All this is because of Jacob's transgression,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "because of the sins of the people of Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "What is Jacob's transgression?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Is it not Samaria?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "What is Judah's high place?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:5"
+      },
+      "items": [
+        {
+          "text": "Is it not Jerusalem?",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.5",
+            "verseOrgIds": [
+              "MIC.1.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MIC 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Therefore I will make Samaria a heap of rubble,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "a place for planting vineyards.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "I will pour her stones into the valley",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:6"
+      },
+      "items": [
+        {
+          "text": "and lay bare her foundations.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.6",
+            "verseOrgIds": [
+              "MIC.1.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MIC 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All her idols will be broken to pieces;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "all her temple gifts will be burned with fire;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "I will destroy all her images.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "Since she gathered her gifts from the wages of prostitutes,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:7"
+      },
+      "items": [
+        {
+          "text": "as the wages of prostitutes they will again be used.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.7",
+            "verseOrgIds": [
+              "MIC.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Weeping and Mourning",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MIC 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because of this I will weep and wail;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "I will go about barefoot and naked.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "I will howl like a jackal",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:8"
+      },
+      "items": [
+        {
+          "text": "and moan like an owl.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.8",
+            "verseOrgIds": [
+              "MIC.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MIC 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For Samaria's plague is incurable;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "it has spread to Judah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "It has reached the very gate of my people,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:9"
+      },
+      "items": [
+        {
+          "text": "even to Jerusalem itself.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.9",
+            "verseOrgIds": [
+              "MIC.1.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MIC 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tell it not in Gath",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        },
+        {
+          "text": ";",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "weep not at all.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "In Beth Ophrah",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:10"
+      },
+      "items": [
+        {
+          "text": "roll in the dust.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.10",
+            "verseOrgIds": [
+              "MIC.1.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MIC 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pass by naked and in shame,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "you who live in Shaphir.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "Those who live in Zaanan",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "will not come out.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "Beth Ezel is in mourning;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:11"
+      },
+      "items": [
+        {
+          "text": "it no longer protects you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.11",
+            "verseOrgIds": [
+              "MIC.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MIC 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Those who live in Maroth",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "text": "writhe in pain,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "waiting for relief,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "because disaster has come from the",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "MIC.1.12",
+                "verseOrgIds": [
+                  "MIC.1.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:12"
+      },
+      "items": [
+        {
+          "text": "even to the gate of Jerusalem.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.12",
+            "verseOrgIds": [
+              "MIC.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MIC 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You who live in Lachish,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "harness fast horses to the chariot.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "You are where the sin of Daughter Zion began,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:13"
+      },
+      "items": [
+        {
+          "text": "for the transgressions of Israel were found in you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.13",
+            "verseOrgIds": [
+              "MIC.1.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MIC 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Therefore you will give parting gifts",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "to Moresheth Gath.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "The town of Akzib",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        },
+        {
+          "text": "will prove deceptive",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:14"
+      },
+      "items": [
+        {
+          "text": "to the kings of Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.14",
+            "verseOrgIds": [
+              "MIC.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MIC 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will bring a conqueror against you",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "who live in Mareshah.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "The nobles of Israel",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:15"
+      },
+      "items": [
+        {
+          "text": "will flee to Adullam.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.15",
+            "verseOrgIds": [
+              "MIC.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MIC 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Shave your head in mourning",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "for the children in whom you delight;",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "make yourself as bald as the vulture,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "MIC 1:16"
+      },
+      "items": [
+        {
+          "text": "for they will go from you into exile.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MIC.1.16",
+            "verseOrgIds": [
+              "MIC.1.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.2",
+    "number": "2",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  }
+}

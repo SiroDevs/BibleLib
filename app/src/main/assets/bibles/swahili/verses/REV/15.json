@@ -1,0 +1,504 @@
+{
+  "id": "REV.15",
+  "number": "15",
+  "bookId": "REV",
+  "reference": "Ufunuo 15",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 8,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "REV 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Malaika Saba Na Mapigo Saba",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "REV 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo nikaona ishara nyingine kubwa ya ajabu mbinguni: malaika saba wenye yale mapigo saba ya mwisho, kwa sababu kwa mapigo hayo ghadhabu ya Mungu ilikuwa imekamilika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.1",
+            "verseOrgIds": [
+              "REV.15.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "REV 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nikaona kile kilichoonekana kama bahari ya kioo iliyochanganyikana na moto. Kando ya hiyo bahari, walikuwa wamesimama wale watu waliomshinda yule mnyama na sanamu yake pamoja na tarakimu ya jina lake. Mikononi mwao walikuwa wameshika vinubi walivyopewa na Mungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.2",
+            "verseOrgIds": [
+              "REV.15.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "REV 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao wakaimba wimbo wa Mose, mtumishi wa Mungu, na wimbo wa Mwana-Kondoo, wakisema:",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "REV 15:3"
+      },
+      "items": [
+        {
+          "text": "\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "REV.15.3",
+                "verseOrgIds": [
+                  "REV.15.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu Mwenyezi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "REV 15:3"
+      },
+      "items": [
+        {
+          "text": "matendo yako ni makuu na ya ajabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "REV 15:3"
+      },
+      "items": [
+        {
+          "text": "Njia zako wewe ni za haki na za kweli,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "REV 15:3"
+      },
+      "items": [
+        {
+          "text": "Mfalme wa nyakati zote!",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.3",
+            "verseOrgIds": [
+              "REV.15.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "REV 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ni nani ambaye hatakuogopa wewe Bwana",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "na kulitukuza jina lako?",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "Kwa kuwa wewe peke yako ndiwe mtakatifu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "Mataifa yote yatakuja",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "na kuabudu mbele zako,",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "kwa kuwa matendo yako ya haki",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "REV 15:4"
+      },
+      "items": [
+        {
+          "text": "yamedhihirishwa.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.4",
+            "verseOrgIds": [
+              "REV.15.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "REV 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya haya nikatazama, nalo hekalu, la hema la Ushuhuda, lilikuwa limefunguliwa mbinguni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.5",
+            "verseOrgIds": [
+              "REV.15.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "REV 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndani ya lile hekalu wakatoka malaika saba wakiwa na mapigo saba. Walikuwa wamevaa nguo safi za kitani ingʼaayo na kufungwa mikanda ya dhahabu vifuani mwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.6",
+            "verseOrgIds": [
+              "REV.15.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "REV 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo mmoja wa wale viumbe wanne wenye uhai akawapa wale malaika saba mabakuli saba ya dhahabu yaliyojaa ghadhabu ya Mungu, yeye aishiye milele na milele.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.7",
+            "verseOrgIds": [
+              "REV.15.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "REV 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nalo lile hekalu lilijawa na moshi uliotokana na utukufu wa Mungu na uweza wake, wala hakuna yeyote aliyeweza kuingia mle hekaluni mpaka yale mapigo saba ya wale malaika saba yalipomalizika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "REV.15.8",
+            "verseOrgIds": [
+              "REV.15.8"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "REV.16",
+    "number": "16",
+    "bookId": "REV"
+  },
+  "previous": {
+    "id": "REV.14",
+    "number": "14",
+    "bookId": "REV"
+  }
+}

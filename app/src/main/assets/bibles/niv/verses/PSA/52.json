@@ -1,0 +1,760 @@
+{
+  "id": "PSA.52",
+  "number": "52",
+  "bookId": "PSA",
+  "reference": "Psalm 52",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "52",
+        "style": "c",
+        "sid": "PSA 52"
+      },
+      "items": [
+        {
+          "text": "52",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 52",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. A",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "maskil",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David. When Doeg the Edomite had gone to Saul and told him: \"David has gone to the house of Ahimelek.\"",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 52:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why do you boast of evil, you mighty hero?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:1"
+      },
+      "items": [
+        {
+          "text": "Why do you boast all day long,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:1"
+      },
+      "items": [
+        {
+          "text": "you who are a disgrace in the eyes of God?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.1",
+            "verseOrgIds": [
+              "PSA.52.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 52:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You who practice deceit,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:2"
+      },
+      "items": [
+        {
+          "text": "your tongue plots destruction;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:2"
+      },
+      "items": [
+        {
+          "text": "it is like a sharpened razor.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.2",
+            "verseOrgIds": [
+              "PSA.52.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 52:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You love evil rather than good,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:3"
+      },
+      "items": [
+        {
+          "text": "falsehood rather than speaking the truth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.3",
+            "verseOrgIds": [
+              "PSA.52.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 52:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You love every harmful word,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:4"
+      },
+      "items": [
+        {
+          "text": "you deceitful tongue!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.4",
+            "verseOrgIds": [
+              "PSA.52.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 52:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely God will bring you down to everlasting ruin:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:5"
+      },
+      "items": [
+        {
+          "text": "He will snatch you up and pluck you from your tent;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:5"
+      },
+      "items": [
+        {
+          "text": "he will uproot you from the land of the living.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.5",
+            "verseOrgIds": [
+              "PSA.52.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 52:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The righteous will see and fear;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.6",
+            "verseOrgIds": [
+              "PSA.52.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:6"
+      },
+      "items": [
+        {
+          "text": "they will laugh at you, saying,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.6",
+            "verseOrgIds": [
+              "PSA.52.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 52:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Here now is the man",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:7"
+      },
+      "items": [
+        {
+          "text": "who did not make God his stronghold",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 52:7"
+      },
+      "items": [
+        {
+          "text": "but trusted in his great wealth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:7"
+      },
+      "items": [
+        {
+          "text": "and grew strong by destroying others!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.7",
+            "verseOrgIds": [
+              "PSA.52.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 52:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But I am like an olive tree",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:8"
+      },
+      "items": [
+        {
+          "text": "flourishing in the house of God;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 52:8"
+      },
+      "items": [
+        {
+          "text": "I trust in God's unfailing love",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:8"
+      },
+      "items": [
+        {
+          "text": "for ever and ever.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.8",
+            "verseOrgIds": [
+              "PSA.52.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 52:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For what you have done I will always praise you",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:9"
+      },
+      "items": [
+        {
+          "text": "in the presence of your faithful people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 52:9"
+      },
+      "items": [
+        {
+          "text": "And I will hope in your name,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 52:9"
+      },
+      "items": [
+        {
+          "text": "for your name is good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.52.9",
+            "verseOrgIds": [
+              "PSA.52.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.51",
+    "number": "51",
+    "bookId": "PSA"
+  }
+}

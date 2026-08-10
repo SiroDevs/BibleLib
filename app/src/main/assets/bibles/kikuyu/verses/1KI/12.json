@@ -1,0 +1,903 @@
+{
+  "id": "1KI.12",
+  "number": "12",
+  "bookId": "1KI",
+  "reference": "1 Athamaki 12",
+  "verseCount": 33,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "12",
+        "style": "c",
+        "sid": "1KI 12"
+      },
+      "items": [
+        {
+          "text": "12",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Andũ a Isiraeli Kũremera Rehoboamu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1KI 12:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rehoboamu nĩathiire Shekemu, nĩgũkorwo andũ a Isiraeli othe nĩmathiĩte kuo makamũtue mũthamaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.1",
+            "verseOrgIds": [
+              "1KI.12.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1KI 12:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Jeroboamu mũrũ wa Nebati aiguire ũhoro ũcio (aarĩ o Misiri, kũrĩa oorĩire eherere Mũthamaki Solomoni), akiuma Misiri, akĩinũka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.2",
+            "verseOrgIds": [
+              "1KI.12.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1KI 12:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ a Isiraeli magĩtũmanĩra Jeroboamu, nake Jeroboamu hamwe na kĩũngano gĩothe gĩa Isiraeli magĩthiĩ kũrĩ Rehoboamu makĩmwĩra atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.3",
+            "verseOrgIds": [
+              "1KI.12.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1KI 12:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thoguo nĩatũigĩrĩire icooki iritũ, no rĩu tũhũthĩrie wĩra ũcio mũritũ na icooki rĩu iritũ rĩrĩa aatũigĩrĩire, na nĩtũrĩgũtungatagĩra.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.4",
+            "verseOrgIds": [
+              "1KI.12.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1KI 12:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rehoboamu akĩmacookeria atĩrĩ, “Thiĩi mũgaacooka kũrĩ niĩ thuutha wa mĩthenya ĩtatũ.” Nĩ ũndũ ũcio andũ magĩĩthiĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.5",
+            "verseOrgIds": [
+              "1KI.12.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1KI 12:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha ũcio Mũthamaki Rehoboamu akĩhooya kĩrĩra kũrĩ athuuri arĩa maatungatagĩra ithe Solomoni rĩrĩa aarĩ muoyo. Akĩmooria atĩrĩ, “Mũngĩndaara njookerie andũ aya atĩa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.6",
+            "verseOrgIds": [
+              "1KI.12.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1KI 12:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makĩmũcookeria atĩrĩ, “Ũmũthĩ ũngĩĩtĩkĩra gũtuĩka ndungata ya andũ aya na ũmatungatĩre, na ũmacookerie na njĩra njagĩrĩru-rĩ, megũtũũra marĩ ndungata ciaku hĩndĩ ciothe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.7",
+            "verseOrgIds": [
+              "1KI.12.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1KI 12:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Rehoboamu akĩregana na ũtaaro ũrĩa athuuri acio maamũheire, na akĩhooya kĩrĩra kuuma kũrĩ aanake a riika rĩake, arĩa maamũtungatagĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.8",
+            "verseOrgIds": [
+              "1KI.12.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1KI 12:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩmooria atĩrĩ, “Inyuĩ mũngĩndaara atĩa? Andũ aya maranjĩĩra atĩ, ‘Tũhũthĩrie icooki rĩrĩa thoguo aatũigĩrĩire’ Ingĩmacookeria atĩa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.9",
+            "verseOrgIds": [
+              "1KI.12.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1KI 12:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aanake acio a riika rĩake makĩmũcookeria atĩrĩ, “Cookeria andũ acio makwĩrĩte atĩ, ‘Thoguo nĩatũigĩrĩire icooki iritũ, nowe tũhũthĩrie icooki rĩu,’ ũmeere atĩrĩ, ‘kaara gakwa ka mũira nĩ gatungu gũkĩra njohero ya baba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.10",
+            "verseOrgIds": [
+              "1KI.12.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1KI 12:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baba aamũigĩrĩire icooki iritũ; niĩ nĩngũrĩritũhia makĩria. Baba aamũhũũraga na iboko; no niĩ ndĩrĩmũhũũraga na tũngʼaurũ.’ ”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.11",
+            "verseOrgIds": [
+              "1KI.12.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1KI 12:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa mĩthenya ĩtatũ Jeroboamu na andũ othe magĩcooka kũrĩ Rehoboamu, o ta ũrĩa mũthamaki oigĩte atĩrĩ, “Mũgaacooka kũrĩ niĩ thuutha wa mĩthenya ĩtatũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.12",
+            "verseOrgIds": [
+              "1KI.12.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1KI 12:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki agĩcookeria andũ acio ũhoro ehĩte mũno. Akĩregana na ũtaaro ũrĩa aaheetwo nĩ athuuri,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.13",
+            "verseOrgIds": [
+              "1KI.12.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1KI 12:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "akĩrũmĩrĩra ũtaaro wa aanake, akiuga atĩrĩ, “Baba nĩamũritũhĩirie icooki, no niĩ nĩngũrĩritũhia makĩria. Baba aamũhũũraga na iboko; niĩ ndĩrĩmũhũũraga na tũngʼaurũ.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.14",
+            "verseOrgIds": [
+              "1KI.12.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1KI 12:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio mũthamaki ndaigana gũthikĩrĩria andũ acio, tondũ maũndũ macio meekĩkire moimĩte kũrĩ Jehova, nĩguo kiugo kĩhingio kĩrĩa Jehova eerire Jeroboamu mũrũ wa Nebati na kanua ka Ahija ũrĩa Mũshiloni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.15",
+            "verseOrgIds": [
+              "1KI.12.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1KI 12:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa andũ othe a Isiraeli moonire atĩ mũthamaki ũcio nĩarega kũmathikĩrĩria, magĩcookeria mũthamaki atĩrĩ:Nĩ ũndũ ũcio andũ othe a Isiraeli makĩinũka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.16",
+            "verseOrgIds": [
+              "1KI.12.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "1KI 12:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No andũ a Isiraeli arĩa maatũũraga matũũra-inĩ ma Juda-rĩ, Rehoboamu agĩthiĩ na mbere kũmathamakĩra.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.17",
+            "verseOrgIds": [
+              "1KI.12.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "1KI 12:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthamaki Rehoboamu agĩtũma Adoniramu ũrĩa warĩ mũrũgamĩrĩri wa andũ arĩa maarutithagio wĩra na hinya, no andũ a Isiraeli makĩmũhũũra na mahiga nyuguto, agĩkua. No Rehoboamu agĩĩthara, akĩhaica ngaari-inĩ yake ya ita, akĩũrĩra Jerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.18",
+            "verseOrgIds": [
+              "1KI.12.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "1KI 12:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ a Isiraeli matũire maremeire nyũmba ya Daudi nginya ũmũthĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.19",
+            "verseOrgIds": [
+              "1KI.12.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "1KI 12:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa andũ a Isiraeli othe maaiguire atĩ Jeroboamu nĩacookete kuuma bũrũri wa Misiri, makĩmũtũmanĩra oke kĩũngano-inĩ, na makĩmũtua mũthamaki wa Isiraeli guothe. Mũhĩrĩga wa Juda noguo wiki warũmĩrĩire nyũmba ya Daudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.20",
+            "verseOrgIds": [
+              "1KI.12.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "1KI 12:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Rehoboamu aakinyire Jerusalemu, akĩũngania andũ othe a nyũmba ya Juda na a mũhĩrĩga wa Benjamini andũ 180,000 a kũrũa mbaara nĩgeetha makarũe na nyũmba ya Isiraeli, nĩguo macookerie Rehoboamu mũrũ wa Solomoni ũthamaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.21",
+            "verseOrgIds": [
+              "1KI.12.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "1KI 12:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, kiugo kĩa Ngai gĩgĩkinyĩra Shemaia mũndũ wa Ngai akĩĩrwo atĩrĩ:",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.22",
+            "verseOrgIds": [
+              "1KI.12.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "1KI 12:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Thiĩ wĩre Rehoboamu mũrũ wa Solomoni mũthamaki wa Juda, na nyũmba ya Juda yothe o na ya Benjamini na andũ arĩa angĩ othe, ũmeere atĩrĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.23",
+            "verseOrgIds": [
+              "1KI.12.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "1KI 12:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "‘Jehova ekuuga ũũ: Tigai kwambata mũkahũũrane na ariũ a ithe wanyu, andũ a Isiraeli. O mũndũ wanyu wothe nĩacooke mũciĩ, nĩgũkorwo nĩ niĩ njĩkĩte ũndũ ũyũ.’ ” Nĩ ũndũ ũcio magĩathĩkĩra kiugo kĩa Jehova, magĩcooka mũciĩ o ta ũrĩa Jehova aathanĩte.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.24",
+            "verseOrgIds": [
+              "1KI.12.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Njaũ cia Thahabu kũu Betheli na Dani",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "1KI 12:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jeroboamu akĩirigĩra itũũra rĩa Shekemu na rũthingo rwa hinya thĩinĩ wa bũrũri ũrĩa ũrĩ irĩma wa Efiraimu, agĩtũũra kuo. Kuuma kũu agĩthiĩ agĩaka itũũra rĩa Penieli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.25",
+            "verseOrgIds": [
+              "1KI.12.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "1KI 12:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jeroboamu agĩĩciiria atĩrĩ, “Ũthamaki wahota gũcookerera nyũmba ya Daudi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.26",
+            "verseOrgIds": [
+              "1KI.12.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "1KI 12:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Andũ aya mangĩambata mathiĩ makarute magongona hekarũ-inĩ ya Jehova kũu Jerusalemu-rĩ, nĩmagacooka gwathĩkĩra mwathi wao Rehoboamu mũthamaki wa Juda. Nĩmakanjũraga na macookerere Mũthamaki Rehoboamu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.27",
+            "verseOrgIds": [
+              "1KI.12.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "1KI 12:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thuutha wa kũhooya ũtaaro, mũthamaki nĩathondekire mĩhianano ĩĩrĩ ya njaũ cia thahabu. Akĩĩra andũ atĩrĩ, “Ũhoro wa kwambataga Jerusalemu nĩũkũmũritũhĩra mũno. Atĩrĩrĩ Isiraeli, ici ngai cianyu, iria ciamũrutire bũrũri wa Misiri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.28",
+            "verseOrgIds": [
+              "1KI.12.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "1KI 12:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũhianano ũmwe akĩũiga Betheli, na ũrĩa ũngĩ akĩũiga Dani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.29",
+            "verseOrgIds": [
+              "1KI.12.29"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "1KI 12:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naguo ũndũ ũyũ ũgĩtuĩka mehia; nĩgũkorwo andũ nĩmathiiaga o nginya Dani kũhooya mũhianano ũrĩa warĩ kũu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.30",
+            "verseOrgIds": [
+              "1KI.12.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "1KI 12:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jeroboamu nĩaakire mahooero kũndũ kũrĩa gũtũũgĩru, na agĩthuura athĩnjĩri-ngai a kuuma kũrĩ andũ a mĩthemba yothe, o na gũtuĩka matiarĩ Alawii.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.31",
+            "verseOrgIds": [
+              "1KI.12.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "1KI 12:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩambĩrĩria gĩathĩ mũthenya wa ikũmi na ĩtano mweri-inĩ wa ĩnana, ũtuĩke ta gĩathĩ kĩrĩa kĩagomanagwo Juda, na akĩrutĩra magongona kĩgongona-inĩ. Eekire ũguo kũu Betheli, akĩrutĩra mĩhianano ĩyo ya njaũ aathondekete magongona. Ningĩ kũu Betheli akĩiga athĩnjĩri-ngai kũndũ kũu gũtũũgĩru aathondekete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.32",
+            "verseOrgIds": [
+              "1KI.12.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "1KI 12:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũthenya wa ikũmi na ĩtano mweri-inĩ wa ĩnana, mweri ũrĩa eethuurĩire we mwene, akĩruta magongona kĩgongona-inĩ kĩrĩa aakĩte kũu Betheli. Nĩ ũndũ ũcio akĩambĩrĩria gĩathĩ kĩu nĩ ũndũ wa andũ a Isiraeli, na akĩambata kĩgongona-inĩ kũruta magongona.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1KI.12.33",
+            "verseOrgIds": [
+              "1KI.12.33"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1KI.13",
+    "number": "13",
+    "bookId": "1KI"
+  },
+  "previous": {
+    "id": "1KI.11",
+    "number": "11",
+    "bookId": "1KI"
+  }
+}

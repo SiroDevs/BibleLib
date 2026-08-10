@@ -1,0 +1,381 @@
+{
+  "id": "1CO.8",
+  "number": "8",
+  "bookId": "1CO",
+  "reference": "1 Akorinitho 8",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "1CO 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Irio Irutĩirwo Mĩhianano",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1CO 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, ũhoro wa irio iria ikoragwo irutĩirwo mĩhianano-rĩ, nĩtũũĩ atĩ ithuothe tũrĩ na ũmenyo ũhoro-inĩ ũcio. Ũmenyo nĩũtũmaga mũndũ etũũgĩrie, no wendo nĩ gwaka wakaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.1",
+            "verseOrgIds": [
+              "1CO.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1CO 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũrĩa wĩciiragia atĩ nĩoĩ ũndũ-rĩ, ndooĩ ũndũ ũcio wega ta ũrĩa aagĩrĩirwo nĩ kũũmenya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.2",
+            "verseOrgIds": [
+              "1CO.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1CO 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No mũndũ ũrĩa wendete Ngai, ũcio nĩwe ũũĩo nĩ Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.3",
+            "verseOrgIds": [
+              "1CO.8.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1CO 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, ha ũhoro ũkoniĩ kũrĩa irio iria irutĩirwo mĩhianano-rĩ, nĩtũũĩ atĩ gũkũ thĩ mũhianano nĩ kĩndũ gĩa tũhũ, na atĩ gũtirĩ Ngai ũngĩ tiga o ũrĩa ũmwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.4",
+            "verseOrgIds": [
+              "1CO.8.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1CO 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tondũ o na kũngĩkorwo nĩ kũrĩ indo ciĩtagwo ngai, irĩ kũũrĩa igũrũ kana irĩ gũkũ thĩ-rĩ, amu ti-itherũ nĩ kũrĩ na “ngai” nyingĩ na “aathani” aingĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.5",
+            "verseOrgIds": [
+              "1CO.8.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1CO 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "no harĩ ithuĩ-rĩ, Ngai no ũmwe, na nĩwe Ithe witũ, na indo ciothe cioimire kũrĩ we na tũtũũraga muoyo nĩ ũndũ wake; na kũrĩ na Mwathani o ũmwe, nake nĩwe Jesũ Kristũ, o we ũrĩa indo ciothe ciagĩire nĩ ũndũ wake, na nowe ũtũtũũragia muoyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.6",
+            "verseOrgIds": [
+              "1CO.8.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1CO 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No ti andũ othe mooĩ ũguo. Andũ amwe nĩ ũndũ wa ũrĩa matũũrĩte mamenyerete mĩhianano, o na hĩndĩ ĩrĩa mekũrĩa irio ta icio meciiragia atĩ nĩirutĩirwo mũhianano, na tondũ thamiri ciao itirĩ hinya-rĩ, makanyiitwo nĩ thaahu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.7",
+            "verseOrgIds": [
+              "1CO.8.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1CO 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No irio iria tũrĩĩaga itingĩtũma tũkuhĩrĩrie Ngai; tũtingĩthũkio nĩ kwaga gũcirĩa, na tũtingĩagĩrio nĩgũcirĩa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.8",
+            "verseOrgIds": [
+              "1CO.8.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1CO 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "O na kũrĩ ũguo-rĩ, menyererai atĩ wĩyathi ũcio wanyu ndũgatuĩke mũhĩnga kũrĩ arĩa matarĩ na hinya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.9",
+            "verseOrgIds": [
+              "1CO.8.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1CO 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo mũndũ o wothe ũrĩ na thamiri ĩtarĩ na hinya, angĩmuona inyuĩ mũrĩ na ũmenyo ũyũ mũkĩrĩĩra irio thĩinĩ wa hekarũ ya mũhianano-rĩ, githĩ ndangĩũmĩrĩria arĩe kĩrĩa kĩrutĩirwo mĩhianano?",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.10",
+            "verseOrgIds": [
+              "1CO.8.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1CO 8:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio-rĩ, mũrũ kana mwarĩ wa Ithe witũ ũcio thamiri yake ĩtarĩ na hinya, o ũcio Kristũ aakuĩrĩire-rĩ, agathũkio nĩ ũmenyo wanyu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.11",
+            "verseOrgIds": [
+              "1CO.8.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1CO 8:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa mwehĩria ariũ na aarĩ a Ithe witũ na njĩra ĩyo, na mũgatiihia thamiri ciao icio itarĩ hinya-rĩ, nĩ Kristũ mwehĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.12",
+            "verseOrgIds": [
+              "1CO.8.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1CO 8:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio, angĩkorwo kĩrĩa ndĩrarĩa no gĩtũme mũrũ kana mwarĩ wa Ithe witũ agwe mehia-inĩ-rĩ, ndikĩagĩrĩirwo nĩ kũrĩa nyama rĩngĩ, nĩguo ndigatũme agwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1CO.8.13",
+            "verseOrgIds": [
+              "1CO.8.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1CO.9",
+    "number": "9",
+    "bookId": "1CO"
+  },
+  "previous": {
+    "id": "1CO.7",
+    "number": "7",
+    "bookId": "1CO"
+  }
+}

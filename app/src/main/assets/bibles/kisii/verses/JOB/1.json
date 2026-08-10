@@ -1,0 +1,749 @@
+{
+  "id": "JOB.1",
+  "number": "1",
+  "bookId": "JOB",
+  "reference": "Ayubu 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "JOB 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Saitani ogotema Ayubu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JOB 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ense ya Usi narengeo omonto ore korokwa Ayubu. Omonto oyio nigo arenge omwegenwa, na nigo abwate enkoro endonge; nigo amoirogete Nyasae, agetanga korwa ase ogokora amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.1",
+            "verseOrgIds": [
+              "JOB.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JOB 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nabwate abana abamura batano na babere, na abaiseke batato.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.2",
+            "verseOrgIds": [
+              "JOB.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JOB 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende nabwate ching’ondi chilifu isano na ibere (7,000), ne chingamia chilifu isato (3,000), ne chiombe elifu eyemo (1,000), ne chitigere chiaberi amagana atano (500); naende nabwate abasomba abange mono. Ase ayio omonto oyio nigo arenge omonda mono kobua abanto bonsi bamenyete ase ense ya Moocha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.3",
+            "verseOrgIds": [
+              "JOB.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JOB 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abamura ba Ayubu nigo banarete gokora emeyega ase chibisi, kera oyomo ase rituko riaye ase enyomba yaye. Nigo barenge korangeria abaiseke bamwabo baria batato bacha koragera na konywa amo nabarabwo kera engaki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.4",
+            "verseOrgIds": [
+              "JOB.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JOB 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nyuma ya kera omoyega koerire, mambia chuni Ayubu nigo arenge korangeria abana baye nakobaruera ekeng’wanso ase kera oyomo ase okobachena. Nigo arenge gokora igo, ekiagera arenge korengereria, oteeba, “Ande nebe ng’a onde bw’abana baane okorire ebibe, oramire Nyasae ase enkoro yaye ime.” Naboigo Ayubu arenge gokora botambe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.5",
+            "verseOrgIds": [
+              "JOB.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JOB 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono ekaba ng’a rituko erimo ekero abamura ba Nyasae bachete kweorokia ase obosio bw’Omonene, Saitani",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "text": "nere agacha agwo ase baare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.6",
+            "verseOrgIds": [
+              "JOB.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JOB 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Omonene akaboria Saitani, “Naye ng’ai okorwa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.7",
+            "verseOrgIds": [
+              "JOB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Saitani akamoiraneria, “Nigo nkorwa ase etaaro yane, nkona‐goetanana ase ense yonsi, naende nabo nkonagotiira na gotirimboka aroro.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.7",
+            "verseOrgIds": [
+              "JOB.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JOB 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agw’Omonene akabooria Saitani, “Ayubu, omosomba one, kwarorire buna are? Monto onde tari ase ense onga buna ere; nigo are omwegenwa, na obwate enkoro endonge; ere nigo anyirogete inche Nyasae, naende nigo etangete korwa ase ogokora amabe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.8",
+            "verseOrgIds": [
+              "JOB.1.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JOB 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Saitani akairaneria, agateebia Omonene, “Inee! Ayubu nigo agosigete aye Nyasae ngencho etaiyo?",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.9",
+            "verseOrgIds": [
+              "JOB.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JOB 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye nigo omorendete na komokengera ase chinsemo chionsi, ere amo nabaanto b’enyomba yaye yonsi, na gento kende gionsi abwate. Ee, nigo osesenetie emeremo yaye yonsi agokora, naende gwakorire enibo yaye yamentekanire mono ase ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.10",
+            "verseOrgIds": [
+              "JOB.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JOB 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono aye rambora okoboko kwao, okune ebinto bionsi abwate obisirie, ekeene, ere goika akoragererie agwo ase obosio bwao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.11",
+            "verseOrgIds": [
+              "JOB.1.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "JOB 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agwo Omonene agateebia Saitani, igo mbuya, “Rora, ebinto bionsi Ayubu abwate bono nigo bire inse y’okobua kwao, korende ere omonyene tobaisa komokuna.” Erio Saitani akarua agwo ase obosio bw’Omonene, akagenda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.12",
+            "verseOrgIds": [
+              "JOB.1.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abana b’Ayubu bagosirigwa amo nenibo yaye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "JOB 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko erimo ekero abana b’Ayubu, abamura na abaiseke, babwate omoyega bw’okoria na konywa edivai ase enyomba ya momura omwabo omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.13",
+            "verseOrgIds": [
+              "JOB.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "JOB 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "omonto obwate amang’ana akaminyoka gochia ase Ayubu, akamoteebia, “Chiombe nigo chiarenge korema, ne chitigere nigo chiarenge korisia ang’e ase chiombe chiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.14",
+            "verseOrgIds": [
+              "JOB.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "JOB 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto ba Seba bacha mobasokano, baira chitugo chionsi, naende baita abasomba nemioro; ninche bweka natigara inde moyo, natama gocha kogoteebia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.15",
+            "verseOrgIds": [
+              "JOB.1.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "JOB 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero oyio agendererete gokwana, omonto onde agacha, agateeba, “Omorero o Nyasae nigo ogwa korwa igoro, osamba ching’ondi chiayia chiaera, naende boigo osamba abasomba bayia baera; ninche bweka natigara, natama gocha kogoteebia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.16",
+            "verseOrgIds": [
+              "JOB.1.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "JOB 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na ekero noyio agendererete gokwana, omonto onde agacha, agateebia Ayubu, “Abakalidayo nigo bachicha bare ebiombe bitato, baumokera chingamia, bachiira, naende baita abasomba bande nemioro; ninche bweka natigara inde moyo, natama gocha kogoteebia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.17",
+            "verseOrgIds": [
+              "JOB.1.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "JOB 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero noyio agendererete gokwana, omonto onde agacha, agateebia Ayubu, “Abana bao, abamura na abaiseke, nigo babwate omoyega bw’okoria na konywa edivai ase enyomba ya momura omwabo omonene;",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.18",
+            "verseOrgIds": [
+              "JOB.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "JOB 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bono omwaga bw’echinguru ocha korwa ase erooro, onyegeria chikoona inye chi’enyomba eria, erinde yagwera abana abwo abasae, bakuure bonsi; ninche bweka natigara inde moyo, natama gocha kogoteebia.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.19",
+            "verseOrgIds": [
+              "JOB.1.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "JOB 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Ayubu akaimoka, agatandora eanga yaye, agakigita",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.20",
+            "verseOrgIds": [
+              "JOB.1.20"
+            ]
+          }
+        },
+        {
+          "text": "etukia yaye, erio agatung’ama inse, agasasiima,",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.20",
+            "verseOrgIds": [
+              "JOB.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "JOB 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "agateeba, “Nigo narwete ase enda ya baba inde getirianda, naende nigo ndairane korwa ase ense inde getirianda. Omonene nere oruete, naende oirire. Erieta riaye ritogigwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.21",
+            "verseOrgIds": [
+              "JOB.1.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "JOB 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase amang’ana ayio onsi Ayubu takorete ebibe, gose tabeekerete Nyasae obobe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JOB.1.22",
+            "verseOrgIds": [
+              "JOB.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "JOB.2",
+    "number": "2",
+    "bookId": "JOB"
+  },
+  "previous": {
+    "id": "JOB.intro",
+    "number": "intro",
+    "bookId": "JOB"
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "id": "PSA.125",
+  "number": "125",
+  "bookId": "PSA",
+  "reference": "Zaburi 125",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 5,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "125",
+        "style": "c",
+        "sid": "PSA 125"
+      },
+      "items": [
+        {
+          "text": "125",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Nyasae Nigo Arendete Abanto Baye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 125:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abwo bamosemeretie Omonene",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo banga buna egetunwa gia Sayoni getari konyegerigwa,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korende nigo kegendererete kobao botambe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.1",
+            "verseOrgIds": [
+              "PSA.125.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 125:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna ebitunwa bietanaine Yerusalemu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "naboigo Omonene abaetanaine abanto baye",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korwa bono na goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.2",
+            "verseOrgIds": [
+              "PSA.125.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 125:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Enyimbo y’obogaambi y’abakori amabe",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "tekogenderera kogambera omwando bw’ abanto abaronge;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo baabaise korambora amaboko abo ase ogokora amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.3",
+            "verseOrgIds": [
+              "PSA.125.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 125:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, bakorere amaya abanto abwo bare abaya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.4",
+            "verseOrgIds": [
+              "PSA.125.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "abwo bare ne chinkoro chinyegenwa!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.4",
+            "verseOrgIds": [
+              "PSA.125.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 125:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende abwo bakogobera gochia ase chinchera chiabo chi’obosiru,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Omonene nabarusieo amo nabagokora amabe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "Omorembe obe ase Abaisraeli!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.125.5",
+            "verseOrgIds": [
+              "PSA.125.5"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.126",
+    "number": "126",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.124",
+    "number": "124",
+    "bookId": "PSA"
+  }
+}

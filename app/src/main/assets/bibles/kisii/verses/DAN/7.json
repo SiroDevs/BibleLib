@@ -1,0 +1,923 @@
+{
+  "id": "DAN.7",
+  "number": "7",
+  "bookId": "DAN",
+  "reference": "Danieli 7",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "7",
+        "style": "c",
+        "sid": "DAN 7"
+      },
+      "items": [
+        {
+          "text": "7",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "mr"
+      },
+      "items": [
+        {
+          "text": "(7:1—12:13)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amaroro a Danieli igoro ye ching’iti inye.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DAN 7:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase omwaka bw’eritang’ani bw’okogamba kwa Belisasari, omorwoti o Babiloni, Danieli akarota chindoto, akarora amaroro ekero araire borere bwaye. Erio akariika akaorokia amang’ana arooche ase chindoto chiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.1",
+            "verseOrgIds": [
+              "DAN.7.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DAN 7:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aya naro amang’ana Danieli ateebete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.2",
+            "verseOrgIds": [
+              "DAN.7.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "“Ase okorora kwane kwa botuko nkarora chimbeo inye chia igoro chigocha ne chinguru, chigaturubania enyancha enene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.2",
+            "verseOrgIds": [
+              "DAN.7.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DAN 7:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ching’iti chinene inye chigatiira korwa ase enyancha ime; okororekana kwabo nigo kwarenge ao ao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.3",
+            "verseOrgIds": [
+              "DAN.7.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DAN 7:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eng’iti entang’ani nigo yagwekaine endo, korende yabwate chimbaaba buna echi’ekeongo. Buna nabeete ndigereretie, chimbaaba chiaye nigo chiasimoire, ero ekaimokererigwa igoro korwa ase riroba, egatenenigwa namagoro abere buna omonto, ekaegwa enkoro ya Mwanyabaanto.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.4",
+            "verseOrgIds": [
+              "DAN.7.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DAN 7:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naende nkarora eng’iti ya kabere yagwekaine edubu ekaimokerera igoro na kogunkwaria rikere riaye erimo; nigo yabwate chimbaru isato ase omonwa oye, gati‐gati y’amaino aye. Eng’iti eria egateebigwa: Imoka, orie chinyama chinyinge!",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.5",
+            "verseOrgIds": [
+              "DAN.7.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DAN 7:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Nyuma y’ayio nkarora eng’iti ende yagwekaine engo, korende ase omogongo oye nigo yabwate chimbaaba inye buna echie chinyoni. Eng’iti eyio nigo yabwate emetwe ene; nero ekaegwa okobua gw’okogaamba.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.6",
+            "verseOrgIds": [
+              "DAN.7.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DAN 7:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naende ’nkarora ase amaroro aria a botuko eng’iti ya kane. Nigo yarenge ey’okoondokia na koirokia, boigo nigo yarenge ne chinguru chinyinge. Nigo yabwate amaino amanene ay’ebioma; ekaria na kobutorana, na keri yatigaretie ekagetindachera inse namagoro aye. Eyio nigo yarenge nogwatananekana korwa ase ching’iti chiria chiayetang’anerete; ero nigo yabwate ching’unchara ikomi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.7",
+            "verseOrgIds": [
+              "DAN.7.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DAN 7:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buna narenge ndigereretie na korengereria igoro ye ching’unchara chiria, nkarora orogunchara ronde oroke rokooroka korwa ase egati‐gati ye ching’unchara chiria. Orogunchara roria oroke rogasimora ching’unchara isato ase echio ikomi chiarotang’anerete, rogachisimora amo nememio‐mio. Nkarora orogunchara roria robwate amaiso buna ay’omonto, na omonwa orenge gokwana amang’ana y’oboenenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.8",
+            "verseOrgIds": [
+              "DAN.7.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorora igoro y’omonto bw’amatuko amaange",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DAN 7:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero narigereretie ’nkarora ebirogo bi’obonene bigoterekwa, na omonto omokoro bw’amatuko amaange agaikaransa ase ekerogo kiaye. Chianga chiaye nigo chiarenge chindabu se se, na etukia y’omotwe oye nigo yarenge endabu buna amarionya y’eng’ondi endabu asibirie; ekerogo kiaye ki’obonene nigo kiarenge chimeme chi’omorero ogwoka, na amagoro y’ekerogo ekio nigo arenge omorero ogwoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.9",
+            "verseOrgIds": [
+              "DAN.7.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DAN 7:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Orooche rw’omorero rogasoka korwa ase are. Chilifu ne chilifu bakamokorera; ne chilifu ikomi ara chilifu ikomi bagatenena ase obosio bwaye. Ekegambero kegaikaransa kogaamba, erio ebitabu bikaigorwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.10",
+            "verseOrgIds": [
+              "DAN.7.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DAN 7:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ekero narigereretie ekaba ng’a orogunchara roria rwagendererete gokwana amang’ana y’oboenenu. Ase engencho eyio ’nkarora eng’iti eria egaitwa, na omobere oye ogasarigwa okarutwa ase omorero ogasambwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.11",
+            "verseOrgIds": [
+              "DAN.7.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DAN 7:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ching’iti chiria chinde chiatigarete chikaurwa chinguru chiabo chi’okogaamba, korende chigatigwa chigendendererete koba moyo goika ase ebiro ne chingaki chiachikeretwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.12",
+            "verseOrgIds": [
+              "DAN.7.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DAN 7:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naende ’nkarora ase amaroro ane a botuko oyomo onga buna omwana‐o‐Mwanyabaanto ogocha amo namare ya igoro, agaika ang’e ase omonto oria omokoro bw’amatuko amaange, akarentwa ase obosio bwaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.13",
+            "verseOrgIds": [
+              "DAN.7.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DAN 7:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere oyio akaegwa okobua gw’okogaamba, na obonene, na oborwoti, erinde abanto bonsi, na ebisaku, na abanto b’emenwa ao ao, bamokorere. Obogaambi bwaye nobwa kare na kare, tibokoera, na oborwoti bwaye tibokobugwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.14",
+            "verseOrgIds": [
+              "DAN.7.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Engencho y’amaroro ekoorokigwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DAN 7:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Inche Danieli ngachandeka ase omoyo one, na amaroro aria narooche akang’ondokia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.15",
+            "verseOrgIds": [
+              "DAN.7.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DAN 7:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ngachiera oyomo bw’ abanto baria bateneine aroro, nkamoboria anteebie ekeene gionsi igoro y’amang’ana aria. Omonto oria aganteebia na komanyia engencho y’amang’ana aria onsi iga:",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.16",
+            "verseOrgIds": [
+              "DAN.7.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DAN 7:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ching’iti echio chinene inye, abwo nabarwoti baane baraoroke ase ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.17",
+            "verseOrgIds": [
+              "DAN.7.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DAN 7:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende abachenu b’Oyore Igoro Mono nabanyore oborwoti boragenderere goika kare na kare, ee goika kare na kare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.18",
+            "verseOrgIds": [
+              "DAN.7.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DAN 7:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Erio nkagania komanya ekeene igoro y’eng’iti eria ya kane, eyarenge nogwatananekana korwa ase chiria chinde. Nigo yarenge ey’okoondokia mono, yabwate amaino ’ebioma ne chinchara chi’etai; ekaria na kobutorana, na eke yatigaretie ekagetindachera inse namagoro aye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.19",
+            "verseOrgIds": [
+              "DAN.7.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DAN 7:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende ’nkagania komanya igoro ye ching’unchara chiria ikomi chiarenge ase omotwe oye, na igoro y’orogunchara roria ronde oroke rwamerete korwa magega, orwo bosio bwaye isato ase chiria ikomi chiagweteo. Orogunchara orwo nigo rwabwate amaiso, na omonwa orenge gokwana amang’ana y’oboenenu, naende rokarorekana nigo rore oronene kobua echinde chiamwabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.20",
+            "verseOrgIds": [
+              "DAN.7.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DAN 7:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Buna nabete ndigereretie, ’nkarora orogunchara roria rokarwania abachenu esegi, rokababua,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.21",
+            "verseOrgIds": [
+              "DAN.7.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DAN 7:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "goika omonto oria omokoro bw’amatuko amaange agacha, na abachenu b’Oyore Igoro Mono bakaegwa oboronge bwabo, na engaki egaika ekero abachenu bairete oborwoti boria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.22",
+            "verseOrgIds": [
+              "DAN.7.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DAN 7:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Aya naro akwanete igoro y’eng’iti eria ya kane, agateeba: Oborwoti bwa kane mbobe ase ense, borobwo nigo borabe nogwatananekana korwa ase amarwoti ande onsi. Nigo borarie ense yonsi na koyetindachera inse, naende boyebutorane ebe ebing’ese.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.23",
+            "verseOrgIds": [
+              "DAN.7.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "DAN 7:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ching’unchara chiria ikomi, abwo nabarwoti ikomi baraoroke, na magega yabo omorwoti onde naoroke. Ere nigo arabe nogwatananekana korwa ase abwo bamotang’anerete, nabue abarwoti batato.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.24",
+            "verseOrgIds": [
+              "DAN.7.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "DAN 7:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere nakwane amang’ana are mamincha y’Oyore Igoro Mono, naende narosie abachenu b’Oyore Igoro Mono na kobachanda; narengererie koonchora ebiro, na amachiiko. Abachenu mbabekwe ase okoboko kwaye ase ekero ekemo, na ebiro bibere, na ekeng’ese gi’ekero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.25",
+            "verseOrgIds": [
+              "DAN.7.25"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "DAN 7:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ab’ekegaambero mbaikaranse bagaambe, bamoure okobua kwaye, na obogaambi bwaye mbosirigwe boere kegima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.26",
+            "verseOrgIds": [
+              "DAN.7.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "DAN 7:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oborwoti, na okobua gw’okogaamba, na obonene bw’amarwoti are inse y’erioba, mbiegwe abanto abachenu b’Oyore Igoro Mono. Oborwoti bwaye mbobe obwa kare na kare, na bonsi abaare kogaamba mbamokorere na komoigwera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.27",
+            "verseOrgIds": [
+              "DAN.7.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "DAN 7:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Oyo n’oro omoerio bw’amang’ana ayio. Inche Danieli nkaba ng’ondogete ase ebirengererio biane, na obosio bwane bokaonchoka bokarachoka; korende nkagacha amang’ana aria ase enkoro y’ane ime.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "DAN.7.28",
+            "verseOrgIds": [
+              "DAN.7.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DAN.8",
+    "number": "8",
+    "bookId": "DAN"
+  },
+  "previous": {
+    "id": "DAN.6",
+    "number": "6",
+    "bookId": "DAN"
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "id": "PSA.54",
+  "number": "54",
+  "bookId": "PSA",
+  "reference": "Psalm 54",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "54",
+        "style": "c",
+        "sid": "PSA 54"
+      },
+      "items": [
+        {
+          "text": "54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 54",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. With stringed instruments. A",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "maskil",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David. When the Ziphites had gone to Saul and said, \"Is not David hiding among us?\"",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 54:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Save me, O God, by your name;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.1",
+            "verseOrgIds": [
+              "PSA.54.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:1"
+      },
+      "items": [
+        {
+          "text": "vindicate me by your might.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.1",
+            "verseOrgIds": [
+              "PSA.54.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 54:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hear my prayer, O God;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.2",
+            "verseOrgIds": [
+              "PSA.54.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:2"
+      },
+      "items": [
+        {
+          "text": "listen to the words of my mouth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.2",
+            "verseOrgIds": [
+              "PSA.54.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 54:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arrogant foes are attacking me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.3",
+            "verseOrgIds": [
+              "PSA.54.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:3"
+      },
+      "items": [
+        {
+          "text": "ruthless people are trying to kill me—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.3",
+            "verseOrgIds": [
+              "PSA.54.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:3"
+      },
+      "items": [
+        {
+          "text": "people without regard for God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.3",
+            "verseOrgIds": [
+              "PSA.54.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 54:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Surely God is my help;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.4",
+            "verseOrgIds": [
+              "PSA.54.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:4"
+      },
+      "items": [
+        {
+          "text": "the Lord is the one who sustains me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.4",
+            "verseOrgIds": [
+              "PSA.54.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 54:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let evil recoil on those who slander me;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.5",
+            "verseOrgIds": [
+              "PSA.54.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:5"
+      },
+      "items": [
+        {
+          "text": "in your faithfulness destroy them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.5",
+            "verseOrgIds": [
+              "PSA.54.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 54:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I will sacrifice a freewill offering to you;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:6"
+      },
+      "items": [
+        {
+          "text": "I will praise your name,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.54.6",
+                "verseOrgIds": [
+                  "PSA.54.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", for it is good.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.6",
+            "verseOrgIds": [
+              "PSA.54.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 54:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have delivered me from all my troubles,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.7",
+            "verseOrgIds": [
+              "PSA.54.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 54:7"
+      },
+      "items": [
+        {
+          "text": "and my eyes have looked in triumph on my foes.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.54.7",
+            "verseOrgIds": [
+              "PSA.54.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.55",
+    "number": "55",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.53",
+    "number": "53",
+    "bookId": "PSA"
+  }
+}

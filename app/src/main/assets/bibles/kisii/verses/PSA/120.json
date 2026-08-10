@@ -1,0 +1,419 @@
+{
+  "id": "PSA.120",
+  "number": "120",
+  "bookId": "PSA",
+  "reference": "Zaburi 120",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 7,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "120",
+        "style": "c",
+        "sid": "PSA 120"
+      },
+      "items": [
+        {
+          "text": "120",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosaba Ng’a ’nkonywe Korwa Ase Ababisa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 120:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero ’nde n’emechando nigo ’nkorera ase Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.1",
+            "verseOrgIds": [
+              "PSA.120.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ere nigo akonyigwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.1",
+            "verseOrgIds": [
+              "PSA.120.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 120:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aye Omonene, ’ntoorie korwa ase abanto abanyaborimo,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "bare ne chimeme chi’obong’ainereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.2",
+            "verseOrgIds": [
+              "PSA.120.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 120:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inwe abamore ne chimeme chi’obong’ainereria, ngento ki moraegwe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.3",
+            "verseOrgIds": [
+              "PSA.120.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na mang’ana ki naende morakorerwe?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.3",
+            "verseOrgIds": [
+              "PSA.120.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 120:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mobetwe chinsara chinyoge chi’omorwani etuoni,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.4",
+            "verseOrgIds": [
+              "PSA.120.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "na mosambwe n’omorero bw’amakara ’omote okorokwa omoretemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.4",
+            "verseOrgIds": [
+              "PSA.120.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 120:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obobe nobwane, ekiagera ’nde omomenyi agwo Meseki,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.5",
+            "verseOrgIds": [
+              "PSA.120.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo imenyete ase egati y’Abakedari.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.5",
+            "verseOrgIds": [
+              "PSA.120.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 120:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nabeire imenyete ase engaki entambe",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.6",
+            "verseOrgIds": [
+              "PSA.120.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ase egati y’ abanto bageechete omorembe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.6",
+            "verseOrgIds": [
+              "PSA.120.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 120:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche nigo ’ngokora omorembe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.7",
+            "verseOrgIds": [
+              "PSA.120.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "korende ekero ’ngokwana, barabwo nigo baganetie esegi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.120.7",
+            "verseOrgIds": [
+              "PSA.120.7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.121",
+    "number": "121",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.119",
+    "number": "119",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "id": "JON.4",
+  "number": "4",
+  "bookId": "JON",
+  "reference": "Jona 4",
+  "verseCount": 11,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "JON 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Jona Kũrakario nĩ Tha cia Jehova",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "JON 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, Jona nĩaiguire ũũru mũno na akĩrakara.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.1",
+            "verseOrgIds": [
+              "JON.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "JON 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akĩhooya Jehova, akiuga atĩrĩ, “Wee Jehova-rĩ, githĩ ũũ toguo ndoigĩte itoimĩte mũciĩ? Nĩkĩo ndaahiũhaga kũũrĩra Tarishishi. Nĩndoĩ atĩ wee wĩ Mũrungu mũtugi na ũrĩ tha, na ndũhiũhaga kũrakara, na ũiyũrĩtwo nĩ wendani, Ngai ũiguaga tha akericũkwo akaaga gwĩka ũũru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.2",
+            "verseOrgIds": [
+              "JON.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "JON 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, Wee Jehova, ndagũthaitha ũndute muoyo; nĩgũkorwo nĩ kwagĩrĩire ngue, gũkĩra ndũũre muoyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.3",
+            "verseOrgIds": [
+              "JON.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "JON 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jehova akĩmũũria atĩrĩ, “Ũrĩ na kĩhooto o na kĩrĩkũ gĩa gũtũma ũrakare?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.4",
+            "verseOrgIds": [
+              "JON.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "JON 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jona akiuma kũu, agĩthiĩ agĩikara thĩ handũ mwena wa irathĩro wa itũũra rĩu inene. Akĩĩakĩra gĩthũnũ hau, agĩikara kĩĩruru-inĩ gĩakĩo, agĩeterera one ũrĩa itũũra rĩu inene rĩgwĩkwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.5",
+            "verseOrgIds": [
+              "JON.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "JON 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Jehova Ngai akĩrehe rũũngũ na agĩtũma rũtambe igũrũ rĩa hau Jona aarĩ, nĩguo rũmũhe kĩĩruru, kĩmũhumbĩre atige gũthĩĩnĩka. Nake Jona agĩkenera rũũngũ rũu mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.6",
+            "verseOrgIds": [
+              "JON.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "JON 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No rĩrĩ, kwarooka gũkĩa mũthenya ũyũ ũngĩ, Ngai akĩrehe kĩgunyũ gĩkĩrĩa rũũngũ rũu, nĩ ũndũ ũcio rũkĩhooha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.7",
+            "verseOrgIds": [
+              "JON.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "JON 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hĩndĩ ĩrĩa riũa rĩarathire, Ngai akĩrehithia rũhuho ruumĩte na irathĩro rũrĩ na ũrugarĩ mũnene, narĩo riũa rĩgĩcina Jona mũtwe, o nginya akĩringĩka. Akĩĩrirĩria gũkua, akiuga atĩrĩ, “Nĩ wega ngue gũkĩra ndũũre muoyo.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.8",
+            "verseOrgIds": [
+              "JON.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "JON 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Ngai akĩũria Jona atĩrĩ, “Ũrĩ na kĩhooto gĩa kũrakara nĩ ũndũ wa rũũngũ rũu?” Nake agĩcookia atĩrĩ, “Ĩĩ, ndĩ nakĩo; ndakarĩte o ũndũ ingĩkua.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.9",
+            "verseOrgIds": [
+              "JON.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "JON 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Jehova akĩmwĩra atĩrĩ, “Wee-rĩ, ũraiguĩra rũũngũ rũrũ tha, o na harĩa ũtarũrutĩire wĩra kana ũgatũma rũkũre. Rũrakũrire na ũtukũ ũmwe, na rũrathira na ũtukũ ũmwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.10",
+            "verseOrgIds": [
+              "JON.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "JON 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Nineve nĩ kũrĩ na andũ makĩria ma ngiri igana rĩa mĩrongo ĩĩrĩ arĩa matangĩkũũrana guoko kwa ũrĩo kana guoko kwa ũmotho, o na ningĩ rĩrĩ na mahiũ maingĩ. Githĩ o na niĩ ndiagĩrĩirwo nĩkũiguĩra tha itũũra rĩu inene?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "JON.4.11",
+            "verseOrgIds": [
+              "JON.4.11"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MIC.intro",
+    "number": "intro",
+    "bookId": "MIC"
+  },
+  "previous": {
+    "id": "JON.3",
+    "number": "3",
+    "bookId": "JON"
+  }
+}

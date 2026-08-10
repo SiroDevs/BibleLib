@@ -1,0 +1,325 @@
+{
+  "id": "MAL.4",
+  "number": "4",
+  "bookId": "MAL",
+  "reference": "Malaki 4",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "MAL 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Siku Ya",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAL 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Hakika siku inakuja, itawaka kama tanuru. Wote wenye kiburi na kila mtenda mabaya watakuwa mabua makavu, na siku ile inayokuja itawawasha moto,\" asema",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.1",
+            "verseOrgIds": [
+              "MAL.3.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAL.4.1",
+                "verseOrgIds": [
+                  "MAL.3.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mwenye Nguvu Zote. \"Hakuna mzizi wala tawi litakalosalia kwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.1",
+            "verseOrgIds": [
+              "MAL.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAL 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bali kwenu ninyi mnaoliheshimu Jina langu, jua la haki litawazukia, lenye kuponya katika mabawa yake. Nanyi mtatoka nje na kurukaruka kama ndama aliyeachiwa kutoka zizini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.2",
+            "verseOrgIds": [
+              "MAL.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAL 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha ninyi mtawakanyaga waovu, nao watakuwa majivu chini ya nyayo za miguu yenu siku ile nitakayofanya mambo haya,\" asema",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.3",
+            "verseOrgIds": [
+              "MAL.3.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAL.4.3",
+                "verseOrgIds": [
+                  "MAL.3.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mwenye Nguvu Zote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.3",
+            "verseOrgIds": [
+              "MAL.3.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAL 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Kumbukeni sheria ya mtumishi wangu Mose, amri na sheria nilizompa huko Horebu kwa ajili ya Israeli wote.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.4",
+            "verseOrgIds": [
+              "MAL.3.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAL 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Tazama, nitawapelekea nabii Eliya kabla ya kuja siku ile iliyo kuu na ya kutisha ya",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.5",
+            "verseOrgIds": [
+              "MAL.3.23"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "MAL.4.5",
+                "verseOrgIds": [
+                  "MAL.3.23"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.5",
+            "verseOrgIds": [
+              "MAL.3.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAL 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ataigeuza mioyo ya baba iwaelekee watoto wao, na mioyo ya watoto iwaelekee baba zao, la sivyo nitakuja na kuipiga nchi kwa laana.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAL.4.6",
+            "verseOrgIds": [
+              "MAL.3.24"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MAT.intro",
+    "number": "intro",
+    "bookId": "MAT"
+  },
+  "previous": {
+    "id": "MAL.3",
+    "number": "3",
+    "bookId": "MAL"
+  }
+}

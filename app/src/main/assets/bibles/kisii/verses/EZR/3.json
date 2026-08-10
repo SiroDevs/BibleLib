@@ -1,0 +1,489 @@
+{
+  "id": "EZR.3",
+  "number": "3",
+  "bookId": "EZR",
+  "reference": "Ezra 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "EZR 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogosasiima kogochakwa naende",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EZR 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero omotienyi o gatano na kabere oigete, na Abaisraeli bamenyete ase emechie yabo, bonsi bagasangererekana ase obomo agwo Yerusalemu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.1",
+            "verseOrgIds": [
+              "EZR.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EZR 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Yesua, mosinto o Yosadaki, amo nabakuani bamwabo, na Serubabeli, mosinto o Sealitieli, na abanto bamwabo, bakaimoka koagacha oboyia egesasiimero kia Nyasae bw’Abaisraeli, bamoruere ebing’wanso bi’ogosambwa ase kerokio, buna ariikire ase amachiiko a Musa, omonto o Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.2",
+            "verseOrgIds": [
+              "EZR.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EZR 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakaagacha egesasiimero keria aase aye, erinde bamoruere Omonene ebing’wanso bi’ogosambwa mambia na morogoba, ekiagera nigo bairogete abanto bamenyete ase ense eria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.3",
+            "verseOrgIds": [
+              "EZR.3.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EZR 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bakaba bagochengera Rituko Rinene ri’Ebigutu, koreng’ana buna riachigetwe, na kera rituko bakaba bakorua ebing’wanso bi’ogosambwa ase omobaro ochikiire o kera rituko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.4",
+            "verseOrgIds": [
+              "EZR.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EZR 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amo nayio bakaba bakorua ebing’wanso bi’ogosambwa bia botambe, na ebi’Omotienyi Omoyia, na ebi’Amatuko ande Amanene aatananetwe ase ogosasiima Omonene, amo nebing’wanso bi’ogwancha, ebio omonto arenge korua ase okwerwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.5",
+            "verseOrgIds": [
+              "EZR.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EZR 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bagachaaka korua ebing’wanso bi’ogosambwa ase Omonene ase rituko rie ritang’ani ri’omotienyi o gatano na kabere, korende oboroso bwe Hekalu y’Omonene konya tiborabekwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.6",
+            "verseOrgIds": [
+              "EZR.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Oboagacho bwe Hekalu bogochakwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EZR 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bakarua chitaabu, bakaa abaagacheri b’amagena, na abasenia be chibao, naende bakarua chindagera, na ebinyugwa, na amaguta ’amazeituni, ase Abasidoni na Abaturo, erinde barente emecharake korwa Lebanoni goetera ase enyancha goika Yopa, koreng’ana buna Koresi, omorwoti bw’Abaayemi abaete ribaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.7",
+            "verseOrgIds": [
+              "EZR.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EZR 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase omotienyi o kabere, omwaka o kabere, magega abanto kobairanire gocha ase enyomba y’Omonene agwo Yerusalemu, emeremo egachakwa. Serubabeli, mosinto o Sealitieli, na Yesua, mosinto o Yosadaki, bagachaaka emeremo amo nabaanto bamwabo, na abakuani, na Abalawi, na bonsi abachete Yerusalemu korwa ase obosomba. Abalawi bonsi abarenge nemiaka emerongo ebere na goetania bagachorwa gotenenera emeremo y’enyomba y’Omonene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.8",
+            "verseOrgIds": [
+              "EZR.3.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EZR 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yesua na abamura baye amo nabamwabo, na Kadimieli na abamura baye, abanto b’ororeria rwa Hodawia, bakaba bagotenenera abakori emeremo b’enyomba ya Nyasae. Barabwo bakaba bagokonywa nabaanto b’eamate ya Henadadi na abana babo, abarenge Abalawi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.9",
+            "verseOrgIds": [
+              "EZR.3.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EZR 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abaagachi bachaagete kobeeka oboroso bwe Hekalu y’Omonene, abakuani babegete chianga chi’obokuani bagacha nebitureeri, na Abalawi abarenge b’ororeria rw’Asafu babwate chisani chigoakanigwa kwoga, ase okomotogia Omonene, koreng’ana buna Daudi, omorwoti bw’Abaisraeli, achigete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.10",
+            "verseOrgIds": [
+              "EZR.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EZR 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakaba bagotera na goitabererania, bagotogia Omonene na komoiraneria ng’a mbuya mono, bagoteeba,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.11",
+            "verseOrgIds": [
+              "EZR.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "“Omonene nomuya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.11",
+            "verseOrgIds": [
+              "EZR.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "ekiagera obwanchani bwaye ase Abaisraeli",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.11",
+            "verseOrgIds": [
+              "EZR.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "nigo bogendererete goika kare na kare.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.11",
+            "verseOrgIds": [
+              "EZR.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "m"
+      },
+      "items": [
+        {
+          "text": "Abanto bonsi bagaaka amariogi amanene komotogia Omonene, ekiagera oboroso bw’enyomba y’Omonene konya bwabekirwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.11",
+            "verseOrgIds": [
+              "EZR.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EZR 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abange ase abakuani, na Abalawi, na abateneneri be chiamate chiabo, baria barenge abagotu, abaroche enyomba eria ye ritang’ani, bono ekero baroche oboroso bw’eyio enyia bwabekirwe, bakarera na koiyeria amariga. Korende abange bagaaka amariogi amanene ay’omogooko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.12",
+            "verseOrgIds": [
+              "EZR.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EZR 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto tibanyarete gwatanana amariogi ’omogooko are goakwa korwa ase aria ay’okorera. Nigo baagete amariogi amanene mono akaigweka gochia aare mono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EZR.3.13",
+            "verseOrgIds": [
+              "EZR.3.13"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EZR.4",
+    "number": "4",
+    "bookId": "EZR"
+  },
+  "previous": {
+    "id": "EZR.2",
+    "number": "2",
+    "bookId": "EZR"
+  }
+}

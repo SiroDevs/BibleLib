@@ -1,0 +1,226 @@
+{
+  "id": "PSA.134",
+  "number": "134",
+  "bookId": "PSA",
+  "reference": "Zaburi 134",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 3,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "134",
+        "style": "c",
+        "sid": "PSA 134"
+      },
+      "items": [
+        {
+          "text": "134",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okorangerigwa Kw’ogotogia Nyasae",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 134:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inchuo motogie Omonene,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "inwe abasomba baye mwensi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "inwe abamokomokorera ase enyomba yaye botuko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.1",
+            "verseOrgIds": [
+              "PSA.134.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 134:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rambora amaboko aino gochia Aase Aachenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.2",
+            "verseOrgIds": [
+              "PSA.134.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "motogie Omonene!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.2",
+            "verseOrgIds": [
+              "PSA.134.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 134:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonene, oria otongete igoro na ense,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.3",
+            "verseOrgIds": [
+              "PSA.134.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "agosesenie korwa Sayoni!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.134.3",
+            "verseOrgIds": [
+              "PSA.134.3"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.135",
+    "number": "135",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.133",
+    "number": "133",
+    "bookId": "PSA"
+  }
+}

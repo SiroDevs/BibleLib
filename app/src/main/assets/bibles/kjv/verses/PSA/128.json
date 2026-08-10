@@ -1,0 +1,513 @@
+{
+  "id": "PSA.128",
+  "number": "128",
+  "bookId": "PSA",
+  "reference": "Psalms 128",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "128",
+        "style": "c",
+        "sid": "PSA 128"
+      },
+      "items": [
+        {
+          "text": "128",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A Song of degrees.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 128:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.1",
+                "verseOrgIds": [
+                  "PSA.128.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "every one that feareth the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.1",
+                "verseOrgIds": [
+                  "PSA.128.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "; that walketh in his ways.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 128:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For thou shalt eat the labour of thine hands: happy",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shalt",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.2",
+                "verseOrgIds": [
+                  "PSA.128.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "thou",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.2",
+                "verseOrgIds": [
+                  "PSA.128.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "it shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.2",
+                "verseOrgIds": [
+                  "PSA.128.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "well with thee.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 128:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thy wife",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "shall be",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.3",
+                "verseOrgIds": [
+                  "PSA.128.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 128:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Behold, that thus shall the man be blessed that feareth the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.4",
+                "verseOrgIds": [
+                  "PSA.128.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 128:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.5",
+                "verseOrgIds": [
+                  "PSA.128.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 128:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yea, thou shalt see thy children's children,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "and",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.6",
+                "verseOrgIds": [
+                  "PSA.128.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "peace upon Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.129",
+    "number": "129",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.127",
+    "number": "127",
+    "bookId": "PSA"
+  }
+}

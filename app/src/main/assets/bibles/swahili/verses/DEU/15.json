@@ -1,0 +1,1140 @@
+{
+  "id": "DEU.15",
+  "number": "15",
+  "bookId": "DEU",
+  "reference": "Kumbukumbu 15",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 23,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "15",
+        "style": "c",
+        "sid": "DEU 15"
+      },
+      "items": [
+        {
+          "text": "15",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mwaka Wa Kufuta Madeni",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "LEV.25.1-LEV.25.7"
+          },
+          "items": [
+            {
+              "text": "Walawi 25:1-7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "DEU 15:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila mwisho wa miaka saba ni lazima mfute madeni.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.1",
+            "verseOrgIds": [
+              "DEU.15.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "DEU 15:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivi ndivyo itakavyofanyika: Kila mkopeshaji atafuta mkopo aliomkopesha Mwisraeli mwenzake. Hatamtaka Mwisraeli mwenzake au ndugu yake amlipe hilo deni, kwa sababu wakati wa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.2",
+            "verseOrgIds": [
+              "DEU.15.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.2",
+                "verseOrgIds": [
+                  "DEU.15.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "wa kufuta madeni umetangazwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.2",
+            "verseOrgIds": [
+              "DEU.15.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "DEU 15:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Unaweza kudai malipo kwa mgeni, lakini lazima ufute kila deni ambalo unamdai ndugu yako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.3",
+            "verseOrgIds": [
+              "DEU.15.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "DEU 15:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata hivyo, hapatakuwepo maskini miongoni mwenu, kwa kuwa katika nchi",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.4",
+            "verseOrgIds": [
+              "DEU.15.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.4",
+                "verseOrgIds": [
+                  "DEU.15.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu anayowapa kuimiliki kama urithi wenu, atawabariki sana,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.4",
+            "verseOrgIds": [
+              "DEU.15.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "DEU 15:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ikiwa tutamtii",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.5",
+            "verseOrgIds": [
+              "DEU.15.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.5",
+                "verseOrgIds": [
+                  "DEU.15.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu kikamilifu na kuwa waangalifu kuyafuata maagizo haya yote ninayowapa leo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.5",
+            "verseOrgIds": [
+              "DEU.15.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "DEU 15:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kwa kuwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.6",
+            "verseOrgIds": [
+              "DEU.15.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.6",
+                "verseOrgIds": [
+                  "DEU.15.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu atawabariki kama alivyoahidi, nanyi mtawakopesha mataifa mengi lakini hamtakopa kwa yeyote. Mtatawala mataifa mengi lakini hakuna taifa litakalowatawala ninyi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.6",
+            "verseOrgIds": [
+              "DEU.15.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "DEU 15:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ikiwa kuna mtu maskini miongoni mwa ndugu zenu, katika mji wowote wa hiyo nchi ambayo",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.7",
+            "verseOrgIds": [
+              "DEU.15.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.7",
+                "verseOrgIds": [
+                  "DEU.15.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu anawapa, msiwe na moyo mgumu wala usimfumbie mkono ndugu yako aliye maskini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.7",
+            "verseOrgIds": [
+              "DEU.15.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "DEU 15:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Afadhali fungua mikono yako na umkopeshe kwa hiari chochote anachohitaji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.8",
+            "verseOrgIds": [
+              "DEU.15.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "DEU 15:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jihadhari usijiwekee wazo hili ovu: \"Mwaka wa saba, mwaka wa kufuta madeni umekaribia,\" usije ukaonyesha nia mbaya kwa ndugu yako mhitaji na ukaacha kumpa chochote. Anaweza kumlalamikia",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.9",
+            "verseOrgIds": [
+              "DEU.15.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.9",
+                "verseOrgIds": [
+                  "DEU.15.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "dhidi yako nawe utakuwa umepatikana na hatia ya dhambi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.9",
+            "verseOrgIds": [
+              "DEU.15.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "DEU 15:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpe kwa ukarimu na ufanye hivyo bila kinyongo moyoni, ndipo kwa sababu ya hili",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.10",
+            "verseOrgIds": [
+              "DEU.15.10"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.10",
+                "verseOrgIds": [
+                  "DEU.15.10"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu atakubariki katika kazi zako zote na kwa kila kitu utakachokiwekea mkono wako.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.10",
+            "verseOrgIds": [
+              "DEU.15.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "DEU 15:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Siku zote watakuwepo watu maskini katika nchi. Kwa hiyo ninawaamuru mwe na mikono iliyokunjuliwa kuwaelekea ndugu zenu, kuwaelekea maskini na wahitaji katika nchi yenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.11",
+            "verseOrgIds": [
+              "DEU.15.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Kuwaacha Huru Watumwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(",
+          "type": "text"
+        },
+        {
+          "name": "ref",
+          "type": "tag",
+          "attrs": {
+            "id": "EXO.21.1-EXO.21.18"
+          },
+          "items": [
+            {
+              "text": "Kutoka 21:1-18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": ")",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "DEU 15:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama Mwebrania mwenzako, mwanaume au mwanamke, akijiuza kwako na kukutumikia miaka sita, katika mwaka wa saba ni lazima umwache aende zake akiwa huru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.12",
+            "verseOrgIds": [
+              "DEU.15.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "DEU 15:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nawe wakati utakapomwachia usimwache aende mikono mitupu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.13",
+            "verseOrgIds": [
+              "DEU.15.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "DEU 15:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mpe kwa uhuru kutoka zizi lako la kondoo na mbuzi, kutoka sakafu yako ya kupuria nafaka na kutoka mashinikizo yako ya kukamulia divai. Mpe kama vile ambavyo",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.14",
+            "verseOrgIds": [
+              "DEU.15.14"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.14",
+                "verseOrgIds": [
+                  "DEU.15.14"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wako alivyokubariki.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.14",
+            "verseOrgIds": [
+              "DEU.15.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "DEU 15:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kumbukeni kuwa ninyi mlikuwa watumwa huko Misri naye",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.15",
+            "verseOrgIds": [
+              "DEU.15.15"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.15",
+                "verseOrgIds": [
+                  "DEU.15.15"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu aliwakomboa. Ndiyo sababu nimewapa agizo hili leo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.15",
+            "verseOrgIds": [
+              "DEU.15.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "DEU 15:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini mtumishi wako akikuambia, \"Sitaki kukuacha,\" kwa sababu anakupenda wewe na jamaa yako naye anaridhika nawe,",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.16",
+            "verseOrgIds": [
+              "DEU.15.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "DEU 15:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ndipo utachukua chuma kidogo utoboe sikio lake mpaka hicho chuma kiingie kwenye ubao wa mlango, naye atakuwa mtumishi wako wa maisha. Ufanye vivyo hivyo kwa mtumishi wa kike.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.17",
+            "verseOrgIds": [
+              "DEU.15.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "DEU 15:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Usifikiri kuwa kuna ugumu kumwacha mtumishi wako huru, kwa sababu utumishi wake kwako kwa miaka hii sita umekuwa wa thamani mara mbili ya ujira wa mtumishi wa kuajiriwa. Naye",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.18",
+            "verseOrgIds": [
+              "DEU.15.18"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.18",
+                "verseOrgIds": [
+                  "DEU.15.18"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu atakubarikia kwa kila kitu utakachofanya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.18",
+            "verseOrgIds": [
+              "DEU.15.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Wazaliwa Wa Kwanza Wa Wanyama",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "DEU 15:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wekeni wakfu kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.19",
+            "verseOrgIds": [
+              "DEU.15.19"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.19",
+                "verseOrgIds": [
+                  "DEU.15.19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu kila mzaliwa wa kwanza wa kiume wa makundi yenu ya ngʼombe na ya mbuzi na kondoo. Maksai walio wazaliwa wa kwanza msiwafanyize kazi, wala msinyoe manyoya ya wazaliwa wa kwanza wa kondoo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.19",
+            "verseOrgIds": [
+              "DEU.15.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "DEU 15:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kila mwaka ninyi na jamaa zenu mtapaswa kuwala mbele za",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.20",
+            "verseOrgIds": [
+              "DEU.15.20"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.20",
+                "verseOrgIds": [
+                  "DEU.15.20"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu pale mahali atakapopachagua.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.20",
+            "verseOrgIds": [
+              "DEU.15.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "DEU 15:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kama mnyama ana dosari, akiwa ni kilema au kipofu au kama ana kilema kibaya, kamwe usimtoe dhabihu kwa",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.21",
+            "verseOrgIds": [
+              "DEU.15.21"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Bwana",
+              "type": "text",
+              "attrs": {
+                "verseId": "DEU.15.21",
+                "verseOrgIds": [
+                  "DEU.15.21"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Mungu wenu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.21",
+            "verseOrgIds": [
+              "DEU.15.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "DEU 15:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Itawapasa kumla ninyi wenyewe katika miji yenu. Wote wasio safi na walio safi kwa desturi za kiibada mwaweza kula kama vile mnavyokula paa au kulungu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.22",
+            "verseOrgIds": [
+              "DEU.15.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "DEU 15:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini kamwe msinywe damu; imwageni ardhini kama maji.",
+          "type": "text",
+          "attrs": {
+            "verseId": "DEU.15.23",
+            "verseOrgIds": [
+              "DEU.15.23"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "DEU.16",
+    "number": "16",
+    "bookId": "DEU"
+  },
+  "previous": {
+    "id": "DEU.14",
+    "number": "14",
+    "bookId": "DEU"
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "id": "MAT.28",
+  "number": "28",
+  "bookId": "MAT",
+  "reference": "Matayo 28",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 20,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "28",
+        "style": "c",
+        "sid": "MAT 28"
+      },
+      "items": [
+        {
+          "text": "28",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okobokigwa kwa Yeso",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mar 16:1-18; Luk 24:1-12; Yoh 20:1-10)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "MAT 28:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Esabato egachia koera, kobogokiamoka rituko ria Jumapili, Mariamu Magadalena na oria Mariamu onde bakagenda korora oboina.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.1",
+            "verseOrgIds": [
+              "MAT.28.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "MAT 28:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rora, norengeo omotengecho omonene, ekiagera omomalaika bw’Omonene aigete korwa igoro, agachia agatigeria rigena riria, akariikaransera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.2",
+            "verseOrgIds": [
+              "MAT.28.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "MAT 28:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekieni kiaye nigo kiarenge buna okomesa kw’embura, na eyanga yaye nendabu buna amagena y’embura.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.3",
+            "verseOrgIds": [
+              "MAT.28.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "MAT 28:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase okomoiroka ere abarendi bakaiguswa, bakaba buna abanto bakuure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.4",
+            "verseOrgIds": [
+              "MAT.28.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "MAT 28:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende omomalaika agateebia abakungu baria, “Timoiroka inwe, ekiagera namanyire ng’a Yeso mokorigia, oria obambetwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.5",
+            "verseOrgIds": [
+              "MAT.28.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "MAT 28:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tari aiga, ekiagera obokire, buna ateebete. Inchuo, morigererie aase Omonene araire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.6",
+            "verseOrgIds": [
+              "MAT.28.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "MAT 28:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na genda bwango, moteebie aborokigwa baye ng’a obokire korwa ase abakuure; na rora, obatang’aneire kogenda Galili; agwo nao moramorore. Rora, inche nabatebirie ayio.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.7",
+            "verseOrgIds": [
+              "MAT.28.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "MAT 28:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakaimoka korwa ase oboina bwango, bare nokoiroka na omogooko omonene, bakaminyoka, bakairera aborokigwa baye amang’ana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.8",
+            "verseOrgIds": [
+              "MAT.28.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "MAT 28:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rora, Yeso akaumerana na barabwo, akabakwania, “Omorembe obe nainwe!” Na barabwo bagaacha, bakamobwata amagoro, bakamosasiima.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.9",
+            "verseOrgIds": [
+              "MAT.28.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "MAT 28:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Yeso akabateebia, “Timoiroka! Genda moteebie abaminto bagende Galili, nao barandore.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.10",
+            "verseOrgIds": [
+              "MAT.28.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amang’ana y’abarendi boboina",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "MAT 28:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abakungu baria bachire, rora abande b’abarendi baria boboina bagasoa ase omochie, bagateebia abakuani abanene amang’ana onsi ayakoregete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.11",
+            "verseOrgIds": [
+              "MAT.28.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "MAT 28:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abakuani abanene bakaumerana amo n’abagaaka, bakaroisia omoroberio erio bakaa abarendi baria chitaabu chinyinge,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.12",
+            "verseOrgIds": [
+              "MAT.28.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "MAT 28:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bakaboora, “Moteebie abanto: Aborokigwa baye mbachete botuko, bakamoiba ekero twararire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.13",
+            "verseOrgIds": [
+              "MAT.28.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "MAT 28:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ring’ana eri koriraigweke ase gabana, intwe natoche tokwane nere, tomoebererie, na kobarusia inwe ase emechando.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.14",
+            "verseOrgIds": [
+              "MAT.28.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "MAT 28:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakabogoria chitaabu chiria, bagakora buna bateebetigwe, na omogano oyo okumire ase Abayahudi goika reero iga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.15",
+            "verseOrgIds": [
+              "MAT.28.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yeso okoorokera aborokigwa baye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "MAT 28:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aborokigwa baria ikomi nomo bakagenda Galili, bagaika egetunwa keria Yeso abachiigete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.16",
+            "verseOrgIds": [
+              "MAT.28.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "MAT 28:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero bachia komorora, bakamosasiima; korende abande mbabete n’echitang’utang’u.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.17",
+            "verseOrgIds": [
+              "MAT.28.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "MAT 28:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso agacha ange nabarabwo akabateebia, “Naeirwe okobua gwonsi igoro na ense.",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.18",
+            "verseOrgIds": [
+              "MAT.28.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "MAT 28:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki genda mokore ebisaku bionsi koba aborokigwa, mokobaabatisa ase erieta ria Tata, neri’Omwana, neri’Omoika Omochenu,",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.19",
+            "verseOrgIds": [
+              "MAT.28.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "MAT 28:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mokoborokereria kobwata aya onsi nabachiikire; na rora, inche nigo inde amo nainwe amatuko onsi goika omoerio bw’ense.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "MAT.28.20",
+            "verseOrgIds": [
+              "MAT.28.20"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "MRK.intro",
+    "number": "intro",
+    "bookId": "MRK"
+  },
+  "previous": {
+    "id": "MAT.27",
+    "number": "27",
+    "bookId": "MAT"
+  }
+}

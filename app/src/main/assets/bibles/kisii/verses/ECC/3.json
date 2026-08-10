@@ -1,0 +1,843 @@
+{
+  "id": "ECC.3",
+  "number": "3",
+  "bookId": "ECC",
+  "reference": "Omorandia 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "ECC 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Engaki ya kera egento",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ECC 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kera egento nkere nekero kiaye, na aiga inse y’erioba kera ekegokorekana nkere nengaki yaye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.1",
+            "verseOrgIds": [
+              "ECC.3.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ECC 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nere engaki y’okoiborwa, na ey’ogokwa;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.2",
+            "verseOrgIds": [
+              "ECC.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’ogosimeka, na ey’ogosimora ekio giasimegetwe;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.2",
+            "verseOrgIds": [
+              "ECC.3.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ECC 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’ogoita, na ey’okogwenia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.3",
+            "verseOrgIds": [
+              "ECC.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’ogotagora, na ey’okoagacha;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.3",
+            "verseOrgIds": [
+              "ECC.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ECC 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’okorera, na ey’ogoseka;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.4",
+            "verseOrgIds": [
+              "ECC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’okobokia amagombo, na ey’ogotenga;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.4",
+            "verseOrgIds": [
+              "ECC.3.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ECC 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’ogosiarera amagena, na ey’okoyasangereria;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.5",
+            "verseOrgIds": [
+              "ECC.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’okoboania, na ey’ogotaboania;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.5",
+            "verseOrgIds": [
+              "ECC.3.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ECC 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’okorigia, na ey’ogosiria;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.6",
+            "verseOrgIds": [
+              "ECC.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’okogaacha, na ey’ogotuguta;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.6",
+            "verseOrgIds": [
+              "ECC.3.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ECC 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’ogotandora, na ey’okobareera;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.7",
+            "verseOrgIds": [
+              "ECC.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’ogokira, na ey’ogokwana;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.7",
+            "verseOrgIds": [
+              "ECC.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ECC 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "engaki y’ogwanchana, na ey’okogechana;",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.8",
+            "verseOrgIds": [
+              "ECC.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q"
+      },
+      "items": [
+        {
+          "text": "engaki y’esegi, na ey’omorembe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.8",
+            "verseOrgIds": [
+              "ECC.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ECC 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inee! Mbitoki ki omonto akonyora ase emeremo yonsi agwechandera?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.9",
+            "verseOrgIds": [
+              "ECC.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ECC 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Narorire obokong’u obwo Nyasae aeire Mwanyabaanto bechande naborobwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.10",
+            "verseOrgIds": [
+              "ECC.3.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ECC 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Okorire kera egento kiabeire egeseera ase engaki yaye, naende obekire ime ase chinkoro chia Mwanyabaanto engaki etabe nomoerio. Korende nonya naboigo tibakonyara komanya aya Nyasae akorete korwa omochakano goika omoerio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.11",
+            "verseOrgIds": [
+              "ECC.3.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ECC 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namanyire ng’a gento kende tikeri kere ekiya kerabagwenere otatiga babe nomogooko, naende bakore ayare amaya ekero bare moyo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.12",
+            "verseOrgIds": [
+              "ECC.3.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ECC 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto kararie na konywa, naende egokie ase ebio echandeire, ekio nekeegwa kia Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.13",
+            "verseOrgIds": [
+              "ECC.3.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ECC 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Namanyire ng’a gento kende gionsi Nyasae agokora nigo gekogenderera kobao kare na kare; gento kende tigekomentwa ase ekio, gose kende tigekorusigwa korwa ase ekio. Nyasae nere okorire igo, erinde Mwanyabaanto bamoiroke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.14",
+            "verseOrgIds": [
+              "ECC.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ECC 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana areo bono, nao arenge korwa kare; na ayio agochia koba, boigo nao arenge korwa kare. Nyasae nigo agokora egento keria keria kiaba naende.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.15",
+            "verseOrgIds": [
+              "ECC.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Oboronge tibori ase ense",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ECC 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende nkarora aiga inse y’erioba ng’a aase ekeene na oboronge bigwenerete koba, nao obobe bore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.16",
+            "verseOrgIds": [
+              "ECC.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ECC 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio ngateeba ase enkoro yane ime ng’a Nyasae nanachere abanyaboronge ekiina, na abanyabibe boigo, ekiagera obeekire engaki ase kera ring’ana, na ase kera emeremo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.17",
+            "verseOrgIds": [
+              "ECC.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ECC 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende ngateeba ase enkoro yane ime ng’a Nyasae nigo agoteema Mwanyabaanto kobaenekia ng’a barabwo nigo banga buna ching’iti.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.18",
+            "verseOrgIds": [
+              "ECC.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ECC 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana akonyora ching’iti naro ayio akobanyora Mwanyabaanto; buna ching’iti chigokwa, naboigo na Mwanyabaanto bagokwa. Omoika noyomo ore ase ching’iti na ase Mwanyabaanto; Mwanyabaanto tabueti ching’iti kende. Amang’ana onsi mbosa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.19",
+            "verseOrgIds": [
+              "ECC.3.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ECC 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwanyabaanto nigo bakogenda aase ching’iti chikogenda; Mwanyabaanto nigo baruete ase amaroba, ne ching’iti naboigo; nigo bakoirana ase amaroba, naboigo na chirochio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.20",
+            "verseOrgIds": [
+              "ECC.3.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ECC 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ning’o omanyete gose omoika o Mwanyabaanto niigoro ogochia, na oyo bwe ching’iti ogenda inse y’ense?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.21",
+            "verseOrgIds": [
+              "ECC.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ECC 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio nkarora ng’a gento kende tikeri kere ekiya, otatiga omonto agokere emeremo yaye; ekio nakio egetari kiaye. Ning’o orachie komoirania ache korora na komanya ayakoregete magega yaye?",
+          "type": "text",
+          "attrs": {
+            "verseId": "ECC.3.22",
+            "verseOrgIds": [
+              "ECC.3.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ECC.4",
+    "number": "4",
+    "bookId": "ECC"
+  },
+  "previous": {
+    "id": "ECC.2",
+    "number": "2",
+    "bookId": "ECC"
+  }
+}

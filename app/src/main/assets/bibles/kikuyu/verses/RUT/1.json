@@ -1,0 +1,606 @@
+{
+  "id": "RUT.1",
+  "number": "1",
+  "bookId": "RUT",
+  "reference": "Ruthu 1",
+  "verseCount": 22,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "RUT 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Elimeleku na Andũ ake Gũthiĩ Moabi",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "RUT 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, matukũ-inĩ marĩa atiirĩrĩri bũrũri maathanaga, nĩ kwagĩire na ngʼaragu bũrũri-inĩ, nake mũndũ ũmwe wa Bethilehemu kũu Juda, marĩ na mũtumia wake, na ariũ ake eerĩ, magĩthiĩ gũikara bũrũri wa Moabi kwa ihinda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.1",
+            "verseOrgIds": [
+              "RUT.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "RUT 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mũndũ ũcio eetagwo Elimeleku, nake mũtumia wake eetagwo Naomi, namo marĩĩtwa ma ariũ acio ake eerĩ nĩ Mahaloni na Kilioni. Nao maarĩ Aefiratha kuuma Bethilehemu kũu Juda.Nao magĩthiĩ bũrũri wa Moabi magĩtũũra kuo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.2",
+            "verseOrgIds": [
+              "RUT.1.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "RUT 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Elimeleku mũthuuri wa Naomi agĩkua, nake Naomi agĩtigwo na ariũ acio ake eerĩ.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.3",
+            "verseOrgIds": [
+              "RUT.1.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "RUT 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao makĩhikia andũ-a-nja a Moabi, ũmwe eetagwo Oripa, na ũrĩa ũngĩ Ruthu. Thuutha wa gũtũũra kũu ta ihinda rĩa mĩaka ikũmi,",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.4",
+            "verseOrgIds": [
+              "RUT.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "RUT 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mahaloni na Kilioni o nao magĩkua, nake Naomi agĩtigwo atarĩ na ariũ ake eerĩ, o na kana mũthuuri.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.5",
+            "verseOrgIds": [
+              "RUT.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "RUT 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Naomi aiguire arĩ kũu Moabi atĩ Jehova nĩateithĩtie andũ ake akamahe irio-rĩ, akĩĩhaarĩria hamwe na atumia acio a ariũ ake oime bũrũri wa Moabi acooke kwao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.6",
+            "verseOrgIds": [
+              "RUT.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "RUT 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "We na atumia acio eerĩ a ariũ ake makiumagara kuuma kũu maatũũraga, makĩnyiita njĩra nĩguo macooke bũrũri wa Juda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.7",
+            "verseOrgIds": [
+              "RUT.1.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "RUT 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Naomi akĩĩra atumia acio eerĩ a ariũ ake atĩrĩ, “Cookai, o mũndũ athiĩ mũciĩ kwa nyina.Jehova aromwĩka maũndũ mega, o ta ũrĩa o na inyuĩ mwekire acio maakuire, o na niĩ mwene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.8",
+            "verseOrgIds": [
+              "RUT.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "RUT 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Jehova arotũma o ũmwe wanyu eyonere ũhurũko mũciĩ wa mũthuuri ũngĩ.” Agĩcooka akĩmamumunya, nao makĩrĩra maanĩrĩire,",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.9",
+            "verseOrgIds": [
+              "RUT.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "RUT 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "makĩmwĩra atĩrĩ, “Ithuĩ tũgũcooka nawe kũrĩ andũ anyu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.10",
+            "verseOrgIds": [
+              "RUT.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "RUT 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Naomi akĩmeera atĩrĩ, “Aarĩ akwa, cookai mũciĩ kwanyu. Mũgũgĩthiĩ na niĩ nĩkĩ? Nĩngũkĩgĩa na ariũ angĩ nĩguo macooke matuĩke athuuri anyu?",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.11",
+            "verseOrgIds": [
+              "RUT.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "RUT 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aarĩ akwa, cookai kwanyu mũciĩ; niĩ ndĩ mũkũrũ mũno wa kũgĩa na mũthuuri ũngĩ. O na ingĩĩciiria atĩ harĩ na mwĩhoko harĩ niĩ, na ngĩe na mũthuuri ũtukũ ũyũ na njiare aanake-rĩ,",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.12",
+            "verseOrgIds": [
+              "RUT.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "RUT 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "mwakĩmeterera o nginya hĩndĩ ĩrĩa makaagimara? No mũikare mũtahikĩte mũmetereire?Aca, aarĩ akwa. Niĩ ndĩ na ruo kũmũkĩra, nĩgũkorwo guoko kwa Jehova nĩgũtambũrũkĩte gũkanjũkĩrĩra!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.13",
+            "verseOrgIds": [
+              "RUT.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "RUT 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao maigua ũguo makĩrĩra rĩngĩ. Nake Oripa akĩmumunya nyaciarawe, akĩmuugĩra ũhoro. No Ruthu akĩrũmanĩrĩra na nyaciarawe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.14",
+            "verseOrgIds": [
+              "RUT.1.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "RUT 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake Naomi akĩmwĩra atĩrĩ, “Ta rora, mũtumia wa mũrũ wa nyina na mũthuuriguo nĩahũndũka acooke kũrĩ andũ ao, o na kũrĩ ngai ciake. Cooka mũthiĩ nake.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.15",
+            "verseOrgIds": [
+              "RUT.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "RUT 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "No Ruthu akĩmũcookeria, akĩmwĩra atĩrĩ, “Tiga kũningĩrĩria ngũtige kana ngarũrũke ndige gũkũrũmĩrĩra. Kũrĩa ũgũthiĩ nĩkuo ngũthiĩ, na kũrĩa ũgaatũũra nĩkuo ngaatũũra. Andũ anyu magaatuĩka andũ aitũ, nake Ngai waku atuĩke Ngai wakwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.16",
+            "verseOrgIds": [
+              "RUT.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "RUT 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kũrĩa ũgaakuĩra nĩkuo ngaakuĩra, na nokuo ngaathikwo. Jehova aronjĩka ũũru makĩria, kũngĩkaagĩa ũndũ o na ũmwe ũgaatũtigithania niĩ nawe, tiga o gĩkuũ giiki!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.17",
+            "verseOrgIds": [
+              "RUT.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "RUT 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rĩrĩa Naomi onire atĩ Ruthu nĩatuĩte itua rĩa gũthiĩ nake, agĩtiga kũmũringĩrĩria acooke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.18",
+            "verseOrgIds": [
+              "RUT.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "RUT 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio andũ acio a nja eerĩ magĩthiĩ nginya magĩkinya Bethilehemu. Rĩrĩa maakinyire Bethilehemu-rĩ, andũ a itũũra rĩu othe makĩgega nĩ ũndũ wao, nao andũ-a-nja makĩũrania atĩrĩ, “Hĩ! Ũyũ no akorwo arĩ Naomi?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.19",
+            "verseOrgIds": [
+              "RUT.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "RUT 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nake akĩmeera atĩrĩ, “Tigai gũcooka kũnjĩta Naomi, njĩtagaai Mara, nĩ ũndũ Ngai Mwene-Hinya-Wothe nĩatũmĩte mũtũũrĩre wakwa ũtuĩke wa ruo mũno.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.20",
+            "verseOrgIds": [
+              "RUT.1.20"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "RUT 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndoimire gũkũ njiyũrĩrĩire, no Jehova anjookia itarĩ kĩndũ. Mũngĩcooka kũnjĩta Naomi nĩkĩ? Jehova nĩanyariirĩte; Mwene-Hinya-Wothe nĩandehithĩirie mathĩĩna.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.21",
+            "verseOrgIds": [
+              "RUT.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "RUT 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩ ũndũ ũcio Naomi agĩcooka kuuma Moabi marĩ hamwe na Ruthu ũcio Mũmoabi, mũtumia wa mũriũ, magĩkinya Bethilehemu hĩndĩ ĩrĩa cairi yaambagĩrĩria kũgethwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "RUT.1.22",
+            "verseOrgIds": [
+              "RUT.1.22"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "RUT.2",
+    "number": "2",
+    "bookId": "RUT"
+  },
+  "previous": {
+    "id": "RUT.intro",
+    "number": "intro",
+    "bookId": "RUT"
+  }
+}

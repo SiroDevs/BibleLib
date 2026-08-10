@@ -1,0 +1,540 @@
+{
+  "id": "PSA.128",
+  "number": "128",
+  "bookId": "PSA",
+  "reference": "Psalm 128",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 6,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "128",
+        "style": "c",
+        "sid": "PSA 128"
+      },
+      "items": [
+        {
+          "text": "128",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 128",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "A song of ascents.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 128:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Blessed are all who fear the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.1",
+                "verseOrgIds": [
+                  "PSA.128.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ",",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:1"
+      },
+      "items": [
+        {
+          "text": "who walk in obedience to him.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.1",
+            "verseOrgIds": [
+              "PSA.128.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 128:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You will eat the fruit of your labor;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:2"
+      },
+      "items": [
+        {
+          "text": "blessings and prosperity will be yours.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.2",
+            "verseOrgIds": [
+              "PSA.128.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 128:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Your wife will be like a fruitful vine",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "within your house;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "your children will be like olive shoots",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:3"
+      },
+      "items": [
+        {
+          "text": "around your table.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.3",
+            "verseOrgIds": [
+              "PSA.128.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 128:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yes, this will be the blessing",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:4"
+      },
+      "items": [
+        {
+          "text": "for the man who fears the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.4",
+                "verseOrgIds": [
+                  "PSA.128.4"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.4",
+            "verseOrgIds": [
+              "PSA.128.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 128:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.128.5",
+                "verseOrgIds": [
+                  "PSA.128.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "bless you from Zion;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:5"
+      },
+      "items": [
+        {
+          "text": "may you see the prosperity of Jerusalem",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:5"
+      },
+      "items": [
+        {
+          "text": "all the days of your life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.5",
+            "verseOrgIds": [
+              "PSA.128.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 128:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "May you live to see your children's children—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 128:6"
+      },
+      "items": [
+        {
+          "text": "peace be on Israel.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.128.6",
+            "verseOrgIds": [
+              "PSA.128.6"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.129",
+    "number": "129",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.127",
+    "number": "127",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,1461 @@
+{
+  "id": "NEH.10",
+  "number": "10",
+  "bookId": "NEH",
+  "reference": "Nehemia 10",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 39,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "NEH 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "NEH 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ababegete ebimanyererio biabo ase okobwatana koria nabwo aba:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "text": "Nehemia omogabana, mosinto o Hakalia, na Zedekia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.1",
+            "verseOrgIds": [
+              "NEH.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "NEH 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Seraya, na Asaria, na Yeremia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.2",
+            "verseOrgIds": [
+              "NEH.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "NEH 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pasuri, na Amaria, na Malikia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.3",
+            "verseOrgIds": [
+              "NEH.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "NEH 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hatusi, na Sebania, na Maluki;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.4",
+            "verseOrgIds": [
+              "NEH.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "NEH 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Harimu, na Meremoti, na Obadia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.5",
+            "verseOrgIds": [
+              "NEH.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "NEH 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Danieli, na Ginetoni, na Baruku;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.6",
+            "verseOrgIds": [
+              "NEH.10.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "NEH 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mesulamu, na Abiya, na Miyamini;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.7",
+            "verseOrgIds": [
+              "NEH.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "NEH 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maasia, na Biligai, na Semaya. Aba nabwo barenge abakuani.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.8",
+            "verseOrgIds": [
+              "NEH.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "NEH 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abalawi nabwo aba:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.9",
+            "verseOrgIds": [
+              "NEH.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "text": "Yesua, mosinto bw’Asania,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.9",
+            "verseOrgIds": [
+              "NEH.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "text": "na Binui bw’eamate ya Henadadi, na Kadimieli;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.9",
+            "verseOrgIds": [
+              "NEH.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "NEH 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "abamwabo: Sebania na Hodia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.10",
+            "verseOrgIds": [
+              "NEH.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "text": "Kelita, na Pelaya, na Hanani;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.10",
+            "verseOrgIds": [
+              "NEH.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "NEH 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mika, na Rehobu, na Hasabia;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.11",
+            "verseOrgIds": [
+              "NEH.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "NEH 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Sakuri, na Serebia, na Sebania;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.12",
+            "verseOrgIds": [
+              "NEH.10.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "NEH 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hodia, na Bani, na Beninu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.13",
+            "verseOrgIds": [
+              "NEH.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "NEH 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abatang’ani b’abaanto nabwo aba:",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.14",
+            "verseOrgIds": [
+              "NEH.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "text": "Parosi, na Pahati-Moabu, na Elamu, na Satu, na Bani;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.14",
+            "verseOrgIds": [
+              "NEH.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "NEH 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Buni, na Asigadi, na Bebai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.15",
+            "verseOrgIds": [
+              "NEH.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "NEH 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Adonia, na Bigiwai, na Adini;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.16",
+            "verseOrgIds": [
+              "NEH.10.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "NEH 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ateri, na Hezekia, na Asuri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.17",
+            "verseOrgIds": [
+              "NEH.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "NEH 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hodia, na Hasumu, na Besai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.18",
+            "verseOrgIds": [
+              "NEH.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "NEH 10:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Harifu, na Anatoti, na Nebai;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.19",
+            "verseOrgIds": [
+              "NEH.10.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "NEH 10:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magipiasi, na Mesulamu, na Hesiri;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.20",
+            "verseOrgIds": [
+              "NEH.10.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "NEH 10:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Meshesabeli, na Zadoki na Yadua;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.21",
+            "verseOrgIds": [
+              "NEH.10.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "NEH 10:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Pelatia, na Hanani, na Anaya;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.22",
+            "verseOrgIds": [
+              "NEH.10.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "NEH 10:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hosea, na Hanania, na Hasubu;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.23",
+            "verseOrgIds": [
+              "NEH.10.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "NEH 10:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Halohesi, na Pila, na Sobeki;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.24",
+            "verseOrgIds": [
+              "NEH.10.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "NEH 10:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rehumu, na Hasabuna, na Maaseya;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.25",
+            "verseOrgIds": [
+              "NEH.10.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "NEH 10:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ahiya, na Hanani, na Anani;",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.26",
+            "verseOrgIds": [
+              "NEH.10.26"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "li"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "NEH 10:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Maluku, na Harimu, na Baana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.27",
+            "verseOrgIds": [
+              "NEH.10.27"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okobwatana",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "NEH 10:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto abatigarete, na abakuani, na Abalawi, na abarendi b’ebiita, na abateri, na abakori emeremo be Hekalu, na abanto bonsi konya berusananirie korwa ase abanto b’ebisaku ase engencho y’amachiiko a Nyasae, barabwo amo nabakungu babo, na abana babo, abamura na abaiseke, nabwo bonsi babwate obong’aini bw’okomanya,",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.28",
+            "verseOrgIds": [
+              "NEH.10.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "NEH 10:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "bakabwatana nabaanto bamwabo basikire, bakaria eira bagatiana ng’a mbabwatie amachiiko a Nyasae ayaruetwe goetera ase Musa, omosomba oye, naende ng’a mbarende na gokora amachiiko onsi ay’Omonene, oyore Omonene oito, amo nemeroberio yaye yonsi echiikire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.29",
+            "verseOrgIds": [
+              "NEH.10.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "NEH 10:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagateeba, Titokorua abaiseke baito banyuomwe nabaanto b’ense eye, gose titokonyuomeria abamura baito abaiseke babo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.30",
+            "verseOrgIds": [
+              "NEH.10.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "NEH 10:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye abanto b’ense eye bakorenta ebinto gose chindagera gotooneria rituko ri’Esabato, titokobigora ase Esabato gose ase rituko rinde richenu. Ase omwaka o gatano na kabere ntotige emegondo yaito etimoke teremwa, ne chisira titochiboria chiakanwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.31",
+            "verseOrgIds": [
+              "NEH.10.31"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "NEH 10:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Twanchire ng’a kera omwaka, torue ensemo ya isato y’esekeli ekorerwe emeremo ase enyomba ya Nyasae oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.32",
+            "verseOrgIds": [
+              "NEH.10.32"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "NEH 10:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Chibesa echio chiraruegwe ase engencho y’emegati ekoruegwa ase Nyasae, na okoruegwa kw’endagera kwa botambe, na ekeng’wanso ki’ogosambwa kia botambe, na ebie Chisabato, na Emetienyi Emeyia, na Amatuko Amanene achiikire, na ebing’wanso ebichenu, na ebing’wanso bi’ebibe bigokora okobwatanigwa ase Abaisraeli, na ase engencho y’emeremo yonsi y’enyomba ya Nyasae oito.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.33",
+            "verseOrgIds": [
+              "NEH.10.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "NEH 10:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Boigo intwe abakuani, na Abalawi, na abanto bande, twaakire obomera ng’a tomanye buna abanto be chiamate chiaito barabe bakorenta chinko, omwaka ase omwaka, echio chirabe chigosamba ebing’wanso ase egesasiimero ki’Omonene, Nyasae oito, ase chingaki chichikiire, na buna ariikire ase Egetabu ki’Amachiko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.34",
+            "verseOrgIds": [
+              "NEH.10.34"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "NEH 10:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naende ntobe tokorenta okwama kw’eritang’ani kwe riroba riaito, na amatunda amatang’ani ay’emete yonsi, ase enyomba y’Omonene, omwaka ase omwaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.35",
+            "verseOrgIds": [
+              "NEH.10.35"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "NEH 10:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Ntorete abana baito abaisia abatangi, ne chitugo chiaito chintangi ase abakuani abagokora emeremo ase enyomba ya Nyasae oito, buna eriikire ase amachiiko, torente ne chintangi chi’echiombe, na echie chimbori, na echie ching’ondi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.36",
+            "verseOrgIds": [
+              "NEH.10.36"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "NEH 10:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Naende ntorente ase abakuani agwo ase ebinyomba ime, ase enyomba ya Nyasae oito, obosie bwaito bw’obotongora, na ebiegwa biaito, na amatunda ’emete yonsi, na edivai, na amaguta. Boigo ntorente ensemo ya ikomi y’okwama kwe riroba riaito ase Abalawi, ekiagera Abalawi nabwo bagosangereria chinsemo chia ikomi korwa ase emechie yonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.37",
+            "verseOrgIds": [
+              "NEH.10.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "NEH 10:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero Abalawi bakorenterwa chinsemo echio chia ikomi, Omokuani, omonto bw’ororeria rwa Aroni, goika abe amo nabarabwo. Abalawi abwo mbarusie ensemo ya ikomi ye chinsemo echio chia ikomi, bayeire ase ebinyomba bi’enyomba ya Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.38",
+            "verseOrgIds": [
+              "NEH.10.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "NEH 10:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaisraeli na Abalawi mbarente okoruegwa kwabo gwe chindagera, na okw’edivai, na amaguta, ase ebinyomba ebio. Agwo nao ebikorero bi’Aase Aachenu bire; boigo nao abakuani bagokora emeremo, na abarendi b’ebiita, na abateri bare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.39",
+            "verseOrgIds": [
+              "NEH.10.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "“Titogotiga enyomba ya Nyasae oito eborwe ebinto.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "NEH.10.39",
+            "verseOrgIds": [
+              "NEH.10.39"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "NEH.11",
+    "number": "11",
+    "bookId": "NEH"
+  },
+  "previous": {
+    "id": "NEH.9",
+    "number": "9",
+    "bookId": "NEH"
+  }
+}

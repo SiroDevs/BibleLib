@@ -1,0 +1,813 @@
+{
+  "id": "PSA.99",
+  "number": "99",
+  "bookId": "PSA",
+  "reference": "Psalms 99",
+  "copyright": "PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent",
+  "verseCount": 9,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "99",
+        "style": "c",
+        "sid": "PSA 99"
+      },
+      "items": [
+        {
+          "text": "99",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 99:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.1",
+            "verseOrgIds": [
+              "PSA.99.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.1",
+                "verseOrgIds": [
+                  "PSA.99.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "reigneth; let the people tremble: he sitteth",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.1",
+            "verseOrgIds": [
+              "PSA.99.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "between",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.1",
+                "verseOrgIds": [
+                  "PSA.99.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "the cherubims; let the earth be moved.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.1",
+            "verseOrgIds": [
+              "PSA.99.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 99:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.2",
+            "verseOrgIds": [
+              "PSA.99.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.2",
+                "verseOrgIds": [
+                  "PSA.99.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.2",
+            "verseOrgIds": [
+              "PSA.99.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.2",
+                "verseOrgIds": [
+                  "PSA.99.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "great in Zion; and he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.2",
+            "verseOrgIds": [
+              "PSA.99.2"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.2",
+                "verseOrgIds": [
+                  "PSA.99.2"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "high above all the people.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.2",
+            "verseOrgIds": [
+              "PSA.99.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 99:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Let them praise thy great and terrible name;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.3",
+            "verseOrgIds": [
+              "PSA.99.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.3",
+                "verseOrgIds": [
+                  "PSA.99.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.3",
+            "verseOrgIds": [
+              "PSA.99.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.3",
+                "verseOrgIds": [
+                  "PSA.99.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "holy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.3",
+            "verseOrgIds": [
+              "PSA.99.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 99:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.4",
+            "verseOrgIds": [
+              "PSA.99.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 99:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Exalt ye the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.5",
+            "verseOrgIds": [
+              "PSA.99.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.5",
+                "verseOrgIds": [
+                  "PSA.99.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God, and worship at his footstool;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.5",
+            "verseOrgIds": [
+              "PSA.99.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "for",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.5",
+                "verseOrgIds": [
+                  "PSA.99.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.5",
+            "verseOrgIds": [
+              "PSA.99.5"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.5",
+                "verseOrgIds": [
+                  "PSA.99.5"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "holy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.5",
+            "verseOrgIds": [
+              "PSA.99.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 99:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.6",
+            "verseOrgIds": [
+              "PSA.99.6"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.6",
+                "verseOrgIds": [
+                  "PSA.99.6"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", and he answered them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.6",
+            "verseOrgIds": [
+              "PSA.99.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 99:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.7",
+            "verseOrgIds": [
+              "PSA.99.7"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "that",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.7",
+                "verseOrgIds": [
+                  "PSA.99.7"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "he gave them.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.7",
+            "verseOrgIds": [
+              "PSA.99.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 99:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Thou answeredst them, O",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.8",
+            "verseOrgIds": [
+              "PSA.99.8"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.8",
+                "verseOrgIds": [
+                  "PSA.99.8"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.8",
+            "verseOrgIds": [
+              "PSA.99.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 99:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Exalt the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.9",
+            "verseOrgIds": [
+              "PSA.99.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.9",
+                "verseOrgIds": [
+                  "PSA.99.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God, and worship at his holy hill; for the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.9",
+            "verseOrgIds": [
+              "PSA.99.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "LORD",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.9",
+                "verseOrgIds": [
+                  "PSA.99.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "our God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.9",
+            "verseOrgIds": [
+              "PSA.99.9"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "add"
+          },
+          "items": [
+            {
+              "text": "is",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.99.9",
+                "verseOrgIds": [
+                  "PSA.99.9"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "holy.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.99.9",
+            "verseOrgIds": [
+              "PSA.99.9"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.100",
+    "number": "100",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.98",
+    "number": "98",
+    "bookId": "PSA"
+  }
+}

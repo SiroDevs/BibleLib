@@ -1,0 +1,917 @@
+{
+  "id": "2KI.3",
+  "number": "3",
+  "bookId": "2KI",
+  "reference": "2 Abarwoti 3",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 27,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "3",
+        "style": "c",
+        "sid": "2KI 3"
+      },
+      "items": [
+        {
+          "text": "3",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Esegi egati y’Abaisraeli na Abamoabu",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "2KI 3:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase omwaka o ikomi na gatano na gatato bw’okogaamba kwa Yehosafati, omorwoti bw’Abayuda, Yoramu, mosinto bw’Ahabu, agachaaka kogaambera Abaisraeli, agwo Samaria, akagaamba emiaka ikomi na ebere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.1",
+            "verseOrgIds": [
+              "2KI.3.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "2KI 3:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yoramu agakora ayare amabe ase obosio bw’Omonene, nonya takorete buna ise na ng’ina Yesebeli bakorete, ekiagera narusetie esiiro y’enyasae Baali, eria ise aroisetie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.2",
+            "verseOrgIds": [
+              "2KI.3.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "2KI 3:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende nonya naboigo, igo abwatanete nebibe bia omorwoti Yeroboamu, mosinto o Nebati, biria akorete akagera Abaisraeli bagakora ebibe; onde tabatangata.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.3",
+            "verseOrgIds": [
+              "2KI.3.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "2KI 3:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bono Mesha, omorwoti o Moabu, nigo arenge omotugi bwe ching’ondi, na kera omwaka nigo arenge korua ebango ase omorwoti bw’Abaisraeli, chimanwa chi’eching’ondi chilifu rigana erimo (100,000), naende amarionya e chimingichi chilifu rigana erimo (100,000).",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.4",
+            "verseOrgIds": [
+              "2KI.3.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "2KI 3:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ekero Ahabu akuure, omorwoti bw’Abamoabu akaanga koigwera omorwoti bw’Abaisraeli.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.5",
+            "verseOrgIds": [
+              "2KI.3.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "2KI 3:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase engaki eria omorwoti Yoramu akarua Samaria, akaroberia abasikari ba’Abaisraeli bonsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.6",
+            "verseOrgIds": [
+              "2KI.3.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "2KI 3:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akagenda, agatoma amang’ana gochia ase Yehosafati, omorwoti bw’Abayuda, agateeba: “Omorwoti bw’Abamoabu bwangire konyigwera. Inee! Aye nogende amo nainche torwanie abanto ba Moabu?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.7",
+            "verseOrgIds": [
+              "2KI.3.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Yehosafati akairaneria: “Ee, ningende amo naye, na abanto baane amo nabaanto bao, ne chibarasi chiane amo ne chibarasi chiao.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.7",
+            "verseOrgIds": [
+              "2KI.3.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "2KI 3:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende akabooria: “Inee! Insemo ki toraetere kogenda?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.8",
+            "verseOrgIds": [
+              "2KI.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Yoramu akairaneria: “Igo toraetere enchera y’erooro y’Edomu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.8",
+            "verseOrgIds": [
+              "2KI.3.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "2KI 3:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio omorwoti Yoramu bw’Abaisraeli akagenda amo nomorwoti bw’Abayuda, na omorwoti bw’Abaedomu. Na ekero bagendire orogendo rw’ogosiongorokana ase amatuko atano na abere, amaache akabora abasikari amo ne ching’iti chiarenge kobatunyana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.9",
+            "verseOrgIds": [
+              "2KI.3.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "2KI 3:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti bw’Abaisraeli agateeba, “Obobe nobwaito! Omonene otorangeirie intwe abarwoti batato atobeke ase amaboko Abamoabu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.10",
+            "verseOrgIds": [
+              "2KI.3.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "2KI 3:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio Omorwoti Yehosafati akabooria, “Inee! Omobani bw’Omonene tari aa toranyare kobori’Omonene goetera asare?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.11",
+            "verseOrgIds": [
+              "2KI.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Omosomba oyomo bw’omorwoti bw’Abaisraeli akairaneria, “Elisha, mosinto o Safati, nao are aiga, oria oreenge omokoreri bw’Elija.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.11",
+            "verseOrgIds": [
+              "2KI.3.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "2KI 3:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yehosafati agateeba, “oyo n’omobani bw’ekeene.” Ase igo omorwoti bw’Abaisraeli, na Yehosafati, na omorwoti bw’Abaedomu bakagenda asare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.12",
+            "verseOrgIds": [
+              "2KI.3.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "2KI 3:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elisha agateebia omorwoti bw’Abaisraeli, “Inki inde naye? Genda aye ase ababani ba iso na abanyoko!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.13",
+            "verseOrgIds": [
+              "2KI.3.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Korende omorwoti bw’Abaisraeli akamoteebia. “Tinkogendao. Omonene nere otobekire intwe abarwoti batato ase amaboko Abamoabu.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.13",
+            "verseOrgIds": [
+              "2KI.3.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "2KI 3:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Elisha akabora, “Ekeene, buna Omonene bw’Emeganda are moyo, oria inche ngokorera, onye ntasigeti Yehosafati, omorwoti bw’Abayuda, anga tinarenge gwancha gokorora, gose gokorigereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.14",
+            "verseOrgIds": [
+              "2KI.3.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "2KI 3:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende bono ndetere omoteri.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.15",
+            "verseOrgIds": [
+              "2KI.3.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Na ekero omoteri oria arenge kobugia obokano, chinguru chia Omonene chigaacha igoro y’Elisha,",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.15",
+            "verseOrgIds": [
+              "2KI.3.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "2KI 3:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na ere akabora, “Aya nar’Omonene agoteeba: Kunya chingoro chinyinge ase rigoko eri rikamoku.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.16",
+            "verseOrgIds": [
+              "2KI.3.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "2KI 3:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende aya nar’Omonene agoteeba: Nonya timokorora omwaga, gose embura, rigoko eri nariichore amaache, erinde monywe, inwe ne chiombe chiaino, ne ching’ondi chiaino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.17",
+            "verseOrgIds": [
+              "2KI.3.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "2KI 3:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Eke negento egeke ase Omonene; boigo nabeeke Abamoabu ase amaboko aino.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.18",
+            "verseOrgIds": [
+              "2KI.3.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "2KI 3:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nainwe mobue emechie yabo egiteire chindwaki na kera omochie omuya, naende namoteme kera omote omuya; boigo motiche na gosaria chinsoko chionsi chi’amaache na mosarie kera oboremo obuya namagena.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.19",
+            "verseOrgIds": [
+              "2KI.3.19"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "2KI 3:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko ria kabere mambia, ekero ki’engaki y’okorua ekeng’wanso, amaache agacha korwa ensemo ya Edomu, goika agaichora orogongo roria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.20",
+            "verseOrgIds": [
+              "2KI.3.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "2KI 3:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero abanto bonsi ba Moabu baigwete ng’a abarwoti bachire korwana nabarabwo, bonsi abaarenge ne chinguru kobogoria ebirwanero bakarangerigwa batang’ane bosio, abake na abanene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.21",
+            "verseOrgIds": [
+              "2KI.3.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "2KI 3:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mambia chuni, ekero baimogete na erioba rikaoroka rikabara ase amaache, Abamoabu bakarora amaache arenge bosio bwabo are amabariri buna amanyinga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.22",
+            "verseOrgIds": [
+              "2KI.3.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "2KI 3:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Barabwo bagateeba: “Aya namanyinga! Abarwoti baria barwanire barabwo ase barabwo na goitana. Ase ayio bono intwe Abamoabu, togende tosakore!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.23",
+            "verseOrgIds": [
+              "2KI.3.23"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "2KI 3:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ekero Abamoabu bachete ase egetwori ki’Abaisraeli, Abaisraeli bakaimoka, bakabarwania goika abanto abwo bagatama korwa ase bare. Abaisraeli bakagenderera kobatunyana gochia ase ense yabo bakabaita.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.24",
+            "verseOrgIds": [
+              "2KI.3.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "2KI 3:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagatagora emechie yabo bagasaria kera oboremo obuya. Kera omonto akaruta rigena ase oboremo goika amagena akabotuba kegima. Bagaticha kera ensoko y’amaache na bagatema kera omote omuya. Omoerio omochie o Kiri‐Hariseti ogatigara bwoka, na abanto baarenge koruta chinduruche bakayoetanana, bakayoumokera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.25",
+            "verseOrgIds": [
+              "2KI.3.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "2KI 3:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero omorwoti bw’Abamoabu aroche ng’a esegi yamobuire, akaira abanto amagana atano na abere (700) babogoretie emioro, akagania amigererie gochia ase omorwoti bw’Abaedomu, korende tanyarete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.26",
+            "verseOrgIds": [
+              "2KI.3.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "2KI 3:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio akaira igoro ase orwaki omwana omomura oye omotangi, oria orenge gocha kogamba ase ribaga riaye, akamorua akaba ekeng’wanso ki’ogosaambwa. Agwo Abaisraeli bakagechigwa bagatiga korwana, bakairana gochia ase ense yabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "2KI.3.27",
+            "verseOrgIds": [
+              "2KI.3.27"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "2KI.4",
+    "number": "4",
+    "bookId": "2KI"
+  },
+  "previous": {
+    "id": "2KI.2",
+    "number": "2",
+    "bookId": "2KI"
+  }
+}

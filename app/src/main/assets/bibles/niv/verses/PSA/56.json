@@ -1,0 +1,989 @@
+{
+  "id": "PSA.56",
+  "number": "56",
+  "bookId": "PSA",
+  "reference": "Psalm 56",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 13,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "56",
+        "style": "c",
+        "sid": "PSA 56"
+      },
+      "items": [
+        {
+          "text": "56",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 56",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. To the tune of \"A Dove on Distant Oaks.\" Of David. A",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "miktam.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When the Philistines had seized him in Gath.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 56:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Be merciful to me, my God,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.1",
+            "verseOrgIds": [
+              "PSA.56.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:1"
+      },
+      "items": [
+        {
+          "text": "for my enemies are in hot pursuit;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.1",
+            "verseOrgIds": [
+              "PSA.56.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:1"
+      },
+      "items": [
+        {
+          "text": "all day long they press their attack.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.1",
+            "verseOrgIds": [
+              "PSA.56.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 56:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "My adversaries pursue me all day long;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.2",
+            "verseOrgIds": [
+              "PSA.56.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:2"
+      },
+      "items": [
+        {
+          "text": "in their pride many are attacking me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.2",
+            "verseOrgIds": [
+              "PSA.56.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 56:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "When I am afraid, I put my trust in you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.3",
+            "verseOrgIds": [
+              "PSA.56.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 56:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In God, whose word I praise—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.4",
+            "verseOrgIds": [
+              "PSA.56.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 56:4"
+      },
+      "items": [
+        {
+          "text": "in God I trust and am not afraid.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.4",
+            "verseOrgIds": [
+              "PSA.56.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:4"
+      },
+      "items": [
+        {
+          "text": "What can mere mortals do to me?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.4",
+            "verseOrgIds": [
+              "PSA.56.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 56:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "All day long they twist my words;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.5",
+            "verseOrgIds": [
+              "PSA.56.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:5"
+      },
+      "items": [
+        {
+          "text": "all their schemes are for my ruin.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.5",
+            "verseOrgIds": [
+              "PSA.56.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 56:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "They conspire, they lurk,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.6",
+            "verseOrgIds": [
+              "PSA.56.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:6"
+      },
+      "items": [
+        {
+          "text": "they watch my steps,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.6",
+            "verseOrgIds": [
+              "PSA.56.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:6"
+      },
+      "items": [
+        {
+          "text": "hoping to take my life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.6",
+            "verseOrgIds": [
+              "PSA.56.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 56:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Because of their wickedness do not",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.7",
+            "verseOrgIds": [
+              "PSA.56.8"
+            ]
+          }
+        },
+        {
+          "text": "let them escape;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.7",
+            "verseOrgIds": [
+              "PSA.56.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:7"
+      },
+      "items": [
+        {
+          "text": "in your anger, God, bring the nations down.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.7",
+            "verseOrgIds": [
+              "PSA.56.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 56:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Record my misery;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.8",
+            "verseOrgIds": [
+              "PSA.56.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:8"
+      },
+      "items": [
+        {
+          "text": "list my tears on your scroll",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.8",
+            "verseOrgIds": [
+              "PSA.56.9"
+            ]
+          }
+        },
+        {
+          "text": "—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.8",
+            "verseOrgIds": [
+              "PSA.56.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:8"
+      },
+      "items": [
+        {
+          "text": "are they not in your record?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.8",
+            "verseOrgIds": [
+              "PSA.56.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 56:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Then my enemies will turn back",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.9",
+            "verseOrgIds": [
+              "PSA.56.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:9"
+      },
+      "items": [
+        {
+          "text": "when I call for help.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.9",
+            "verseOrgIds": [
+              "PSA.56.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:9"
+      },
+      "items": [
+        {
+          "text": "By this I will know that God is for me.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.9",
+            "verseOrgIds": [
+              "PSA.56.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 56:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In God, whose word I praise,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.10",
+            "verseOrgIds": [
+              "PSA.56.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:10"
+      },
+      "items": [
+        {
+          "text": "in the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.10",
+            "verseOrgIds": [
+              "PSA.56.11"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.56.10",
+                "verseOrgIds": [
+                  "PSA.56.11"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", whose word I praise—",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.10",
+            "verseOrgIds": [
+              "PSA.56.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 56:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "in God I trust and am not afraid.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.11",
+            "verseOrgIds": [
+              "PSA.56.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:11"
+      },
+      "items": [
+        {
+          "text": "What can man do to me?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.11",
+            "verseOrgIds": [
+              "PSA.56.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 56:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "I am under vows to you, my God;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.12",
+            "verseOrgIds": [
+              "PSA.56.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:12"
+      },
+      "items": [
+        {
+          "text": "I will present my thank offerings to you.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.12",
+            "verseOrgIds": [
+              "PSA.56.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 56:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "For you have delivered me from death",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.13",
+            "verseOrgIds": [
+              "PSA.56.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:13"
+      },
+      "items": [
+        {
+          "text": "and my feet from stumbling,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.13",
+            "verseOrgIds": [
+              "PSA.56.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 56:13"
+      },
+      "items": [
+        {
+          "text": "that I may walk before God",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.13",
+            "verseOrgIds": [
+              "PSA.56.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 56:13"
+      },
+      "items": [
+        {
+          "text": "in the light of life.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.56.13",
+            "verseOrgIds": [
+              "PSA.56.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.57",
+    "number": "57",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.55",
+    "number": "55",
+    "bookId": "PSA"
+  }
+}

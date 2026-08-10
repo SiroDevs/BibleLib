@@ -1,0 +1,1367 @@
+{
+  "id": "PSA.10",
+  "number": "10",
+  "bookId": "PSA",
+  "reference": "Psalm 10",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 18,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "10",
+        "style": "c",
+        "sid": "PSA 10"
+      },
+      "items": [
+        {
+          "text": "10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 10",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 10:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.1",
+            "verseOrgIds": [
+              "PSA.10.1"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.10.1",
+                "verseOrgIds": [
+                  "PSA.10.1"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", do you stand far off?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.1",
+            "verseOrgIds": [
+              "PSA.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:1"
+      },
+      "items": [
+        {
+          "text": "Why do you hide yourself in times of trouble?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.1",
+            "verseOrgIds": [
+              "PSA.10.1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 10:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In his arrogance the wicked man hunts down the weak,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.2",
+            "verseOrgIds": [
+              "PSA.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:2"
+      },
+      "items": [
+        {
+          "text": "who are caught in the schemes he devises.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.2",
+            "verseOrgIds": [
+              "PSA.10.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 10:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He boasts about the cravings of his heart;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.3",
+            "verseOrgIds": [
+              "PSA.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:3"
+      },
+      "items": [
+        {
+          "text": "he blesses the greedy and reviles the",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.3",
+            "verseOrgIds": [
+              "PSA.10.3"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.10.3",
+                "verseOrgIds": [
+                  "PSA.10.3"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.3",
+            "verseOrgIds": [
+              "PSA.10.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 10:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "In his pride the wicked man does not seek him;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.4",
+            "verseOrgIds": [
+              "PSA.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:4"
+      },
+      "items": [
+        {
+          "text": "in all his thoughts there is no room for God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.4",
+            "verseOrgIds": [
+              "PSA.10.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 10:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His ways are always prosperous;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.5",
+            "verseOrgIds": [
+              "PSA.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:5"
+      },
+      "items": [
+        {
+          "text": "your laws are rejected by",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.5",
+            "verseOrgIds": [
+              "PSA.10.5"
+            ]
+          }
+        },
+        {
+          "text": "him;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.5",
+            "verseOrgIds": [
+              "PSA.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:5"
+      },
+      "items": [
+        {
+          "text": "he sneers at all his enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.5",
+            "verseOrgIds": [
+              "PSA.10.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 10:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He says to himself, \"Nothing will ever shake me.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.6",
+            "verseOrgIds": [
+              "PSA.10.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:6"
+      },
+      "items": [
+        {
+          "text": "He swears, \"No one will ever do me harm.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.6",
+            "verseOrgIds": [
+              "PSA.10.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 10:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His mouth is full of lies and threats;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.7",
+            "verseOrgIds": [
+              "PSA.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:7"
+      },
+      "items": [
+        {
+          "text": "trouble and evil are under his tongue.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.7",
+            "verseOrgIds": [
+              "PSA.10.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 10:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He lies in wait near the villages;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.8",
+            "verseOrgIds": [
+              "PSA.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:8"
+      },
+      "items": [
+        {
+          "text": "from ambush he murders the innocent.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.8",
+            "verseOrgIds": [
+              "PSA.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 10:8"
+      },
+      "items": [
+        {
+          "text": "His eyes watch in secret for his victims;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.8",
+            "verseOrgIds": [
+              "PSA.10.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 10:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "like a lion in cover he lies in wait.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.9",
+            "verseOrgIds": [
+              "PSA.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 10:9"
+      },
+      "items": [
+        {
+          "text": "He lies in wait to catch the helpless;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.9",
+            "verseOrgIds": [
+              "PSA.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:9"
+      },
+      "items": [
+        {
+          "text": "he catches the helpless and drags them off in his net.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.9",
+            "verseOrgIds": [
+              "PSA.10.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 10:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "His victims are crushed, they collapse;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.10",
+            "verseOrgIds": [
+              "PSA.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:10"
+      },
+      "items": [
+        {
+          "text": "they fall under his strength.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.10",
+            "verseOrgIds": [
+              "PSA.10.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 10:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "He says to himself, \"God will never notice;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.11",
+            "verseOrgIds": [
+              "PSA.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:11"
+      },
+      "items": [
+        {
+          "text": "he covers his face and never sees.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.11",
+            "verseOrgIds": [
+              "PSA.10.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 10:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Arise,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.12",
+            "verseOrgIds": [
+              "PSA.10.12"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.10.12",
+                "verseOrgIds": [
+                  "PSA.10.12"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "! Lift up your hand, O God.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.12",
+            "verseOrgIds": [
+              "PSA.10.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:12"
+      },
+      "items": [
+        {
+          "text": "Do not forget the helpless.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.12",
+            "verseOrgIds": [
+              "PSA.10.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PSA 10:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Why does the wicked man revile God?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.13",
+            "verseOrgIds": [
+              "PSA.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:13"
+      },
+      "items": [
+        {
+          "text": "Why does he say to himself,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.13",
+            "verseOrgIds": [
+              "PSA.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:13"
+      },
+      "items": [
+        {
+          "text": "\"He won't call me to account\"?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.13",
+            "verseOrgIds": [
+              "PSA.10.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PSA 10:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But you, God, see the trouble of the afflicted;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.14",
+            "verseOrgIds": [
+              "PSA.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:14"
+      },
+      "items": [
+        {
+          "text": "you consider their grief and take it in hand.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.14",
+            "verseOrgIds": [
+              "PSA.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1",
+        "vid": "PSA 10:14"
+      },
+      "items": [
+        {
+          "text": "The victims commit themselves to you;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.14",
+            "verseOrgIds": [
+              "PSA.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:14"
+      },
+      "items": [
+        {
+          "text": "you are the helper of the fatherless.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.14",
+            "verseOrgIds": [
+              "PSA.10.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PSA 10:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Break the arm of the wicked man;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.15",
+            "verseOrgIds": [
+              "PSA.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:15"
+      },
+      "items": [
+        {
+          "text": "call the evildoer to account for his wickedness",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.15",
+            "verseOrgIds": [
+              "PSA.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:15"
+      },
+      "items": [
+        {
+          "text": "that would not otherwise be found out.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.15",
+            "verseOrgIds": [
+              "PSA.10.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PSA 10:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "The",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.16",
+            "verseOrgIds": [
+              "PSA.10.16"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.10.16",
+                "verseOrgIds": [
+                  "PSA.10.16"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "is King for ever and ever;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.16",
+            "verseOrgIds": [
+              "PSA.10.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:16"
+      },
+      "items": [
+        {
+          "text": "the nations will perish from his land.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.16",
+            "verseOrgIds": [
+              "PSA.10.16"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PSA 10:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.17",
+            "verseOrgIds": [
+              "PSA.10.17"
+            ]
+          }
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "nd"
+          },
+          "items": [
+            {
+              "text": "Lord",
+              "type": "text",
+              "attrs": {
+                "verseId": "PSA.10.17",
+                "verseOrgIds": [
+                  "PSA.10.17"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": ", hear the desire of the afflicted;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.17",
+            "verseOrgIds": [
+              "PSA.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:17"
+      },
+      "items": [
+        {
+          "text": "you encourage them, and you listen to their cry,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.17",
+            "verseOrgIds": [
+              "PSA.10.17"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PSA 10:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "defending the fatherless and the oppressed,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.18",
+            "verseOrgIds": [
+              "PSA.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:18"
+      },
+      "items": [
+        {
+          "text": "so that mere earthly mortals",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.18",
+            "verseOrgIds": [
+              "PSA.10.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 10:18"
+      },
+      "items": [
+        {
+          "text": "will never again strike terror.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.10.18",
+            "verseOrgIds": [
+              "PSA.10.18"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.11",
+    "number": "11",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.9",
+    "number": "9",
+    "bookId": "PSA"
+  }
+}

@@ -1,0 +1,837 @@
+{
+  "id": "ACT.14",
+  "number": "14",
+  "bookId": "ACT",
+  "reference": "Matendo 14",
+  "copyright": "Biblica® Toleo Wazi la Neno: Biblia Takatifu™ Hakimiliki © 1984, 1989, 2009, 2015 na Biblica, Inc. Biblica® Open Kiswahili Contemporary Version™ Copyright © 1984, 1989, 2009, 2015 by Biblica, Inc. \"Biblica\" ni alama ya biashara iliyosajiliwa katika Ofisi ya Hataza na Alama za Biashara Marekani (United States Patent and Trademark Office) na shirika la Biblica, Inc. Imetumiwa na ruhusa. \"Biblica\" is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+  "verseCount": 28,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "14",
+        "style": "c",
+        "sid": "ACT 14"
+      },
+      "items": [
+        {
+          "text": "14",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paulo Na Barnaba Huko Ikonio",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "ACT 14:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huko Ikonio Paulo na Barnaba waliingia pamoja katika sinagogi la Wayahudi kama ilivyokuwa desturi yao. Huko wakahubiri kwa uwezo mkubwa kiasi kwamba Wayahudi pamoja na watu wa Mataifa wakaamini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.1",
+            "verseOrgIds": [
+              "ACT.14.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "ACT 14:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini wale Wayahudi waliokataa kuamini, wakawachochea watu wa Mataifa, wakatia chuki ndani ya mioyo yao dhidi ya wale walioamini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.2",
+            "verseOrgIds": [
+              "ACT.14.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "ACT 14:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hivyo Paulo na Barnaba wakakaa huko kwa muda wa kutosha wakihubiri kwa ujasiri juu ya Bwana, ambaye alithibitisha ujumbe wa neema yake kwa kuwawezesha kufanya ishara na miujiza.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.3",
+            "verseOrgIds": [
+              "ACT.14.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "ACT 14:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini watu wa mji ule waligawanyika, wengine wakakubaliana na Wayahudi na wengine na mitume.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.4",
+            "verseOrgIds": [
+              "ACT.14.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "ACT 14:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Watu wa Mataifa na Wayahudi wakajiunga na baadhi ya viongozi, wakafanya mpango wa kuwatendea mitume mabaya na kuwapiga mawe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.5",
+            "verseOrgIds": [
+              "ACT.14.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "ACT 14:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini mitume walipopata habari hizi wakakimbilia Listra na Derbe, miji ya Likaonia na sehemu zilizopakana nayo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.6",
+            "verseOrgIds": [
+              "ACT.14.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "ACT 14:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Huko wakaendelea kuhubiri habari njema.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.7",
+            "verseOrgIds": [
+              "ACT.14.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paulo Na Barnaba Huko Listra",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "ACT 14:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Katika mji wa Listra, alikuwako kiwete, ambaye alikuwa amelemaa tangu kuzaliwa na hakuwa ametembea kamwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.8",
+            "verseOrgIds": [
+              "ACT.14.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "ACT 14:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Alimsikiliza Paulo alipokuwa akihubiri. Paulo alipomtazama akaona ana imani ya kuponywa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.9",
+            "verseOrgIds": [
+              "ACT.14.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "ACT 14:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Paulo akapaza sauti, \"Simama kwa miguu yako!\" Mara yule mtu akasimama upesi akaanza kutembea!",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.10",
+            "verseOrgIds": [
+              "ACT.14.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "ACT 14:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ule umati wa watu ulipoona yaliyokuwa yamefanywa na Paulo, wakapiga kelele kwa lugha yao ya Kilikaonia wakasema, \"Miungu imetushukia katika umbo la binadamu!\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.11",
+            "verseOrgIds": [
+              "ACT.14.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "ACT 14:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakamwita Barnaba Zeu na Paulo wakamwita Herme kwa kuwa ndiye alikuwa msemaji mkuu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.12",
+            "verseOrgIds": [
+              "ACT.14.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "ACT 14:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kuhani wa Zeu, ambaye hekalu lake lilikuwa nje kidogo tu ya mji, akaleta mafahali na mashada ya maua penye lango la mji kwa sababu yeye na ule umati wa watu walitaka kuwatolea dhabihu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.13",
+            "verseOrgIds": [
+              "ACT.14.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "ACT 14:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini mitume Paulo na Barnaba waliposikia haya, wakararua nguo zao, wakawaendea wale watu kwa haraka, wakawapigia kelele, wakisema,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.14",
+            "verseOrgIds": [
+              "ACT.14.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "ACT 14:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "\"Enyi watu, kwa nini mnafanya mambo haya? Sisi ni wanadamu tu kama ninyi! Tunawaletea habari njema, tukiwaambia kwamba mgeuke mtoke katika mambo haya yasiyofaa, mmwelekee Mungu aliye hai, aliyeziumba mbingu na nchi na bahari na vitu vyote vilivyomo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.15",
+            "verseOrgIds": [
+              "ACT.14.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "ACT 14:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Zamani aliwaachia mataifa waishi walivyotaka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.16",
+            "verseOrgIds": [
+              "ACT.14.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "ACT 14:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini hakuacha kuwaonyesha watu uwepo wake: Ameonyesha wema kwa kuwanyeshea mvua toka mbinguni na kuwapa mazao kwa majira yake, naye amewapa chakula tele na kuijaza mioyo yenu na furaha.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.17",
+            "verseOrgIds": [
+              "ACT.14.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "ACT 14:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hata kwa maneno haya yote, ilikuwa vigumu kuuzuia ule umati wa watu kuwatolea dhabihu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.18",
+            "verseOrgIds": [
+              "ACT.14.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "ACT 14:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndipo wakaja baadhi ya Wayahudi kutoka Antiokia na Ikonio wakawashawishi wale watu, wakampiga Paulo kwa mawe, wakamburuta hadi nje ya mji, wakidhani amekufa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.19",
+            "verseOrgIds": [
+              "ACT.14.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "ACT 14:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Lakini baada ya wanafunzi kukusanyika akainuka na kurudi mjini. Kesho yake yeye na Barnaba wakaondoka kwenda Derbe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.20",
+            "verseOrgIds": [
+              "ACT.14.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Paulo Na Barnaba Warudi Antiokia Huko Syria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "ACT 14:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wakahubiri habari njema katika mji huo na kupata wanafunzi wengi. Kisha wakarudi Listra, Ikonio na Antiokia,",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.21",
+            "verseOrgIds": [
+              "ACT.14.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "ACT 14:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "wakiwaimarisha wanafunzi na kuwatia moyo waendelee kudumu katika imani. Wakawaonya wakisema, \"Imetupasa kuingia katika Ufalme wa Mungu kwa kupitia katika taabu nyingi.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.22",
+            "verseOrgIds": [
+              "ACT.14.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "ACT 14:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao baada ya kuwateua wazee katika kila kanisa, kwa kufunga na kuomba wakawakabidhi kwa Bwana waliyemwamini.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.23",
+            "verseOrgIds": [
+              "ACT.14.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "ACT 14:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kisha wakapitia Pisidia wakafika Pamfilia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.24",
+            "verseOrgIds": [
+              "ACT.14.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "ACT 14:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baada ya kuhubiri neno la Mungu huko Perga, wakateremkia Atalia.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.25",
+            "verseOrgIds": [
+              "ACT.14.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "ACT 14:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kutoka Atalia wakasafiri baharini wakarudi Antiokia, ambako walikuwa wamesifiwa kwa ajili ya neema ya Mungu kutokana na ile huduma waliyokuwa wameikamilisha.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.26",
+            "verseOrgIds": [
+              "ACT.14.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "ACT 14:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Walipowasili Antiokia wakaliita kanisa pamoja na kutoa taarifa ya yale yote Mungu aliyokuwa ametenda kupitia kwao na jinsi alivyokuwa amefungua mlango wa imani kwa ajili ya watu wa Mataifa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.27",
+            "verseOrgIds": [
+              "ACT.14.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "ACT 14:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nao wakakaa huko pamoja na wanafunzi kwa muda mrefu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "ACT.14.28",
+            "verseOrgIds": [
+              "ACT.14.28"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "ACT.15",
+    "number": "15",
+    "bookId": "ACT"
+  },
+  "previous": {
+    "id": "ACT.13",
+    "number": "13",
+    "bookId": "ACT"
+  }
+}

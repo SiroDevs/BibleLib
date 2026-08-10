@@ -1,0 +1,559 @@
+{
+  "id": "EST.6",
+  "number": "6",
+  "bookId": "EST",
+  "reference": "Esiteri 6",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 14,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "6",
+        "style": "c",
+        "sid": "EST 6"
+      },
+      "items": [
+        {
+          "text": "6",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omorwoti okoa Moredekai ogosika",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "EST 6:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase obotuko boria omorwoti taraarete chitoro; agachiika arenterwe egetabu kerikire amang’ana ’ebiro ayio arenge gokoreka agwenerete koinyorwa, na amang’ana ayio agasomwa asare.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.1",
+            "verseOrgIds": [
+              "EST.6.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "EST 6:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amang’ana akarorekana ariikire ng’a Moredekai natebeete igoro ya Bigitana na Teresi, abakoreri babere b’omorwoti, abwo barenge korenda egesieri ki’omorwoti, ng’a mbarigetie goita omorwoti Ahaswero.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.2",
+            "verseOrgIds": [
+              "EST.6.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "EST 6:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti akaboria, “Inee! Ngosika ki, gose masikani ki Moredekai akoreirwe ase engencho y’ayio?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.3",
+            "verseOrgIds": [
+              "EST.6.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Abanto b’omorwoti abarenge komokorera, bakamoiraneria, “Tana gokorerwa kende.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.3",
+            "verseOrgIds": [
+              "EST.6.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "EST 6:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omorwoti akaboria, “Ning’o oyio ore ase egoora?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.4",
+            "verseOrgIds": [
+              "EST.6.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Ekaba ng’a Hamani nere orenge gosoa ase egoora isiko y’enyomba y’omorwoti, akwane nomorwoti, erinde achie gotonga Moredekai ase orobambo roria amosimiseretie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.4",
+            "verseOrgIds": [
+              "EST.6.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "EST 6:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio abasomba bagateebia omorwoti, “Hamani oteneine ase egoora.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.5",
+            "verseOrgIds": [
+              "EST.6.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Omorwoti akabateebia, “Moteebie asoe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.5",
+            "verseOrgIds": [
+              "EST.6.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "EST 6:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo Hamani agasoa ime, na omorwoti akamobooria, “Ninki agwenerete akorerwe omonto oria inche omorwoti nanchire gosika?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.6",
+            "verseOrgIds": [
+              "EST.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Hamani akarengereria ase omoyo oye ime, “Ning’o omorwoti anchete gosika kobua inche?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.6",
+            "verseOrgIds": [
+              "EST.6.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "EST 6:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani akairaneria omorwoti, “Oria omorwoti anchete gosika",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.7",
+            "verseOrgIds": [
+              "EST.6.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "EST 6:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "goika arenterwe eanga y’oborwoti, eyio omorwoti abeekire, na ebarasi eyio omorwoti anarete koriina ebekeire egutwa y’oborwoti ase omotwe oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.8",
+            "verseOrgIds": [
+              "EST.6.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "EST 6:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omotang’ani oyomo omonene, na oyobwamasikani oyio ogokorera omorwoti, aegwe eanga eyio na ebarasi eyio. Erio abeekere omonto oyio omorwoti anchete gosika eanga eyio, na amoriinie ase ebarasi eyio, amoetananie ase ekerario ki’omochie, okoraria bosio bwaye amang’ana ayio: iga nabo Omonto oyio omorwoti anchire gosika agokorerwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.9",
+            "verseOrgIds": [
+              "EST.6.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "EST 6:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio omorwoti agateebia Hamani, “Genda bono bwango, oire chianga chiria na ebarasi eria, okorere Moredekai, Omoyahudi oyio ore ase egeita kiane, inche omorwoti, buna gwateba. Tobaisa kweba nonya ne ring’ana erimo ase aria gwateeba.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.10",
+            "verseOrgIds": [
+              "EST.6.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "EST 6:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase igo Hamani akaimokia eanga eria akayebekera Moredekai, na akamoriinia ebarasi igoro, akamoetanania ase ekerario ki’omochie, akaba okoraria bosio bwaye, “iga nabo Omonto oyio omorwoti anchire gosika agokorerwa.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.11",
+            "verseOrgIds": [
+              "EST.6.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "EST 6:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moredekai akairana geita ki’omorwoti, korende Hamani akaayerera gochia bwoye, oichanete na korera, bwetubete omotwe oye.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.12",
+            "verseOrgIds": [
+              "EST.6.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "EST 6:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Hamani agateebia Seresi mokaye, na abasani baye bonsi, kera egento eke kiamonyorete. Erio abanto baye abanyasemi, na Seresi mokaye, bakamoteebia, “Onye Moredekai, oyio aye gwachakire koba inse yaye n’Omoyahudi are tokomonyara; amaene nere orakobue.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.13",
+            "verseOrgIds": [
+              "EST.6.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Hamani ogoitwa ogokwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "EST 6:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero bagendererete gokwana nere, abakoreri b’enyomba y’omorwoti bagacha kwoyia Hamani bakamoira bwango ase endagera eria Esiteri aroisetie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "EST.6.14",
+            "verseOrgIds": [
+              "EST.6.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "EST.7",
+    "number": "7",
+    "bookId": "EST"
+  },
+  "previous": {
+    "id": "EST.5",
+    "number": "5",
+    "bookId": "EST"
+  }
+}

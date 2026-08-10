@@ -1,0 +1,771 @@
+{
+  "id": "PHM.1",
+  "number": "1",
+  "bookId": "PHM",
+  "reference": "Filemoni 1",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 25,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "1",
+        "style": "c",
+        "sid": "PHM 1"
+      },
+      "items": [
+        {
+          "text": "1",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PHM 1:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche Paulo, omosibwa ase engencho ya Kristo Yeso, boigo korwa ase oyominto Timotheo ase Filemoni, omwanchwa oito, omokori emeremo amo naintwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.1",
+            "verseOrgIds": [
+              "PHM.1.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PHM 1:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na abanto b’ekanisa ekoumerana ase enyomba yao, naboigo Apia, mosubati ominto, na Arikipo, omorwani ore amo naintwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.2",
+            "verseOrgIds": [
+              "PHM.1.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PHM 1:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tiga Nyasae tata oito na Omonene Yeso Kristo abae obuya na omorembe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.3",
+            "verseOrgIds": [
+              "PHM.1.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obwanchani bwa Filemoni na okwegena kwaye",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PHM 1:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Oyominto Filemoni, ase ogosaba kwane botambe nigo ngoakera Nyasae one ng’a mbuya mono ekero ngokoinyora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.4",
+            "verseOrgIds": [
+              "PHM.1.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PHM 1:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ayio nase engencho nkoigwa amang’ana igoro y’obwanchani bwao ase abanto bonsi b’Omonene, na okwegena kwao obwate ase Omonene Yeso.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.5",
+            "verseOrgIds": [
+              "PHM.1.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PHM 1:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nasabire ng’a okobwatana gw’okwegena tore nakorokwo gokore emeremo, erinde omanye mono kobua kera egento ogosesenigwa kore ase tore intwe ase okobwatana na Kristo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.6",
+            "verseOrgIds": [
+              "PHM.1.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PHM 1:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki oyominto, nigo nabeete nomogooko omonge na okoremigwa ase engencho y’obwanchani bwao! Chinkoro chi’abaanto b’Omonene bonsi chiasasokire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.7",
+            "verseOrgIds": [
+              "PHM.1.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Paulo ogosabera Onesimo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PHM 1:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ase ayio, ninde noboremu obonge buna momura omino ase Kristo kogochika eri ogwenerete okore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.8",
+            "verseOrgIds": [
+              "PHM.1.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PHM 1:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ase engencho y’obwanchani bwane ase ore, nanchire kobua kogosorora, buna inche Paulo inde omotomwa, naende inde omosibwa o Kristo Yeso.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.9",
+            "verseOrgIds": [
+              "PHM.1.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PHM 1:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nagosoroire ase ribaga riaye omwana one ase Kristo, Onesimo oyio ekero nare ase egesibo kiane, obete omwana one kemoika.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.10",
+            "verseOrgIds": [
+              "PHM.1.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PHM 1:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agwo kare tarenge taisainegento kende ase ore, korende bono obeire oyo bw’engeencho mono ase ore nainche boigo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.11",
+            "verseOrgIds": [
+              "PHM.1.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PHM 1:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere namotomire gocha ase ore, na nigo enga buna nigo abogoretie enkoro yane.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.12",
+            "verseOrgIds": [
+              "PHM.1.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "PHM 1:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki inche nigo narenge kogania abeere aiga amo nainche ase nsibire ase engencho y’enchiri, erinde anyare gonkorera ribaga riao.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.13",
+            "verseOrgIds": [
+              "PHM.1.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "PHM 1:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende tindigeti okore ing’ana rinde rionsi ase ogokobetereria erio aye onkoonye, korende erio ebe ase ogwancha kwao aye omonyene. Inche tinkonyara gokora ing’ana rinde rionsi otatiga aye gwancheranire narirorio.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.14",
+            "verseOrgIds": [
+              "PHM.1.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "PHM 1:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aande nakio kiagerete Onesimo agaatananwa korwa ase ore ase ekero egeke, erinde airane koba ase ore ase ebiro bionsi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.15",
+            "verseOrgIds": [
+              "PHM.1.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "PHM 1:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende ere bono tari buna omosomba, korende goetania omosomba; buna oyominto omwanchwa, ase Kristo. Asende mono, na ase ore mono kobua, buna omosomba, naende buna oyominto ase Omonene!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.16",
+            "verseOrgIds": [
+              "PHM.1.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "PHM 1:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gaki, onye kondengereretie inche buna omobwatani oo, omooroisie koreng’ana buna kware kondoisia inche.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.17",
+            "verseOrgIds": [
+              "PHM.1.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "PHM 1:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Onye okomocheire ase ing’ana rinde rionsi, gose okoriete esira, oyeborie goetera ase ’nde.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.18",
+            "verseOrgIds": [
+              "PHM.1.18"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "PHM 1:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Inche Paulo nariikire aya nokoboko kwane omonyene, ning’akane. Amaene, ninyare kogoteebia, ng’a nore nesira ase ’nde, ase obogima bwao aye omonyene.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.19",
+            "verseOrgIds": [
+              "PHM.1.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "PHM 1:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ee, oyominto, ninganetie obokonyi bokorwa ase ore, ekiagera noyo bw’Omonene ore. Buna oyominto ase Kristo, ong’e omoyo!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.20",
+            "verseOrgIds": [
+              "PHM.1.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "PHM 1:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ninde nobomaene aiga buna ngokoriikera aya, ng’a nokore buna nagosabire ekiagera nomoigweri ore, naende ase ayio nimanyete ng’a nokore goetania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.21",
+            "verseOrgIds": [
+              "PHM.1.21"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "PHM 1:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Amo nayio, ondoiserie aase ngocha komenya, naki ninsemeretie ng’a Omonene Nyasae nayairanerie goetera ase ogosaba kwaino mwensi erio imbe nainwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.22",
+            "verseOrgIds": [
+              "PHM.1.22"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Amakwania y’ogokoorera",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "PHM 1:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Epafara, oyosibire amo nainche ase engencho ya Kristo Yeso, ogokwanirie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.23",
+            "verseOrgIds": [
+              "PHM.1.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "PHM 1:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Boigo Mariko na Aristariko, na Dema, na Luka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.24",
+            "verseOrgIds": [
+              "PHM.1.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "PHM 1:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Obuya bw’Omonene oito Yeso Kristo bobe amo nainwe mwensi.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PHM.1.25",
+            "verseOrgIds": [
+              "PHM.1.25"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "HEB.intro",
+    "number": "intro",
+    "bookId": "HEB"
+  },
+  "previous": {
+    "id": "PHM.intro",
+    "number": "intro",
+    "bookId": "PHM"
+  }
+}

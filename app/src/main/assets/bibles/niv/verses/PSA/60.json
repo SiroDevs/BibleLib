@@ -1,0 +1,810 @@
+{
+  "id": "PSA.60",
+  "number": "60",
+  "bookId": "PSA",
+  "reference": "Psalm 60",
+  "copyright": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide.",
+  "verseCount": 12,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "60",
+        "style": "c",
+        "sid": "PSA 60"
+      },
+      "items": [
+        {
+          "text": "60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "cl"
+      },
+      "items": [
+        {
+          "text": "Psalm 60",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "d"
+      },
+      "items": [
+        {
+          "text": "For the director of music. To the tune of \"The Lily of the Covenant.\" A",
+          "type": "text"
+        },
+        {
+          "name": "char",
+          "type": "tag",
+          "attrs": {
+            "style": "tl"
+          },
+          "items": [
+            {
+              "text": "miktam",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "of David. For teaching. When he fought Aram Naharaim",
+          "type": "text"
+        },
+        {
+          "text": "and Aram Zobah,",
+          "type": "text"
+        },
+        {
+          "text": "and when Joab returned and struck down twelve thousand Edomites in the Valley of Salt.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "PSA 60:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have rejected us, God, and burst upon us;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.1",
+            "verseOrgIds": [
+              "PSA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:1"
+      },
+      "items": [
+        {
+          "text": "you have been angry—now restore us!",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.1",
+            "verseOrgIds": [
+              "PSA.60.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "PSA 60:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have shaken the land and torn it open;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.2",
+            "verseOrgIds": [
+              "PSA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:2"
+      },
+      "items": [
+        {
+          "text": "mend its fractures, for it is quaking.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.2",
+            "verseOrgIds": [
+              "PSA.60.4"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "PSA 60:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "You have shown your people desperate times;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.3",
+            "verseOrgIds": [
+              "PSA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:3"
+      },
+      "items": [
+        {
+          "text": "you have given us wine that makes us stagger.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.3",
+            "verseOrgIds": [
+              "PSA.60.5"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "PSA 60:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "But for those who fear you, you have raised a banner",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.4",
+            "verseOrgIds": [
+              "PSA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:4"
+      },
+      "items": [
+        {
+          "text": "to be unfurled against the bow.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.4",
+            "verseOrgIds": [
+              "PSA.60.6"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "PSA 60:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Save us and help us with your right hand,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.5",
+            "verseOrgIds": [
+              "PSA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:5"
+      },
+      "items": [
+        {
+          "text": "that those you love may be delivered.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.5",
+            "verseOrgIds": [
+              "PSA.60.7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "PSA 60:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "God has spoken from his sanctuary:",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:6"
+      },
+      "items": [
+        {
+          "text": "\"In triumph I will parcel out Shechem",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:6"
+      },
+      "items": [
+        {
+          "text": "and measure off the Valley of Sukkoth.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.6",
+            "verseOrgIds": [
+              "PSA.60.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "PSA 60:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Gilead is mine, and Manasseh is mine;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:7"
+      },
+      "items": [
+        {
+          "text": "Ephraim is my helmet,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:7"
+      },
+      "items": [
+        {
+          "text": "Judah is my scepter.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.7",
+            "verseOrgIds": [
+              "PSA.60.9"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "PSA 60:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Moab is my washbasin,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:8"
+      },
+      "items": [
+        {
+          "text": "on Edom I toss my sandal;",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:8"
+      },
+      "items": [
+        {
+          "text": "over Philistia I shout in triumph.\"",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.8",
+            "verseOrgIds": [
+              "PSA.60.10"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "b"
+      },
+      "items": []
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "PSA 60:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Who will bring me to the fortified city?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.9",
+            "verseOrgIds": [
+              "PSA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:9"
+      },
+      "items": [
+        {
+          "text": "Who will lead me to Edom?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.9",
+            "verseOrgIds": [
+              "PSA.60.11"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "PSA 60:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Is it not you, God, you who have now rejected us",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.10",
+            "verseOrgIds": [
+              "PSA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:10"
+      },
+      "items": [
+        {
+          "text": "and no longer go out with our armies?",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.10",
+            "verseOrgIds": [
+              "PSA.60.12"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "PSA 60:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Give us aid against the enemy,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.11",
+            "verseOrgIds": [
+              "PSA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:11"
+      },
+      "items": [
+        {
+          "text": "for human help is worthless.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.11",
+            "verseOrgIds": [
+              "PSA.60.13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q1"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "PSA 60:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "With God we will gain the victory,",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.12",
+            "verseOrgIds": [
+              "PSA.60.14"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "q2",
+        "vid": "PSA 60:12"
+      },
+      "items": [
+        {
+          "text": "and he will trample down our enemies.",
+          "type": "text",
+          "attrs": {
+            "verseId": "PSA.60.12",
+            "verseOrgIds": [
+              "PSA.60.14"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "PSA.61",
+    "number": "61",
+    "bookId": "PSA"
+  },
+  "previous": {
+    "id": "PSA.59",
+    "number": "59",
+    "bookId": "PSA"
+  }
+}

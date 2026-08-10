@@ -1,0 +1,456 @@
+{
+  "id": "1TI.4",
+  "number": "4",
+  "bookId": "1TI",
+  "reference": "1 Timotheo 4",
+  "verseCount": 16,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "4",
+        "style": "c",
+        "sid": "1TI 4"
+      },
+      "items": [
+        {
+          "text": "4",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s1"
+      },
+      "items": [
+        {
+          "text": "Mataaro kũrĩ Timotheo",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "1TI 4:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na rĩrĩ, Roho nĩoigaga atekũhithĩrĩra atĩ matukũ ma thuutha andũ amwe nĩmagatiganĩria wĩtĩkio na marũmĩrĩre maaroho marĩa maheenanagia o na maũndũ marĩa marutanagwo nĩ ndaimono.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.1",
+            "verseOrgIds": [
+              "1TI.4.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "1TI 4:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Morutani ta macio mahunjagio nĩ andũ arĩa marĩ ũhinga, arĩa maaragia maheeni, na arĩa thamiri ciao ihaana ta icinĩtwo na ruoro.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.2",
+            "verseOrgIds": [
+              "1TI.4.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "1TI 4:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Acio nĩo makaanagia andũ kũhikania na makameera megirĩrĩrie kũrĩĩaga irio cia mĩthemba ĩmwe, iria Ngai oombire nĩguo ciamũkagĩrwo na ngaatho nĩ arĩa metĩkĩtie na arĩa moĩ ũhoro-ũrĩa-wa-ma.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.3",
+            "verseOrgIds": [
+              "1TI.4.3"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "1TI 4:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Tondũ-rĩ, kĩrĩa gĩothe Ngai oombire nĩ kĩega, na gũtirĩ kĩndũ kĩagĩrĩirwo nĩkũregwo angĩkorwo kĩamũkĩrĩtwo na ngaatho,",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.4",
+            "verseOrgIds": [
+              "1TI.4.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "1TI 4:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "tondũ nĩkĩrĩkĩtie gũtherio nĩ kiugo kĩa Ngai na mahooya.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.5",
+            "verseOrgIds": [
+              "1TI.4.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "1TI 4:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũngĩruta ariũ na aarĩ a Ithe witũ maũndũ maya-rĩ, nĩũgũtuĩka ndungata njega ya Kristũ Jesũ, ĩrĩa ĩreretwo na ciugo cia ũhoro-ũrĩa-wa-ma wa wĩtĩkio o na cia ũrutani mwega ũrĩa wee ũtũire ũrũmĩrĩire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.6",
+            "verseOrgIds": [
+              "1TI.4.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "1TI 4:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Reganaga na ngʼano cia tũhũ iria itarĩ cia gũtĩĩithia Ngai, o na ngʼano ta iria iganagwo nĩ iheti; nĩ kaba wĩmenyerie gũikara wĩyamũrĩire Ngai.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.7",
+            "verseOrgIds": [
+              "1TI.4.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "1TI 4:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Nĩgũkorwo gwĩka maũndũ ma gwĩkĩra mwĩrĩ hinya nĩ ũrĩ bata waguo, no kwĩyamũrĩra Ngai kũrĩ bata harĩ maũndũ mothe, nĩ ũndũ kũrehaga kĩĩrĩgĩrĩro muoyo-inĩ ũyũ tũrĩ o na muoyo-inĩ ũrĩa ũgooka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.8",
+            "verseOrgIds": [
+              "1TI.4.8"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "1TI 4:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ũhoro ũyũ nĩguo wa kwĩhokeka na nĩwagĩrĩire gwĩtĩkĩrĩka o biũ",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.9",
+            "verseOrgIds": [
+              "1TI.4.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "1TI 4:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "(na ũhoro ũcio nĩguo ũtũmaga twĩrutanagĩrie na twĩnogagie), na tũkaiga mwĩhoko witũ harĩ Ngai ũrĩa ũrĩ muoyo, ũrĩa arĩ we Mũhonokia wa andũ othe, na makĩria arĩa metĩkĩtie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.10",
+            "verseOrgIds": [
+              "1TI.4.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "1TI 4:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Athanaga atĩ maũndũ macio mekagwo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.11",
+            "verseOrgIds": [
+              "1TI.4.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "1TI 4:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndũkanareke mũndũ o na ũrĩkũ akũire tondũ atĩ wĩ mũndũ mwĩthĩ, no tuĩka kĩonereria kũrĩ andũ arĩa metĩkĩtie rĩrĩa ũkwaria, na ha ũhoro wa mũtũũrĩre, na wa wendani, o na ha wĩtĩkio, na ha ũhoro wa mĩtugo mĩtheru.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.12",
+            "verseOrgIds": [
+              "1TI.4.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "1TI 4:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Wĩheane gũthomagĩra andũ Maandĩko marĩa matheru, na kũhunjia, na kũrutana, o nginya rĩrĩa ngooka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.13",
+            "verseOrgIds": [
+              "1TI.4.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "1TI 4:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndũkanaage kũhũthĩra kĩheo gĩaku kĩrĩa waheirwo na ũndũ wa mohoro marĩa maarathirwo, rĩrĩa athuuri maakũigĩrĩire moko.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.14",
+            "verseOrgIds": [
+              "1TI.4.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "1TI 4:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ĩkagĩra kĩyo harĩ maũndũ macio; wĩheane kũna kũrĩ mo, nĩgeetha andũ othe monage ũrĩa ũrathiĩ na mbere.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.15",
+            "verseOrgIds": [
+              "1TI.4.15"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "1TI 4:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Menyagĩrĩra wega mũtũũrĩre waku na ũrutani waku. Kiragĩrĩria thĩinĩ wa maũndũ macio, tondũ weka ũguo, nĩũkwĩhonokia wee mwene na ũhonokie o na arĩa magũthikagĩrĩria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "1TI.4.16",
+            "verseOrgIds": [
+              "1TI.4.16"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "1TI.5",
+    "number": "5",
+    "bookId": "1TI"
+  },
+  "previous": {
+    "id": "1TI.3",
+    "number": "3",
+    "bookId": "1TI"
+  }
+}

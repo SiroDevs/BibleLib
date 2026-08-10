@@ -1,0 +1,1841 @@
+{
+  "id": "LUK.8",
+  "number": "8",
+  "bookId": "LUK",
+  "reference": "Luka 8",
+  "copyright": "© 2021 KENBS",
+  "verseCount": 56,
+  "content": [
+    {
+      "name": "chapter",
+      "type": "tag",
+      "attrs": {
+        "number": "8",
+        "style": "c",
+        "sid": "LUK 8"
+      },
+      "items": [
+        {
+          "text": "8",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Abakungu abatunyanete Yeso",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "1",
+            "style": "v",
+            "sid": "LUK 8:1"
+          },
+          "items": [
+            {
+              "text": "1",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Magega ase aya, akaba ngoetanana are ase emechie na ebichie, okorandia na kobateebia amang’ana amaya ay’oborwoti bwa Nyasae. Na baria ikomi na babere nigo barenge amo nere,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.1",
+            "verseOrgIds": [
+              "LUK.8.1"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "2",
+            "style": "v",
+            "sid": "LUK 8:2"
+          },
+          "items": [
+            {
+              "text": "2",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na abakungu bande ababwatire n’emeika emebe bakagwenigwa nere: Mariamu ore korokwa Magidalena, oria orusetigwe ebirecha bitano na bibere,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.2",
+            "verseOrgIds": [
+              "LUK.8.2"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "3",
+            "style": "v",
+            "sid": "LUK 8:3"
+          },
+          "items": [
+            {
+              "text": "3",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "na Yoana moka Kusa, omorendi bwe Herode, na Susana, na abande abange. Abwo nigo barenge kobakorera ne chinibo chiabo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.3",
+            "verseOrgIds": [
+              "LUK.8.3"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omoreng’anio bw’omobusuri",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 13:1-9; Mar 4:1-9)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "4",
+            "style": "v",
+            "sid": "LUK 8:4"
+          },
+          "items": [
+            {
+              "text": "4",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekero omoganda omonene osangererekanete, na abanto ba kera omochie bakamochiera, agakwana ase omoreng’anio:",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.4",
+            "verseOrgIds": [
+              "LUK.8.4"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "5",
+            "style": "v",
+            "sid": "LUK 8:5"
+          },
+          "items": [
+            {
+              "text": "5",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omobusuri akamanora kogenda kobusura embusuro yaye: Ekero akobusura, echinde chikagwa enchera ensemo, chigatiringwa namagoro, chinyoni chia igoro chigachiria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.5",
+            "verseOrgIds": [
+              "LUK.8.5"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "6",
+            "style": "v",
+            "sid": "LUK 8:6"
+          },
+          "items": [
+            {
+              "text": "6",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na echinde chikagwa ase egetare, chikamera, chikooma ase okomocha amaache.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.6",
+            "verseOrgIds": [
+              "LUK.8.6"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "7",
+            "style": "v",
+            "sid": "LUK 8:7"
+          },
+          "items": [
+            {
+              "text": "7",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na echinde chikagwa ase amagwa ime, na amagwa aria agakina amo na chirochio, agachimiga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.7",
+            "verseOrgIds": [
+              "LUK.8.7"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "8",
+            "style": "v",
+            "sid": "LUK 8:8"
+          },
+          "items": [
+            {
+              "text": "8",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na echinde chikagwa ase amaroba amaya, chikamera, chikama rigana.” Ekero are kobateebia aya, agaaka eriogi, akabora, “Oyore namato akoigwera, tiga aigwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.8",
+            "verseOrgIds": [
+              "LUK.8.8"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Ogotebereria kw’omoreng’anio oria",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 13:10-23; Mar 4:10-20)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "9",
+            "style": "v",
+            "sid": "LUK 8:9"
+          },
+          "items": [
+            {
+              "text": "9",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Aborokigwa baye bakamobooria, “Omoreng’anio oyio ninki ogoteeba?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.9",
+            "verseOrgIds": [
+              "LUK.8.9"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "10",
+            "style": "v",
+            "sid": "LUK 8:10"
+          },
+          "items": [
+            {
+              "text": "10",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agateeba, “Inwe mwaeirwe komanya obobisi bw’oborwoti bwa Nyasae; korende abande nabateebigwe ase emereng’anio, erinde okong’ereria bariingererie, korende tibarora, naende ogotegerera bategerere, korende tibaigwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.10",
+            "verseOrgIds": [
+              "LUK.8.10"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "11",
+            "style": "v",
+            "sid": "LUK 8:11"
+          },
+          "items": [
+            {
+              "text": "11",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omoreng’anio noro oyo: Embusuro nering’ana ria Nyasae.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.11",
+            "verseOrgIds": [
+              "LUK.8.11"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "12",
+            "style": "v",
+            "sid": "LUK 8:12"
+          },
+          "items": [
+            {
+              "text": "12",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Baria b’enchera ensemo, nabwo baikire koriigwa; erio Saitani ochicha, na korusia ring’ana riria ase chinkoro chiabo, erinde tibacha kwegena batooreke.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.12",
+            "verseOrgIds": [
+              "LUK.8.12"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "13",
+            "style": "v",
+            "sid": "LUK 8:13"
+          },
+          "items": [
+            {
+              "text": "13",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na baria bare ase egetare nabwo baria bakoigwa ring’ana, baribwata nomogooko, korende barabwo tibari nemeri, begena ase ekero egeke, na ekero ki’ogoteemwa beatanana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.13",
+            "verseOrgIds": [
+              "LUK.8.13"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "14",
+            "style": "v",
+            "sid": "LUK 8:14"
+          },
+          "items": [
+            {
+              "text": "14",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na echio chiagwete ase amagwa, aba nabwo bakoriigwa, na barabwo kobakogenderera bamigwa nokorengereria kw’enibo, na omogooko bw’ense eye, tibakwama ase ogoikerania.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.14",
+            "verseOrgIds": [
+              "LUK.8.14"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "15",
+            "style": "v",
+            "sid": "LUK 8:15"
+          },
+          "items": [
+            {
+              "text": "15",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na echinde chire ase amaroba amaya; aba nabwo bare ne chinkoro chingiya naende echi’ekeene, bakoigwa ring’ana, baribwata, bama okwama noboremereria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.15",
+            "verseOrgIds": [
+              "LUK.8.15"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Okworokereria korwa ase etaya",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 4:21-25)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "16",
+            "style": "v",
+            "sid": "LUK 8:16"
+          },
+          "items": [
+            {
+              "text": "16",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Omonto onde tari ogotongia etaya na koyemumeka negento, gose koyebeeka nyaro y’oborere; korende nigo akoyebeeka igoro ase ekebekerero kiaye, erinde abagosoa barore oborabu.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.16",
+            "verseOrgIds": [
+              "LUK.8.16"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "17",
+            "style": "v",
+            "sid": "LUK 8:17"
+          },
+          "items": [
+            {
+              "text": "17",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ekiagera ring’ana tiriri ribisegete, ritache koorokigwa, gose eria bobisi ritache komanyekana maiso marore.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.17",
+            "verseOrgIds": [
+              "LUK.8.17"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "18",
+            "style": "v",
+            "sid": "LUK 8:18"
+          },
+          "items": [
+            {
+              "text": "18",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Mwerende gaki inwe buna mokoigwa, ekiagera ere oyobwate naegwe, korende oyotabwati, naurwe nonya nkeria arengereretie abwate.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.18",
+            "verseOrgIds": [
+              "LUK.8.18"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Obomwabo bw’ekeene",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 12:46-50; Mar 3:31-35)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "19",
+            "style": "v",
+            "sid": "LUK 8:19"
+          },
+          "items": [
+            {
+              "text": "19",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ng’ina na bamura bamwabo bakamochiera, korende tibanyara komoika ang’e ase engencho y’omoganda.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.19",
+            "verseOrgIds": [
+              "LUK.8.19"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "20",
+            "style": "v",
+            "sid": "LUK 8:20"
+          },
+          "items": [
+            {
+              "text": "20",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akairerwa amang’ana agateebigwa, “Nyoko na bamura bamino mbateneine isiko, baganetie kororana naye.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.20",
+            "verseOrgIds": [
+              "LUK.8.20"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "21",
+            "style": "v",
+            "sid": "LUK 8:21"
+          },
+          "items": [
+            {
+              "text": "21",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende akabateebia, “Baba na bamura baminto nabwo aba abakoigwa ring’ana ria Nyasae na korikora.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.21",
+            "verseOrgIds": [
+              "LUK.8.21"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yeso ogotoereria omwaga",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 8:23-27; Mar 4:35-41)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "22",
+            "style": "v",
+            "sid": "LUK 8:22"
+          },
+          "items": [
+            {
+              "text": "22",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Rituko erimo akariina obwato, ere na aborokigwa baye, akabateebia, “Twamboke gochia ng’umbu y’enyancha.” Bakamanora.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.22",
+            "verseOrgIds": [
+              "LUK.8.22"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "23",
+            "style": "v",
+            "sid": "LUK 8:23"
+          },
+          "items": [
+            {
+              "text": "23",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Kobachia kogenda, akarara chitoro; omwaga ogaacha, na emerindo ase enyancha, obwato bogaachaka goichorwa namaache, bakaba ase emechando.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.23",
+            "verseOrgIds": [
+              "LUK.8.23"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "24",
+            "style": "v",
+            "sid": "LUK 8:24"
+          },
+          "items": [
+            {
+              "text": "24",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakamochiera, bakamotura, bakaboora, “Omonene Nyasae, ngosira tore!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.24",
+            "verseOrgIds": [
+              "LUK.8.24"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Erio ere akaboka, agatogonyera omwaga na emerindo y’amaache, na birobio bigakira, gokaba ogotoerera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.24",
+            "verseOrgIds": [
+              "LUK.8.24"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "25",
+            "style": "v",
+            "sid": "LUK 8:25"
+          },
+          "items": [
+            {
+              "text": "25",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akabateebia, “Okwegena kwaino, ng’ai kore?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.25",
+            "verseOrgIds": [
+              "LUK.8.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Bakairoka, bagakumia bagateebania, “Oyo nere ng’o, ogochika nonya nomwaga na enyancha, bikomoigwera?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.25",
+            "verseOrgIds": [
+              "LUK.8.25"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Yeso okogwenia Omogeraseni obwatire nebirecha",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 8:28-34; Mar 5:1-20)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "26",
+            "style": "v",
+            "sid": "LUK 8:26"
+          },
+          "items": [
+            {
+              "text": "26",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bagaika engegu y’ense y’Abageraseni, erigereretie Galili.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.26",
+            "verseOrgIds": [
+              "LUK.8.26"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "27",
+            "style": "v",
+            "sid": "LUK 8:27"
+          },
+          "items": [
+            {
+              "text": "27",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agachia goika engegu, akaumerana nomonto oyomo bw’omochie oria, obwatire nebirecha; na ase amatuko amange tarenge kweboyia chianga, tarenge komenya nyomba, otatiga ase chimbeera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.27",
+            "verseOrgIds": [
+              "LUK.8.27"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "28",
+            "style": "v",
+            "sid": "LUK 8:28"
+          },
+          "items": [
+            {
+              "text": "28",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agachia korora Yeso, agaaka egeturi, akagwa ase obosio bwaye, agakwana neriogi rinene, okobora, “Inaki inde naye, Yeso, Omwana o Nyasae Ore Igoro Mono? Nagosabire, tonchanda.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.28",
+            "verseOrgIds": [
+              "LUK.8.28"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "29",
+            "style": "v",
+            "sid": "LUK 8:29"
+          },
+          "items": [
+            {
+              "text": "29",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naki konya ochikiire ekerecha keria ki’eubi gesoke korwa ase omonto oria. (Ekiagera ebiro ebinge nigo kiare komobwata; nonya orenge gosibwa nebinyuri ne chingataare na korendwa, nigo arenge kobutora ebisibo biria oirwa nekerecha keria goika ase erooro.)",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.29",
+            "verseOrgIds": [
+              "LUK.8.29"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "30",
+            "style": "v",
+            "sid": "LUK 8:30"
+          },
+          "items": [
+            {
+              "text": "30",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso akamobooria, “Naki okorokwa?”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.30",
+            "verseOrgIds": [
+              "LUK.8.30"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Akairaneria, “Elegioni”, ekiagera ebirecha ebinge biamosoete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.30",
+            "verseOrgIds": [
+              "LUK.8.30"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "31",
+            "style": "v",
+            "sid": "LUK 8:31"
+          },
+          "items": [
+            {
+              "text": "31",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bikamosorora tabichika bigende goika ase eora entambe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.31",
+            "verseOrgIds": [
+              "LUK.8.31"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "32",
+            "style": "v",
+            "sid": "LUK 8:32"
+          },
+          "items": [
+            {
+              "text": "32",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ndiarengeo riicho rinene rie chimbeche, chiare korisia ase egetunwa, bikamosorora abie ribaga bichisoe. Akabia ribaga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.32",
+            "verseOrgIds": [
+              "LUK.8.32"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "33",
+            "style": "v",
+            "sid": "LUK 8:33"
+          },
+          "items": [
+            {
+              "text": "33",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ebirecha biria bigasoka korwa ase omonto oria, bigasoa chimbeche. Riicho riria rigatirimboka bwango gochia ase egeturunkano goika chikagwa enyancha ime, chikarimera.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.33",
+            "verseOrgIds": [
+              "LUK.8.33"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "34",
+            "style": "v",
+            "sid": "LUK 8:34"
+          },
+          "items": [
+            {
+              "text": "34",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abarisia bagachia korora ayio, bagatama, bakararia amang’ana ase omochie na ebichie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.34",
+            "verseOrgIds": [
+              "LUK.8.34"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "35",
+            "style": "v",
+            "sid": "LUK 8:35"
+          },
+          "items": [
+            {
+              "text": "35",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abanto bagasoka barore amang’ana aorokire; bagachiera Yeso, bakarora omonto oria orusetigwe ebirecha biria oikaransete ase amagoro a Yeso obegete chianga, ore nebirengererio ebironge, bakairoka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.35",
+            "verseOrgIds": [
+              "LUK.8.35"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "36",
+            "style": "v",
+            "sid": "LUK 8:36"
+          },
+          "items": [
+            {
+              "text": "36",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na baria bayaroche bakabateebia buna oria obwatire nebirecha agwenetigwe.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.36",
+            "verseOrgIds": [
+              "LUK.8.36"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "37",
+            "style": "v",
+            "sid": "LUK 8:37"
+          },
+          "items": [
+            {
+              "text": "37",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naboigo abanto bonsi b’ense y’Abageraseni bakamobooria arue ase bare, ekiagera basoetwe nokoiroka okonene. Erio akariina obwato, akairana.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.37",
+            "verseOrgIds": [
+              "LUK.8.37"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "38",
+            "style": "v",
+            "sid": "LUK 8:38"
+          },
+          "items": [
+            {
+              "text": "38",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na omonto oria orusetigwe ebirecha akamosorora abe amo nere, korende Yeso akamokania, akabora,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.38",
+            "verseOrgIds": [
+              "LUK.8.38"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "39",
+            "style": "v",
+            "sid": "LUK 8:39"
+          },
+          "items": [
+            {
+              "text": "39",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "“Irana nka bwoo orarie amang’ana amanene aya Nyasae agokoreire.” Akagenda bwoye, akararia ase omochie omogima amang’ana amanene aya Yeso amokoreire.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.39",
+            "verseOrgIds": [
+              "LUK.8.39"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "s"
+      },
+      "items": [
+        {
+          "text": "Omoiseke o Yairo okobokigwa, na omokungu oyorenge noborwaire bw’okorua amanyinga okogwenigwa",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "r"
+      },
+      "items": [
+        {
+          "text": "(Mat 9:18-26; Mar 5:21-43)",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "40",
+            "style": "v",
+            "sid": "LUK 8:40"
+          },
+          "items": [
+            {
+              "text": "40",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso agachia koirana, omosangererekano okamogokera, ekiagera abanto bonsi bamoganyete.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.40",
+            "verseOrgIds": [
+              "LUK.8.40"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "41",
+            "style": "v",
+            "sid": "LUK 8:41"
+          },
+          "items": [
+            {
+              "text": "41",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omonto oyomo, erieta riaye Yairo, omotang’ani bw’esinagogi, agacha, akagwa ase amagoro a Yeso, akamosorora asoe nyomba mwaye,",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.41",
+            "verseOrgIds": [
+              "LUK.8.41"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "42",
+            "style": "v",
+            "sid": "LUK 8:42"
+          },
+          "items": [
+            {
+              "text": "42",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "ekiagera narenge nomoiseke, omwana omomoima, konya okoorire emiaka ikomi na ebere, na ere nigo arenge ang’e ogokwa.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.42",
+            "verseOrgIds": [
+              "LUK.8.42"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "text": "Ekero Yeso arenge kogenda abanto bakaba bakomomiga‐miga.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.42",
+            "verseOrgIds": [
+              "LUK.8.42"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "43",
+            "style": "v",
+            "sid": "LUK 8:43"
+          },
+          "items": [
+            {
+              "text": "43",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Naende omokungu oyomo oyorenge noborwaire bw’okorua amanyinga ase engaki y’emiaka ikomi na ebere, konya oonirie ebinto bionsi ebiarenge nabio ase abarwaria, tanyara kogwenigwa nonde.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.43",
+            "verseOrgIds": [
+              "LUK.8.43"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "44",
+            "style": "v",
+            "sid": "LUK 8:44"
+          },
+          "items": [
+            {
+              "text": "44",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Ere agatunyana Yeso korwa magega, agakuna omokoba bw’eanga yaye; erio kegima amanyinga aye agakama.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.44",
+            "verseOrgIds": [
+              "LUK.8.44"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "45",
+            "style": "v",
+            "sid": "LUK 8:45"
+          },
+          "items": [
+            {
+              "text": "45",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso akabooria, “Ning’o onkuna?” Ekero abanto bonsi bagakana, Petero na baria barenge amo nere bakamoteebia, “Omonene, omoganda nigo ogoetanaine na gokomiga.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.45",
+            "verseOrgIds": [
+              "LUK.8.45"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "46",
+            "style": "v",
+            "sid": "LUK 8:46"
+          },
+          "items": [
+            {
+              "text": "46",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso agateeba, “Omonto onkunire, ekiagera naigure ng’a chinguru chiandure.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.46",
+            "verseOrgIds": [
+              "LUK.8.46"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "47",
+            "style": "v",
+            "sid": "LUK 8:47"
+          },
+          "items": [
+            {
+              "text": "47",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omokungu oria ekero achia korora ng’a tabisekaneti, agacha okoiguswa, akamogwera, na ase amasio ’abaanto bonsi akamworokia engencho yagera omokuna, naende buna agwenetigwe ara rimo.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.47",
+            "verseOrgIds": [
+              "LUK.8.47"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "48",
+            "style": "v",
+            "sid": "LUK 8:48"
+          },
+          "items": [
+            {
+              "text": "48",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Akamoteebia, “Omoiseke one, okwegena kwao gwakogwenirie; genda nomorembe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.48",
+            "verseOrgIds": [
+              "LUK.8.48"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "49",
+            "style": "v",
+            "sid": "LUK 8:49"
+          },
+          "items": [
+            {
+              "text": "49",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Erio kagokwana, omonto agacha korwa ase enyomba y’oria omotang’ani bw’esinagogi, akamoteebia, “Enyaroka yao yakuure, torosia omworokia naende.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.49",
+            "verseOrgIds": [
+              "LUK.8.49"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "50",
+            "style": "v",
+            "sid": "LUK 8:50"
+          },
+          "items": [
+            {
+              "text": "50",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Yeso agachia koigwa aya, erio akamoiraneria, “Toiroka; egene rioka, ere nagwenigwe.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.50",
+            "verseOrgIds": [
+              "LUK.8.50"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "51",
+            "style": "v",
+            "sid": "LUK 8:51"
+          },
+          "items": [
+            {
+              "text": "51",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Agachia goika nyomba, tancha monto onde asoe amo nere otatiga Petero, na Yohana, na Yakobo, na ise na ng’ina b’omwana oria.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.51",
+            "verseOrgIds": [
+              "LUK.8.51"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "52",
+            "style": "v",
+            "sid": "LUK 8:52"
+          },
+          "items": [
+            {
+              "text": "52",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Na abanto bonsi nigo barenge komoreera, bakweng’ereria, korende Yeso akabora, “Timorera, ekiagera takweti, korende nigo araire.”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.52",
+            "verseOrgIds": [
+              "LUK.8.52"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "para",
+      "type": "tag",
+      "attrs": {
+        "style": "p"
+      },
+      "items": [
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "53",
+            "style": "v",
+            "sid": "LUK 8:53"
+          },
+          "items": [
+            {
+              "text": "53",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Bakamosekerera, bamanyete ng’a okuure.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.53",
+            "verseOrgIds": [
+              "LUK.8.53"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "54",
+            "style": "v",
+            "sid": "LUK 8:54"
+          },
+          "items": [
+            {
+              "text": "54",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Korende ere akamobwata okoboko kwaye, agateeba, “Omwana, imoka!”",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.54",
+            "verseOrgIds": [
+              "LUK.8.54"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "55",
+            "style": "v",
+            "sid": "LUK 8:55"
+          },
+          "items": [
+            {
+              "text": "55",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Omoika oye okairana, agatenena erio kegima Yeso akabachiika bamoe endagera arie.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.55",
+            "verseOrgIds": [
+              "LUK.8.55"
+            ]
+          }
+        },
+        {
+          "name": "verse",
+          "type": "tag",
+          "attrs": {
+            "number": "56",
+            "style": "v",
+            "sid": "LUK 8:56"
+          },
+          "items": [
+            {
+              "text": "56",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "text": "Abaibori baye bagakumia, mono, korende akabachiika tibateebia monto ayakoreka.",
+          "type": "text",
+          "attrs": {
+            "verseId": "LUK.8.56",
+            "verseOrgIds": [
+              "LUK.8.56"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "next": {
+    "id": "LUK.9",
+    "number": "9",
+    "bookId": "LUK"
+  },
+  "previous": {
+    "id": "LUK.7",
+    "number": "7",
+    "bookId": "LUK"
+  }
+}
