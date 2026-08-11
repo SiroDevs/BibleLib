@@ -177,7 +177,7 @@ fun SelectionScreen(
                     // buildGridEntries/GroupingFilmStrip/FilterChipStrip (see commented block
                     // below for the original grouped/filtered version).
                     LazyVerticalGrid(
-                        columns = GridCells.Fixed(GRID_COLUMNS),
+                        columns = GridCells.Fixed(1),
                         contentPadding = PaddingValues(all = 2.dp),
                     ) {
                         items(

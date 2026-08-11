@@ -61,7 +61,15 @@ class AssetBibleLibService @Inject constructor(
         withContext(Dispatchers.IO) {
             try {
                 context.assets.open(assetPath).bufferedReader().use { reader ->
-                    gson.fromJson(reader, type)
+                    // Explicit type argument + cast is required here, not stylistic: leaving T to
+                    // be inferred through this try/use chain hits a real Kotlin compiler bug
+                    // (KT-36776) where T silently resolves to `Nothing` instead of the caller's
+                    // actual type. At runtime that surfaces as e.g.
+                    // "ClassCastException: java.util.ArrayList cannot be cast to java.lang.Void"
+                    // even though the JSON parsed correctly - Gson did its job, the crash was
+                    // purely a bad implicit cast the compiler inserted around it.
+                    @Suppress("UNCHECKED_CAST")
+                    gson.fromJson<Any?>(reader, type) as T
                 }
             } catch (e: IOException) {
                 throw IOException("Missing bundled Bible asset: $assetPath", e)

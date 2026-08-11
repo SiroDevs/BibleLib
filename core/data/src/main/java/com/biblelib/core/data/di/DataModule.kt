@@ -23,26 +23,34 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 @Module(includes = [NetworkModule::class])
 object DataModule {
-    @Provides @Singleton
-    fun providePreferencesRepo(@ApplicationContext context: Context): PrefsRepo =
-        PrefsRepo(context)
-
-    @Provides @Singleton
-    fun provideThemeRepo(prefsRepo: PrefsRepo): ThemeRepo =
-        ThemeRepo(prefsRepo)
-
-    @Provides @Singleton
-    fun provideBibleRepo(
-        service: BibleLibService,
-        savedBibleDao: BibleDao,
-        bookDao: BookDao,
-        chapterDao: ChapterDao,
-        verseDao: VerseDao,
-    ): BibleRepo = BibleRepo(service, savedBibleDao, bookDao, chapterDao, verseDao)
-
-    @Provides @Singleton
-    fun provideTrackingRepo(
-        historyDao: HistoryDao,
-        searchDao: SearchDao,
-    ): TrackingRepo = TrackingRepo(historyDao, searchDao)
+    // NOT part of the assets/selection-screen change. Found while debugging the blank bible
+    // list: PrefsRepo, ThemeRepo, BibleRepo, and TrackingRepo each already declare their own
+    // `@Inject constructor`, so Hilt can provide them on its own. The manual @Provides methods
+    // below created a second, conflicting binding for the same four types, which Dagger/Hilt
+    // rejects at compile time ([Dagger/DuplicateBindings]) - the module (and app) couldn't have
+    // built with this in place. Commented out rather than deleted so the original wiring is
+    // still visible; safe to leave disabled since the @Inject constructors cover the same deps.
+    //
+    // @Provides @Singleton
+    // fun providePreferencesRepo(@ApplicationContext context: Context): PrefsRepo =
+    //     PrefsRepo(context)
+    //
+    // @Provides @Singleton
+    // fun provideThemeRepo(prefsRepo: PrefsRepo): ThemeRepo =
+    //     ThemeRepo(prefsRepo)
+    //
+    // @Provides @Singleton
+    // fun provideBibleRepo(
+    //     service: BibleLibService,
+    //     savedBibleDao: BibleDao,
+    //     bookDao: BookDao,
+    //     chapterDao: ChapterDao,
+    //     verseDao: VerseDao,
+    // ): BibleRepo = BibleRepo(service, savedBibleDao, bookDao, chapterDao, verseDao)
+    //
+    // @Provides @Singleton
+    // fun provideTrackingRepo(
+    //     historyDao: HistoryDao,
+    //     searchDao: SearchDao,
+    // ): TrackingRepo = TrackingRepo(historyDao, searchDao)
 }

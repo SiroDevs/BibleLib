@@ -60,9 +60,8 @@ key.properties
 **/*.keystore
 **/*.jks
 keystore/
-google-services.json
 
-keys*.json
+*.json
 
 # Sentry Config File
 sentry.properties

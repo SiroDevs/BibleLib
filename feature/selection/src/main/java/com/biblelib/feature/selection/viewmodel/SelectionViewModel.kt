@@ -33,7 +33,7 @@ class SelectionViewModel @Inject constructor(
 
     companion object {
         private const val TAG = "SelectionViewModel"
-        const val MAX_SELECTIONS = 1 + 5
+        const val MAX_SELECTIONS = 1 + 2
     }
 
     private val _uiState = MutableStateFlow<UiState>(UiState.Loading)
