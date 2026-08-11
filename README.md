@@ -6,15 +6,13 @@ A clean, offline-first Bible reader built for focused study. Explore a number of
 
 ## Features
 
-📖 READ YOUR WAY
+READ YOUR WAY
 - Download multiple Bible translations and switch between them freely
-- Parallel reading — view your primary translation alongside up to 5 secondary
-  translations side by side
+- Parallel reading — view your primary translation alongside other translations side by side
 - Jump between books and chapters with a simple, fast navigator
-- Your last-read verse is remembered automatically so you always pick up
-  where you left off
+- Your last-read verse is remembered automatically so you always pick up where you left off
 
-🔍 FIND ANY VERSE FAST
+FIND ANY VERSE FAST
 - Full-text search across your downloaded Bible
 - Recent searches saved for quick access
 - Look up a specific reference directly — book, chapter, and verse — with
@@ -22,24 +20,24 @@ A clean, offline-first Bible reader built for focused study. Explore a number of
 - Save frequently used passages into custom scripture lists you can reopen
   anytime, and queue up several passages to read through in one sitting
 
-🖍️ BOOKMARKS, HIGHLIGHTS & NOTES
+BOOKMARKS, HIGHLIGHTS & NOTES
 - Tap to select one or more verses and highlight them in a color of your
   choice
 - Bookmark verses for quick recall
 - Attach personal notes to any verse
 - Browse and manage all your bookmarks and notes in one place
 
-🕘 HISTORY
+HISTORY
 - Automatic reading history, grouped by date, so you can retrace your steps
 - Full search history alongside your reading history
 
-🎨 MAKE IT YOURS
+MAKE IT YOURS
 - 10 reader background themes, from soft parchment and sepia tones to
   dark options like Night, Charcoal, and Forest
 - Multiple font choices
 - Adjustable font size for comfortable reading at any distance
 
-📶 BUILT FOR OFFLINE USE
+BUILT FOR OFFLINE USE
 - Download a Bible once, then read, search, and study without an internet
   connection
 - Download progress, retry, and re-download controls if a download is
@@ -95,7 +93,6 @@ A clean, offline-first Bible reader built for focused study. Explore a number of
 | Networking                     | Retrofit 2 + OkHttp                  |
 | Background downloads           | WorkManager (Hilt-integrated worker) |
 | Error & performance monitoring | Sentry                               |
-| Payments                       | Paystack (donation flow)             |
 | Min SDK                        | 26 (Android 8.0)                     |
 | Target / Compile SDK           | 37                                   |
 
@@ -108,8 +105,6 @@ Before you start, make sure you have the following:
 - **Android Studio** Hedgehog (2023.1.1) or newer
 - **JDK 17** — required by the `build-logic` convention plugins
 - **Android SDK** with API 26–37 installed (the SDK Manager inside Android Studio handles this)
-- **A Paystack secret key** — only needed if you're working on the donation flow. The app builds and
-  runs without it; the donation feature simply won't be able to initialize a transaction.
 
 ---
 
@@ -140,7 +135,6 @@ BibleLib/
     ├── search/                      # Full-text verse search + recent search history
     ├── history/                     # Reading history
     ├── settings/                    # Theme, font size, app settings
-    ├── donation/                    # Paystack donation flow + payment WebView
     └── help/                        # Help screen
 ```
 
@@ -173,7 +167,7 @@ argument encoding for the reader and payment WebView), `ApiConstants`, `PrefCons
 **`core:data`** — all data-access logic sitting above the DB and network layers:
 
 - `PrefsRepo` — a strongly typed `SharedPreferences` wrapper covering install date, selected/primary
-  Bible, last-read position, theme mode, font size, donation timestamp, last-sync timestamp, and
+  Bible, last-read position, theme mode, font size timestamp, last-sync timestamp, and
   `resetAppData()` for clearing selection state.
 - `ThemeRepo` — a `@HiltViewModel` that exposes the current `ThemeMode` (`SYSTEM` / `LIGHT` /
   `DARK`) as Compose state and persists changes via `PrefsRepo`.
@@ -210,7 +204,6 @@ components: `AppTopBar`, `EmptyState`, `ErrorState`, loading indicators, `Donati
 | `feature:search`    | Verse search, recent search history                                             | `SearchViewModel`    |
 | `feature:history`   | Reading history                                                                 | `HistoryViewModel`   |
 | `feature:settings`  | Theme and font-size settings                                                    | `SettingsViewModel`  |
-| `feature:donation`  | Donation screen, Paystack payment WebView                                       | `DonationViewModel`  |
 | `feature:help`      | Help                                                                            | —                    |
 
 All ViewModels are `@HiltViewModel`-annotated and follow the same pattern: `StateFlow` for UI
@@ -258,23 +251,7 @@ git clone git@github.com:SiroDevs/BibleLib.git
 cd BibleLib
 ```
 
-### 2. Create `local.properties`
-
-This file is gitignored. Create it at the project root (alongside `build-logic/`, `app/`, `core/`,
-`feature/`).
-
-```properties
-# Path to your Android SDK — Android Studio usually writes this automatically.
-# If you open the project in Android Studio first, this line will already be here.
-sdk.dir=/Users/yourname/Library/Android/sdk
-# Optional — only needed if working on the donation feature
-PAYSTACK_SECRET_KEY=your_paystack_secret_key_here
-```
-
-`app/build.gradle.kts` reads `PAYSTACK_SECRET_KEY` into a `buildConfigField`. If it's missing, the
-build still succeeds — the donation screen will just fail to initialize a transaction.
-
-### 3. Run the app
+### 2. Run the app
 
 Open the project in Android Studio. Gradle sync will run automatically. Once it completes, select
 the `debug` build variant and run the `app` configuration on a device or emulator running API 26 or
@@ -292,7 +269,7 @@ On first launch the app walks through Bible selection, then downloads the chosen
 the live content API. You need a network connection for this initial download — after that, reading,
 browsing, and searching that translation work fully offline.
 
-### 4. Release builds (optional)
+### 3. Release builds (optional)
 
 Release signing is configured in `app/build.gradle.kts` and reads from a `keystore/key.properties`
 file. This is only needed if you are cutting a release build — **not required for development or
