@@ -31,22 +31,20 @@ import androidx.navigation.NavController
 import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.core.designsystem.theme.ThemeSelectorDialog
+import com.biblelib.core.design_system.theme.ThemeSelectorDialog
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.indicators.BibleCardShimmer
 import com.biblelib.core.ui.components.indicators.ErrorState
 import com.biblelib.feature.selection.view.components.BibleListItem
 import com.biblelib.feature.selection.view.components.BibleSavingProgress
 import com.biblelib.feature.selection.view.components.DownloadFailedState
-// --- Bible-list filters/grouping disabled (bundled-assets release) ----------------------------
-// Kept the imports commented out, not removed, so this is easy to re-enable later.
-// import com.biblelib.feature.selection.view.components.FilterChipStrip
-// import com.biblelib.feature.selection.view.components.GroupHeader
-// import com.biblelib.feature.selection.view.components.GroupingFilmStrip
-// import com.biblelib.feature.selection.utils.GridEntry
-// import com.biblelib.feature.selection.utils.buildGridEntries
+import com.biblelib.feature.selection.view.components.FilterChipStrip
+import com.biblelib.feature.selection.view.components.GroupHeader
+import com.biblelib.feature.selection.view.components.GroupingFilmStrip
 import com.biblelib.feature.selection.view.components.ProceedBar
+import com.biblelib.feature.selection.utils.GridEntry
 import com.biblelib.feature.selection.viewmodel.SelectionViewModel
+import com.biblelib.feature.selection.utils.buildGridEntries
 
 private const val GRID_COLUMNS = 2
 
@@ -59,6 +57,7 @@ fun SelectionScreen(
 ) {
     val uiState by viewModel.uiState.collectAsState()
     val bibles by viewModel.bibles.collectAsState()
+    val groupingMode by viewModel.groupingMode.collectAsState()
     val selectedCount by viewModel.selectedCount.collectAsState()
     val canProceed by viewModel.canProceed.collectAsState()
     val downloadProgress by viewModel.downloadProgress.collectAsState()
@@ -68,13 +67,9 @@ fun SelectionScreen(
         mutableStateOf(false)
     }
 
-    // --- Bible-list filters/grouping disabled (bundled-assets release) ------------------------
-    // We're bundling a small, fixed set of Bibles as app assets, so there's nothing to filter or
-    // group right now. Commented out (not removed) so it's a quick re-enable once the catalog
-    // grows again — see the matching commented block further down and in Components.kt.
-    // val groupingMode by viewModel.groupingMode.collectAsState()
-    // val expandedGroups = remember { mutableStateMapOf<String, Boolean>() }
-    // val countryFilters = remember { mutableStateMapOf<String, String>() }
+    val expandedGroups = remember { mutableStateMapOf<String, Boolean>() }
+
+    val countryFilters = remember { mutableStateMapOf<String, String>() }
 
     LaunchedEffect(Unit) {
         viewModel.fetchBibles()
@@ -171,128 +166,96 @@ fun SelectionScreen(
                 }
 
                 else -> {
-                    // --- ACTIVE: flat grid, no filters/grouping ----------------------------
-                    // With only a handful of bundled Bibles there's nothing worth grouping or
-                    // filtering, so we render the list directly instead of going through
-                    // buildGridEntries/GroupingFilmStrip/FilterChipStrip (see commented block
-                    // below for the original grouped/filtered version).
-                    LazyVerticalGrid(
-                        columns = GridCells.Fixed(1),
-                        contentPadding = PaddingValues(all = 2.dp),
+                    val entries = remember(
+                        bibles,
+                        groupingMode,
+                        expandedGroups.toMap(),
+                        countryFilters.toMap(),
                     ) {
-                        items(
-                            items = bibles,
-                            key = { it.data.abbreviation },
-                        ) { item ->
-                            Box(Modifier.padding(2.dp)) {
-                                BibleListItem(
-                                    name = item.data.name,
-                                    description = item.data.description,
-                                    abbreviation = item.data.abbreviation,
-                                    language = item.data.language.name,
-                                    isSelected = item.isSelected,
-                                    isDisabled =
-                                        !item.isSelected &&
-                                                selectedCount >= SelectionViewModel.MAX_SELECTIONS,
-                                    onClick = {
-                                        viewModel.toggleSelection(item.data.abbreviation)
+                        buildGridEntries(
+                            bibles = bibles,
+                            mode = groupingMode,
+                            expandedGroups = expandedGroups,
+                            countryFilters = countryFilters,
+                        )
+                    }
+
+                    Column(Modifier.fillMaxSize()) {
+                        GroupingFilmStrip(
+                            selected = groupingMode,
+                            onSelected = viewModel::setGroupingMode,
+                        )
+
+                        LazyVerticalGrid(
+                            columns = GridCells.Fixed(GRID_COLUMNS),
+                            contentPadding = PaddingValues(all = 2.dp),
+                        ) {
+                            items(
+                                items = entries,
+                                key = { entry ->
+                                    when (entry) {
+                                        is GridEntry.Header -> "header_${entry.key}"
+                                        is GridEntry.CountryFilterStrip -> "filter_${entry.key}"
+                                        is GridEntry.Item -> "item_${entry.key}"
                                     }
-                                )
+                                },
+                                span = { entry ->
+                                    when (entry) {
+                                        is GridEntry.Header -> GridItemSpan(maxLineSpan)
+                                        is GridEntry.CountryFilterStrip -> GridItemSpan(maxLineSpan)
+                                        is GridEntry.Item -> if (entry.soloInGroup) {
+                                            GridItemSpan(maxLineSpan)
+                                        } else {
+                                            GridItemSpan(1)
+                                        }
+                                    }
+                                },
+                            ) { entry ->
+                                when (entry) {
+                                    is GridEntry.Header -> {
+                                        val isExpanded = expandedGroups[entry.key] ?: true
+                                        GroupHeader(
+                                            title = entry.title,
+                                            totalInGroup = entry.totalCount,
+                                            expanded = isExpanded,
+                                            onClick = {
+                                                expandedGroups[entry.key] = !isExpanded
+                                            },
+                                        )
+                                    }
+
+                                    is GridEntry.CountryFilterStrip -> {
+                                        FilterChipStrip(
+                                            options = entry.options,
+                                            selected = entry.selected,
+                                            onSelected = { country ->
+                                                countryFilters[entry.continentKey] = country
+                                            },
+                                        )
+                                    }
+
+                                    is GridEntry.Item -> {
+                                        val item = entry.bible
+                                        Box(Modifier.padding(2.dp)) {
+                                            BibleListItem(
+                                                name = item.data.name,
+                                                description = item.data.description,
+                                                abbreviation = item.data.abbreviation,
+                                                language = item.data.language.name,
+                                                isSelected = item.isSelected,
+                                                isDisabled =
+                                                    !item.isSelected &&
+                                                            selectedCount >= SelectionViewModel.MAX_SELECTIONS,
+                                                onClick = {
+                                                    viewModel.toggleSelection(item.data.abbreviation)
+                                                }
+                                            )
+                                        }
+                                    }
+                                }
                             }
                         }
                     }
-
-                    // --- DISABLED: original grouped/filtered version (uncomment to restore) ---
-                    // val entries = remember(
-                    //     bibles,
-                    //     groupingMode,
-                    //     expandedGroups.toMap(),
-                    //     countryFilters.toMap(),
-                    // ) {
-                    //     buildGridEntries(
-                    //         bibles = bibles,
-                    //         mode = groupingMode,
-                    //         expandedGroups = expandedGroups,
-                    //         countryFilters = countryFilters,
-                    //     )
-                    // }
-                    //
-                    // Column(Modifier.fillMaxSize()) {
-                    //     GroupingFilmStrip(
-                    //         selected = groupingMode,
-                    //         onSelected = viewModel::setGroupingMode,
-                    //     )
-                    //
-                    //     LazyVerticalGrid(
-                    //         columns = GridCells.Fixed(GRID_COLUMNS),
-                    //         contentPadding = PaddingValues(all = 2.dp),
-                    //     ) {
-                    //         items(
-                    //             items = entries,
-                    //             key = { entry ->
-                    //                 when (entry) {
-                    //                     is GridEntry.Header -> "header_${entry.key}"
-                    //                     is GridEntry.CountryFilterStrip -> "filter_${entry.key}"
-                    //                     is GridEntry.Item -> "item_${entry.key}"
-                    //                 }
-                    //             },
-                    //             span = { entry ->
-                    //                 when (entry) {
-                    //                     is GridEntry.Header -> GridItemSpan(maxLineSpan)
-                    //                     is GridEntry.CountryFilterStrip -> GridItemSpan(maxLineSpan)
-                    //                     is GridEntry.Item -> if (entry.soloInGroup) {
-                    //                         GridItemSpan(maxLineSpan)
-                    //                     } else {
-                    //                         GridItemSpan(1)
-                    //                     }
-                    //                 }
-                    //             },
-                    //         ) { entry ->
-                    //             when (entry) {
-                    //                 is GridEntry.Header -> {
-                    //                     val isExpanded = expandedGroups[entry.key] ?: true
-                    //                     GroupHeader(
-                    //                         title = entry.title,
-                    //                         totalInGroup = entry.totalCount,
-                    //                         expanded = isExpanded,
-                    //                         onClick = {
-                    //                             expandedGroups[entry.key] = !isExpanded
-                    //                         },
-                    //                     )
-                    //                 }
-                    //
-                    //                 is GridEntry.CountryFilterStrip -> {
-                    //                     FilterChipStrip(
-                    //                         options = entry.options,
-                    //                         selected = entry.selected,
-                    //                         onSelected = { country ->
-                    //                             countryFilters[entry.continentKey] = country
-                    //                         },
-                    //                     )
-                    //                 }
-                    //
-                    //                 is GridEntry.Item -> {
-                    //                     val item = entry.bible
-                    //                     Box(Modifier.padding(2.dp)) {
-                    //                         BibleListItem(
-                    //                             name = item.data.name,
-                    //                             description = item.data.description,
-                    //                             abbreviation = item.data.abbreviation,
-                    //                             language = item.data.language.name,
-                    //                             isSelected = item.isSelected,
-                    //                             isDisabled =
-                    //                                 !item.isSelected &&
-                    //                                         selectedCount >= SelectionViewModel.MAX_SELECTIONS,
-                    //                             onClick = {
-                    //                                 viewModel.toggleSelection(item.data.abbreviation)
-                    //                             }
-                    //                         )
-                    //                     }
-                    //                 }
-                    //             }
-                    //         }
-                    //     }
-                    // }
                 }
             }
         }

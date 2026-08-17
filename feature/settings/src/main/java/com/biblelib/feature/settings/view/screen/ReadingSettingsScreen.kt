@@ -30,7 +30,7 @@ import androidx.compose.ui.unit.TextUnitType
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.AppFonts
-import com.biblelib.core.designsystem.customization.AppFontFamilies
+import com.biblelib.core.design_system.customization.AppFontFamilies
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.feature.settings.view.components.SettingsGroupLabel
 import com.biblelib.feature.settings.viewmodel.SettingsViewModel

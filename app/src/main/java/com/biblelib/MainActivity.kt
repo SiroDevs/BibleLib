@@ -7,11 +7,11 @@ import androidx.activity.viewModels
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.biblelib.app.navigation.AppNavHost
+import com.biblelib.navigation.AppNavHost
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.core.designsystem.theme.AppTheme
+import com.biblelib.core.design_system.theme.AppTheme
 import com.biblelib.core.ui.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

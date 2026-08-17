@@ -1,4 +1,4 @@
-package com.biblelib.core.designsystem.theme
+package com.biblelib.core.design_system.theme
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column

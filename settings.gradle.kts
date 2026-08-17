@@ -34,7 +34,7 @@ include(":core:data")
 include(":core:database")
 include(":core:network")
 include(":core:ui")
-include(":core:designsystem")
+include(":core:design_system")
 
 // Feature modules
 include(":feature:selection")

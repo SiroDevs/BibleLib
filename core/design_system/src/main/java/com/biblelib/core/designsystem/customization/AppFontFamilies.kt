@@ -1,8 +1,8 @@
-package com.biblelib.core.designsystem.customization
+package com.biblelib.core.design_system.customization
 
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
-import com.biblelib.core.designsystem.R
+import com.biblelib.core.design_system.R
 
 data class AppFontOption(
     val id: String,

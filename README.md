@@ -125,7 +125,7 @@ BibleLib/
 │   ├── common/                      # Routes, ApiConstants, PrefConstants, UiState, shared data classes — no Android deps beyond parcelize
 │   ├── data/                        # Repositories, PrefsRepo, ThemeRepo, SyncWorker, SyncScheduler
 │   ├── database/                    # Room database, all DAOs and entity models
-│   ├── designsystem/                # Material 3 theme, colours, typography
+│   ├── design_system/                # Material 3 theme, colours, typography
 │   ├── network/                     # Retrofit services, DTOs, NetworkModule
 │   └── ui/                          # Shared Compose components (MainViewModel, AppTopBar, states, dialogs...)
 │
@@ -151,9 +151,9 @@ lives in `app`.
 app
  ├── core:common
  ├── core:data          → core:database, core:network, core:common
- ├── core:designsystem
- ├── core:ui             → core:common, core:data, core:designsystem
- └── feature:*           → core:common, core:data, core:database, core:designsystem, core:ui
+ ├── core:design_system
+ ├── core:ui             → core:common, core:data, core:design_system
+ └── feature:*           → core:common, core:data, core:database, core:design_system, core:ui
 ```
 
 ### Core modules
@@ -188,7 +188,7 @@ argument encoding for the reader and payment WebView), `ApiConstants`, `PrefCons
 content API (`BibleLibService`, serving `info.json`, `books.json`, `chapters.json`, and per-book
 verse JSON) and one for the Paystack API (`PaystackService`, transaction initialization).
 
-**`core:designsystem`** — Material 3 theme, colour palette, and typography scale.
+**`core:design_system`** — Material 3 theme, colour palette, and typography scale.
 
 **`core:ui`** — `MainViewModel` (determines the app's start destination) plus shared Compose
 components: `AppTopBar`, `EmptyState`, `ErrorState`, loading indicators, `DonationBanner`,

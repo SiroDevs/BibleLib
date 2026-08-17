@@ -39,7 +39,7 @@ import androidx.navigation.NavController
 import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.data.repos.appThemeName
-import com.biblelib.core.designsystem.customization.AppReaderBackgrounds
+import com.biblelib.core.design_system.customization.AppReaderBackgrounds
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.feature.settings.view.components.SettingsDropdownRow
 import com.biblelib.feature.settings.view.components.SettingsGroupLabel

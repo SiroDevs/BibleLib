@@ -1,10 +1,30 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.biblelib.android.library)
     alias(libs.plugins.biblelib.hilt)
 }
 
+val localProperties = Properties()
+val localFile = rootProject.file("local.properties")
+if (localFile.exists()) {
+    localProperties.load(localFile.inputStream())
+}
+
 android {
     namespace = "com.biblelib.core.data"
+
+    defaultConfig {
+        buildConfigField(
+            "String",
+            "PaystackSecret",
+            "\"${localProperties.getProperty("PAYSTACK_SECRET_KEY") ?: ""}\""
+        )
+    }
+
+    buildFeatures {
+        buildConfig = true
+    }
 }
 
 dependencies {

@@ -28,8 +28,8 @@ import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.core.designsystem.customization.AppFontFamilies
-import com.biblelib.core.designsystem.customization.AppReaderBackgrounds
+import com.biblelib.core.design_system.customization.AppFontFamilies
+import com.biblelib.core.design_system.customization.AppReaderBackgrounds
 import com.biblelib.core.ui.components.indicators.ErrorState
 import com.biblelib.core.ui.components.indicators.VerseShimmer
 import com.biblelib.feature.reader.main.view.components.BibleSelectorSheet

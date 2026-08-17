@@ -1,4 +1,4 @@
-package com.biblelib.core.designsystem.theme
+package com.biblelib.core.design_system.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

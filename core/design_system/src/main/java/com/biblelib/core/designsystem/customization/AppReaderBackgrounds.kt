@@ -1,4 +1,4 @@
-package com.biblelib.core.designsystem.customization
+package com.biblelib.core.design_system.customization
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable

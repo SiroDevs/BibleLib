@@ -11,6 +11,6 @@ dependencies {
     implementation(project(":core:data"))
     implementation(project(":core:database"))
     implementation(project(":core:network"))
-    implementation(project(":core:designsystem"))
+    implementation(project(":core:design_system"))
     implementation(libs.androidx.work.runtime)
 }

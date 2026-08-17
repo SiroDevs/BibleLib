@@ -23,15 +23,13 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 8
-        versionName = "1.0.8"
+        versionCode = 9
+        versionName = "1.0.9"
         minSdk = 26
         targetSdk = 37
 
         multiDexEnabled = true
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-
-        buildConfigField("String", "PaystackSecret", "\"${localProperties.getProperty("PAYSTACK_SECRET_KEY") ?: ""}\"")
     }
 
     signingConfigs {
@@ -87,7 +85,7 @@ dependencies {
     implementation(project(":core:common"))
     implementation(project(":core:data"))
     implementation(project(":core:database"))
-    implementation(project(":core:designsystem"))
+    implementation(project(":core:design_system"))
     implementation(project(":core:network"))
     implementation(project(":core:ui"))
 

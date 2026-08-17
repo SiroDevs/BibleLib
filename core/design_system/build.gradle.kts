@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.biblelib.core.designsystem"
+    namespace = "com.biblelib.core.design_system"
 }
 
 dependencies {

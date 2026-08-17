@@ -1,4 +1,4 @@
-package com.biblelib.app.navigation
+package com.biblelib.navigation
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.runtime.Composable

@@ -1,4 +1,4 @@
-package com.biblelib.core.designsystem.theme
+package com.biblelib.core.design_system.theme
 
 import android.app.Activity
 import android.os.Build
