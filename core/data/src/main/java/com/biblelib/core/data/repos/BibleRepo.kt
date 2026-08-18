@@ -13,6 +13,7 @@ import com.biblelib.core.database.model.VerseEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
 import com.biblelib.core.network.dtos.ChapterContentDto
 import com.biblelib.core.network.dtos.ContentItemDto
+import com.biblelib.core.network.util.RetryPolicy
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import kotlinx.coroutines.Dispatchers
@@ -40,7 +41,7 @@ class BibleRepo @Inject constructor(
 
     suspend fun fetchAvailableBibles(): List<BibleInfoDto> =
         withContext(Dispatchers.IO) {
-            service.getBiblesInfo()
+            RetryPolicy.retrying { service.getBiblesInfo() }
         }
 
     suspend fun downloadBible(
@@ -56,7 +57,7 @@ class BibleRepo @Inject constructor(
 
         try {
             reportProgress("Fetching books...", 0.05f)
-            val booksResp = service.getBooks(abbr)
+            val booksResp = RetryPolicy.retrying { service.getBooks(abbr) }
             val bookEntities = booksResp.mapIndexed { i, dto ->
                 BookEntity(
                     id = dto.id,
@@ -71,7 +72,7 @@ class BibleRepo @Inject constructor(
             Log.d(TAG, "✅ ${bookEntities.size} books saved for $abbr")
 
             reportProgress("Fetching chapters...", 0.15f)
-            val chaptersResp = service.getChapters(abbr)
+            val chaptersResp = RetryPolicy.retrying { service.getChapters(abbr) }
             val chapterEntities = mutableListOf<ChapterEntity>()
             chaptersResp.forEach { (_, chapters) ->
                 chapters.forEach { dto ->
@@ -92,7 +93,6 @@ class BibleRepo @Inject constructor(
             val chaptersByBook = chapterEntities.groupBy { it.bookId }
             val bookIds = booksResp.map { it.id }.filter { chaptersByBook[it]?.isNotEmpty() == true }
 
-            // Chapters already cached from a previous, interrupted attempt — skip re-fetching them.
             val alreadyCachedChapterIds = verseDao.getCachedChapterIds(abbr).toSet()
 
             reportProgress("Fetching verses...", 0.25f)
@@ -146,7 +146,9 @@ class BibleRepo @Inject constructor(
     ): List<VerseEntity> {
         val verseEntities = mutableListOf<VerseEntity>()
         for (chapter in chapters) {
-            val content = service.getVersesForChapter(abbr, bookId, chapter.number)
+            val content = RetryPolicy.retrying {
+                service.getVersesForChapter(abbr, bookId, chapter.number)
+            }
             val verses = extractVerses(content)
             verseEntities.add(
                 VerseEntity(
@@ -267,6 +269,6 @@ class BibleRepo @Inject constructor(
 
     companion object {
         private const val TAG = "BibleRepo"
-        private const val MAX_CONCURRENT_BOOK_BATCHES = 10
+        private const val MAX_CONCURRENT_BOOK_BATCHES = 12
     }
 }

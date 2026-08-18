@@ -91,7 +91,7 @@ fun BibleSavingProgress(progress: Float, step: String) {
         Spacer(Modifier.height(12.dp))
 
         Text(
-            text = "The rest of your Bibles will keep downloading in the background once you reach the reader.",
+            text = "The rest of your Bibles will download in the background once your primary Bible is downloaded.",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
             textAlign = androidx.compose.ui.text.style.TextAlign.Center,

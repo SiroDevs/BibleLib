@@ -1,12 +1,9 @@
 package com.biblelib.core.data.worker
 
-import android.app.NotificationChannel
-import android.app.NotificationManager
 import android.content.Context
 import android.content.pm.ServiceInfo
 import android.os.Build
 import android.util.Log
-import androidx.core.app.NotificationCompat
 import androidx.hilt.work.HiltWorker
 import androidx.work.CoroutineWorker
 import androidx.work.ForegroundInfo
@@ -17,7 +14,14 @@ import dagger.assisted.AssistedInject
 import com.biblelib.core.common.helpers.NetworkUtils
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
+import com.biblelib.core.network.util.RetryPolicy
 
+/**
+ * Downloads a single bible. Each bible gets its own [SyncWorker] instance (see
+ * [SyncScheduler]), each running as its own foreground job with its own notification
+ * ([DownloadNotifier]) — that's what lets several bibles download concurrently, each
+ * visibly, even once the app is minimised.
+ */
 @HiltWorker
 class SyncWorker @AssistedInject constructor(
     @Assisted private val context: Context,
@@ -48,14 +52,21 @@ class SyncWorker @AssistedInject constructor(
             }
 
             prefsRepo.lastSyncedAt = System.currentTimeMillis()
+            DownloadNotifier.cancel(context, abbr)
             Log.d(TAG, "✅ Secondary bible $abbr downloaded")
             Result.success()
         } catch (e: Exception) {
-            Log.e(TAG, "❌ Failed to download $abbr: ${e.message}", e)
-            if (runAttemptCount < MAX_RETRIES) {
+            val failure = RetryPolicy.classify(e)
+            Log.e(TAG, "❌ Failed to download $abbr: ${failure.message}", failure)
+
+            // 404 / 401 / 403 are permanent — don't burn through WorkManager's retry
+            // budget on something that will never succeed on its own.
+            val canRetry = !failure.isPermanent && runAttemptCount < MAX_RETRIES
+            if (canRetry) {
                 Result.retry()
             } else {
                 bibleRepo.markDownloadFailed(abbr)
+                DownloadNotifier.showFailed(context, abbr)
                 Result.failure()
             }
         }
@@ -64,37 +75,19 @@ class SyncWorker @AssistedInject constructor(
     private fun createForegroundInfo(
         abbr: String,
         progress: Float,
-        step: String = "Downloading..."
+        step: String = "Downloading...",
     ): ForegroundInfo {
-        val nm = context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
-        if (nm.getNotificationChannel(CHANNEL_ID) == null) {
-            nm.createNotificationChannel(
-                NotificationChannel(
-                    CHANNEL_ID,
-                    "Bible Downloads",
-                    NotificationManager.IMPORTANCE_LOW
-                )
-                    .apply { description = "Background bible download progress" }
-            )
-        }
-
-        val notification = NotificationCompat.Builder(context, CHANNEL_ID)
-            .setSmallIcon(android.R.drawable.stat_sys_download)
-            .setContentTitle("Downloading ${abbr.uppercase()} Bible")
-            .setContentText(step)
-            .setProgress(100, (progress * 100).toInt(), progress == 0f)
-            .setOngoing(true)
-            .setSilent(true)
-            .build()
+        val notification = DownloadNotifier.progressNotification(context, abbr, progress, step)
+        val notificationId = DownloadNotifier.notificationIdFor(abbr)
 
         return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.UPSIDE_DOWN_CAKE) {
             ForegroundInfo(
-                NOTIFICATION_ID,
+                notificationId,
                 notification,
                 ServiceInfo.FOREGROUND_SERVICE_TYPE_DATA_SYNC
             )
         } else {
-            ForegroundInfo(NOTIFICATION_ID, notification)
+            ForegroundInfo(notificationId, notification)
         }
     }
 
@@ -104,8 +97,6 @@ class SyncWorker @AssistedInject constructor(
         const val KEY_BIBLE_ABBR = "bible_abbr"
         const val KEY_PROGRESS = "progress"
         const val KEY_STEP = "step"
-        private const val CHANNEL_ID = "bible_downloads"
-        private const val NOTIFICATION_ID = 8001
 
         private const val MAX_RETRIES = 3
     }

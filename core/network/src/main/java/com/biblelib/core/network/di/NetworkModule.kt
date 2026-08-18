@@ -12,6 +12,7 @@ import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import java.util.concurrent.TimeUnit
 import javax.inject.Named
 
 @InstallIn(SingletonComponent::class)
@@ -22,6 +23,14 @@ object NetworkModule {
     @Reusable
     fun provideOkHttpClient(): OkHttpClient =
         OkHttpClient.Builder()
+            // Bible downloads happen over mobile networks with many small requests in
+            // flight concurrently (see BibleRepo) — generous but bounded timeouts so a
+            // slow chapter fails fast enough for RetryPolicy to kick in, instead of
+            // hanging a worker indefinitely.
+            .connectTimeout(15, TimeUnit.SECONDS)
+            .readTimeout(30, TimeUnit.SECONDS)
+            .writeTimeout(30, TimeUnit.SECONDS)
+            .retryOnConnectionFailure(true)
             .addInterceptor(
                 HttpLoggingInterceptor().apply {
                     level = HttpLoggingInterceptor.Level.BASIC
@@ -46,18 +55,18 @@ object NetworkModule {
             .build()
     }
 
-     @Provides
-     @Reusable
-     @Named("bibleLibApi")
-     fun provideBibleLibRetrofit(okHttpClient: OkHttpClient): Retrofit =
-         Retrofit.Builder()
-             .baseUrl(ApiConstants.BIBLELIB_BASE)
-             .addConverterFactory(GsonConverterFactory.create())
-             .client(okHttpClient)
-             .build()
+    @Provides
+    @Reusable
+    @Named("bibleLibApi")
+    fun provideBibleLibRetrofit(okHttpClient: OkHttpClient): Retrofit =
+        Retrofit.Builder()
+            .baseUrl(ApiConstants.BIBLELIB_BASE)
+            .addConverterFactory(GsonConverterFactory.create())
+            .client(okHttpClient)
+            .build()
 
-     @Provides
-     @Reusable
-     fun provideBibleLibService(@Named("bibleLibApi") retrofit: Retrofit): BibleLibService =
-         retrofit.create(BibleLibService::class.java)
+    @Provides
+    @Reusable
+    fun provideBibleLibService(@Named("bibleLibApi") retrofit: Retrofit): BibleLibService =
+        retrofit.create(BibleLibService::class.java)
 }

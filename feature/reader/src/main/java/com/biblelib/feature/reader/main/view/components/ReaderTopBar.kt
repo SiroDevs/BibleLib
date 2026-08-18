@@ -128,14 +128,14 @@ fun ReaderTopBar(
                         navController.navigate(Routes.SETTINGS)
                     },
                 )
-                DropdownMenuItem(
-                    text = { Text("Support BibleLib") },
-                    leadingIcon = { Icon(Icons.Default.Favorite, null) },
-                    onClick = {
-                        showMoreMenu = false
-                        navController.navigate(Routes.DONATION)
-                    },
-                )
+//                DropdownMenuItem(
+//                    text = { Text("Support BibleLib") },
+//                    leadingIcon = { Icon(Icons.Default.Favorite, null) },
+//                    onClick = {
+//                        showMoreMenu = false
+//                        navController.navigate(Routes.DONATION)
+//                    },
+//                )
                 DropdownMenuItem(
                     text = { Text("Help & Support") },
                     leadingIcon = { Icon(Icons.Default.HelpOutline, null) },
