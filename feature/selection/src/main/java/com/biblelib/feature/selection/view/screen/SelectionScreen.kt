@@ -127,7 +127,7 @@ fun SelectionScreen(
     Scaffold(
         topBar = {
             if (!showChrome) {
-                AppTopBar(title = "BibleLib")
+                AppTopBar(title = "BibleLib: Multi-Bible Reader")
             } else {
                 AppTopBar(
                     title = "BibleLib",

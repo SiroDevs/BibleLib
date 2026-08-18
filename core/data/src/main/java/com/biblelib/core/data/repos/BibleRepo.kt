@@ -105,13 +105,17 @@ class BibleRepo @Inject constructor(
                 bookIds.map { bookId ->
                     async {
                         semaphore.withPermit {
-                            val chaptersForBook = chaptersByBook[bookId].orEmpty()
-                            val pendingChapters = chaptersForBook.filter { it.id !in alreadyCachedChapterIds }
-                            if (pendingChapters.isNotEmpty()) {
-                                val verseEntities = fetchVersesForBook(abbr, bookId, pendingChapters)
-                                if (verseEntities.isNotEmpty()) {
-                                    verseDao.insertAll(verseEntities)
+                            try {
+                                val chaptersForBook = chaptersByBook[bookId].orEmpty()
+                                val pendingChapters = chaptersForBook.filter { it.id !in alreadyCachedChapterIds }
+                                if (pendingChapters.isNotEmpty()) {
+                                    val verseEntities = fetchVersesForBook(abbr, bookId, pendingChapters)
+                                    if (verseEntities.isNotEmpty()) {
+                                        verseDao.insertAll(verseEntities)
+                                    }
                                 }
+                            } catch (e: Exception) {
+                                Log.w(TAG, "⚠️ Book $bookId failed for $abbr, continuing with others", e)
                             }
 
                             progressMutex.withLock {
@@ -146,20 +150,24 @@ class BibleRepo @Inject constructor(
     ): List<VerseEntity> {
         val verseEntities = mutableListOf<VerseEntity>()
         for (chapter in chapters) {
-            val content = RetryPolicy.retrying {
-                service.getVersesForChapter(abbr, bookId, chapter.number)
-            }
-            val verses = extractVerses(content)
-            verseEntities.add(
-                VerseEntity(
-                    chapterId = chapter.id,
-                    bibleAbbr = abbr,
-                    bookId = bookId,
-                    verseCount = content.verseCount,
-                    copyright = content.copyright,
-                    contentJson = gson.toJson(verses),
+            try {
+                val content = RetryPolicy.retrying {
+                    service.getVersesForChapter(abbr, bookId, chapter.number)
+                }
+                val verses = extractVerses(content)
+                verseEntities.add(
+                    VerseEntity(
+                        chapterId = chapter.id,
+                        bibleAbbr = abbr,
+                        bookId = bookId,
+                        verseCount = content.verseCount,
+                        copyright = content.copyright,
+                        contentJson = gson.toJson(verses),
+                    )
                 )
-            )
+            } catch (e: Exception) {
+                Log.w(TAG, "⚠️ Skipping unparseable chapter $bookId/${chapter.number} for $abbr", e)
+            }
         }
         return verseEntities
     }
@@ -233,6 +241,13 @@ class BibleRepo @Inject constructor(
 
         fun walkItems(items: List<ContentItemDto>) {
             for (item in items) {
+                // Gson deserializes a literal `null` inside a JSON array straight into
+                // the list, even though ContentItemDto's Kotlin type says non-null — the
+                // niv/GEN/44 payload has exactly this. Skip malformed entries instead of
+                // crashing the whole chapter.
+                @Suppress("SENSELESS_COMPARISON")
+                if (item == null) continue
+
                 if (item.type == "tag" && item.name == "verse") {
                     currentVerseNumber = item.attrs?.get("number")?.toIntOrNull() ?: currentVerseNumber
                     currentVerseId = item.attrs?.get("sid")?.replace(" ", ".") ?: ""
@@ -269,6 +284,6 @@ class BibleRepo @Inject constructor(
 
     companion object {
         private const val TAG = "BibleRepo"
-        private const val MAX_CONCURRENT_BOOK_BATCHES = 12
+        private const val MAX_CONCURRENT_BOOK_BATCHES = 20
     }
 }
