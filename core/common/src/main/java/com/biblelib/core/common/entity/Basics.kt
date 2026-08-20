@@ -10,6 +10,12 @@ data class Selectable<T>(
     val isSelected: Boolean = false
 )
 
+enum class DonationMethod {
+    DIY,
+    PAYSTACK,
+    CRYPTO,
+}
+
 @Parcelize
 @Serializable
 data class BibleInfo(
