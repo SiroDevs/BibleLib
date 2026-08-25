@@ -15,6 +15,7 @@ import com.biblelib.core.design_system.theme.AppTheme
 import com.biblelib.core.ui.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
+import io.sentry.Sentry
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
@@ -25,6 +26,15 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         val splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
+    // waiting for view to draw to better represent a captured error with a screenshot
+    findViewById<android.view.View>(android.R.id.content).viewTreeObserver.addOnGlobalLayoutListener {
+      try {
+        throw Exception("This app uses Sentry! :)")
+      } catch (e: Exception) {
+        Sentry.captureException(e)
+      }
+    }
+
 
         val mainViewModel: MainViewModel by viewModels()
 

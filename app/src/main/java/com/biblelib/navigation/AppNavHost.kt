@@ -20,8 +20,8 @@ import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.ui.MainViewModel
 import com.biblelib.feature.bibles.view.screens.BiblesScreen
 import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
-import com.biblelib.feature.bookmarknotes.view.BookmarkNotesScreen
-import com.biblelib.feature.bookmarknotes.viewmodel.BookmarkNotesViewModel
+import com.biblelib.feature.bookmark_notes.view.BookmarkNotesScreen
+import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel
 import com.biblelib.feature.donation.viewmodel.DonationViewModel
 import com.biblelib.feature.donation.view.screens.DonationScreen
 import com.biblelib.feature.donation.view.screens.PaymentWebViewScreen

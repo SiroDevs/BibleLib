@@ -7,6 +7,7 @@ plugins {
     alias(libs.plugins.devtools.ksp)
     alias(libs.plugins.kotlin.serialization)
     id("kotlin-parcelize")
+    alias(libs.plugins.io.sentry)
 }
 
 val keystoreProperties = Properties()
@@ -23,8 +24,8 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 12
-        versionName = "1.0.12"
+        versionCode = 13
+        versionName = "1.0.13"
         minSdk = 26
         targetSdk = 37
 
@@ -92,7 +93,7 @@ dependencies {
     // Feature modules
     implementation(project(":feature:selection"))
     implementation(project(":feature:reader"))
-    implementation(project(":feature:bookmarknotes"))
+    implementation(project(":feature:bookmark_notes"))
     implementation(project(":feature:search"))
     implementation(project(":feature:scripture_opener"))
     implementation(project(":feature:history"))
@@ -123,4 +124,13 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+}
+
+
+sentry {
+    debug.set(true)
+    org.set("futuristicken")
+    projectName.set("biblelib-android")
+    includeSourceContext.set(true)
+    authToken.set(localProperties.getProperty("SENTRY_AUTH_TOKEN"))
 }

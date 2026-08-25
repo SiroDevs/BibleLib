@@ -1,4 +1,4 @@
-package com.biblelib.feature.bookmarknotes.viewmodel
+package com.biblelib.feature.bookmark_notes.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

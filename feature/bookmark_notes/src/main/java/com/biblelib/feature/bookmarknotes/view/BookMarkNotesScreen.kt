@@ -1,4 +1,4 @@
-package com.biblelib.feature.bookmarknotes.view
+package com.biblelib.feature.bookmark_notes.view
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.combinedClickable
@@ -47,7 +47,7 @@ import com.biblelib.core.database.model.BookmarkEntity
 import com.biblelib.core.database.model.NoteEntity
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.general.ConfirmDialog
-import com.biblelib.feature.bookmarknotes.viewmodel.BookmarkNotesViewModel
+import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
 @Composable

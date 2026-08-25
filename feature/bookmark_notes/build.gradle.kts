@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.biblelib.feature.bookmarknotes"
+    namespace = "com.biblelib.feature.bookmark_notes"
 }
 
 dependencies {
