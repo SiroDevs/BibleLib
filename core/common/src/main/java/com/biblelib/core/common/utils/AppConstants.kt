@@ -13,6 +13,16 @@ object ApiConstants {
     const val BIBLELIB_BASE = "https://biblive.vercel.app/"
 }
 
+object PayConstants {
+    const val MPESA_NUMBER = "+254115586529"
+    const val PAYBILL_NUMBER = "880100"
+    const val ACCOUNT_NUMBER = "9530000018"
+    const val CRYPTO_PROFILE = "sirodevs.base.eth"
+    const val ETH_ADDRESS = "0x1C9A68b346D956e9Eff027C34DB671817e365fbb"
+    const val SOL_ADDRESS = "5qW65Qu8hMLdsjNPxvpFGuv6EAJosGA5YDo6ePSnva1A"
+    const val PAYPAL_ADDRESS = "sirodevske@gmail.com"
+}
+
 object PrefConstants {
     const val PREFERENCE_FILE = "biblelib_pref"
     const val SELECTED_BIBLES = "selectedBibles"
@@ -22,12 +32,16 @@ object PrefConstants {
     const val SELECT_A_FRESH = "selectAfresh"
     const val INSTALL_DATE = "install_date"
     const val THEME_MODE = "themeMode"
+
+    const val DONATION_DONE_AT = "donation_done_at"
+    const val DONATION_METHOD = "donation_method"
+    const val DONATION_REMIND_NEXT_OPEN = "donation_remind_next"
+    const val LAST_SYNCED_AT = "last_synced_at"
+
     const val LAST_BOOK_ID = "lastBookId"
     const val LAST_CHAPTER_ID = "lastChapterId"
     const val LAST_BIBLE = "lastBible"
     const val LAST_BIBLE_ABBR = "lastBibleAbbr"
-    const val DONATION_DONE_AT = "donation_done_at"
-    const val LAST_SYNCED_AT = "last_synced_at"
     const val FONT_SIZE_SP = "fontSizeSp"
     const val MULTI_BIBLE_ENABLED = "multiBibleReaderEnabled"
     const val SECONDARY_BIBLES = "secondaryBibles"

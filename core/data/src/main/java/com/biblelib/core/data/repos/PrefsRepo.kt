@@ -2,8 +2,10 @@ package com.biblelib.core.data.repos
 
 import android.content.Context
 import androidx.core.content.edit
+import com.biblelib.core.common.entity.DonationMethod
 import dagger.hilt.android.qualifiers.ApplicationContext
 import com.biblelib.core.common.utils.PrefConstants
+import java.util.Calendar
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -75,10 +77,6 @@ class PrefsRepo @Inject constructor(
         get() = prefs.getFloat(PrefConstants.FONT_SIZE_SP, 18f)
         set(v) = prefs.edit { putFloat(PrefConstants.FONT_SIZE_SP, v) }
 
-    var donationDoneAt: Long
-        get() = prefs.getLong(PrefConstants.DONATION_DONE_AT, 0L)
-        set(v) = prefs.edit { putLong(PrefConstants.DONATION_DONE_AT, v) }
-
     var lastSyncedAt: Long
         get() = prefs.getLong(PrefConstants.LAST_SYNCED_AT, 0L)
         set(v) = prefs.edit { putLong(PrefConstants.LAST_SYNCED_AT, v) }
@@ -101,17 +99,48 @@ class PrefsRepo @Inject constructor(
     fun getSelectedBibleList(): List<String> =
         selectedBibles.split(",").map { it.trim() }.filter { it.isNotEmpty() }
 
+    var donationDoneAt: Long
+        get() = prefs.getLong(PrefConstants.DONATION_DONE_AT, 0L)
+        set(value) = prefs.edit { putLong(PrefConstants.DONATION_DONE_AT, value) }
+
+    var donationMethod: DonationMethod
+        get() = runCatching {
+            DonationMethod.valueOf(
+                prefs.getString(PrefConstants.DONATION_METHOD, DonationMethod.DIY.name)
+                    ?: DonationMethod.DIY.name
+            )
+        }.getOrDefault(DonationMethod.DIY)
+        set(value) = prefs.edit { putString(PrefConstants.DONATION_METHOD, value.name) }
+
+    var donationRemindNextOpen: Boolean
+        get() = prefs.getBoolean(PrefConstants.DONATION_REMIND_NEXT_OPEN, false)
+        set(value) = prefs.edit { putBoolean(PrefConstants.DONATION_REMIND_NEXT_OPEN, value) }
+
     fun shouldShowDonation(): Boolean {
         val now = System.currentTimeMillis()
         val oneDayMs = 24 * 60 * 60 * 1000L
-        val sixtyDaysMs = 60 * oneDayMs
         if (installDate == 0L || now - installDate < oneDayMs) return false
+
         val donated = donationDoneAt
-        return donated == 0L || now - donated > sixtyDaysMs
+        if (donated == 0L) return true
+
+        val monthsUntilNextPrompt = when (donationMethod) {
+            DonationMethod.DIY -> 3
+            DonationMethod.PAYSTACK -> 3
+            DonationMethod.CRYPTO -> 5
+        }
+        val nextPromptAt = Calendar.getInstance().apply {
+            timeInMillis = donated
+            add(Calendar.MONTH, monthsUntilNextPrompt)
+        }.timeInMillis
+
+        return now >= nextPromptAt
     }
 
-    fun recordDonation() {
+    fun recordDonation(method: DonationMethod = DonationMethod.DIY) {
         donationDoneAt = System.currentTimeMillis()
+        donationMethod = method
+        donationRemindNextOpen = false
     }
 
     fun needsDailySync(): Boolean {
