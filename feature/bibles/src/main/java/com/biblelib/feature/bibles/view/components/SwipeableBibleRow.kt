@@ -37,7 +37,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.entities.BibleEntity
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

@@ -121,21 +121,29 @@ fun ReaderTopBar(
                     },
                 )
                 DropdownMenuItem(
-                    text = { Text("Manage Settings") },
+                    text = { Text("Manage Your Bibles") },
+                    leadingIcon = { Icon(Icons.Default.MenuBook, null) },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.BIBLES)
+                    },
+                )
+                DropdownMenuItem(
+                    text = { Text("Manage App Settings") },
                     leadingIcon = { Icon(Icons.Default.Settings, null) },
                     onClick = {
                         showMoreMenu = false
                         navController.navigate(Routes.SETTINGS)
                     },
                 )
-//                DropdownMenuItem(
-//                    text = { Text("Support BibleLib") },
-//                    leadingIcon = { Icon(Icons.Default.Favorite, null) },
-//                    onClick = {
-//                        showMoreMenu = false
-//                        navController.navigate(Routes.DONATION)
-//                    },
-//                )
+                DropdownMenuItem(
+                    text = { Text("Donate to BibleLib") },
+                    leadingIcon = { Icon(Icons.Default.Favorite, null) },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.DONATION)
+                    },
+                )
                 DropdownMenuItem(
                     text = { Text("Help & Support") },
                     leadingIcon = { Icon(Icons.Default.HelpOutline, null) },

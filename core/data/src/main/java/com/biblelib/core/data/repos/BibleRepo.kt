@@ -6,10 +6,10 @@ import com.biblelib.core.database.daos.BibleDao
 import com.biblelib.core.database.daos.BookDao
 import com.biblelib.core.database.daos.ChapterDao
 import com.biblelib.core.database.daos.VerseDao
-import com.biblelib.core.database.model.BibleEntity
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.VerseEntity
+import com.biblelib.core.database.entities.BibleEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
+import com.biblelib.core.database.entities.VerseEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
 import com.biblelib.core.network.dtos.ChapterContentDto
 import com.biblelib.core.network.dtos.ContentItemDto
@@ -161,7 +161,6 @@ class BibleRepo @Inject constructor(
                         bibleAbbr = abbr,
                         bookId = bookId,
                         verseCount = content.verseCount,
-                        copyright = content.copyright,
                         contentJson = gson.toJson(verses),
                     )
                 )

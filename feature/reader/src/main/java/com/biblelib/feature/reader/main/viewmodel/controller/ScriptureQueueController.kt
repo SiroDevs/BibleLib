@@ -2,7 +2,7 @@ package com.biblelib.feature.reader.main.viewmodel.controller
 
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ScriptureQueueRepo
-import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableStateFlow

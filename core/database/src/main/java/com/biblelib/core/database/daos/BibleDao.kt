@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.entities.BibleEntity
 
 @Dao
 interface BibleDao {

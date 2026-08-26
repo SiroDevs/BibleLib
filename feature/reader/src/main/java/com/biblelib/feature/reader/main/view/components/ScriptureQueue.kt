@@ -23,7 +23,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.ScriptureItemEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
 

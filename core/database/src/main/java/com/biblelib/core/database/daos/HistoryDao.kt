@@ -5,7 +5,7 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.Update
-import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.core.database.entities.HistoryEntity
 
 @Dao
 interface HistoryDao {

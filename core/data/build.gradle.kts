@@ -33,9 +33,6 @@ dependencies {
     api(project(":core:network"))
 
     api(libs.androidx.compose.material)
-
-    implementation(platform(libs.jan.tennert.supabase.bom))
-    implementation(libs.jan.tennert.supabase.postgrest)
     implementation(libs.androidx.core.ktx)
 
     implementation(libs.androidx.work.runtime)

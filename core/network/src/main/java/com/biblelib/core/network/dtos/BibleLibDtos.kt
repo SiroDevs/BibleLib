@@ -13,7 +13,6 @@ data class BibleInfoDto(
     val tagline: String = "",
     val language: BibleLangDto = BibleLangDto(),
     val countries: List<BibleCountryDto> = emptyList(),
-    val copyright: String = "",
     val info: String = "",
 )
 
@@ -58,7 +57,6 @@ data class ChapterContentDto(
     val number: String = "",
     val bookId: String = "",
     val reference: String = "",
-    val copyright: String = "",
     val verseCount: Int = 0,
     val content: List<ContentItemDto> = emptyList(),
 )

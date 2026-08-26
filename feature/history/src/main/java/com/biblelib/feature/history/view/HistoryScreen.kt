@@ -36,7 +36,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.core.database.entities.HistoryEntity
 import com.biblelib.feature.history.viewmodel.HistoryGroup
 import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import java.text.SimpleDateFormat
@@ -165,7 +165,7 @@ private fun HistoryEntryItem(entry: HistoryEntity, onClick: () -> Unit) {
 }
 
 @Composable
-private fun SearchHistoryTab(history: List<com.biblelib.core.database.model.SearchEntity>, isLoading: Boolean) {
+private fun SearchHistoryTab(history: List<com.biblelib.core.database.entities.SearchEntity>, isLoading: Boolean) {
     if (isLoading) {
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         return

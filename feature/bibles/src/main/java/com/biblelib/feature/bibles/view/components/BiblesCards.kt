@@ -35,7 +35,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.biblelib.core.data.repos.PrefsRepo
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.entities.BibleEntity
 
 @Composable
 fun MultiBibleToggleCard(

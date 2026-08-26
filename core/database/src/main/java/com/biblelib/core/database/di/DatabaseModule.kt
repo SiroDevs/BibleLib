@@ -13,6 +13,7 @@ import com.biblelib.core.database.daos.ScriptureListDao
 import com.biblelib.core.database.daos.VerseDao
 import com.biblelib.core.database.daos.HistoryDao
 import com.biblelib.core.database.daos.SearchDao
+import com.biblelib.core.database.migrations.ALL_MIGRATIONS
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -23,11 +24,11 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 @Module
 object DatabaseModule {
-
     @Provides
     @Singleton
     fun provideDatabase(@ApplicationContext appContext: Context): AppDatabase =
         Room.databaseBuilder(appContext, AppDatabase::class.java, "BibleLib")
+            .addMigrations(*ALL_MIGRATIONS)
             .build()
 
     @Provides fun provideBibleDao(db: AppDatabase): BibleDao = db.biblesDao()

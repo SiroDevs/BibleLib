@@ -21,7 +21,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.core.database.entities.ChapterEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 
 @OptIn(ExperimentalMaterial3Api::class)
