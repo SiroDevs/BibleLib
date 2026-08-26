@@ -1,4 +1,4 @@
-package com.biblelib.core.database.model
+package com.biblelib.core.database.entities
 
 import androidx.room.Entity
 import androidx.room.Index
@@ -13,7 +13,6 @@ data class VerseEntity(
     val bibleAbbr: String,
     val bookId: String,
     val verseCount: Int,
-    val copyright: String,
     val contentJson: String,
     val cachedAt: Long = System.currentTimeMillis(),
 )

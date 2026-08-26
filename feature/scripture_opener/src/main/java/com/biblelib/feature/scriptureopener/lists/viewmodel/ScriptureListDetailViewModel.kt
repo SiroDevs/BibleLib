@@ -6,7 +6,7 @@ import com.biblelib.core.common.entity.ScriptureNavTarget
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ScriptureQueueRepo
 import com.biblelib.core.data.repos.ScriptureRepo
-import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

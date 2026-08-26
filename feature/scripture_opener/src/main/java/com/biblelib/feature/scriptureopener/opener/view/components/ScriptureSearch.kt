@@ -37,8 +37,8 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
 import com.biblelib.feature.scripture_opener.opener.viewmodel.ExpandedField
 import com.biblelib.feature.scripture_opener.opener.viewmodel.ScriptureSearchRowState
 

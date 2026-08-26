@@ -1,10 +1,8 @@
-package com.biblelib.core.database.model
+package com.biblelib.core.database.entities
 
 import android.os.Parcelable
 import androidx.annotation.Keep
-import androidx.room.ColumnInfo
 import androidx.room.Entity
-import androidx.room.Index
 import androidx.room.PrimaryKey
 import kotlinx.parcelize.Parcelize
 
@@ -18,7 +16,6 @@ data class BibleEntity(
     val description: String,
     val languageName: String,
     val scriptDirection: String,
-    val copyright: String,
     val sortOrder: Int = 0,
     val isDownloaded: Boolean = false,
     val addedAt: Long = System.currentTimeMillis(),

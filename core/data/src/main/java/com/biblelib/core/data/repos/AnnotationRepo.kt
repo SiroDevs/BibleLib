@@ -2,8 +2,8 @@ package com.biblelib.core.data.repos
 
 import com.biblelib.core.database.daos.BookmarkDao
 import com.biblelib.core.database.daos.NoteDao
-import com.biblelib.core.database.model.BookmarkEntity
-import com.biblelib.core.database.model.NoteEntity
+import com.biblelib.core.database.entities.BookmarkEntity
+import com.biblelib.core.database.entities.NoteEntity
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import javax.inject.Inject

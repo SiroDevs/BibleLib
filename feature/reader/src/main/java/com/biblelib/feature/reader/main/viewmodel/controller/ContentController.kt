@@ -6,9 +6,9 @@ import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ScriptureQueueRepo
 import com.biblelib.core.data.repos.TrackingRepo
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.HistoryEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
+import com.biblelib.core.database.entities.HistoryEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableStateFlow

@@ -1,4 +1,4 @@
-package com.biblelib.core.database.model
+package com.biblelib.core.database.entities
 
 import androidx.room.Entity
 import androidx.room.Index

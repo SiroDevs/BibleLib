@@ -1,8 +1,8 @@
 package com.biblelib.feature.scripture_opener.opener.viewmodel
 
 import com.biblelib.core.common.entity.VerseDisplay
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
 import java.util.UUID
 
 /** Which floating results panel (if any) is currently showing for a row. */

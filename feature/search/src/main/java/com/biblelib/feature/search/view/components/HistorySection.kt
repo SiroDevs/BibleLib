@@ -19,7 +19,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.SearchEntity
+import com.biblelib.core.database.entities.SearchEntity
 
 @Composable
 fun HistorySection(

@@ -34,7 +34,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.biblelib.core.common.utils.Routes
-import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.general.QuickFormDialog
 import com.biblelib.feature.scripture_opener.lists.viewmodel.ScriptureListDetailViewModel

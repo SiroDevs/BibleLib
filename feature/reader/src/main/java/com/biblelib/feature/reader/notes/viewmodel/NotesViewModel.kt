@@ -3,7 +3,7 @@ package com.biblelib.feature.reader.notes.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.biblelib.core.data.repos.AnnotationRepo
-import com.biblelib.core.database.model.NoteEntity
+import com.biblelib.core.database.entities.NoteEntity
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

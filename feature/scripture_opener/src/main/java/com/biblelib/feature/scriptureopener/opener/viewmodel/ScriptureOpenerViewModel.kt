@@ -7,9 +7,9 @@ import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ScriptureQueueRepo
 import com.biblelib.core.data.repos.ScriptureRepo
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

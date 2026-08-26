@@ -2,8 +2,8 @@ package com.biblelib.core.data.repos
 
 import com.biblelib.core.database.daos.ScriptureItemDao
 import com.biblelib.core.database.daos.ScriptureListDao
-import com.biblelib.core.database.model.ScriptureItemEntity
-import com.biblelib.core.database.model.ScriptureListEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
+import com.biblelib.core.database.entities.ScriptureListEntity
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import javax.inject.Inject

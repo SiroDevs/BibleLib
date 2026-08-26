@@ -1,10 +1,10 @@
 package com.biblelib.feature.reader.main.utils
 
 import com.biblelib.core.common.entity.VerseDisplay
-import com.biblelib.core.database.model.BibleEntity
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.ScriptureItemEntity
+import com.biblelib.core.database.entities.BibleEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.ChapterEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
 
 data class NotesNavRequest(
     val bibleAbbr: String,

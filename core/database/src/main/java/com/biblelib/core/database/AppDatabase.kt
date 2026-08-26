@@ -12,16 +12,16 @@ import com.biblelib.core.database.daos.ScriptureListDao
 import com.biblelib.core.database.daos.VerseDao
 import com.biblelib.core.database.daos.SearchDao
 import com.biblelib.core.database.daos.HistoryDao
-import com.biblelib.core.database.model.BibleEntity
-import com.biblelib.core.database.model.BookEntity
-import com.biblelib.core.database.model.BookmarkEntity
-import com.biblelib.core.database.model.ChapterEntity
-import com.biblelib.core.database.model.NoteEntity
-import com.biblelib.core.database.model.ScriptureItemEntity
-import com.biblelib.core.database.model.ScriptureListEntity
-import com.biblelib.core.database.model.VerseEntity
-import com.biblelib.core.database.model.HistoryEntity
-import com.biblelib.core.database.model.SearchEntity
+import com.biblelib.core.database.entities.BibleEntity
+import com.biblelib.core.database.entities.BookEntity
+import com.biblelib.core.database.entities.BookmarkEntity
+import com.biblelib.core.database.entities.ChapterEntity
+import com.biblelib.core.database.entities.NoteEntity
+import com.biblelib.core.database.entities.ScriptureItemEntity
+import com.biblelib.core.database.entities.ScriptureListEntity
+import com.biblelib.core.database.entities.VerseEntity
+import com.biblelib.core.database.entities.HistoryEntity
+import com.biblelib.core.database.entities.SearchEntity
 
 @Database(
     entities = [
@@ -36,7 +36,7 @@ import com.biblelib.core.database.model.SearchEntity
         ScriptureListEntity::class,
         ScriptureItemEntity::class,
     ],
-    version = 1,
+    version = 2,
     exportSchema = false
 )
 abstract class AppDatabase : RoomDatabase() {

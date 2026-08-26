@@ -27,7 +27,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.BookEntity
+import com.biblelib.core.database.entities.BookEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 
 private const val OT_BOOK_COUNT = 39

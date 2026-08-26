@@ -20,7 +20,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.biblelib.core.database.model.ChapterEntity
+import com.biblelib.core.database.entities.ChapterEntity
 
 @Composable
 fun ChapterResultsGrid(

@@ -5,7 +5,7 @@ import androidx.work.WorkManager
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.worker.SyncScheduler
 import com.biblelib.core.data.worker.SyncWorker
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.entities.BibleEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -67,9 +67,8 @@ class DownloadController(
         }
     }
 
-    /** Minimal stand-in entity, just enough for [observeDownloads] to key off the abbreviation. */
     private fun placeholderBible(abbr: String) = BibleEntity(
         abbreviation = abbr, name = "", description = "", languageName = "",
-        scriptDirection = "LTR", copyright = "",
+        scriptDirection = "LTR",
     )
 }

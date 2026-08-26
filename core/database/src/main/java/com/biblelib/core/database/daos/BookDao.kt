@@ -4,9 +4,7 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import androidx.room.Update
-import com.biblelib.core.database.model.BookEntity
-import kotlinx.coroutines.flow.Flow
+import com.biblelib.core.database.entities.BookEntity
 
 @Dao
 interface BookDao {

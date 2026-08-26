@@ -3,7 +3,7 @@ package com.biblelib.core.database.daos
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
-import com.biblelib.core.database.model.ScriptureListEntity
+import com.biblelib.core.database.entities.ScriptureListEntity
 
 @Dao
 interface ScriptureListDao {

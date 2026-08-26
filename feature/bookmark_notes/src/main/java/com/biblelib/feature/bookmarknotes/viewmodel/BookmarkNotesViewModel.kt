@@ -3,8 +3,8 @@ package com.biblelib.feature.bookmark_notes.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.biblelib.core.data.repos.AnnotationRepo
-import com.biblelib.core.database.model.BookmarkEntity
-import com.biblelib.core.database.model.NoteEntity
+import com.biblelib.core.database.entities.BookmarkEntity
+import com.biblelib.core.database.entities.NoteEntity
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

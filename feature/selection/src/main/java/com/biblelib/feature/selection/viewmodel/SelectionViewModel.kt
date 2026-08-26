@@ -9,7 +9,7 @@ import com.biblelib.core.common.entity.UiState
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.worker.SyncScheduler
-import com.biblelib.core.database.model.BibleEntity
+import com.biblelib.core.database.entities.BibleEntity
 import com.biblelib.core.network.dtos.BibleInfoDto
 import com.biblelib.core.network.dtos.primaryCountryName
 import com.biblelib.feature.selection.utils.GroupingMode
@@ -235,7 +235,6 @@ class SelectionViewModel @Inject constructor(
                     description = dto.description,
                     languageName = dto.language.name,
                     scriptDirection = dto.language.scriptDirection,
-                    copyright = dto.copyright,
                     sortOrder = index,
                     isDownloaded = false,
                     countryName = dto.primaryCountryName(),

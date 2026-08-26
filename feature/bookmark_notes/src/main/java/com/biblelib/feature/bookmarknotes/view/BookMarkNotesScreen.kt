@@ -11,7 +11,6 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
-import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.DeleteSweep
 import androidx.compose.material.icons.filled.MoreVert
@@ -39,12 +38,11 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
-import com.biblelib.core.database.model.BookmarkEntity
-import com.biblelib.core.database.model.NoteEntity
+import com.biblelib.core.database.entities.BookmarkEntity
+import com.biblelib.core.database.entities.NoteEntity
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.general.ConfirmDialog
 import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel

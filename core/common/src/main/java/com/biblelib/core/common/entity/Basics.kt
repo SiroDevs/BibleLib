@@ -24,7 +24,6 @@ data class BibleInfo(
     val abbreviation: String = "",
     val tagline: String = "",
     val language: BibleLanguage = BibleLanguage(),
-    val copyright: String = "",
     val info: String = "",
 ) : Parcelable
 
@@ -69,7 +68,6 @@ data class ChapterContent(
     val number: String = "",
     val bookId: String = "",
     val reference: String = "",
-    val copyright: String = "",
     val verseCount: Int = 0,
     val content: List<VerseContentItem> = emptyList(),
 )
@@ -91,7 +89,6 @@ data class ReadingHistory(
     val readAt: Long = System.currentTimeMillis()
 )
 
-/** Everything needed to open the Reader at a precise verse, e.g. from the Scripture Opener. */
 data class ScriptureNavTarget(
     val bibleAbbr: String,
     val bibleName: String,

@@ -8,8 +8,8 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import com.biblelib.core.data.repos.TrackingRepo
-import com.biblelib.core.database.model.HistoryEntity
-import com.biblelib.core.database.model.SearchEntity
+import com.biblelib.core.database.entities.HistoryEntity
+import com.biblelib.core.database.entities.SearchEntity
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
