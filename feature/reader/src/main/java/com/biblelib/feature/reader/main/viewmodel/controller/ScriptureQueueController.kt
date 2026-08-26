@@ -34,7 +34,7 @@ class ScriptureQueueController(
         val abbr = state.value.activeBibleAbbr
         scope.launch {
             contentController.loadBooks(abbr, item.bookId, item.chapterId)
-            state.update { it.copy(restoreVerseId = item.verseId) }
+            state.update { it.copy(restoreVerseId = item.verseId, highlightQuery = null) }
             prefsRepo.lastVerseId = item.verseId
         }
     }

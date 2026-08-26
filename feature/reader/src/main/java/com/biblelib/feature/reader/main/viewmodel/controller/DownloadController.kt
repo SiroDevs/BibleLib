@@ -67,8 +67,9 @@ class DownloadController(
         }
     }
 
+    /** Minimal stand-in entity, just enough for [observeDownloads] to key off the abbreviation. */
     private fun placeholderBible(abbr: String) = BibleEntity(
         abbreviation = abbr, name = "", description = "", languageName = "",
-        scriptDirection = "LTR",
+        scriptDirection = "LTR", copyright = "",
     )
 }

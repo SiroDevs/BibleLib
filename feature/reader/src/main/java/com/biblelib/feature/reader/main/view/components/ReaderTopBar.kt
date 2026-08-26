@@ -129,7 +129,7 @@ fun ReaderTopBar(
                     },
                 )
                 DropdownMenuItem(
-                    text = { Text("Manage App Settings") },
+                    text = { Text("Manage Settings") },
                     leadingIcon = { Icon(Icons.Default.Settings, null) },
                     onClick = {
                         showMoreMenu = false

@@ -10,6 +10,7 @@ import com.biblelib.core.database.entities.BookEntity
 import com.biblelib.core.database.entities.ChapterEntity
 import com.biblelib.core.database.entities.HistoryEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
+import com.biblelib.feature.reader.main.utils.ScrollTarget
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
@@ -31,7 +32,12 @@ class ContentController(
         isFirstLoad = true
     }
 
-    suspend fun loadBooks(abbr: String, bookId: String, chapterId: String) {
+    suspend fun loadBooks(
+        abbr: String,
+        bookId: String,
+        chapterId: String,
+        scrollTarget: ScrollTarget? = null,
+    ) {
         val books = bibleRepo.getLocalBooks(abbr)
         if (books.isEmpty()) {
             state.update {
@@ -46,10 +52,16 @@ class ContentController(
         val targetBook = books.find { it.id == bookId } ?: books.first()
         state.update { it.copy(books = books, activeBook = targetBook) }
 
-        loadChapters(abbr, targetBook, chapterId)
+        loadChapters(abbr, targetBook, chapterId, scrollTarget = scrollTarget)
     }
 
-    private suspend fun loadChapters(abbr: String, book: BookEntity, chapterId: String) {
+    private suspend fun loadChapters(
+        abbr: String,
+        book: BookEntity,
+        chapterId: String,
+        forceScrollToFirstVerse: Boolean = false,
+        scrollTarget: ScrollTarget? = null,
+    ) {
         val chapters = bibleRepo.getLocalChapters(abbr, book.id)
         if (chapters.isEmpty()) {
             state.update {
@@ -64,10 +76,32 @@ class ContentController(
         val targetChapter = chapters.find { it.id == chapterId } ?: chapters.first()
         state.update { it.copy(chapters = chapters, activeChapter = targetChapter) }
 
-        loadVerses(abbr, targetChapter)
+        loadVerses(
+            abbr,
+            targetChapter,
+            scrollTarget = scrollTarget,
+            forceScrollToFirstVerse = forceScrollToFirstVerse,
+        )
     }
 
-    suspend fun loadVerses(abbr: String, chapter: ChapterEntity) {
+    /**
+     * Loads the verses for [chapter].
+     *
+     * Scroll behaviour, in priority order:
+     *  1. [scrollTarget] — an explicit verse to land on (e.g. a scripture search hit), optionally
+     *     with a query to highlight.
+     *  2. [forceScrollToFirstVerse] — used whenever the chapter itself changed (book switch,
+     *     chapter picker, prev/next navigation) so the reader always opens at verse 1.
+     *  3. The very first chapter load of a session restores the last verse the user was reading.
+     *  4. Otherwise (e.g. switching translation on the same chapter) the scroll position is left
+     *     untouched.
+     */
+    suspend fun loadVerses(
+        abbr: String,
+        chapter: ChapterEntity,
+        scrollTarget: ScrollTarget? = null,
+        forceScrollToFirstVerse: Boolean = false,
+    ) {
         state.update { it.copy(isLoading = true, error = null) }
         val verses = bibleRepo.getLocalVerses(abbr, chapter.id)
         if (verses == null) {
@@ -106,7 +140,12 @@ class ContentController(
         val bookmarks = annotationRepo.getBookmarksForChapter(abbr, chapter.id)
         val notedVerseIds = annotationRepo.getNotedVerseIds(abbr, chapter.id)
 
-        val restoreTarget = if (isFirstLoad) prefsRepo.lastVerseId.takeIf { it.isNotEmpty() } else null
+        val resolvedTarget: ScrollTarget? = when {
+            scrollTarget != null -> scrollTarget
+            forceScrollToFirstVerse -> verses.firstOrNull()?.verseId?.let { ScrollTarget(it) }
+            isFirstLoad -> prefsRepo.lastVerseId.takeIf { it.isNotEmpty() }?.let { ScrollTarget(it) }
+            else -> null
+        }
         isFirstLoad = false
 
         state.update {
@@ -122,7 +161,8 @@ class ContentController(
                 showColorPicker = false,
                 pendingHighlightColor = null,
                 multiBibleReaderEnabled = multiBibleEnabled,
-                restoreVerseId = restoreTarget,
+                restoreVerseId = resolvedTarget?.verseId,
+                highlightQuery = resolvedTarget?.highlightQuery,
             )
         }
 
@@ -202,13 +242,24 @@ class ContentController(
     fun selectBook(book: BookEntity) {
         state.update { it.copy(activeBook = book, chapters = emptyList(), verses = emptyList()) }
         scope.launch {
-            loadChapters(state.value.activeBibleAbbr, book, "")
+            // A new book always starts at its first chapter, so this is a chapter change too.
+            loadChapters(state.value.activeBibleAbbr, book, "", forceScrollToFirstVerse = true)
         }
     }
 
-    fun selectChapter(chapter: ChapterEntity) {
+    /**
+     * Selects [chapter]. If [scrollTarget] is null (the normal case — chapter picker, prev/next
+     * navigation) the reader always lands on the chapter's first verse. Pass [scrollTarget] to
+     * land on a specific verse instead, e.g. when arriving from a scripture search result.
+     */
+    fun selectChapter(chapter: ChapterEntity, scrollTarget: ScrollTarget? = null) {
         scope.launch {
-            loadVerses(state.value.activeBibleAbbr, chapter)
+            loadVerses(
+                state.value.activeBibleAbbr,
+                chapter,
+                scrollTarget = scrollTarget,
+                forceScrollToFirstVerse = scrollTarget == null,
+            )
         }
     }
 

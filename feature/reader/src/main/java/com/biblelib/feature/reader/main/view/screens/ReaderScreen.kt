@@ -58,10 +58,19 @@ fun ReaderScreen(
     initialBibleAbbr: String,
     initialBookId: String,
     initialChapterId: String,
+    initialVerseId: String = "",
+    initialSearchQuery: String = "",
     themeRepo: ThemeRepo,
 ) {
     LaunchedEffect(Unit) {
-        viewModel.initialize(initialBible, initialBibleAbbr, initialBookId, initialChapterId)
+        viewModel.initialize(
+            initialBible,
+            initialBibleAbbr,
+            initialBookId,
+            initialChapterId,
+            initialVerseId,
+            initialSearchQuery,
+        )
     }
 
     val state by viewModel.uiState.collectAsState()
@@ -76,21 +85,24 @@ fun ReaderScreen(
     val snackbarHostState = remember { SnackbarHostState() }
     val coroutineScope = rememberCoroutineScope()
 
-    LaunchedEffect(state.activeChapter?.id, state.verses) {
-        val target = state.restoreVerseId
-        if (target != null && state.verses.isNotEmpty()) {
-            val idx = state.verses.indexOfFirst { it.verseId == target }
-            if (idx >= 0) listState.scrollToItem(idx)
-            viewModel.consumeRestoreVerseTarget()
-        }
-    }
+    // Whether there's an adjacent chapter to navigate to — shared by the bottom bar, the FAB,
+    // and the auto-scroll-to-next/prev-chapter behaviour in VerseList.
+    val activeChapterIndex = state.chapters.indexOfFirst { it.id == state.activeChapter?.id }
+    val hasPrevChapter = activeChapterIndex > 0
+    val hasNextChapter = activeChapterIndex in 0 until state.chapters.size - 1
+    val prevChapterLabel = state.chapters.getOrNull(activeChapterIndex - 1)?.reference ?: "Previous chapter"
+    val nextChapterLabel = state.chapters.getOrNull(activeChapterIndex + 1)?.reference ?: "Next chapter"
 
-    LaunchedEffect(listState, state.verses) {
+    // The LazyColumn gains a leading sentinel item whenever there's a previous chapter, which
+    // shifts every "real" verse index in the list by one.
+    val itemIndexOffset = if (hasPrevChapter) 1 else 0
+
+    LaunchedEffect(listState, state.verses, itemIndexOffset) {
         snapshotFlow { listState.firstVisibleItemIndex }
             .distinctUntilChanged()
             .debounce(500)
             .collect { index ->
-                val verse = state.verses.getOrNull(index) ?: return@collect
+                val verse = state.verses.getOrNull(index - itemIndexOffset) ?: return@collect
                 viewModel.onVerseScrollPositionChanged(verse.verseId, verse.number)
             }
     }
@@ -158,16 +170,8 @@ fun ReaderScreen(
                 ReaderBottomBar(
                     navController = navController,
                     viewModel = viewModel,
-                    hasPrev = run {
-                        val chapters = state.chapters
-                        val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
-                        idx > 0
-                    },
-                    hasNext = run {
-                        val chapters = state.chapters
-                        val idx = chapters.indexOfFirst { it.id == state.activeChapter?.id }
-                        idx < chapters.size - 1
-                    },
+                    hasPrev = hasPrevChapter,
+                    hasNext = hasNextChapter,
                     chapterRef = state.activeChapter?.reference ?: "",
                     onChapterList = { showChapterSheet = true },
                     onQuickSettings = { showQuickSettings = true },
@@ -200,6 +204,12 @@ fun ReaderScreen(
                     viewModel = viewModel,
                     fontFamily = resolvedFontFamily,
                     listState = listState,
+                    hasPrevChapter = hasPrevChapter,
+                    hasNextChapter = hasNextChapter,
+                    prevChapterLabel = prevChapterLabel,
+                    nextChapterLabel = nextChapterLabel,
+                    onNavigatePrevChapter = { if (!state.isLoading) viewModel.navigateChapter(-1) },
+                    onNavigateNextChapter = { if (!state.isLoading) viewModel.navigateChapter(1) },
                 )
             }
 
@@ -208,6 +218,7 @@ fun ReaderScreen(
                 modifier = Modifier.align(Alignment.BottomEnd),
                 navController = navController,
                 listState = listState,
+                topItemIndex = itemIndexOffset,
             )
         }
     }

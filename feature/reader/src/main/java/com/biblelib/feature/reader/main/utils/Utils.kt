@@ -15,6 +15,11 @@ data class NotesNavRequest(
     val verseText: String,
 )
 
+data class ScrollTarget(
+    val verseId: String,
+    val highlightQuery: String? = null,
+)
+
 data class ReaderUiState(
     val isLoading: Boolean = true,
     val error: String? = null,
@@ -32,6 +37,7 @@ data class ReaderUiState(
     val readerBackgroundId: String = "default",
     val multiBibleReaderEnabled: Boolean = true,
     val restoreVerseId: String? = null,
+    val highlightQuery: String? = null,
 
     val bookmarks: Map<String, String?> = emptyMap(),
     val notedVerseIds: Set<String> = emptySet(),

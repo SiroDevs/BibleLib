@@ -33,7 +33,12 @@ class SelectionViewModel @Inject constructor(
 
     companion object {
         private const val TAG = "SelectionViewModel"
-        const val MAX_SELECTIONS = 1 + 6
+
+        /** Task: bibles a first-time user can pick before their initial download. */
+        const val FIRST_INSTALL_MAX = 5
+
+        /** Task: once bibles are already owned, how many more can be added in one go. */
+        const val ADDITIONAL_BIBLES_ALLOWED = 7
     }
 
     private val _uiState = MutableStateFlow<UiState>(UiState.Loading)
@@ -50,6 +55,17 @@ class SelectionViewModel @Inject constructor(
 
     private val _groupingMode = MutableStateFlow(GroupingMode.Default)
     val groupingMode = _groupingMode.asStateFlow()
+
+    /**
+     * Task: on first install the user is capped at [FIRST_INSTALL_MAX] bibles total. Once bibles
+     * are already owned (re-selection / "add more bibles" flow) that cap is lifted — they can add
+     * up to [ADDITIONAL_BIBLES_ALLOWED] more on top of what they already have.
+     */
+    val isFirstInstall: Boolean
+        get() = !prefsRepo.isDataSelected
+
+    private val _maxSelections = MutableStateFlow(FIRST_INSTALL_MAX)
+    val maxSelections: StateFlow<Int> = _maxSelections.asStateFlow()
 
     private var pendingSelection: List<BibleInfoDto> = emptyList()
 
@@ -77,6 +93,12 @@ class SelectionViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val selected = prefsRepo.getSelectedBibleList().toSet()
+
+                _maxSelections.value = if (isFirstInstall) {
+                    FIRST_INSTALL_MAX
+                } else {
+                    selected.size + ADDITIONAL_BIBLES_ALLOWED
+                }
 
                 _bibles.value = bibleRepo.fetchAvailableBibles().map {
                     Selectable(
@@ -108,7 +130,7 @@ class SelectionViewModel @Inject constructor(
 
         val shouldSelect = !target.isSelected
 
-        if (shouldSelect && selectedCount.value >= MAX_SELECTIONS) {
+        if (shouldSelect && selectedCount.value >= _maxSelections.value) {
             return
         }
 
@@ -235,6 +257,7 @@ class SelectionViewModel @Inject constructor(
                     description = dto.description,
                     languageName = dto.language.name,
                     scriptDirection = dto.language.scriptDirection,
+                    copyright = dto.copyright,
                     sortOrder = index,
                     isDownloaded = false,
                     countryName = dto.primaryCountryName(),
