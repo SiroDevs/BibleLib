@@ -18,6 +18,7 @@ import androidx.compose.material.icons.filled.EditNote
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.HelpOutline
 import androidx.compose.material.icons.filled.History
+import androidx.compose.material.icons.filled.LibraryBooks
 import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Search
@@ -70,7 +71,7 @@ fun ReaderTopBar(
                         .padding(horizontal = 5.dp)
                 ) {
                     Text(
-                        text = state.activeBible.take(30),
+                        text = "${state.activeBibleAbbr.uppercase().take(3)}: ${state.activeBible.take(30)}",
                         style = MaterialTheme.typography.titleMedium,
                     )
                     Spacer(Modifier.width(5.dp))
@@ -86,8 +87,7 @@ fun ReaderTopBar(
                     Icon(Icons.Default.MenuBook, null, modifier = Modifier.size(25.dp))
                     Spacer(Modifier.width(10.dp))
                     Text(
-                        text = state.activeBook?.name
-                            ?: "".uppercase(LocalLocale.current.platformLocale),
+                        text = state.activeBook?.name ?: "",
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.Bold,
                     )
@@ -121,8 +121,8 @@ fun ReaderTopBar(
                     },
                 )
                 DropdownMenuItem(
-                    text = { Text("Manage Your Bibles") },
-                    leadingIcon = { Icon(Icons.Default.MenuBook, null) },
+                    text = { Text("Manage Bibles") },
+                    leadingIcon = { Icon(Icons.Default.LibraryBooks, null) },
                     onClick = {
                         showMoreMenu = false
                         navController.navigate(Routes.BIBLES)

@@ -257,7 +257,6 @@ class SelectionViewModel @Inject constructor(
                     description = dto.description,
                     languageName = dto.language.name,
                     scriptDirection = dto.language.scriptDirection,
-                    copyright = dto.copyright,
                     sortOrder = index,
                     isDownloaded = false,
                     countryName = dto.primaryCountryName(),

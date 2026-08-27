@@ -34,7 +34,8 @@ class DownloadController(
                                 .filterNot { it.state.isFinished }
                                 .maxByOrNull { it.id.hashCode() }
                                 ?: infos.maxByOrNull { it.id.hashCode() }
-                            val progress = info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
+                            val progress =
+                                info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
                             if (progress > 0f) {
                                 state.update {
                                     it.copy(downloadProgress = it.downloadProgress + (bible.abbreviation to progress))
@@ -67,9 +68,8 @@ class DownloadController(
         }
     }
 
-    /** Minimal stand-in entity, just enough for [observeDownloads] to key off the abbreviation. */
     private fun placeholderBible(abbr: String) = BibleEntity(
         abbreviation = abbr, name = "", description = "", languageName = "",
-        scriptDirection = "LTR", copyright = "",
+        scriptDirection = "LTR",
     )
 }

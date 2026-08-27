@@ -172,7 +172,7 @@ fun ReaderScreen(
                     viewModel = viewModel,
                     hasPrev = hasPrevChapter,
                     hasNext = hasNextChapter,
-                    chapterRef = state.activeChapter?.reference ?: "",
+                    chapterRef = state.activeChapter?.number ?: "Chapter",
                     onChapterList = { showChapterSheet = true },
                     onQuickSettings = { showQuickSettings = true },
                 )
@@ -218,7 +218,6 @@ fun ReaderScreen(
                 modifier = Modifier.align(Alignment.BottomEnd),
                 navController = navController,
                 listState = listState,
-                topItemIndex = itemIndexOffset,
             )
         }
     }
