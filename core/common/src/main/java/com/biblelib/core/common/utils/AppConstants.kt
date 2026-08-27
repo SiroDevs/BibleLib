@@ -64,8 +64,18 @@ object Routes {
     const val READING_SETTINGS = "reading_settings"
     const val DATA_SETTINGS = "data_settings"
 
-    fun reader(bibleAbbr: String = "", bookId: String = "", chapterId: String = "") =
-        "reader?bibleAbbr=$bibleAbbr&bookId=$bookId&chapterId=$chapterId"
+    fun reader(
+        bibleAbbr: String = "",
+        bookId: String = "",
+        chapterId: String = "",
+        verseId: String = "",
+        searchQuery: String = "",
+    ): String {
+        val encodedVerseId = URLEncoder.encode(verseId, StandardCharsets.UTF_8.toString())
+        val encodedQuery = URLEncoder.encode(searchQuery, StandardCharsets.UTF_8.toString())
+        return "reader?bibleAbbr=$bibleAbbr&bookId=$bookId&chapterId=$chapterId" +
+                "&verseId=$encodedVerseId&searchQuery=$encodedQuery"
+    }
 
     const val NOTES =
         "notes?bibleAbbr={bibleAbbr}&verseId={verseId}&bookId={bookId}&chapterId={chapterId}&title={title}&verseText={verseText}"

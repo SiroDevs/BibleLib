@@ -21,6 +21,7 @@ import com.biblelib.core.data.repos.ScriptureQueueRepo
 import com.biblelib.core.data.repos.TrackingRepo
 import com.biblelib.feature.reader.main.utils.NotesNavRequest
 import com.biblelib.feature.reader.main.utils.ReaderUiState
+import com.biblelib.feature.reader.main.utils.ScrollTarget
 import com.biblelib.feature.reader.main.viewmodel.controller.AnnotationController
 import com.biblelib.feature.reader.main.viewmodel.controller.ContentController
 import com.biblelib.feature.reader.main.viewmodel.controller.DownloadController
@@ -59,7 +60,9 @@ class ReaderViewModel @Inject constructor(
         initialBible: String,
         initialBibleAbbr: String,
         initialBookId: String,
-        initialChapterId: String
+        initialChapterId: String,
+        initialVerseId: String = "",
+        initialSearchQuery: String = "",
     ) {
         viewModelScope.launch {
             try {
@@ -96,7 +99,10 @@ class ReaderViewModel @Inject constructor(
                     )
                 }
 
-                content.loadBooks(bibleAbbr, initialBookId, initialChapterId)
+                val scrollTarget = initialVerseId.takeIf { it.isNotEmpty() }?.let {
+                    ScrollTarget(it, highlightQuery = initialSearchQuery.ifEmpty { null })
+                }
+                content.loadBooks(bibleAbbr, initialBookId, initialChapterId, scrollTarget = scrollTarget)
                 downloads.observeDownloads(bibles)
             } catch (e: Exception) {
                 Log.e(TAG, "initialize error", e)
@@ -116,7 +122,8 @@ class ReaderViewModel @Inject constructor(
     fun navigateChapter(direction: Int) = content.navigateChapter(direction)
     fun selectBible(abbr: String) = content.selectBible(abbr)
     fun selectBook(book: BookEntity) = content.selectBook(book)
-    fun selectChapter(chapter: ChapterEntity) = content.selectChapter(chapter)
+    fun selectChapter(chapter: ChapterEntity, scrollTarget: ScrollTarget? = null) =
+        content.selectChapter(chapter, scrollTarget)
     fun setMultiBibleReaderEnabled(enabled: Boolean) = content.setMultiBibleReaderEnabled(enabled)
 
     // --- Scripture queue ---

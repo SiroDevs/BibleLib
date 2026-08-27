@@ -10,6 +10,7 @@ import com.biblelib.core.database.entities.BookEntity
 import com.biblelib.core.database.entities.ChapterEntity
 import com.biblelib.core.database.entities.HistoryEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
+import com.biblelib.feature.reader.main.utils.ScrollTarget
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
@@ -26,12 +27,16 @@ class ContentController(
 ) {
     private var isFirstLoad = false
 
-    /** Marks the next [loadVerses] call as the initial one, so it restores the last-read verse. */
     fun markFirstLoad() {
         isFirstLoad = true
     }
 
-    suspend fun loadBooks(abbr: String, bookId: String, chapterId: String) {
+    suspend fun loadBooks(
+        abbr: String,
+        bookId: String,
+        chapterId: String,
+        scrollTarget: ScrollTarget? = null,
+    ) {
         val books = bibleRepo.getLocalBooks(abbr)
         if (books.isEmpty()) {
             state.update {
@@ -46,10 +51,16 @@ class ContentController(
         val targetBook = books.find { it.id == bookId } ?: books.first()
         state.update { it.copy(books = books, activeBook = targetBook) }
 
-        loadChapters(abbr, targetBook, chapterId)
+        loadChapters(abbr, targetBook, chapterId, scrollTarget = scrollTarget)
     }
 
-    private suspend fun loadChapters(abbr: String, book: BookEntity, chapterId: String) {
+    private suspend fun loadChapters(
+        abbr: String,
+        book: BookEntity,
+        chapterId: String,
+        forceScrollToFirstVerse: Boolean = false,
+        scrollTarget: ScrollTarget? = null,
+    ) {
         val chapters = bibleRepo.getLocalChapters(abbr, book.id)
         if (chapters.isEmpty()) {
             state.update {
@@ -64,10 +75,20 @@ class ContentController(
         val targetChapter = chapters.find { it.id == chapterId } ?: chapters.first()
         state.update { it.copy(chapters = chapters, activeChapter = targetChapter) }
 
-        loadVerses(abbr, targetChapter)
+        loadVerses(
+            abbr,
+            targetChapter,
+            scrollTarget = scrollTarget,
+            forceScrollToFirstVerse = forceScrollToFirstVerse,
+        )
     }
 
-    suspend fun loadVerses(abbr: String, chapter: ChapterEntity) {
+    suspend fun loadVerses(
+        abbr: String,
+        chapter: ChapterEntity,
+        scrollTarget: ScrollTarget? = null,
+        forceScrollToFirstVerse: Boolean = false,
+    ) {
         state.update { it.copy(isLoading = true, error = null) }
         val verses = bibleRepo.getLocalVerses(abbr, chapter.id)
         if (verses == null) {
@@ -91,7 +112,6 @@ class ContentController(
             val orderedSecondary = prefsRepo.getSecondaryBibleList()
                 .filter { it != abbr && it in downloadedAbbrs }
                 .ifEmpty {
-                    // Fallback for users who haven't configured a stack yet.
                     state.value.savedBibles
                         .filter { it.abbreviation != abbr && it.isDownloaded }
                         .map { it.abbreviation }
@@ -106,7 +126,12 @@ class ContentController(
         val bookmarks = annotationRepo.getBookmarksForChapter(abbr, chapter.id)
         val notedVerseIds = annotationRepo.getNotedVerseIds(abbr, chapter.id)
 
-        val restoreTarget = if (isFirstLoad) prefsRepo.lastVerseId.takeIf { it.isNotEmpty() } else null
+        val resolvedTarget: ScrollTarget? = when {
+            scrollTarget != null -> scrollTarget
+            forceScrollToFirstVerse -> verses.firstOrNull()?.verseId?.let { ScrollTarget(it) }
+            isFirstLoad -> prefsRepo.lastVerseId.takeIf { it.isNotEmpty() }?.let { ScrollTarget(it) }
+            else -> null
+        }
         isFirstLoad = false
 
         state.update {
@@ -122,14 +147,14 @@ class ContentController(
                 showColorPicker = false,
                 pendingHighlightColor = null,
                 multiBibleReaderEnabled = multiBibleEnabled,
-                restoreVerseId = restoreTarget,
+                restoreVerseId = resolvedTarget?.verseId,
+                highlightQuery = resolvedTarget?.highlightQuery,
             )
         }
 
         prefsRepo.lastBibleAbbr = abbr
         prefsRepo.lastBookId = chapter.bookId
         prefsRepo.lastChapterId = chapter.id
-
         scriptureQueueRepo.syncActiveByChapter(abbr, chapter.id)
 
         val book = state.value.activeBook
@@ -152,7 +177,6 @@ class ContentController(
         val chapter = state.value.activeChapter ?: return
         val book = state.value.activeBook ?: return
         val abbr = state.value.activeBibleAbbr
-
         prefsRepo.lastVerseId = verseId
 
         scope.launch {
@@ -202,13 +226,18 @@ class ContentController(
     fun selectBook(book: BookEntity) {
         state.update { it.copy(activeBook = book, chapters = emptyList(), verses = emptyList()) }
         scope.launch {
-            loadChapters(state.value.activeBibleAbbr, book, "")
+            loadChapters(state.value.activeBibleAbbr, book, "", forceScrollToFirstVerse = true)
         }
     }
 
-    fun selectChapter(chapter: ChapterEntity) {
+    fun selectChapter(chapter: ChapterEntity, scrollTarget: ScrollTarget? = null) {
         scope.launch {
-            loadVerses(state.value.activeBibleAbbr, chapter)
+            loadVerses(
+                state.value.activeBibleAbbr,
+                chapter,
+                scrollTarget = scrollTarget,
+                forceScrollToFirstVerse = scrollTarget == null,
+            )
         }
     }
 

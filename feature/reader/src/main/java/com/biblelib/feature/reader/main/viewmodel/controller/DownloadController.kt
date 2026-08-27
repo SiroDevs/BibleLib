@@ -34,7 +34,8 @@ class DownloadController(
                                 .filterNot { it.state.isFinished }
                                 .maxByOrNull { it.id.hashCode() }
                                 ?: infos.maxByOrNull { it.id.hashCode() }
-                            val progress = info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
+                            val progress =
+                                info?.progress?.getFloat(SyncWorker.KEY_PROGRESS, 0f) ?: 0f
                             if (progress > 0f) {
                                 state.update {
                                     it.copy(downloadProgress = it.downloadProgress + (bible.abbreviation to progress))

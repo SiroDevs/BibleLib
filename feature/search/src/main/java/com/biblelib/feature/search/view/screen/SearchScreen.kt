@@ -1,6 +1,7 @@
 package com.biblelib.feature.search.view.screen
 
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -31,6 +32,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.feature.search.viewmodel.SearchViewModel
+import com.biblelib.feature.search.view.components.BibleFilterStrip
 import com.biblelib.feature.search.view.components.HistorySection
 import com.biblelib.feature.search.view.components.SearchResultItem
 
@@ -44,31 +46,40 @@ fun SearchScreen(
     val results by viewModel.results.collectAsState()
     val isSearching by viewModel.isSearching.collectAsState()
     val searchHistory by viewModel.searchHistory.collectAsState()
+    val bibles by viewModel.bibles.collectAsState()
+    val selectedBibleAbbr by viewModel.selectedBibleAbbr.collectAsState()
 
     Scaffold(
         topBar = {
-            TopAppBar(
-                navigationIcon = {
-                    IconButton(onClick = { navController.popBackStack() }) {
-                        Icon(
-                            Icons.AutoMirrored.Filled.ArrowBack, "Back",
+            Column {
+                TopAppBar(
+                    navigationIcon = {
+                        IconButton(onClick = { navController.popBackStack() }) {
+                            Icon(
+                                Icons.AutoMirrored.Filled.ArrowBack, "Back",
+                            )
+                        }
+                    },
+                    title = {
+                        SearchField(
+                            query = query,
+                            onChange = viewModel::onQueryChange,
+                            onClear = viewModel::clearQuery,
                         )
-                    }
-                },
-                title = {
-                    SearchField(
-                        query = query,
-                        onChange = viewModel::onQueryChange,
-                        onClear = viewModel::clearQuery,
-                    )
-                },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.onPrimary,
-                    titleContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                    navigationIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                    actionIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                ),
-            )
+                    },
+                    colors = TopAppBarDefaults.topAppBarColors(
+                        containerColor = MaterialTheme.colorScheme.onPrimary,
+                        titleContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                        navigationIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                        actionIconContentColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                    ),
+                )
+                BibleFilterStrip(
+                    bibles = bibles,
+                    selectedAbbr = selectedBibleAbbr,
+                    onSelect = viewModel::selectBible,
+                )
+            }
         }
     ) { padding ->
         Box(Modifier
@@ -104,9 +115,11 @@ fun SearchScreen(
                             onClick = { tapped ->
                                 navController.navigate(
                                     Routes.reader(
-                                        bibleAbbr = viewModel.primaryBibleAbbr,
+                                        bibleAbbr = selectedBibleAbbr,
                                         bookId = tapped.bookId,
                                         chapterId = tapped.chapterId,
+                                        verseId = tapped.verseId,
+                                        searchQuery = query,
                                     )
                                 ) {
                                     popUpTo(Routes.READER) { inclusive = true }

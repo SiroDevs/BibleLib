@@ -67,6 +67,7 @@ fun SelectionScreen(
     val groupingMode by viewModel.groupingMode.collectAsState()
     val selectedCount by viewModel.selectedCount.collectAsState()
     val canProceed by viewModel.canProceed.collectAsState()
+    val maxSelections by viewModel.maxSelections.collectAsState()
     val downloadProgress by viewModel.downloadProgress.collectAsState()
     val downloadStep by viewModel.downloadStep.collectAsState()
 
@@ -131,7 +132,7 @@ fun SelectionScreen(
             } else {
                 AppTopBar(
                     title = "BibleLib",
-                    tagline = "$selectedCount / ${SelectionViewModel.MAX_SELECTIONS} bibles selected",
+                    tagline = "$selectedCount / $maxSelections bibles selected",
                     actions = {
                         IconButton(
                             onClick = viewModel::fetchBibles
@@ -269,7 +270,7 @@ fun SelectionScreen(
                                                 isSelected = item.isSelected,
                                                 isDisabled =
                                                     !item.isSelected &&
-                                                            selectedCount >= SelectionViewModel.MAX_SELECTIONS,
+                                                            selectedCount >= maxSelections,
                                                 onClick = {
                                                     viewModel.toggleSelection(item.data.abbreviation)
                                                 }
