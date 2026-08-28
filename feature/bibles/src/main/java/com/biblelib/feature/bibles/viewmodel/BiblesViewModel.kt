@@ -9,7 +9,7 @@ import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.worker.SyncScheduler
 import com.biblelib.core.data.worker.SyncWorker
 import com.biblelib.core.database.entities.BibleEntity
-import com.biblelib.core.ui.MainViewModel
+import com.biblelib.core.ui.viewmodel.MainViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow

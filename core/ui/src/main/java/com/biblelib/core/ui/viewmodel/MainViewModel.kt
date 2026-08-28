@@ -1,15 +1,15 @@
-package com.biblelib.core.ui
+package com.biblelib.core.ui.viewmodel
 
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.biblelib.core.data.repos.PrefsRepo
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
-import com.biblelib.core.data.repos.PrefsRepo
 import javax.inject.Inject
 
 @HiltViewModel
