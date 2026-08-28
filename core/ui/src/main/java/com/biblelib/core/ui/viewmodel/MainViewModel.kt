@@ -1,4 +1,4 @@
-package com.biblelib.viewmodel
+package com.biblelib.core.ui.viewmodel
 
 import android.content.Context
 import androidx.lifecycle.ViewModel

@@ -11,7 +11,7 @@ import androidx.navigation.compose.rememberNavController
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.viewmodel.MainViewModel
+import com.biblelib.core.ui.viewmodel.MainViewModel
 import com.biblelib.navigation.graphs.mainGraph
 import com.biblelib.navigation.graphs.miscGraph
 import com.biblelib.navigation.graphs.searchGraph

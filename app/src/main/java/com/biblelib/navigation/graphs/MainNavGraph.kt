@@ -8,7 +8,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.viewmodel.MainViewModel
+import com.biblelib.core.ui.viewmodel.MainViewModel
 import com.biblelib.feature.bibles.view.screens.BiblesScreen
 import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
 import com.biblelib.feature.bookmark_notes.view.BookmarkNotesScreen

@@ -6,7 +6,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.composable
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.viewmodel.MainViewModel
+import com.biblelib.core.ui.viewmodel.MainViewModel
 import com.biblelib.feature.settings.view.screen.AppearanceSettingsScreen
 import com.biblelib.feature.settings.view.screen.DataSettingsScreen
 import com.biblelib.feature.settings.view.screen.ReadingSettingsScreen
