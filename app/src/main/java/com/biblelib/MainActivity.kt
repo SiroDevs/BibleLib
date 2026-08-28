@@ -12,7 +12,7 @@ import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeMode
 import com.biblelib.core.data.repos.ThemeRepo
 import com.biblelib.core.design_system.theme.AppTheme
-import com.biblelib.core.ui.MainViewModel
+import com.biblelib.viewmodel.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 import io.sentry.Sentry

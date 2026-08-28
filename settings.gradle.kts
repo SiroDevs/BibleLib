@@ -39,6 +39,7 @@ include(":core:design_system")
 // Feature modules
 include(":feature:selection")
 include(":feature:reader")
+include(":feature:how_it_works")
 include(":feature:bookmark_notes")
 include(":feature:search")
 include(":feature:scripture_opener")

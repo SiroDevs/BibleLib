@@ -4,50 +4,18 @@ import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.ExperimentalComposeUiApi
-import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavHostController
-import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import androidx.navigation.navArgument
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.PrefsRepo
 import com.biblelib.core.data.repos.ThemeRepo
-import com.biblelib.core.ui.MainViewModel
-import com.biblelib.feature.bibles.view.screens.BiblesScreen
-import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
-import com.biblelib.feature.bookmark_notes.view.BookmarkNotesScreen
-import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel
-import com.biblelib.feature.donation.viewmodel.DonationViewModel
-import com.biblelib.feature.donation.view.screens.DonationScreen
-import com.biblelib.feature.donation.view.screens.PaymentWebViewScreen
-import com.biblelib.feature.help.view.HelpScreen
-import com.biblelib.feature.history.viewmodel.HistoryViewModel
-import com.biblelib.feature.history.view.HistoryScreen
-import com.biblelib.feature.reader.main.view.screens.ReaderScreen
-import com.biblelib.feature.reader.notes.viewmodel.NotesViewModel
-import com.biblelib.feature.reader.notes.view.NotesScreen
-import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
-import com.biblelib.feature.scripture_opener.opener.view.screens.ScriptureOpenerScreen
-import com.biblelib.feature.scripture_opener.opener.viewmodel.ScriptureOpenerViewModel
-import com.biblelib.feature.scripture_opener.lists.view.screens.ScriptureListScreen
-import com.biblelib.feature.scripture_opener.lists.view.screens.ScriptureListDetailScreen
-import com.biblelib.feature.scripture_opener.lists.viewmodel.ScriptureListsViewModel
-import com.biblelib.feature.scripture_opener.lists.viewmodel.ScriptureListDetailViewModel
-import com.biblelib.feature.search.viewmodel.SearchViewModel
-import com.biblelib.feature.search.view.screen.SearchScreen
-import com.biblelib.feature.selection.viewmodel.SelectionViewModel
-import com.biblelib.feature.selection.view.screen.SelectionScreen
-import com.biblelib.feature.settings.viewmodel.SettingsViewModel
-import com.biblelib.feature.settings.view.screen.SettingsScreen
-import com.biblelib.feature.settings.view.screen.AppearanceSettingsScreen
-import com.biblelib.feature.settings.view.screen.ReadingSettingsScreen
-import com.biblelib.feature.settings.view.screen.DataSettingsScreen
-import kotlinx.coroutines.launch
+import com.biblelib.viewmodel.MainViewModel
+import com.biblelib.navigation.graphs.mainGraph
+import com.biblelib.navigation.graphs.miscGraph
+import com.biblelib.navigation.graphs.searchGraph
+import com.biblelib.navigation.graphs.settingsGraph
 
 @OptIn(ExperimentalComposeUiApi::class, ExperimentalFoundationApi::class)
 @Composable
@@ -71,217 +39,20 @@ fun AppNavHost(
         navController = navController,
         startDestination = startDestination
     ) {
-
-        composable(Routes.SELECTION) {
-            val viewModel: SelectionViewModel = hiltViewModel()
-            SelectionScreen(
-                navController = navController,
-                viewModel = viewModel,
-                themeRepo = themeRepo,
-            )
-        }
-
-        composable(
-            route = Routes.READER,
-            arguments = listOf(
-                navArgument("bibleName") { type = NavType.StringType; defaultValue = "" },
-                navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
-                navArgument("bookId") { type = NavType.StringType; defaultValue = "" },
-                navArgument("chapterId") { type = NavType.StringType; defaultValue = "" },
-            )
-        ) { backStackEntry ->
-            val bibleName = backStackEntry.arguments?.getString("bibleName") ?: ""
-            val bibleAbbr = backStackEntry.arguments?.getString("bibleAbbr") ?: ""
-            val bookId = backStackEntry.arguments?.getString("bookId") ?: ""
-            val chapterId = backStackEntry.arguments?.getString("chapterId") ?: ""
-            val viewModel: ReaderViewModel = hiltViewModel()
-            ReaderScreen(
-                navController = navController,
-                viewModel = viewModel,
-                initialBible = bibleName,
-                initialBibleAbbr = bibleAbbr,
-                initialBookId = bookId,
-                initialChapterId = chapterId,
-                themeRepo = themeRepo,
-            )
-        }
-
-        composable(
-            route = Routes.NOTES,
-            arguments = listOf(
-                navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
-                navArgument("verseId") { type = NavType.StringType; defaultValue = "" },
-                navArgument("bookId") { type = NavType.StringType; defaultValue = "" },
-                navArgument("chapterId") { type = NavType.StringType; defaultValue = "" },
-                navArgument("title") { type = NavType.StringType; defaultValue = "" },
-                navArgument("verseText") { type = NavType.StringType; defaultValue = "" },
-            )
-        ) { backStackEntry ->
-            val args = backStackEntry.arguments
-            val bibleAbbr = args?.getString("bibleAbbr") ?: ""
-            val verseId = Routes.decode(args?.getString("verseId") ?: "")
-            val bookId = Routes.decode(args?.getString("bookId") ?: "")
-            val chapterId = Routes.decode(args?.getString("chapterId") ?: "")
-            val title = Routes.decode(args?.getString("title") ?: "")
-            val verseText = Routes.decode(args?.getString("verseText") ?: "")
-            val viewModel: NotesViewModel = hiltViewModel()
-            NotesScreen(
-                navController = navController,
-                viewModel = viewModel,
-                bibleAbbr = bibleAbbr,
-                verseId = verseId,
-                bookId = bookId,
-                chapterId = chapterId,
-                title = title,
-                verseText = verseText,
-            )
-        }
-
-        composable(Routes.SEARCH) {
-            val viewModel: SearchViewModel = hiltViewModel()
-            SearchScreen(
-                navController = navController,
-                viewModel = viewModel,
-            )
-        }
-
-        composable(Routes.HISTORY) {
-            val viewModel: HistoryViewModel = hiltViewModel()
-            HistoryScreen(
-                navController = navController,
-                viewModel = viewModel,
-            )
-        }
-
-        composable(Routes.SETTINGS) {
-            SettingsScreen( navController = navController)
-        }
-
-        composable(Routes.BOOKMARKS_NOTES) {
-            val viewModel: BookmarkNotesViewModel = hiltViewModel()
-            BookmarkNotesScreen(
-                navController = navController,
-                viewModel = viewModel,
-            )
-        }
-
-        composable(Routes.BIBLES) {
-            val biblesVm: BiblesViewModel = hiltViewModel()
-            BiblesScreen(
-                navController = navController,
-                mainViewModel = mainViewModel,
-                viewModel = biblesVm,
-            )
-        }
-
-        composable(Routes.APPEARANCE_SETTINGS) {
-            val settingsVm: SettingsViewModel = hiltViewModel()
-            AppearanceSettingsScreen(
-                navController = navController,
-                settViewModel = settingsVm,
-                themeRepo = themeRepo,
-            )
-        }
-
-        composable(Routes.READING_SETTINGS) {
-            val settingsVm: SettingsViewModel = hiltViewModel()
-            ReadingSettingsScreen(
-                navController = navController,
-                settViewModel = settingsVm,
-            )
-        }
-
-        composable(Routes.DATA_SETTINGS) {
-            val settingsVm: SettingsViewModel = hiltViewModel()
-            DataSettingsScreen(
-                navController = navController,
-                mainViewModel = mainViewModel,
-                settViewModel = settingsVm,
-            )
-        }
-
-        composable(Routes.HELP) {
-            HelpScreen(navController = navController)
-        }
-
-        composable(
-            route = Routes.SCRIPTURE_OPENER,
-            arguments = listOf(
-                navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
-                navArgument("bibleName") { type = NavType.StringType; defaultValue = "" },
-            ),
-        ) { backStackEntry ->
-            val bibleAbbr = backStackEntry.arguments?.getString("bibleAbbr") ?: ""
-            val bibleName = Routes.decode(backStackEntry.arguments?.getString("bibleName") ?: "")
-            val viewModel: ScriptureOpenerViewModel = hiltViewModel()
-            ScriptureOpenerScreen(
-                navController = navController,
-                viewModel = viewModel,
-                bibleAbbr = bibleAbbr,
-                bibleName = bibleName,
-            )
-        }
-
-        composable(Routes.SCRIPTURE_LISTS) {
-            val viewModel: ScriptureListsViewModel = hiltViewModel()
-            ScriptureListScreen(
-                navController = navController,
-                viewModel = viewModel,
-            )
-        }
-
-        composable(
-            route = Routes.SCRIPTURE_LIST_DETAIL,
-            arguments = listOf(
-                navArgument("listId") { type = NavType.LongType },
-            ),
-        ) { backStackEntry ->
-            val listId = backStackEntry.arguments?.getLong("listId") ?: 0L
-            val viewModel: ScriptureListDetailViewModel = hiltViewModel()
-            ScriptureListDetailScreen(
-                navController = navController,
-                viewModel = viewModel,
-                listId = listId,
-            )
-        }
-
-        composable(Routes.DONATION) {
-            val donationVm: DonationViewModel = hiltViewModel()
-            DonationScreen(navController = navController, viewModel = donationVm)
-        }
-
-        composable(
-            route = Routes.PAYMENT_WEBVIEW,
-            arguments = listOf(
-                navArgument("redirectUrl") { type = NavType.StringType }
-            ),
-        ) { backStackEntry ->
-            val encoded = backStackEntry.arguments?.getString("redirectUrl") ?: ""
-            val redirectUrl = Routes.decodeRedirectUrl(encoded)
-
-            val donationEntry = remember(backStackEntry) {
-                navController.getBackStackEntry(Routes.DONATION)
-            }
-            val viewModel: DonationViewModel = hiltViewModel(donationEntry)
-            val scope = rememberCoroutineScope()
-
-            PaymentWebViewScreen(
-                navController = navController,
-                viewModel = viewModel,
-                redirectUrl = redirectUrl,
-                onPaymentComplete = { isSuccess ->
-                    if (isSuccess) {
-                        scope.launch { prefsRepo.recordDonation() }
-                        navController.navigate(Routes.READER) {
-                            popUpTo(Routes.READER) { inclusive = false }
-                        }
-                    } else {
-                        viewModel.resetState()
-                        navController.popBackStack()
-                    }
-                },
-            )
-        }
-
+        mainGraph(
+            navController = navController,
+            themeRepo = themeRepo,
+            mainViewModel = mainViewModel,
+        )
+        settingsGraph(
+            navController = navController,
+            themeRepo = themeRepo,
+            mainViewModel = mainViewModel,
+        )
+        searchGraph(navController = navController)
+        miscGraph(
+            navController = navController,
+            prefsRepo = prefsRepo
+        )
     }
 }

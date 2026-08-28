@@ -56,6 +56,7 @@ object Routes {
     const val SEARCH = "search"
     const val HISTORY = "history"
     const val SETTINGS = "settings"
+    const val HOW_IT_WORKS = "how_it_works"
     const val HELP = "help"
     const val DONATION = "donation"
     const val BOOKMARKS_NOTES = "bookmarks_notes"
@@ -63,6 +64,7 @@ object Routes {
     const val APPEARANCE_SETTINGS = "appearance_settings"
     const val READING_SETTINGS = "reading_settings"
     const val DATA_SETTINGS = "data_settings"
+    const val CASTING = "casting"
 
     fun reader(
         bibleAbbr: String = "",

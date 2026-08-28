@@ -13,11 +13,13 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Bookmarks
+import androidx.compose.material.icons.filled.Cast
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.EditNote
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.HelpOutline
 import androidx.compose.material.icons.filled.History
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.LibraryBooks
 import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.MoreVert
@@ -100,6 +102,9 @@ fun ReaderTopBar(
             IconButton(onClick = { navController.navigate(Routes.SEARCH) }) {
                 Icon(Icons.Default.Search, "Search")
             }
+            IconButton(onClick = { navController.navigate(Routes.CASTING) }) {
+                Icon(Icons.Default.Cast, contentDescription = "Casting to PC")
+            }
             IconButton(onClick = { showMoreMenu = true }) {
                 Icon(Icons.Default.MoreVert, "More")
             }
@@ -142,6 +147,14 @@ fun ReaderTopBar(
                     onClick = {
                         showMoreMenu = false
                         navController.navigate(Routes.DONATION)
+                    },
+                )
+                DropdownMenuItem(
+                    text = { Text("How It Works") },
+                    leadingIcon = { Icon(Icons.Default.Info, null) },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.HOW_IT_WORKS)
                     },
                 )
                 DropdownMenuItem(
