@@ -36,9 +36,9 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.biblelib.core.ui.MainViewModel
 import com.biblelib.core.ui.components.action.AppTopBar
 import com.biblelib.core.ui.components.general.ConfirmDialog
+import com.biblelib.core.ui.viewmodel.MainViewModel
 import com.biblelib.feature.bibles.view.components.MultiBibleToggleCard
 import com.biblelib.feature.bibles.view.components.OtherBiblesCard
 import com.biblelib.feature.bibles.view.components.PrimaryBiblePickerDialog
