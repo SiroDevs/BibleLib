@@ -19,11 +19,6 @@ class TrackingRepo @Inject constructor(
 ) {
     private val dayFormat = SimpleDateFormat("yyyyMMdd", Locale.US)
 
-    /**
-     * Records that [entry]'s chapter is being read. If this chapter was already opened today,
-     * only the top-visible verse (and any refreshed labels) are updated — the original "first
-     * opened" timestamp is preserved. Otherwise a new history row is created.
-     */
     suspend fun recordReading(entry: HistoryEntity) = withContext(Dispatchers.IO) {
         val dayKey = dayFormat.format(Date(entry.readAt))
         val existing = historyDao.findForDay(entry.bibleAbbr, entry.chapterId, dayKey)

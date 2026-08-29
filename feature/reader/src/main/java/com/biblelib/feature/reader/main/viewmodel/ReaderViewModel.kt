@@ -26,7 +26,9 @@ import com.biblelib.feature.reader.main.utils.ScrollTarget
 import com.biblelib.feature.reader.main.viewmodel.controller.AnnotationController
 import com.biblelib.feature.reader.main.viewmodel.controller.ContentController
 import com.biblelib.feature.reader.main.viewmodel.controller.DownloadController
+import com.biblelib.feature.reader.main.viewmodel.controller.ParallelBibleController
 import com.biblelib.feature.reader.main.viewmodel.controller.PreferencesController
+import com.biblelib.feature.reader.main.viewmodel.controller.ReadingProgressController
 import com.biblelib.feature.reader.main.viewmodel.controller.ScriptureQueueController
 import javax.inject.Inject
 
@@ -43,8 +45,12 @@ class ReaderViewModel @Inject constructor(
     private val _uiState = MutableStateFlow(ReaderUiState())
     val uiState: StateFlow<ReaderUiState> = _uiState.asStateFlow()
 
+    private val parallelBible = ParallelBibleController(bibleRepo, prefsRepo, _uiState)
+    private val readingProgress = ReadingProgressController(
+        prefsRepo, trackingRepo, scriptureQueueRepo, castingRepo, viewModelScope, _uiState,
+    )
     private val content = ContentController(
-        bibleRepo, prefsRepo, annotationRepo, trackingRepo, scriptureQueueRepo, castingRepo,
+        bibleRepo, prefsRepo, annotationRepo, parallelBible, readingProgress,
         viewModelScope, _uiState,
     )
     private val downloads = DownloadController(bibleRepo, context, viewModelScope, _uiState)
@@ -104,7 +110,12 @@ class ReaderViewModel @Inject constructor(
                 val scrollTarget = initialVerseId.takeIf { it.isNotEmpty() }?.let {
                     ScrollTarget(it, highlightQuery = initialSearchQuery.ifEmpty { null })
                 }
-                content.loadBooks(bibleAbbr, initialBookId, initialChapterId, scrollTarget = scrollTarget)
+                content.loadBooks(
+                    bibleAbbr,
+                    initialBookId,
+                    initialChapterId,
+                    scrollTarget = scrollTarget
+                )
                 downloads.observeDownloads(bibles)
             } catch (e: Exception) {
                 Log.e(TAG, "initialize error", e)
@@ -126,6 +137,7 @@ class ReaderViewModel @Inject constructor(
     fun selectBook(book: BookEntity) = content.selectBook(book)
     fun selectChapter(chapter: ChapterEntity, scrollTarget: ScrollTarget? = null) =
         content.selectChapter(chapter, scrollTarget)
+
     fun setMultiBibleReaderEnabled(enabled: Boolean) = content.setMultiBibleReaderEnabled(enabled)
 
     // --- Scripture queue ---

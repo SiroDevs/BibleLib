@@ -108,7 +108,7 @@ fun ReaderTopBar(
             }
             DropdownMenu(expanded = showMoreMenu, onDismissRequest = { showMoreMenu = false }) {
                 DropdownMenuItem(
-                    text = { Text("Share Your Screen (Cast)") },
+                    text = { Text("Cast to PC") },
                     leadingIcon = { Icon(Icons.Default.Cast, null) },
                     onClick = {
                         showMoreMenu = false

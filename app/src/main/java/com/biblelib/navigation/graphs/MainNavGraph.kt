@@ -13,6 +13,8 @@ import com.biblelib.feature.bibles.view.screens.BiblesScreen
 import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
 import com.biblelib.feature.bookmark_notes.view.BookmarkNotesScreen
 import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel
+import com.biblelib.feature.casting.view.screen.CastingScreen
+import com.biblelib.feature.casting.viewmodel.CastingViewModel
 import com.biblelib.feature.history.view.HistoryScreen
 import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import com.biblelib.feature.reader.main.view.screens.ReaderScreen
@@ -117,11 +119,11 @@ fun NavGraphBuilder.mainGraph(
         )
     }
 
-//        composable(Routes.CASTING) {
-//            val castingVm: CastingViewModel = hiltViewModel()
-//            CastingScreen(
-//                navController = navController,
-//                viewModel = castingVm,
-//            )
-//        }
+        composable(Routes.CASTING) {
+            val castingVm: CastingViewModel = hiltViewModel()
+            CastingScreen(
+                navController = navController,
+                viewModel = castingVm,
+            )
+        }
 }

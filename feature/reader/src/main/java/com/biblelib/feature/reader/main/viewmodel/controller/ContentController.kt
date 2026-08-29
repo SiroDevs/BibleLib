@@ -1,15 +1,10 @@
 package com.biblelib.feature.reader.main.viewmodel.controller
 
-import com.biblelib.core.casting.data.CastingRepo
-import com.biblelib.core.common.entity.VerseDisplay
 import com.biblelib.core.data.repos.AnnotationRepo
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
-import com.biblelib.core.data.repos.ScriptureQueueRepo
-import com.biblelib.core.data.repos.TrackingRepo
 import com.biblelib.core.database.entities.BookEntity
 import com.biblelib.core.database.entities.ChapterEntity
-import com.biblelib.core.database.entities.HistoryEntity
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import com.biblelib.feature.reader.main.utils.ScrollTarget
 import kotlinx.coroutines.CoroutineScope
@@ -17,21 +12,21 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 
+/**
+ * Orchestrates loading books/chapters/verses and primary-Bible navigation.
+ * Parallel-Bible fetching is delegated to [ParallelBibleController]; scroll-target
+ * resolution, history, and casting are delegated to [ReadingProgressController].
+ */
 class ContentController(
     private val bibleRepo: BibleRepo,
     private val prefsRepo: PrefsRepo,
     private val annotationRepo: AnnotationRepo,
-    private val trackingRepo: TrackingRepo,
-    private val scriptureQueueRepo: ScriptureQueueRepo,
-    private val castingRepo: CastingRepo,
+    private val parallelBibleController: ParallelBibleController,
+    private val readingProgressController: ReadingProgressController,
     private val scope: CoroutineScope,
     private val state: MutableStateFlow<ReaderUiState>,
 ) {
-    private var isFirstLoad = false
-
-    fun markFirstLoad() {
-        isFirstLoad = true
-    }
+    fun markFirstLoad() = readingProgressController.markFirstLoad()
 
     suspend fun loadBooks(
         abbr: String,
@@ -103,44 +98,23 @@ class ContentController(
             return
         }
 
-        val parallelMap = mutableMapOf<String, List<VerseDisplay>>()
-        val multiBibleEnabled = prefsRepo.multiBibleReaderEnabled
-        if (multiBibleEnabled) {
-            val downloadedAbbrs = state.value.savedBibles
-                .filter { it.isDownloaded }
-                .map { it.abbreviation }
-                .toSet()
-
-            val orderedSecondary = prefsRepo.getSecondaryBibleList()
-                .filter { it != abbr && it in downloadedAbbrs }
-                .ifEmpty {
-                    state.value.savedBibles
-                        .filter { it.abbreviation != abbr && it.isDownloaded }
-                        .map { it.abbreviation }
-                }
-
-            orderedSecondary.forEach { sAbbr ->
-                val pVerses = bibleRepo.getLocalVerses(sAbbr, chapter.id)
-                if (pVerses != null) parallelMap[sAbbr] = pVerses
-            }
-        }
+        val parallelVerses = parallelBibleController.loadParallel(abbr, chapter.id)
+        val multiBibleEnabled = parallelBibleController.isEnabled
 
         val bookmarks = annotationRepo.getBookmarksForChapter(abbr, chapter.id)
         val notedVerseIds = annotationRepo.getNotedVerseIds(abbr, chapter.id)
 
-        val resolvedTarget: ScrollTarget? = when {
-            scrollTarget != null -> scrollTarget
-            forceScrollToFirstVerse -> verses.firstOrNull()?.verseId?.let { ScrollTarget(it) }
-            isFirstLoad -> prefsRepo.lastVerseId.takeIf { it.isNotEmpty() }?.let { ScrollTarget(it) }
-            else -> null
-        }
-        isFirstLoad = false
+        val resolvedTarget = readingProgressController.resolveScrollTarget(
+            scrollTarget,
+            forceScrollToFirstVerse,
+            verses,
+        )
 
         state.update {
             it.copy(
                 isLoading = false,
                 verses = verses,
-                parallelVerses = parallelMap,
+                parallelVerses = parallelVerses,
                 activeChapter = chapter,
                 activeBibleAbbr = abbr,
                 bookmarks = bookmarks,
@@ -154,72 +128,21 @@ class ContentController(
             )
         }
 
-        prefsRepo.lastBibleAbbr = abbr
-        prefsRepo.lastBookId = chapter.bookId
-        prefsRepo.lastChapterId = chapter.id
-        scriptureQueueRepo.syncActiveByChapter(abbr, chapter.id)
-
-        val book = state.value.activeBook
-        if (book != null) {
-            trackingRepo.recordReading(
-                HistoryEntity(
-                    bibleAbbr = abbr,
-                    bibleName = state.value.activeBible,
-                    bookId = book.id,
-                    bookName = book.name,
-                    chapterId = chapter.id,
-                    chapterRef = chapter.reference,
-                    verseNumber = verses.firstOrNull()?.number ?: 1,
-                )
-            )
-
-            val secondaryNames = parallelMap.keys.mapNotNull { sAbbr ->
-                state.value.savedBibles.find { it.abbreviation == sAbbr }?.name
-            }
-            val startIndex = resolvedTarget?.verseId
-                ?.let { targetId -> verses.indexOfFirst { it.verseId == targetId } }
-                ?.takeIf { it >= 0 } ?: 0
-
-            castingRepo.publishReading(
-                bibleName = state.value.activeBible,
-                bookName = book.name,
-                chapterRef = chapter.reference,
-                verses = verses.map { it.text },
-                indicators = verses.map { it.number.toString() },
-                currentIndex = startIndex,
-                multiBibleEnabled = multiBibleEnabled,
-                secondaryBibleNames = secondaryNames,
-            )
-        }
+        readingProgressController.recordVersesLoaded(
+            abbr = abbr,
+            chapter = chapter,
+            book = state.value.activeBook,
+            verses = verses,
+            parallelVerses = parallelVerses,
+            multiBibleEnabled = multiBibleEnabled,
+            resolvedTarget = resolvedTarget,
+        )
     }
 
-    fun onVerseScrollPositionChanged(verseId: String, verseNumber: Int) {
-        val chapter = state.value.activeChapter ?: return
-        val book = state.value.activeBook ?: return
-        val abbr = state.value.activeBibleAbbr
-        prefsRepo.lastVerseId = verseId
+    fun onVerseScrollPositionChanged(verseId: String, verseNumber: Int) =
+        readingProgressController.onVerseScrollPositionChanged(verseId, verseNumber)
 
-        val verseIndex = state.value.verses.indexOfFirst { it.verseId == verseId }
-        if (verseIndex >= 0) castingRepo.updateIndex(verseIndex)
-
-        scope.launch {
-            trackingRepo.recordReading(
-                HistoryEntity(
-                    bibleAbbr = abbr,
-                    bibleName = state.value.activeBible,
-                    bookId = book.id,
-                    bookName = book.name,
-                    chapterId = chapter.id,
-                    chapterRef = chapter.reference,
-                    verseNumber = verseNumber,
-                )
-            )
-        }
-    }
-
-    fun consumeRestoreVerseTarget() {
-        state.update { it.copy(restoreVerseId = null) }
-    }
+    fun consumeRestoreVerseTarget() = readingProgressController.consumeRestoreVerseTarget()
 
     fun navigateChapter(direction: Int) {
         val chapters = state.value.chapters
@@ -265,8 +188,7 @@ class ContentController(
     }
 
     fun setMultiBibleReaderEnabled(enabled: Boolean) {
-        prefsRepo.multiBibleReaderEnabled = enabled
-        state.update { it.copy(multiBibleReaderEnabled = enabled) }
+        parallelBibleController.setEnabled(enabled)
         val chapter = state.value.activeChapter ?: return
         scope.launch { loadVerses(state.value.activeBibleAbbr, chapter) }
     }
