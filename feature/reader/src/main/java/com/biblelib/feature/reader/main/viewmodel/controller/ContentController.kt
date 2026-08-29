@@ -1,5 +1,6 @@
 package com.biblelib.feature.reader.main.viewmodel.controller
 
+import com.biblelib.core.casting.data.CastingRepo
 import com.biblelib.core.common.entity.VerseDisplay
 import com.biblelib.core.data.repos.AnnotationRepo
 import com.biblelib.core.data.repos.BibleRepo
@@ -22,6 +23,7 @@ class ContentController(
     private val annotationRepo: AnnotationRepo,
     private val trackingRepo: TrackingRepo,
     private val scriptureQueueRepo: ScriptureQueueRepo,
+    private val castingRepo: CastingRepo,
     private val scope: CoroutineScope,
     private val state: MutableStateFlow<ReaderUiState>,
 ) {
@@ -170,6 +172,24 @@ class ContentController(
                     verseNumber = verses.firstOrNull()?.number ?: 1,
                 )
             )
+
+            val secondaryNames = parallelMap.keys.mapNotNull { sAbbr ->
+                state.value.savedBibles.find { it.abbreviation == sAbbr }?.name
+            }
+            val startIndex = resolvedTarget?.verseId
+                ?.let { targetId -> verses.indexOfFirst { it.verseId == targetId } }
+                ?.takeIf { it >= 0 } ?: 0
+
+            castingRepo.publishReading(
+                bibleName = state.value.activeBible,
+                bookName = book.name,
+                chapterRef = chapter.reference,
+                verses = verses.map { it.text },
+                indicators = verses.map { it.number.toString() },
+                currentIndex = startIndex,
+                multiBibleEnabled = multiBibleEnabled,
+                secondaryBibleNames = secondaryNames,
+            )
         }
     }
 
@@ -178,6 +198,9 @@ class ContentController(
         val book = state.value.activeBook ?: return
         val abbr = state.value.activeBibleAbbr
         prefsRepo.lastVerseId = verseId
+
+        val verseIndex = state.value.verses.indexOfFirst { it.verseId == verseId }
+        if (verseIndex >= 0) castingRepo.updateIndex(verseIndex)
 
         scope.launch {
             trackingRepo.recordReading(

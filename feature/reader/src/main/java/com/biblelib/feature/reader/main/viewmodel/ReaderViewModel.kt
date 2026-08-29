@@ -14,6 +14,7 @@ import kotlinx.coroutines.launch
 import com.biblelib.core.database.entities.BookEntity
 import com.biblelib.core.database.entities.ChapterEntity
 import com.biblelib.core.database.entities.ScriptureItemEntity
+import com.biblelib.core.casting.data.CastingRepo
 import com.biblelib.core.data.repos.AnnotationRepo
 import com.biblelib.core.data.repos.BibleRepo
 import com.biblelib.core.data.repos.PrefsRepo
@@ -36,13 +37,14 @@ class ReaderViewModel @Inject constructor(
     private val prefsRepo: PrefsRepo,
     private val annotationRepo: AnnotationRepo,
     private val scriptureQueueRepo: ScriptureQueueRepo,
+    private val castingRepo: CastingRepo,
     @ApplicationContext context: Context,
 ) : ViewModel() {
     private val _uiState = MutableStateFlow(ReaderUiState())
     val uiState: StateFlow<ReaderUiState> = _uiState.asStateFlow()
 
     private val content = ContentController(
-        bibleRepo, prefsRepo, annotationRepo, trackingRepo, scriptureQueueRepo,
+        bibleRepo, prefsRepo, annotationRepo, trackingRepo, scriptureQueueRepo, castingRepo,
         viewModelScope, _uiState,
     )
     private val downloads = DownloadController(bibleRepo, context, viewModelScope, _uiState)
@@ -149,6 +151,11 @@ class ReaderViewModel @Inject constructor(
     fun confirmBookmarkOnly() = annotations.confirmBookmarkOnly()
     fun confirmBookmarkWithNotes(): NotesNavRequest? = annotations.confirmBookmarkWithNotes()
     fun refreshNotedVerses() = annotations.refreshNotedVerses()
+
+    override fun onCleared() {
+        castingRepo.publishIdle()
+        super.onCleared()
+    }
 
     companion object {
         private const val TAG = "ReaderViewModel"

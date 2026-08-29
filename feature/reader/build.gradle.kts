@@ -9,6 +9,7 @@ android {
 
 dependencies {
     implementation(project(":core:data"))
+    implementation(project(":core:casting"))
     implementation(project(":core:database"))
     implementation(project(":core:network"))
     implementation(project(":core:design_system"))
