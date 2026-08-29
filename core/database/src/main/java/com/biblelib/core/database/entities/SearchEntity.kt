@@ -7,6 +7,6 @@ import androidx.room.PrimaryKey
 data class SearchEntity(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
-    val query: String,
-    val searchedAt: Long = System.currentTimeMillis(),
+    val qry: String,
+    val queriedAt: Long = System.currentTimeMillis(),
 )

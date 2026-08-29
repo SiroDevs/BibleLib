@@ -42,8 +42,9 @@ class TrackingRepo @Inject constructor(
 
     suspend fun clearHistory() = withContext(Dispatchers.IO) { historyDao.deleteAll() }
 
-    suspend fun recordSearch(query: String) = withContext(Dispatchers.IO) {
-        searchDao.insert(SearchEntity(query = query))
+    suspend fun recordSearch(qry: String) = withContext(Dispatchers.IO) {
+        searchDao.deleteByQuery(qry)
+        searchDao.insert(SearchEntity(qry = qry))
         searchDao.pruneOld()
     }
 

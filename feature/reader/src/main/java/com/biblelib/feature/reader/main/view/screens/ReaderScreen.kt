@@ -59,7 +59,7 @@ fun ReaderScreen(
     initialBookId: String,
     initialChapterId: String,
     initialVerseId: String = "",
-    initialSearchQuery: String = "",
+    initialSearchQry: String = "",
     themeRepo: ThemeRepo,
 ) {
     LaunchedEffect(Unit) {
@@ -69,7 +69,7 @@ fun ReaderScreen(
             initialBookId,
             initialChapterId,
             initialVerseId,
-            initialSearchQuery,
+            initialSearchQry,
         )
     }
 
@@ -194,7 +194,9 @@ fun ReaderScreen(
                             initialBible,
                             initialBibleAbbr,
                             initialBookId,
-                            initialChapterId
+                            initialChapterId,
+                            initialVerseId,
+                            initialSearchQry,
                         )
                     }
                 )

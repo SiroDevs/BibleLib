@@ -70,7 +70,7 @@ class ReaderViewModel @Inject constructor(
         initialBookId: String,
         initialChapterId: String,
         initialVerseId: String = "",
-        initialSearchQuery: String = "",
+        initialSearchQry: String = "",
     ) {
         viewModelScope.launch {
             try {
@@ -108,7 +108,7 @@ class ReaderViewModel @Inject constructor(
                 }
 
                 val scrollTarget = initialVerseId.takeIf { it.isNotEmpty() }?.let {
-                    ScrollTarget(it, highlightQuery = initialSearchQuery.ifEmpty { null })
+                    ScrollTarget(it, highlightQuery = initialSearchQry.ifEmpty { null })
                 }
                 content.loadBooks(
                     bibleAbbr,

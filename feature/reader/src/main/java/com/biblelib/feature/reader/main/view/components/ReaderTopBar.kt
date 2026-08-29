@@ -108,7 +108,7 @@ fun ReaderTopBar(
             }
             DropdownMenu(expanded = showMoreMenu, onDismissRequest = { showMoreMenu = false }) {
                 DropdownMenuItem(
-                    text = { Text("Cast to PC") },
+                    text = { Text("Cast to PC/Devices") },
                     leadingIcon = { Icon(Icons.Default.Cast, null) },
                     onClick = {
                         showMoreMenu = false

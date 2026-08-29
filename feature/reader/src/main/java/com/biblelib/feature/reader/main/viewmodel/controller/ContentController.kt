@@ -45,10 +45,16 @@ class ContentController(
             return
         }
 
-        val targetBook = books.find { it.id == bookId } ?: books.first()
+        // No explicit book was requested (e.g. opening the reader from the bottom nav rather
+        // than from search/history/a scripture link) — resume where the user last left off
+        // instead of always falling back to the first book in the Bible.
+        val resolvedBookId = bookId.ifEmpty { prefsRepo.lastBookId }
+        val resolvedChapterId = chapterId.ifEmpty { prefsRepo.lastChapterId }
+
+        val targetBook = books.find { it.id == resolvedBookId } ?: books.first()
         state.update { it.copy(books = books, activeBook = targetBook) }
 
-        loadChapters(abbr, targetBook, chapterId, scrollTarget = scrollTarget)
+        loadChapters(abbr, targetBook, resolvedChapterId, scrollTarget = scrollTarget)
     }
 
     private suspend fun loadChapters(
