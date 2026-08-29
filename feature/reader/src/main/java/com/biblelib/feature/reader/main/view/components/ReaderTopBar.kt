@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ListAlt
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Bookmarks
@@ -107,11 +108,19 @@ fun ReaderTopBar(
             }
             DropdownMenu(expanded = showMoreMenu, onDismissRequest = { showMoreMenu = false }) {
                 DropdownMenuItem(
-                    text = { Text("Cast to PC") },
+                    text = { Text("Share Your Screen (Cast)") },
                     leadingIcon = { Icon(Icons.Default.Cast, null) },
                     onClick = {
                         showMoreMenu = false
                         navController.navigate(Routes.CASTING)
+                    },
+                )
+                DropdownMenuItem(
+                    text = { Text("Scripture Lists") },
+                    leadingIcon = { Icon(Icons.AutoMirrored.Filled.ListAlt, null) },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.SCRIPTURE_LISTS)
                     },
                 )
                 DropdownMenuItem(
@@ -123,7 +132,7 @@ fun ReaderTopBar(
                     },
                 )
                 DropdownMenuItem(
-                    text = { Text("Your History") },
+                    text = { Text("View History") },
                     leadingIcon = { Icon(Icons.Default.History, null) },
                     onClick = {
                         showMoreMenu = false

@@ -16,6 +16,7 @@ room = "2.8.4"
 squareup = "3.0.0"
 squareupOk = "5.4.0"
 ktor = "3.5.0"
+zxing = "3.5.3"
 kotlinx-serialization = "1.11.0"
 material3 = "1.4.0"
 sentry = "6.19.0"
@@ -72,6 +73,10 @@ coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "xmaterial", version.ref = "material" }
 androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "splashscreen" }
+ktor-server-core = { module = "io.ktor:ktor-server-core", version.ref = "ktor" }
+ktor-server-cio = { module = "io.ktor:ktor-server-cio", version.ref = "ktor" }
+ktor-server-websockets = { module = "io.ktor:ktor-server-websockets", version.ref = "ktor" }
+zxing-core = { module = "com.google.zxing:core", version.ref = "zxing" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
