@@ -30,6 +30,7 @@ include(":app")
 
 // Core modules
 include(":core:common")
+include(":core:casting")
 include(":core:data")
 include(":core:database")
 include(":core:network")
@@ -39,6 +40,7 @@ include(":core:design_system")
 // Feature modules
 include(":feature:selection")
 include(":feature:reader")
+include(":feature:casting")
 include(":feature:how_it_works")
 include(":feature:bookmark_notes")
 include(":feature:search")

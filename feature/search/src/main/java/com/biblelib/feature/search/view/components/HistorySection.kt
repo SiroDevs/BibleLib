@@ -54,14 +54,14 @@ fun HistorySection(
             }
             items(history, key = { it.id }) { item ->
                 ListItem(
-                    headlineContent = { Text(item.query) },
+                    headlineContent = { Text(item.qry) },
                     leadingContent = {
                         Icon(
                             Icons.Default.History, null,
                             tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
                         )
                     },
-                    modifier = Modifier.clickable { onSelect(item.query) }
+                    modifier = Modifier.clickable { onSelect(item.qry) }
                 )
             }
         }

@@ -48,6 +48,7 @@ fun SearchScreen(
     val searchHistory by viewModel.searchHistory.collectAsState()
     val bibles by viewModel.bibles.collectAsState()
     val selectedBibleAbbr by viewModel.selectedBibleAbbr.collectAsState()
+    val bookNames by viewModel.bookNames.collectAsState()
 
     Scaffold(
         topBar = {
@@ -112,6 +113,7 @@ fun SearchScreen(
                         SearchResultItem(
                             verse = verse,
                             query = query,
+                            bookName = bookNames[verse.bookId] ?: verse.bookId,
                             onClick = { tapped ->
                                 navController.navigate(
                                     Routes.reader(

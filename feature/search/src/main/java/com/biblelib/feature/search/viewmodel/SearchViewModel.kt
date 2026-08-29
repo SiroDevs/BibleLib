@@ -45,6 +45,11 @@ class SearchViewModel @Inject constructor(
     private val _selectedBibleAbbr = MutableStateFlow("")
     val selectedBibleAbbr: StateFlow<String> = _selectedBibleAbbr.asStateFlow()
 
+    /** bookId -> display name for the Bible currently being searched, so results can show a
+     * proper book name (e.g. "1 Kings") instead of the raw id (e.g. "1KI"). */
+    private val _bookNames = MutableStateFlow<Map<String, String>>(emptyMap())
+    val bookNames: StateFlow<Map<String, String>> = _bookNames.asStateFlow()
+
     private var searchJob: Job? = null
 
     init {
@@ -55,8 +60,8 @@ class SearchViewModel @Inject constructor(
             _query
                 .debounce(400)
                 .distinctUntilChanged()
-                .collect { q ->
-                    if (q.length >= 3) performSearch(q) else _results.value = emptyList()
+                .collect { qry ->
+                    if (qry.length >= 3) performSearch(qry) else _results.value = emptyList()
                 }
         }
     }
@@ -66,15 +71,27 @@ class SearchViewModel @Inject constructor(
             val downloaded = bibleRepo.getbibles().filter { it.isDownloaded }
             _bibles.value = downloaded
             val primary = prefsRepo.primaryBible
-            _selectedBibleAbbr.value = when {
+            val abbr = when {
                 downloaded.any { it.abbreviation == primary } -> primary
                 else -> downloaded.firstOrNull()?.abbreviation ?: ""
+            }
+            _selectedBibleAbbr.value = abbr
+            loadBookNames(abbr)
+        }
+    }
+
+    private fun loadBookNames(abbr: String) {
+        viewModelScope.launch {
+            _bookNames.value = if (abbr.isEmpty()) {
+                emptyMap()
+            } else {
+                bibleRepo.getLocalBooks(abbr).associate { it.id to it.name }
             }
         }
     }
 
-    fun onQueryChange(q: String) {
-        _query.value = q
+    fun onQueryChange(qry: String) {
+        _query.value = qry
     }
 
     fun clearQuery() {
@@ -86,20 +103,21 @@ class SearchViewModel @Inject constructor(
     fun selectBible(abbr: String) {
         if (abbr == _selectedBibleAbbr.value) return
         _selectedBibleAbbr.value = abbr
-        val q = _query.value
-        if (q.length >= 3) performSearch(q)
+        loadBookNames(abbr)
+        val qry = _query.value
+        if (qry.length >= 3) performSearch(qry)
     }
 
-    private fun performSearch(q: String) {
+    private fun performSearch(qry: String) {
         searchJob?.cancel()
         searchJob = viewModelScope.launch {
             _isSearching.value = true
             try {
                 val abbr = _selectedBibleAbbr.value.ifEmpty { prefsRepo.primaryBible }
-                val results = bibleRepo.searchVerses(abbr, q)
+                val results = bibleRepo.searchVerses(abbr, qry)
                 _results.value = results
                 if (results.isNotEmpty()) {
-                    trackingRepo.recordSearch(q)
+                    trackingRepo.recordSearch(qry)
                     loadSearchHistory()
                 }
             } catch (e: Exception) {
@@ -110,9 +128,9 @@ class SearchViewModel @Inject constructor(
         }
     }
 
-    fun searchFromHistory(q: String) {
-        _query.value = q
-        performSearch(q)
+    fun searchFromHistory(qry: String) {
+        _query.value = qry
+        performSearch(qry)
     }
 
     fun clearSearchHistory() {

@@ -24,8 +24,8 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 17
-        versionName = "1.0.17"
+        versionCode = 18
+        versionName = "1.0.18"
         minSdk = 26
         targetSdk = 37
 
@@ -84,6 +84,7 @@ kotlin {
 dependencies {
     // Core modules
     implementation(project(":core:common"))
+    implementation(project(":core:casting"))
     implementation(project(":core:data"))
     implementation(project(":core:database"))
     implementation(project(":core:design_system"))
@@ -92,6 +93,7 @@ dependencies {
 
     // Feature modules
     implementation(project(":feature:selection"))
+    implementation(project(":feature:casting"))
     implementation(project(":feature:how_it_works"))
     implementation(project(":feature:reader"))
     implementation(project(":feature:bookmark_notes"))

@@ -52,7 +52,9 @@ object PrefConstants {
 
 object Routes {
     const val SELECTION = "selection"
-    const val READER = "reader?bibleAbbr={bibleAbbr}&bookId={bookId}&chapterId={chapterId}"
+    const val READER =
+        "reader?bibleAbbr={bibleAbbr}&bookId={bookId}&chapterId={chapterId}" +
+                "&verseId={verseId}&searchQuery={searchQuery}"
     const val SEARCH = "search"
     const val HISTORY = "history"
     const val SETTINGS = "settings"

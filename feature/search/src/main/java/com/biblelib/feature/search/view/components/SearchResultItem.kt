@@ -19,7 +19,12 @@ import androidx.compose.ui.unit.dp
 import com.biblelib.core.common.entity.VerseDisplay
 
 @Composable
-fun SearchResultItem(verse: VerseDisplay, query: String, onClick: (VerseDisplay) -> Unit = {}) {
+fun SearchResultItem(
+    verse: VerseDisplay,
+    query: String,
+    bookName: String,
+    onClick: (VerseDisplay) -> Unit = {},
+) {
     Column(
         modifier = Modifier
             .fillMaxWidth()
@@ -27,7 +32,7 @@ fun SearchResultItem(verse: VerseDisplay, query: String, onClick: (VerseDisplay)
             .padding(horizontal = 16.dp, vertical = 10.dp)
     ) {
         Text(
-            text = "${verse.bookId} ${verse.chapterId.substringAfter(".")}:${verse.number}",
+            text = "$bookName ${verse.chapterId.substringAfter(".")}:${verse.number}",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.secondary,
             fontWeight = FontWeight.Bold,

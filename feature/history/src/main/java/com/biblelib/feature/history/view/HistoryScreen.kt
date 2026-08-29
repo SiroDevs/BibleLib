@@ -167,7 +167,6 @@ private fun HistoryEntryItem(entry: HistoryEntity, onClick: () -> Unit) {
 @Composable
 private fun SearchHistoryTab(history: List<com.biblelib.core.database.entities.SearchEntity>, isLoading: Boolean) {
     if (isLoading) {
-        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
         return
     }
     if (history.isEmpty()) {
@@ -180,10 +179,10 @@ private fun SearchHistoryTab(history: List<com.biblelib.core.database.entities.S
         items(history, key = { it.id }) { search ->
             val fmt = SimpleDateFormat("MMM d, h:mm a", LocalLocale.current.platformLocale)
             ListItem(
-                headlineContent = { Text(search.query) },
+                headlineContent = { Text(search.qry) },
                 supportingContent = {
                     Text(
-                        fmt.format(Date(search.searchedAt)),
+                        fmt.format(Date(search.queriedAt)),
                         style = MaterialTheme.typography.labelSmall,
                     )
                 },

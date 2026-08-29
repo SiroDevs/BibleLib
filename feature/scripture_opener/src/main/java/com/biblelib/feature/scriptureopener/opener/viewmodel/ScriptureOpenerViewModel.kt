@@ -59,8 +59,6 @@ class ScriptureOpenerViewModel @Inject constructor(
         }
     }
 
-    // ───────────────────────────── Row expand/collapse ─────────────────────────────
-
     fun toggleField(rowKey: String, field: ExpandedField) {
         updateRow(rowKey) { row ->
             if (row.locked) return@updateRow row
@@ -120,8 +118,6 @@ class ScriptureOpenerViewModel @Inject constructor(
     fun selectVerse(rowKey: String, number: Int) {
         updateRow(rowKey) { it.copy(selectedVerseNumber = number, expanded = ExpandedField.NONE) }
     }
-
-    // ───────────────────────────── Actions ─────────────────────────────
 
     /** Opens the searched scripture right away, without touching the saved queue. */
     fun openScripture(rowKey: String) {

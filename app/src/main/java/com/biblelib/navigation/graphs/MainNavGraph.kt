@@ -13,6 +13,8 @@ import com.biblelib.feature.bibles.view.screens.BiblesScreen
 import com.biblelib.feature.bibles.viewmodel.BiblesViewModel
 import com.biblelib.feature.bookmark_notes.view.BookmarkNotesScreen
 import com.biblelib.feature.bookmark_notes.viewmodel.BookmarkNotesViewModel
+import com.biblelib.feature.casting.view.screen.CastingScreen
+import com.biblelib.feature.casting.viewmodel.CastingViewModel
 import com.biblelib.feature.history.view.HistoryScreen
 import com.biblelib.feature.history.viewmodel.HistoryViewModel
 import com.biblelib.feature.reader.main.view.screens.ReaderScreen
@@ -43,12 +45,16 @@ fun NavGraphBuilder.mainGraph(
             navArgument("bibleAbbr") { type = NavType.StringType; defaultValue = "" },
             navArgument("bookId") { type = NavType.StringType; defaultValue = "" },
             navArgument("chapterId") { type = NavType.StringType; defaultValue = "" },
+            navArgument("verseId") { type = NavType.StringType; defaultValue = "" },
+            navArgument("searchQuery") { type = NavType.StringType; defaultValue = "" },
         )
     ) { backStackEntry ->
         val bibleName = backStackEntry.arguments?.getString("bibleName") ?: ""
         val bibleAbbr = backStackEntry.arguments?.getString("bibleAbbr") ?: ""
         val bookId = backStackEntry.arguments?.getString("bookId") ?: ""
         val chapterId = backStackEntry.arguments?.getString("chapterId") ?: ""
+        val verseId = Routes.decode(backStackEntry.arguments?.getString("verseId") ?: "")
+        val searchQuery = Routes.decode(backStackEntry.arguments?.getString("searchQuery") ?: "")
         val viewModel: ReaderViewModel = hiltViewModel()
         ReaderScreen(
             navController = navController,
@@ -57,6 +63,8 @@ fun NavGraphBuilder.mainGraph(
             initialBibleAbbr = bibleAbbr,
             initialBookId = bookId,
             initialChapterId = chapterId,
+            initialVerseId = verseId,
+            initialSearchQry = searchQuery,
             themeRepo = themeRepo,
         )
     }
@@ -117,11 +125,11 @@ fun NavGraphBuilder.mainGraph(
         )
     }
 
-//        composable(Routes.CASTING) {
-//            val castingVm: CastingViewModel = hiltViewModel()
-//            CastingScreen(
-//                navController = navController,
-//                viewModel = castingVm,
-//            )
-//        }
+    composable(Routes.CASTING) {
+        val castingVm: CastingViewModel = hiltViewModel()
+        CastingScreen(
+            navController = navController,
+            viewModel = castingVm,
+        )
+    }
 }
