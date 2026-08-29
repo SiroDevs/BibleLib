@@ -102,13 +102,18 @@ fun ReaderTopBar(
             IconButton(onClick = { navController.navigate(Routes.SEARCH) }) {
                 Icon(Icons.Default.Search, "Search")
             }
-            IconButton(onClick = { navController.navigate(Routes.CASTING) }) {
-                Icon(Icons.Default.Cast, contentDescription = "Casting to PC")
-            }
             IconButton(onClick = { showMoreMenu = true }) {
                 Icon(Icons.Default.MoreVert, "More")
             }
             DropdownMenu(expanded = showMoreMenu, onDismissRequest = { showMoreMenu = false }) {
+                DropdownMenuItem(
+                    text = { Text("Cast to PC") },
+                    leadingIcon = { Icon(Icons.Default.Cast, null) },
+                    onClick = {
+                        showMoreMenu = false
+                        navController.navigate(Routes.CASTING)
+                    },
+                )
                 DropdownMenuItem(
                     text = { Text("Bookmarks & Notes") },
                     leadingIcon = { Icon(Icons.Default.Bookmarks, null) },
@@ -126,43 +131,11 @@ fun ReaderTopBar(
                     },
                 )
                 DropdownMenuItem(
-                    text = { Text("Manage Bibles") },
-                    leadingIcon = { Icon(Icons.Default.LibraryBooks, null) },
-                    onClick = {
-                        showMoreMenu = false
-                        navController.navigate(Routes.BIBLES)
-                    },
-                )
-                DropdownMenuItem(
                     text = { Text("Manage Settings") },
                     leadingIcon = { Icon(Icons.Default.Settings, null) },
                     onClick = {
                         showMoreMenu = false
                         navController.navigate(Routes.SETTINGS)
-                    },
-                )
-                DropdownMenuItem(
-                    text = { Text("Donate to BibleLib") },
-                    leadingIcon = { Icon(Icons.Default.Favorite, null) },
-                    onClick = {
-                        showMoreMenu = false
-                        navController.navigate(Routes.DONATION)
-                    },
-                )
-                DropdownMenuItem(
-                    text = { Text("How It Works") },
-                    leadingIcon = { Icon(Icons.Default.Info, null) },
-                    onClick = {
-                        showMoreMenu = false
-                        navController.navigate(Routes.HOW_IT_WORKS)
-                    },
-                )
-                DropdownMenuItem(
-                    text = { Text("Help & Support") },
-                    leadingIcon = { Icon(Icons.Default.HelpOutline, null) },
-                    onClick = {
-                        showMoreMenu = false
-                        navController.navigate(Routes.HELP)
                     },
                 )
             }
