@@ -163,6 +163,8 @@ class ReaderViewModel @Inject constructor(
     fun confirmBookmarkOnly() = annotations.confirmBookmarkOnly()
     fun confirmBookmarkWithNotes(): NotesNavRequest? = annotations.confirmBookmarkWithNotes()
     fun refreshNotedVerses() = annotations.refreshNotedVerses()
+    fun buildSelectionShareText(): String? = annotations.buildSelectionShareText()
+    fun buildActiveChapterShareText(): String? = annotations.buildActiveChapterShareText()
 
     override fun onCleared() {
         castingRepo.publishIdle()

@@ -16,6 +16,7 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Bookmarks
 import androidx.compose.material.icons.filled.Cast
 import androidx.compose.material.icons.filled.Close
+import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.EditNote
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.HelpOutline
@@ -26,6 +27,7 @@ import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material.icons.filled.Share
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -42,12 +44,14 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalLocale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
+import com.biblelib.core.ui.components.share.ShareHelper
 import com.biblelib.feature.reader.R
 import com.biblelib.feature.reader.main.utils.ReaderUiState
 import com.biblelib.feature.reader.main.viewmodel.ReaderViewModel
@@ -171,6 +175,8 @@ fun ReaderSelectionTopBar(
     selectedCount: Int,
     viewModel: ReaderViewModel,
 ) {
+    val context = LocalContext.current
+
     TopAppBar(
         title = { Text("$selectedCount selected") },
         navigationIcon = {
@@ -187,6 +193,20 @@ fun ReaderSelectionTopBar(
                 enabled = selectedCount == 1
             ) {
                 Icon(Icons.Default.EditNote, "Notes")
+            }
+            IconButton(
+                onClick = {
+                    viewModel.buildSelectionShareText()?.let { ShareHelper.copyText(context, it) }
+                },
+            ) {
+                Icon(Icons.Default.ContentCopy, "Copy")
+            }
+            IconButton(
+                onClick = {
+                    viewModel.buildSelectionShareText()?.let { ShareHelper.shareText(context, it) }
+                },
+            ) {
+                Icon(Icons.Default.Share, "Share")
             }
         },
         colors = TopAppBarDefaults.topAppBarColors(

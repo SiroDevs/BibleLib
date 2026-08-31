@@ -24,8 +24,8 @@ android {
 
     defaultConfig {
         applicationId = "com.biblelib"
-        versionCode = 18
-        versionName = "1.0.18"
+        versionCode = 20
+        versionName = "1.0.20"
         minSdk = 26
         targetSdk = 37
 
