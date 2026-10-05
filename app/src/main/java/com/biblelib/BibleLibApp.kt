@@ -12,4 +12,9 @@ class BibleLibApp : Application(), Configuration.Provider {
 
     override val workManagerConfiguration: Configuration
         get() = workerConfiguration
+
+    override fun onCreate() {
+        super.onCreate()
+        ReviewPromptManager.recordFirstLaunch(this)
+    }
 }

@@ -90,6 +90,12 @@ fun ReaderScreen(
             }
     }
 
+    ReviewPromptHost(
+        enabled = !autoScroll.isAutoScrolling &&
+                !showBookDrawer && !showChapterSheet &&
+                !showBibleSelector && !showQuickSettings,
+    )
+
     val lifecycleOwner = LocalLifecycleOwner.current
     val currentViewModel = rememberUpdatedState(viewModel)
     DisposableEffect(lifecycleOwner) {

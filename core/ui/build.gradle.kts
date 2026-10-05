@@ -19,4 +19,5 @@ dependencies {
     implementation(libs.zxing.core)
     implementation(libs.androidx.icons.extended)
     implementation(libs.androidx.core.ktx)
+    implementation(libs.review.ktx)
 }
