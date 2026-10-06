@@ -25,6 +25,7 @@ import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.NavController
 import com.biblelib.core.common.utils.Routes
 import com.biblelib.core.data.repos.ThemeRepo
+import com.biblelib.core.ui.components.review.ReviewPromptHost
 import com.biblelib.feature.reader.home.view.components.others.ReaderOverlays
 import com.biblelib.feature.reader.home.view.components.actions.ReaderBottomBar
 import com.biblelib.feature.reader.home.view.components.actions.ReaderTopBar

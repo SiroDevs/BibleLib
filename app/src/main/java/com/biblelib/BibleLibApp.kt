@@ -2,6 +2,7 @@ package com.biblelib
 
 import android.app.Application
 import androidx.work.Configuration
+import com.biblelib.core.ui.components.review.ReviewPromptManager
 import dagger.hilt.android.HiltAndroidApp
 import javax.inject.Inject
 

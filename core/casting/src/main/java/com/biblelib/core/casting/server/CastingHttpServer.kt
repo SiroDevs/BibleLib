@@ -19,6 +19,7 @@ import io.ktor.server.websocket.pingPeriod
 import io.ktor.server.websocket.timeout
 import io.ktor.server.websocket.webSocket
 import io.ktor.websocket.Frame
+import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import kotlin.time.Duration.Companion.seconds
@@ -38,10 +39,6 @@ class CastingHttpServer(
 
         server = embeddedServer(CIO, port = port, host = "0.0.0.0") {
             install(WebSockets) {
-                // Keep the WS alive over Android's LocalOnlyHotspot (which has
-                // no internet and can silently drop idle connections) — without
-                // pings the server never notices a dead peer and its `send`
-                // hangs forever on the next state change.
                 pingPeriod = 15.seconds
                 timeout = 30.seconds
             }
@@ -63,8 +60,8 @@ class CastingHttpServer(
                 webSocket("/ws") {
                     repo.onClientConnected()
                     try {
-                        send(Frame.Text(json.encodeToString(repo.broadcastState.value)))
-                        repo.broadcastState
+                        send(Frame.Text(json.encodeToString(repo.readingState.value)))
+                        repo.readingState
                             .collect { state: CastingState ->
                                 send(Frame.Text(json.encodeToString(state)))
                             }
