@@ -61,3 +61,4 @@
  # and never execute on Android, where these classes don't exist. Safe to ignore.
  -dontwarn java.lang.management.ManagementFactory
  -dontwarn java.lang.management.RuntimeMXBean
+ -dontwarn com.google.android.gms.common.annotation.NoNullnessRewrite

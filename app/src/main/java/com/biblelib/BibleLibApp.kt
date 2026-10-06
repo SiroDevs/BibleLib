@@ -2,6 +2,7 @@ package com.biblelib
 
 import android.app.Application
 import androidx.work.Configuration
+import com.biblelib.core.ui.components.review.ReviewPromptManager
 import dagger.hilt.android.HiltAndroidApp
 import javax.inject.Inject
 
@@ -12,4 +13,9 @@ class BibleLibApp : Application(), Configuration.Provider {
 
     override val workManagerConfiguration: Configuration
         get() = workerConfiguration
+
+    override fun onCreate() {
+        super.onCreate()
+        ReviewPromptManager.recordFirstLaunch(this)
+    }
 }

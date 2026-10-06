@@ -31,7 +31,6 @@ class CastingViewModel @Inject constructor(
     val readingState: StateFlow<CastingState> = repo.readingState
     val connectedClients: StateFlow<Int> = repo.connectedClients
     val hotspotStatus: StateFlow<HotspotStatus> = repo.hotspotStatus
-    val isFrozen: StateFlow<Boolean> = repo.isFrozen
 
     private val connManager =
         context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
@@ -125,11 +124,6 @@ class CastingViewModel @Inject constructor(
 
     fun stopHotspot() {
         context.startService(CastingForegroundService.stopHotspotIntent(context))
-    }
-
-    /** Freezes the presentation on the cast device on the current slide, or resumes it. */
-    fun toggleFreeze() {
-        repo.toggleFrozen()
     }
 
     override fun onCleared() {
